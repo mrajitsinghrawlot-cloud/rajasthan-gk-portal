@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react';
 import { useLanguage } from '../../context/LanguageContext';
 import confetti from 'canvas-confetti';
-import { Trophy, CheckCircle2, RotateCcw, Star } from 'lucide-react';
+import type { SubTopicSummary } from '../../types/taxonomy';
+import { Trophy, CheckCircle2, RotateCcw, Star, ChevronRight } from 'lucide-react';
 
 interface QuizSummaryProps {
   score: number;
@@ -9,6 +10,8 @@ interface QuizSummaryProps {
   timeSpentSeconds: number;
   onRetake: () => void;
   subtopicTitle: string;
+  nextSubtopic?: SubTopicSummary | null;
+  onSelectNextTopic?: (sub: SubTopicSummary) => void;
 }
 
 export const QuizSummary: React.FC<QuizSummaryProps> = ({
@@ -17,8 +20,10 @@ export const QuizSummary: React.FC<QuizSummaryProps> = ({
   timeSpentSeconds,
   onRetake,
   subtopicTitle,
+  nextSubtopic,
+  onSelectNextTopic,
 }) => {
-  const { language } = useLanguage();
+  const { t, language } = useLanguage();
   const percentage = Math.round((score / total) * 100);
   const isMastered = percentage >= 80;
 
@@ -115,15 +120,30 @@ export const QuizSummary: React.FC<QuizSummaryProps> = ({
         </div>
       )}
 
-      {/* Retake Button */}
-      <div className="pt-2">
+      {/* Action Buttons */}
+      <div className="pt-2 flex flex-col sm:flex-row items-center gap-3">
         <button
           onClick={onRetake}
-          className="w-full flex items-center justify-center gap-2 px-5 py-3 rounded-2xl bg-rajasthan-saffron hover:bg-orange-600 text-white text-sm font-bold shadow-md shadow-orange-500/25 transition-all"
+          className="w-full flex-1 flex items-center justify-center gap-2 px-5 py-3 rounded-2xl bg-stone-100 hover:bg-stone-200 dark:bg-stone-800 dark:hover:bg-stone-700 text-stone-700 dark:text-stone-200 text-sm font-bold transition-all active:scale-95 cursor-pointer"
         >
           <RotateCcw className="w-4 h-4" />
-          <span>{language === 'hi' ? 'पुनः अभ्यास करें (Retake Quiz)' : 'Retake Quiz'}</span>
+          <span>{language === 'hi' ? 'पुनः अभ्यास करें' : 'Retake Quiz'}</span>
         </button>
+
+        {nextSubtopic && onSelectNextTopic && (
+          <button
+            onClick={() => {
+              onSelectNextTopic(nextSubtopic);
+              window.scrollTo({ top: 0, behavior: 'smooth' });
+            }}
+            className="w-full flex-1 flex items-center justify-center gap-2 px-5 py-3 rounded-2xl bg-gradient-to-r from-rajasthan-saffron to-amber-600 hover:from-amber-600 hover:to-rajasthan-saffron text-white text-sm font-bold shadow-md shadow-orange-500/25 transition-all active:scale-95 cursor-pointer"
+          >
+            <span className="truncate">
+              {language === 'hi' ? `अगला: ${t(nextSubtopic.title)}` : `Next: ${t(nextSubtopic.title)}`}
+            </span>
+            <ChevronRight className="w-4 h-4 shrink-0" />
+          </button>
+        )}
       </div>
 
     </div>

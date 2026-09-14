@@ -38,6 +38,22 @@ const MainContent: React.FC = () => {
     localStorage.setItem('rj_study_dark_mode', String(darkMode));
   }, [darkMode]);
 
+  // Flatten all subtopics across taxonomy for sequential Previous/Next navigation
+  const allSubtopics = React.useMemo<SubTopicSummary[]>(() => {
+    return taxonomy.subjects.flatMap(s => s.units.flatMap(u => u.subtopics));
+  }, []);
+
+  const currentTopicIndex = allSubtopics.findIndex(s => s.id === selectedSubtopic.id);
+  const prevSubtopic = currentTopicIndex > 0 ? allSubtopics[currentTopicIndex - 1] : null;
+  const nextSubtopic = currentTopicIndex !== -1 && currentTopicIndex < allSubtopics.length - 1 ? allSubtopics[currentTopicIndex + 1] : null;
+
+  const handleSelectSubtopic = (sub: SubTopicSummary) => {
+    setSelectedSubtopic(sub);
+    setActiveStudyTab('notes');
+    setIsMobileSidebarOpen(false);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
   const activeContent = getSubTopicDetail(selectedSubtopic);
 
   return (
@@ -67,12 +83,7 @@ const MainContent: React.FC = () => {
         <Sidebar
           taxonomy={taxonomy}
           selectedSubtopicId={selectedSubtopic.id}
-          onSelectSubtopic={(sub) => {
-            setSelectedSubtopic(sub);
-            setActiveStudyTab('notes');
-            setIsMobileSidebarOpen(false);
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-          }}
+          onSelectSubtopic={handleSelectSubtopic}
           isOpen={isMobileSidebarOpen}
           onCloseMobile={() => setIsMobileSidebarOpen(false)}
         />
@@ -106,6 +117,9 @@ const MainContent: React.FC = () => {
             content={activeContent} 
             activeTab={activeStudyTab}
             onTabChange={setActiveStudyTab}
+            prevSubtopic={prevSubtopic}
+            nextSubtopic={nextSubtopic}
+            onSelectSubtopic={handleSelectSubtopic}
           />
         </main>
 
@@ -138,24 +152,14 @@ const MainContent: React.FC = () => {
         taxonomy={taxonomy}
         isOpen={isDashboardOpen}
         onClose={() => setIsDashboardOpen(false)}
-        onNavigateToSubtopic={(sub) => {
-          setSelectedSubtopic(sub);
-          setActiveStudyTab('notes');
-          setIsMobileSidebarOpen(false);
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        }}
+        onNavigateToSubtopic={handleSelectSubtopic}
       />
 
       <GlobalSearch
         taxonomy={taxonomy}
         isOpen={isSearchOpen}
         onClose={() => setIsSearchOpen(false)}
-        onSelectSubtopic={(sub) => {
-          setSelectedSubtopic(sub);
-          setActiveStudyTab('notes');
-          setIsMobileSidebarOpen(false);
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        }}
+        onSelectSubtopic={handleSelectSubtopic}
       />
 
     </div>

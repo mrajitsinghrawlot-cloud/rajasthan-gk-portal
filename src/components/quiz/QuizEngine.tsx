@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useProgress } from '../../context/ProgressContext';
 import { useLanguage } from '../../context/LanguageContext';
 import type { MCQQuestion } from '../../types/content';
+import type { SubTopicSummary } from '../../types/taxonomy';
 import { QuestionCard } from './QuestionCard';
 import { QuizSummary } from './QuizSummary';
 import { ArrowLeft, ArrowRight, Clock, HelpCircle } from 'lucide-react';
@@ -10,12 +11,16 @@ interface QuizEngineProps {
   subtopicId: string;
   subtopicTitle: string;
   questions: MCQQuestion[];
+  nextSubtopic?: SubTopicSummary | null;
+  onSelectNextTopic?: (sub: SubTopicSummary) => void;
 }
 
 export const QuizEngine: React.FC<QuizEngineProps> = ({
   subtopicId,
   subtopicTitle,
   questions,
+  nextSubtopic,
+  onSelectNextTopic,
 }) => {
   const { language } = useLanguage();
   const { saveQuizResult } = useProgress();
@@ -104,6 +109,8 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
         timeSpentSeconds={seconds}
         onRetake={handleRetake}
         subtopicTitle={subtopicTitle}
+        nextSubtopic={nextSubtopic}
+        onSelectNextTopic={onSelectNextTopic}
       />
     );
   }

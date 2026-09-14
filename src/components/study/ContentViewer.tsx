@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { useLanguage } from '../../context/LanguageContext';
 import type { SubTopicDetail } from '../../types/content';
+import type { SubTopicSummary } from '../../types/taxonomy';
 import { StatusActionBar } from './StatusActionBar';
 import { RapidFacts } from './RapidFacts';
 import { TimelineView } from './TimelineView';
 import { ExamTraps } from './ExamTraps';
 import { MarkdownViewer } from './MarkdownViewer';
+import { TopicNavigation } from './TopicNavigation';
 import { QuizEngine } from '../quiz/QuizEngine';
 import {
   BookOpen,
@@ -22,12 +24,18 @@ interface ContentViewerProps {
   content: SubTopicDetail;
   activeTab?: StudyTabType;
   onTabChange?: (tab: StudyTabType) => void;
+  prevSubtopic?: SubTopicSummary | null;
+  nextSubtopic?: SubTopicSummary | null;
+  onSelectSubtopic?: (sub: SubTopicSummary) => void;
 }
 
 export const ContentViewer: React.FC<ContentViewerProps> = ({ 
   content, 
   activeTab: externalTab, 
-  onTabChange 
+  onTabChange,
+  prevSubtopic,
+  nextSubtopic,
+  onSelectSubtopic,
 }) => {
   const { t, ui, language } = useLanguage();
   const [internalTab, setInternalTab] = useState<StudyTabType>('notes');
@@ -196,10 +204,21 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
             subtopicId={content.id}
             subtopicTitle={t(content.title)}
             questions={content.mcqs}
+            nextSubtopic={nextSubtopic}
+            onSelectNextTopic={onSelectSubtopic}
           />
         )}
 
       </div>
+
+      {/* Previous / Next Topic Bottom Navigation */}
+      {onSelectSubtopic && (
+        <TopicNavigation
+          prevSubtopic={prevSubtopic}
+          nextSubtopic={nextSubtopic}
+          onSelectSubtopic={onSelectSubtopic}
+        />
+      )}
 
     </div>
   );
