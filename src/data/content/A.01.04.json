@@ -1,0 +1,367 @@
+{
+  "id": "A.01.04",
+  "subject_id": "history",
+  "unit_id": "A.01",
+  "slug": "excavations-and-museums",
+  "title": {
+    "hi": "पुरातात्विक उत्खनन, अभिलेखागार एवं संग्रहालय",
+    "en": "Archaeological Excavations, Archives & Museums of Rajasthan"
+  },
+  "short_summary": {
+    "hi": "राजस्थान राज्य अभिलेखागार (बीकानेर), प्रमुख राज्य संग्रहालय (अल्बर्ट हॉल, मैगजीन दुर्ग आदि), प्राच्य विद्या प्रतिष्ठान, ज्ञान भंडार एवं प्रमुख पुरातत्ववेत्ताओं का संपूर्ण अध्ययन।",
+    "en": "Comprehensive study of Rajasthan State Archives (Bikaner), state museums (Albert Hall, Rajputana Museum etc.), oriental research institutes, manuscript repositories, and pioneering archaeologists."
+  },
+  "metadata": {
+    "pyq_frequency": "high",
+    "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
+    "last_updated": "2026-09-14",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. राजस्थान राज्य अभिलेखागार, बीकानेर (Rajasthan State Archives)",
+        "en": "1. Rajasthan State Archives, Bikaner"
+      },
+      "content_markdown": {
+        "hi": "राजस्थान का इतिहास निर्माण में रियासती प्रशासनिक अभिलेखों, फरमानों, निशानों, सनदों तथा पट्टे-परवानों का सबसे बड़ा खजाना **राजस्थान राज्य अभिलेखागार** में सुरक्षित है।\n\n### प्रमुख ऐतिहासिक तथ्य:\n- **स्थापना:** 1955 ई. में जयपुर में स्थापित किया गया, जिसे **1960 ई. में बीकानेर स्थानांतरित** कर दिया गया।\n- **महत्व:** इसे **'इतिहासकारों एवं शोधार्थियों का मक्का/स्वर्ग'** कहा जाता है।\n- **देश में प्रथम:** यह भारत का **पहला पूर्णतः कम्प्यूटरीकृत एवं डिजिटलाइज्ड राज्य अभिलेखागार** है, जहाँ लाखों ऐतिहासिक दस्तावेजों को ऑनलाइन उपलब्ध कराया गया है।\n\n### यहाँ सुरक्षित प्रमुख ऐतिहासिक अभिलेख:\n1. **फरमान (Farman):** मुगल बादशाहों द्वारा अधीनस्थ राजाओं को जारी किए गए सर्वोच्च शाही आदेश।\n2. **निशान (Nishan):** मुगल शहजादों (राजकुमारों) अथवा बेगमों द्वारा जारी किए जाने वाले आदेश।\n3. **सनद (Sanad):** जागीर, पद, उपाधि या भूमि अनुदान से संबंधित अधिकार-पत्र।\n4. **रुक्का व मंसूर:** शासकों के व्यक्तिगत पत्र व आदेश।\n5. **वकील रिपोर्ट (Vakil Reports):** मुगल दरबार में नियुक्त राजपूत रियासतों के वकीलों (प्रतिनिधियों) द्वारा अपने राजाओं को भेजी जाने वाली दैनिक राजनीतिक एवं गुप्त रिपोर्टें।\n6. **खरीता (Kharita):** एक राजा द्वारा दूसरे राजा को भेजा जाने वाला औपचारिक सम्मानसूचक पत्र।\n7. **हकीकत बही व कमठाना बही:** राजा की दिनचर्या एवं भवनों/दुर्गों के निर्माण व्यय का बहीखाता।",
+        "en": "The largest repository of princely state administrative records, royal decrees, firmans, and land charters in Rajasthan is preserved at the **Rajasthan State Archives**.\n\n### Key Facts:\n- **Established:** 1955 in Jaipur; **shifted to Bikaner in 1960**.\n- **Digital Pioneer:** It is the **first fully digitized and computerized state archive in India**.\n\n### Archival Document Categories:\n1. **Farman:** Imperial royal decrees issued directly by Mughal Emperors.\n2. **Nishan:** Official orders issued by Mughal princes or royal consorts.\n3. **Sanad:** Legal grant deeds for jagirs, titles, or land tenures.\n4. **Vakil Reports:** Confidential political reports dispatched by princely state envoys stationed at the Mughal imperial court.\n5. **Kharita:** Formal diplomatic correspondence exchanged between two independent rulers.\n6. **Bahis (Account Books):** Haqiqat Bahi (daily royal diary), Kamthana Bahi (construction and architectural accounts)."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. राजस्थान के प्रमुख ऐतिहासिक संग्रहालय (State Museums)",
+        "en": "2. Major Historical Museums of Rajasthan"
+      },
+      "content_markdown": {
+        "hi": "### 1. अल्बर्ट हॉल संग्रहालय (Albert Hall Museum, जयपुर):\n- **शिलान्यास:** 1876 ई. में प्रिंस ऑफ वेल्स अल्बर्ट एडवर्ड के जयपुर आगमन पर सवाई रामसिंह द्वितीय के समय।\n- **उद्घाटन:** 1887 ई. में सवाई माधोसिंह द्वितीय के समय तत्कालीन ए.जी.जी. सर एडवर्ड ब्रैडफोर्ड द्वारा।\n- **वास्तुकार:** **कर्नल सर सैमुअल स्विंटन जैकब (Sir Swinton Jacob)** — भारत-सारसेनिक (इंडो-इस्लामिक व राजपूत) स्थापत्य शैली।\n- **विशेष आकर्षण:** मिस्र की 2,300 वर्ष से अधिक पुरानी **ममी (Mummy - नाम 'तूतु' / Tutu)** तथा फारसी दुर्लभ गलीचे।\n\n### 2. राजपूताना संग्रहालय (Rajputana Museum, अजमेर):\n- **स्थान:** अकबर का दौलतखाना / मैगजीन दुर्ग (अकबर का किला, अजमेर)।\n- **स्थापना:** 1908 ई. में लॉर्ड कर्जन के निर्देश पर कर्नल कॉल्विन द्वारा।\n- **प्रथम क्यूरेटर (अधीक्षक):** प्रसिद्ध इतिहासकार **महामहोपाध्याय डॉ. गौरीशंकर हीराचंद ओझा**।\n- **महत्व:** राजस्थान के दुर्लभ शिलालेखों, मूर्तियों एवं मध्यकालीन अस्त्र-शस्त्रों का केंद्र।\n\n### 3. गंगा राजकीय संग्रहालय (Ganga Golden Jubilee Museum, बीकानेर):\n- **स्थापना:** 1937 ई. में महाराजा **गंगा सिंह** के शासनकाल की स्वर्ण जयंती पर लॉर्ड लिनलिथगो द्वारा उद्घाटन।\n- **महत्व:** इटालियन विद्वान **डॉ. एल.पी. तेस्सीतोरी** द्वारा राजस्थान के गांवों से संकलित टेराकोटा, सिक्के एवं मूर्तियां।\n\n### 4. अन्य प्रमुख संग्रहालय:\n- **सिटी पैलेस संग्रहालय (उदयपुर):** महाराणा प्रताप का ऐतिहासिक कवच, भाला तथा चेतक की सजी-धजी प्रतिमा। फर्ग्यूसन ने इसे 'राजस्थान के विंडसर महल' कहा।\n- **मेहरानगढ़ संग्रहालय (जोधपुर):** चौकेलाव महल, फूल महल, पालकियों का विशाल संग्रह (महाडोल पालकी) एवं राठौड़ों के अस्त्र-शस्त्र।\n- **राजकीय संग्रहालय, कोटा:** बृज विलास पैलेस (हाड़ौती मूर्तिकला व चित्रकला)।\n- **राजकीय संग्रहालय, भरतपुर:** लोहागढ़ दुर्ग के 'कचहरी कलां' भवन में।\n- **जैन स्वर्ण ज्ञान भंडार संग्रहालय (जैसलमेर):** जैसलमेर दुर्ग में ताड़पत्रों पर उत्कीर्ण दुर्लभ पांडुलिपियों का भूमिगत संग्रह।",
+        "en": "### 1. Albert Hall Museum (Jaipur):\n- Foundation stone laid in 1876 by Prince of Wales Albert Edward; opened in 1887 under Sawai Madho Singh II.\n- **Architect:** **Sir Samuel Swinton Jacob** in Indo-Saracenic architectural style.\n- Key attraction: 2,300-year-old Egyptian mummy named **'Tutu'** and rare Persian carpets.\n\n### 2. Rajputana Museum (Ajmer):\n- Housed in Akbar's Daulatkhana (Magazine Fort, Ajmer), established in 1908.\n- **First Curator:** Renowned historian **Dr. Gauri Shankar Hirachand Ojha**.\n\n### 3. Ganga Golden Jubilee Museum (Bikaner):\n- Founded in 1937 on Maharaja Ganga Singh's Golden Jubilee; houses collections compiled by Italian scholar **Dr. L.P. Tessitori**.\n\n### 4. Other Landmark Museums:\n- City Palace Museum (Udaipur), Mehrangarh Fort Museum (Jodhpur), Brij Vilas Museum (Kota), Bharatpur Museum (Lohagarh Fort)."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. प्रमुख प्राच्य शोध संस्थान एवं ऐतिहासिक पुस्तकालय",
+        "en": "3. Oriental Research Institutes & Historical Repositories"
+      },
+      "content_markdown": {
+        "hi": "### 1. राजस्थान प्राच्यविद्या प्रतिष्ठान (RORI - Jodhpur):\n- **स्थापना:** 1950 ई. में जयपुर में, 1958 ई. में **जोधपुर स्थानांतरित**।\n- **संस्थापक/निदेशक:** मुनि जिनविजय जी।\n- **महत्व:** संस्कृत, प्राकृत, अपभ्रंश एवं राजस्थानी भाषा की 1.25 लाख से अधिक हस्तलिखित पांडुलिपियों का संरक्षण।\n\n### 2. मौलाना अबुल कलाम आज़ाद अरबी-फारसी शोध संस्थान (APRI - Tonk):\n- **स्थापना:** 1978 ई. में टोंक में।\n- **विशेष आकर्षण:**\n  - मुगल बादशाह औरंगजेब द्वारा अपने हाथों से लिखी गई **'आलमगीरी कुरान' (Alamgiri Quran)**।\n  - दुनिया की सबसे बड़ी हस्तलिखित कुरान शरीफ।\n  - 'किताबुल हिंद' और अबुल फजल के 'आईन-ए-अकबरी' की दुर्लभ हस्तलिखित प्रतियां।\n\n### 3. पोथी खाना (Pothi Khana, जयपुर):\n- **संस्थापक:** महाराजा **सवाई जयसिंह द्वितीय** (सिटी पैलेस, जयपुर)।\n- **महत्व:** कछवाहा शासकों के निजी पुस्तकालय के रूप में दुर्लभ ग्रंथों, खगोलशास्त्र यंत्रों व चित्रों का संग्रह।\n\n### 4. सरस्वती भण्डार (Saraswati Bhandar, उदयपुर):\n- मेवाड़ महाराणाओं का प्राचीन पोथीखाना एवं पांडुलिपि संग्रह।\n\n### 5. जिनभद्र सूरि ज्ञान भण्डार (जैसलमेर दुर्ग):\n- भारत में ताड़पत्रों एवं भोजपत्रों पर लिखित **जैन पांडुलिपियों का सबसे प्राचीन व सुरक्षित भूमिगत ग्रंथ भंडार (Underground Vault)**। इसमें 11वीं-12वीं सदी के हस्तलिखित चित्र ग्रंथ सुरक्षित हैं।\n\n### 6. शार्दूल राजस्थानी रिसर्च इंस्टीट्यूट (बीकानेर):\n- 1946 ई. में इतिहासकार **डॉ. दशरथ शर्मा** द्वारा बीकानेर में स्थापित।",
+        "en": "### 1. Rajasthan Oriental Research Institute (RORI, Jodhpur):\n- Established in 1950 (moved to Jodhpur in 1958) under Muni Jinavijaya; conserves over 125,000 ancient manuscripts.\n\n### 2. Maulana Abul Kalam Azad Arabic & Persian Research Institute (Tonk, 1978):\n- Houses rare historic manuscripts including the handwritten **Alamgiri Quran** transcribed by Emperor Aurangzeb and colossal handwritten Quran editions.\n\n### 3. Pothi Khana (Jaipur):\n- Founded by Sawai Jai Singh II at City Palace Jaipur for astronomy, miniature paintings, and royal manuscripts.\n\n### 4. Jin Bhadra Suri Gyan Bhandar (Jaisalmer Fort):\n- The oldest and most secure underground manuscript vault in India, preserving palm-leaf texts from the 11th-12th centuries.\n\n### 5. Shardul Rajasthani Research Institute (Bikaner, 1946):\n- Founded by eminent historian **Dr. Dasharatha Sharma**."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "4. राजस्थान के प्रमुख पुरातत्ववेत्ता एवं उत्खननकर्ता",
+        "en": "4. Pioneering Archaeologists and Excavation Directors"
+      },
+      "content_markdown": {
+        "hi": "राजस्थान के प्रागैतिहासिक एवं ऐतिहासिक स्थलों को उजागर करने वाले प्रमुख विद्वान:\n\n| पुरातत्ववेत्ता (Archaeologist) | प्रमुख योगदान एवं उत्खनित स्थल (Major Excavations) |\n|---|---|\n| **ए.सी.एल. कार्लाइल (A.C.L. Carlleyle)** | 1871 ई. में राजस्थान में सर्वप्रथम पुरापाषाण कालीन उपकरणों की खोज; बैराठ व नगर की खोज |\n| **रायबहादुर दयाराम साहनी (Daya Ram Sahni)** | 1936-37 ई. में बैराठ (विराटनगर) का प्रथम वैज्ञानिक उत्खनन |\n| **अमलानंद घोष (A. Ghosh)** | 1952-53 ई. में कालीबंगा एवं बीकानेर/घग्घर घाटी के 30 से अधिक हड़प्पा स्थलों की खोज |\n| **डॉ. के.एन. पुरी (K.N. Puri)** | 1938-40 ई. में रैढ़ (टोंक) का उत्खनन (3,075 सिक्के, टाटानगर) |\n| **अक्षय कीर्ति व्यास (A.K. Vyas)** | 1953 ई. में आहड़ (धूलकोट, उदयपुर) की प्रथम खोज |\n| **रत्नचंद्र अग्रवाल (R.C. Agrawal)** | गणेश्वर (सीकर), सुनारी (झुंझुनूं), आहड़, जोधपुरा (जयपुर) का उत्खनन |\n| **डॉ. बी.एन. मिश्र (V.N. Misra)** | बागोर (भीलवाड़ा - पशुपालन साक्ष्य), तिलवाड़ा (बालोतरा), बालाथल (उदयपुर) |\n| **बी.बी. लाल एवं बी.के. थापर** | 1961-69 ई. में कालीबंगा का विस्तृत व सुव्यवस्थित उत्खनन |",
+        "en": "Pioneering scholars who excavated and documented Rajasthan's archaeological heritage include A.C.L. Carlleyle (1871 discoveries), Daya Ram Sahni (Bairath 1936), A. Ghosh (Kalibangan 1952), K.N. Puri (Rairh), A.K. Vyas & R.C. Agrawal (Ahar & Ganeshwar), Dr. V.N. Misra (Bagor & Balathal), and B.B. Lal & B.K. Thapar (Kalibangan 1961-69)."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "राजस्थान राज्य अभिलेखागार बीकानेर में स्थित है (1955 जयपुर में स्थापित, 1960 में बीकानेर स्थानांतरित)।",
+      "en": "Rajasthan State Archives is located in Bikaner (established in Jaipur in 1955, shifted to Bikaner in 1960)."
+    },
+    {
+      "hi": "राजस्थान राज्य अभिलेखागार भारत का प्रथम पूर्णतः डिजिटलाइज्ड राज्य अभिलेखागार है।",
+      "en": "Rajasthan State Archives is India's first fully digitized state archives."
+    },
+    {
+      "hi": "जयपुर के अल्बर्ट हॉल संग्रहालय के वास्तुकार कर्नल सर सैमुअल स्विंटन जैकब थे (उद्घाटन 1887)।",
+      "en": "The architect of Albert Hall Museum Jaipur was Sir Samuel Swinton Jacob (opened 1887)."
+    },
+    {
+      "hi": "अजमेर के राजपूताना संग्रहालय (1908, मैगजीन दुर्ग) के प्रथम क्यूरेटर डॉ. जी.एच. ओझा थे।",
+      "en": "First curator of Rajputana Museum Ajmer (1908, Magazine Fort) was Dr. G.H. Ojha."
+    },
+    {
+      "hi": "औरंगजेब द्वारा हस्तलिखित 'आलमगीरी कुरान' अरबी-फारसी शोध संस्थान (APRI, टोंक) में सुरक्षित है।",
+      "en": "Handwritten 'Alamgiri Quran' by Aurangzeb is preserved at Arabic-Persian Research Institute (APRI, Tonk)."
+    },
+    {
+      "hi": "राजस्थान प्राच्यविद्या प्रतिष्ठान (RORI) जोधपुर में स्थित है (संस्थापक: मुनि जिनविजय जी)।",
+      "en": "Rajasthan Oriental Research Institute (RORI) is located in Jodhpur (founded by Muni Jinavijaya)."
+    },
+    {
+      "hi": "भारत का सबसे प्राचीन भूमिगत जैन पांडुलिपि संग्रह: जिनभद्र सूरि ज्ञान भण्डार (जैसलमेर दुर्ग)।",
+      "en": "India's oldest underground Jain manuscript vault: Jin Bhadra Suri Gyan Bhandar (Jaisalmer Fort)."
+    },
+    {
+      "hi": "सवाई जयसिंह द्वितीय द्वारा स्थापित दुर्लभ ग्रंथ संग्रहालय 'पोथी खाना' जयपुर सिटी पैलेस में है।",
+      "en": "'Pothi Khana', established by Sawai Jai Singh II, is situated in City Palace Jaipur."
+    },
+    {
+      "hi": "मुगल दरबार में राजपूत राजाओं के प्रतिनिधियों द्वारा भेजी जाने वाली रिपोर्टें 'वकील रिपोर्ट' कहलाती हैं।",
+      "en": "Reports sent by Rajput state envoys from the Mughal court are termed 'Vakil Reports'."
+    },
+    {
+      "hi": "1946 में 'शार्दूल राजस्थानी रिसर्च इंस्टीट्यूट' (बीकानेर) की स्थापना डॉ. दशरथ शर्मा ने की थी।",
+      "en": "In 1946, Dr. Dasharatha Sharma founded 'Shardul Rajasthani Research Institute' in Bikaner."
+    }
+  ],
+  "timeline": [
+    {
+      "year_or_era": "1876 / 1887 AD",
+      "event": {
+        "hi": "जयपुर में अल्बर्ट हॉल का शिलान्यास (1876) एवं उद्घाटन (1887)।",
+        "en": "Laying of foundation (1876) and inauguration (1887) of Albert Hall Museum, Jaipur."
+      }
+    },
+    {
+      "year_or_era": "1908 AD",
+      "event": {
+        "hi": "अजमेर के अकबर के किले में राजपूताना संग्रहालय की स्थापना (प्रथम क्यूरेटर: डॉ. ओझा)।",
+        "en": "Establishment of Rajputana Museum at Akbar's Fort, Ajmer (Curator: Dr. Ojha)."
+      }
+    },
+    {
+      "year_or_era": "1950 / 1958 AD",
+      "event": {
+        "hi": "राजस्थान प्राच्यविद्या प्रतिष्ठान की स्थापना (जयपुर 1950, जोधपुर स्थानांतरण 1958)।",
+        "en": "Founding of Rajasthan Oriental Research Institute (Jaipur 1950, Jodhpur 1958)."
+      }
+    },
+    {
+      "year_or_era": "1955 / 1960 AD",
+      "event": {
+        "hi": "राजस्थान राज्य अभिलेखागार की स्थापना (1955 जयपुर, 1960 बीकानेर स्थानांतरण)।",
+        "en": "Establishment of Rajasthan State Archives (1955 Jaipur, moved to Bikaner in 1960)."
+      }
+    },
+    {
+      "year_or_era": "1978 AD",
+      "event": {
+        "hi": "मौलाना अबुल कलाम आज़ाद अरबी-फारसी शोध संस्थान (APRI) की टोंक में स्थापना।",
+        "en": "Establishment of Maulana Abul Kalam Azad Arabic & Persian Research Institute (APRI) in Tonk."
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "hi": "परीक्षा जाल: 'राजस्थान राज्य अभिलेखागार' बीकानेर में है, जबकि 'राजस्थान प्राच्यविद्या प्रतिष्ठान' जोधपुर में है। दोनों में अक्सर विद्यार्थी भ्रमित होते हैं!",
+      "en": "TRAP: 'Rajasthan State Archives' is in Bikaner, while 'Rajasthan Oriental Research Institute' is in Jodhpur."
+    },
+    {
+      "hi": "परीक्षा जाल: 'पोथी खाना' जयपुर में है, 'सरस्वती भण्डार' उदयपुर में है, और 'पुस्तक प्रकाश' जोधपुर के मेहरानगढ़ में है।",
+      "en": "TRAP: 'Pothi Khana' is in Jaipur, 'Saraswati Bhandar' is in Udaipur, and 'Pustak Prakash' is in Jodhpur (Mehrangarh)."
+    },
+    {
+      "hi": "परीक्षा जाल: 'वकील रिपोर्ट' किसी न्यायालय के वकील की नहीं, बल्कि मुगल दरबार में नियुक्त राजपूत राजाओं के राजदूतों (Envoys) की राजनीतिक रिपोर्टें हैं।",
+      "en": "TRAP: 'Vakil Reports' refer to political intelligence sent by princely state diplomatic envoys at the Mughal court, not modern legal advocates."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.01.04-01",
+      "question": {
+        "hi": "राजस्थान राज्य अभिलेखागार (Rajasthan State Archives) कहाँ स्थित है?",
+        "en": "Where is the Rajasthan State Archives located?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "जयपुर", "en": "Jaipur" } },
+        { "id": "B", "text": { "hi": "बीकानेर", "en": "Bikaner" } },
+        { "id": "C", "text": { "hi": "जोधपुर", "en": "Jodhpur" } },
+        { "id": "D", "text": { "hi": "उदयपुर", "en": "Udaipur" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "राजस्थान राज्य अभिलेखागार 1955 में जयपुर में स्थापित हुआ था, जिसे 1960 में बीकानेर स्थानांतरित कर दिया गया। यह भारत का पहला डिजिटलाइज्ड अभिलेखागार है।",
+        "en": "Rajasthan State Archives was established in Jaipur in 1955 and shifted to Bikaner in 1960. It is India's first computerized state archive."
+      },
+      "pyq_source": "RPSC RAS Pre 2013 / RSSB Patwari 2021",
+      "difficulty": "easy",
+      "tags": ["Archives", "Bikaner", "Institutes"]
+    },
+    {
+      "id": "MCQ-A.01.04-02",
+      "question": {
+        "hi": "जयपुर स्थित प्रसिद्ध अल्बर्ट हॉल संग्रहालय (Albert Hall Museum) के वास्तुकार कौन थे?",
+        "en": "Who was the chief architect of the famous Albert Hall Museum located in Jaipur?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "विद्याधर भट्टाचार्य", "en": "Vidyadhar Bhattacharya" } },
+        { "id": "B", "text": { "hi": "कर्नल सर सैमुअल स्विंटन जैकब", "en": "Sir Samuel Swinton Jacob" } },
+        { "id": "C", "text": { "hi": "मण्डन", "en": "Mandan" } },
+        { "id": "D", "text": { "hi": "एडवर्ड लुटियंस", "en": "Edwin Lutyens" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "अल्बर्ट हॉल का डिजाइन ब्रिटिश वास्तुकार कर्नल सर सैमुअल स्विंटन जैकब ने भारत-सारसेनिक (इंडो-इस्लामिक व राजपूत) शैली में तैयार किया था।",
+        "en": "The Albert Hall Museum was designed by British architect Sir Samuel Swinton Jacob in the Indo-Saracenic architectural style."
+      },
+      "pyq_source": "RPSC 2nd Grade 2018 / RSSB CET 2023",
+      "difficulty": "medium",
+      "tags": ["Albert Hall", "Jaipur", "Architecture"]
+    },
+    {
+      "id": "MCQ-A.01.04-03",
+      "question": {
+        "hi": "1908 ई. में अजमेर के मैगजीन दुर्ग में स्थापित 'राजपूताना संग्रहालय' के प्रथम क्यूरेटर (अधीक्षक) कौन बनाए गए थे?",
+        "en": "Who was appointed the first curator (superintendent) of the 'Rajputana Museum' established in 1908 at Akbar's Fort, Ajmer?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कविराजा श्यामलदास", "en": "Kaviraja Shyamaldas" } },
+        { "id": "B", "text": { "hi": "महामहोपाध्याय डॉ. गौरीशंकर हीराचंद ओझा", "en": "Dr. Gauri Shankar Hirachand Ojha" } },
+        { "id": "C", "text": { "hi": "डॉ. दशरथ शर्मा", "en": "Dr. Dasharatha Sharma" } },
+        { "id": "D", "text": { "hi": "मुंशी देवी प्रसाद", "en": "Munshi Devi Prasad" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "अजमेर के राजपूताना संग्रहालय के प्रथम क्यूरेटर प्रसिद्ध इतिहासकार डॉ. गौरीशंकर हीराचंद ओझा थे, जिन्होंने राजस्थान के पुरातात्विक साक्ष्यों का वैज्ञानिक वर्गीकरण किया।",
+        "en": "Dr. G.H. Ojha was the founding curator of the Rajputana Museum in Ajmer, scientifically cataloguing epigraphic and antiquarian collections."
+      },
+      "pyq_source": "RPSC College Lecturer 2016 / 1st Grade 2020",
+      "difficulty": "medium",
+      "tags": ["Rajputana Museum", "Dr. Ojha", "Ajmer"]
+    },
+    {
+      "id": "MCQ-A.01.04-04",
+      "question": {
+        "hi": "मुगल बादशाह औरंगजेब द्वारा अपने हाथों से लिखी गई 'आलमगीरी कुरान' किस शोध संस्थान में सुरक्षित है?",
+        "en": "In which research institute is the 'Alamgiri Quran', handwritten by Mughal Emperor Aurangzeb, preserved?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "पोथी खाना, जयपुर", "en": "Pothi Khana, Jaipur" } },
+        { "id": "B", "text": { "hi": "मौलाना अबुल कलाम आज़ाद अरबी-फारसी शोध संस्थान, टोंक", "en": "Maulana Abul Kalam Azad Arabic-Persian Research Institute, Tonk" } },
+        { "id": "C", "text": { "hi": "राजस्थान प्राच्यविद्या प्रतिष्ठान, जोधपुर", "en": "Rajasthan Oriental Research Institute, Jodhpur" } },
+        { "id": "D", "text": { "hi": "सरस्वती भण्डार, उदयपुर", "en": "Saraswati Bhandar, Udaipur" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "टोंक स्थित मौलाना अबुल कलाम आज़ाद अरबी-फारसी शोध संस्थान (APRI, स्थापना 1978) में औरंगजेब द्वारा हस्तलिखित 'आलमगीरी कुरान' एवं विश्व की सबसे बड़ी हस्तलिखित कुरान सुरक्षित है।",
+        "en": "The handwritten 'Alamgiri Quran' of Aurangzeb is conserved at the Maulana Abul Kalam Azad Arabic & Persian Research Institute (APRI) in Tonk."
+      },
+      "pyq_source": "RPSC RAS Pre 2016 / RSSB Police Constable 2022",
+      "difficulty": "easy",
+      "tags": ["APRI", "Tonk", "Manuscripts"]
+    },
+    {
+      "id": "MCQ-A.01.04-05",
+      "question": {
+        "hi": "भारत में ताड़पत्रों पर उत्कीर्ण दुर्लभ जैन पांडुलिपियों का सबसे प्राचीन भूमिगत संग्रह 'जिनभद्र सूरि ज्ञान भण्डार' किस दुर्ग में स्थित है?",
+        "en": "In which fort is the 'Jin Bhadra Suri Gyan Bhandar', India's oldest underground repository of palm-leaf Jain manuscripts, located?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मेहरानगढ़ दुर्ग, जोधपुर", "en": "Mehrangarh Fort, Jodhpur" } },
+        { "id": "B", "text": { "hi": "चित्तौड़गढ़ दुर्ग", "en": "Chittorgarh Fort" } },
+        { "id": "C", "text": { "hi": "जैसलमेर दुर्ग (सोनार किला)", "en": "Jaisalmer Fort (Sonar Qila)" } },
+        { "id": "D", "text": { "hi": "जूनागढ़ दुर्ग, बीकानेर", "en": "Junagarh Fort, Bikaner" } }
+      ],
+      "correct_option": "C",
+      "explanation": {
+        "hi": "जैसलमेर के सोनार किले के जैन मन्दिरों के तहखाने में 'जिनभद्र सूरि ज्ञान भण्डार' स्थित है, जहाँ 11वीं-12वीं सदी के दुर्लभ ताड़पत्र ग्रंथ सुरक्षित हैं।",
+        "en": "Located in the underground cellars of Jaisalmer Fort's Jain temples, Jin Bhadra Suri Gyan Bhandar preserves precious 11th-12th century palm-leaf manuscripts."
+      },
+      "pyq_source": "RPSC 2nd Grade 2019 / RSSB VDO 2021",
+      "difficulty": "medium",
+      "tags": ["Jaisalmer", "Gyan Bhandar", "Manuscripts"]
+    },
+    {
+      "id": "MCQ-A.01.04-06",
+      "question": {
+        "hi": "राजस्थान प्राच्यविद्या प्रतिष्ठान (Rajasthan Oriental Research Institute) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the Rajasthan Oriental Research Institute located?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "जोधपुर", "en": "Jodhpur" } },
+        { "id": "B", "text": { "hi": "जयपुर", "en": "Jaipur" } },
+        { "id": "C", "text": { "hi": "बीकानेर", "en": "Bikaner" } },
+        { "id": "D", "text": { "hi": "अजमेर", "en": "Ajmer" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "राजस्थान प्राच्यविद्या प्रतिष्ठान 1950 में जयपुर में स्थापित हुआ था तथा 1958 में इसका मुख्यालय जोधपुर स्थानांतरित किया गया। इसके प्रथम निदेशक मुनि जिनविजय जी थे।",
+        "en": "Rajasthan Oriental Research Institute was established in Jaipur in 1950 and moved to Jodhpur in 1958. Muni Jinavijaya was its founding director."
+      },
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB Lab Assistant 2022",
+      "difficulty": "easy",
+      "tags": ["RORI", "Jodhpur", "Institutes"]
+    },
+    {
+      "id": "MCQ-A.01.04-07",
+      "question": {
+        "hi": "मुगल दरबार में राजपूत राजाओं के प्रतिनिधियों द्वारा अपने शासकों को भेजी जाने वाली राजनीतिक व कूटनीतिक रिपोर्टें क्या कहलाती हैं?",
+        "en": "What were the political and diplomatic reports dispatched by Rajput envoys at the Mughal court to their rulers called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "खरीता", "en": "Kharita" } },
+        { "id": "B", "text": { "hi": "वकील रिपोर्ट", "en": "Vakil Report" } },
+        { "id": "C", "text": { "hi": "हकीकत बही", "en": "Haqiqat Bahi" } },
+        { "id": "D", "text": { "hi": "कमठाना बही", "en": "Kamthana Bahi" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "मुगल दरबार में राजपूत राजाओं के 'वकील' (राजनीतिक प्रतिनिधि) तैनात होते थे, जो आगरा/दिल्ली की दैनिक घटनाओं की जानकारी 'वकील रिपोर्ट' के माध्यम से रियासतों को भेजते थे।",
+        "en": "Envoys (Vakils) stationed at the Mughal court submitted diplomatic and political briefings termed 'Vakil Reports' back to their princely states."
+      },
+      "pyq_source": "RPSC RAS Mains / 1st Grade History 2022",
+      "difficulty": "medium",
+      "tags": ["Archives", "Vakil Report", "Mughal Rajput"]
+    },
+    {
+      "id": "MCQ-A.01.04-08",
+      "question": {
+        "hi": "कछवाहा शासक सवाई जयसिंह द्वितीय द्वारा स्थापित दुर्लभ ग्रंथों व हस्तप्रतियों का संग्रह 'पोथी खाना' कहाँ स्थित है?",
+        "en": "Where is 'Pothi Khana', the collection of rare manuscripts established by Sawai Jai Singh II, located?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "आमेर दुर्ग", "en": "Amer Fort" } },
+        { "id": "B", "text": { "hi": "सिटी पैलेस (जयपुर)", "en": "City Palace (Jaipur)" } },
+        { "id": "C", "text": { "hi": "जयगढ़ दुर्ग", "en": "Jaigarh Fort" } },
+        { "id": "D", "text": { "hi": "हवामहल", "en": "Hawa Mahal" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "पोथी खाना जयपुर के सिटी पैलेस (चन्द्रमहल) में स्थित है, जिसमें सवाई जयसिंह द्वारा एकत्रित दुर्लभ ज्योतिषीय ग्रंथ, पांडुलिपियाँ और चित्रकला सुरक्षित हैं।",
+        "en": "Pothi Khana is situated inside the City Palace (Jaipur), housing astronomical treatises, rare texts, and miniature paintings compiled by Sawai Jai Singh II."
+      },
+      "pyq_source": "RPSC 2nd Grade 2018 / RSSB Patwari 2016",
+      "difficulty": "easy",
+      "tags": ["Pothi Khana", "Jaipur", "Sawai Jai Singh"]
+    },
+    {
+      "id": "MCQ-A.01.04-09",
+      "question": {
+        "hi": "1946 ई. में बीकानेर में 'शार्दूल राजस्थानी रिसर्च इंस्टीट्यूट' (Shardul Rajasthani Research Institute) की स्थापना किसने की थी?",
+        "en": "Who established the 'Shardul Rajasthani Research Institute' in Bikaner in 1946 AD?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "डॉ. दशरथ शर्मा", "en": "Dr. Dasharatha Sharma" } },
+        { "id": "B", "text": { "hi": "डॉ. एल.पी. तेस्सीतोरी", "en": "Dr. L.P. Tessitori" } },
+        { "id": "C", "text": { "hi": "महाराजा शार्दूल सिंह", "en": "Maharaja Shardul Singh" } },
+        { "id": "D", "text": { "hi": "कर्नल जेम्स टॉड", "en": "Colonel James Tod" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "प्रसिद्ध इतिहासकार डॉ. दशरथ शर्मा ने राजस्थानी इतिहास और साहित्य के शोध हेतु 1946 में बीकानेर में शार्दूल राजस्थानी रिसर्च इंस्टीट्यूट की स्थापना की थी।",
+        "en": "Eminent historian Dr. Dasharatha Sharma founded the Shardul Rajasthani Research Institute in Bikaner in 1946 for historical research."
+      },
+      "pyq_source": "RPSC College Lecturer 2021 / RSSB Forester 2022",
+      "difficulty": "hard",
+      "tags": ["Dr. Dasharatha Sharma", "Bikaner", "Research Institute"]
+    },
+    {
+      "id": "MCQ-A.01.04-10",
+      "question": {
+        "hi": "निम्नलिखित में से कौन सा युग्म (संस्थान/संग्रहालय — स्थान) सुमेलित नहीं है?",
+        "en": "Which of the following pairs (Institute/Museum — Location) is NOT correctly matched?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "सरस्वती भण्डार — उदयपुर", "en": "Saraswati Bhandar — Udaipur" } },
+        { "id": "B", "text": { "hi": "पुस्तक प्रकाश — जोधपुर", "en": "Pustak Prakash — Jodhpur" } },
+        { "id": "C", "text": { "hi": "पोथी खाना — कोटा", "en": "Pothi Khana — Kota" } },
+        { "id": "D", "text": { "hi": "गंगा गोल्डन जुबली संग्रहालय — बीकानेर", "en": "Ganga Golden Jubilee Museum — Bikaner" } }
+      ],
+      "correct_option": "C",
+      "explanation": {
+        "hi": "पोथी खाना 'जयपुर' के सिटी पैलेस में स्थित है (कोटा में नहीं; कोटा में बृज विलास संग्रहालय व राव माधोसिंह संग्रहालय हैं)।",
+        "en": "Pothi Khana is located in City Palace, Jaipur (not Kota). All other pairs are matched accurately."
+      },
+      "pyq_source": "RPSC RAS Pre 2021 / RSSB CET 2023",
+      "difficulty": "easy",
+      "tags": ["Museum Match", "Repositories", "Rajasthan GK"]
+    }
+  ]
+}
