@@ -1,0 +1,367 @@
+{
+  "id": "A.03.05",
+  "subject_id": "history",
+  "unit_id": "A.03",
+  "slug": "major-invasions-and-resistance",
+  "title": {
+    "hi": "प्रमुख मुस्लिम आक्रमण एवं प्रतिरोध (तराइन, रणथम्भौर, सिवाना, जालौर)",
+    "en": "Major Invasions & Resistance: Tarain, Ranthambore, Siwana, Jalore"
+  },
+  "short_summary": {
+    "hi": "राजस्थान में सल्तनत कालीन प्रमुख आक्रमणों (मुहम्मद गोरी एवं अलाउद्दीन खिलजी) के विरुद्ध राजपूत प्रतिरोध, ऐतिहासिक घेराबंदियों एवं राजस्थान के चार महान साकों (1301, 1303, 1308, 1311) का सम्पूर्ण तुलनात्मक अध्ययन।",
+    "en": "Comprehensive comparative study of Sultanate invasions (Ghori & Alauddin Khalji), Rajput defensive tactics, epic sieges, and the four landmark Sakas of Rajasthan (1301, 1303, 1308, 1311 AD)."
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
+    "last_updated": "2026-09-14",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. तराइन के युगांतकारी युद्ध (1191 एवं 1192 ई.) — दिल्ली सल्तनत की नींव",
+        "en": "1. The Epochal Battles of Tarain (1191 & 1192 AD)"
+      },
+      "content_markdown": {
+        "hi": "तराइन (करनाल, हरियाणा) के मैदान में लड़े गए दो युद्धों ने भारत के राजनीतिक इतिहास की दिशा बदल दी।\n\n### 1. तराइन का प्रथम युद्ध (1191 ई.):\n- **प्रतिद्वन्द्वी:** सम्राट **पृथ्वीराज चौहान तृतीय** बनाम **मुहम्मद गोरी (शहाबुद्दीन गोरी)**।\n- **घटनाक्रम:** गोरी ने भटिंडा (तबरहिन्द) दुर्ग पर अधिकार कर लिया था। पृथ्वीराज ने विशाल सेना के साथ आक्रमण किया।\n- **परिणाम:** दिल्ली के सामंत **गोविन्द राय** के भाले के वार से गोरी गंभीर घायल होकर घोड़े से गिर पड़ा। एक युवा खिलजी सैनिक ने उसे अपने घोड़े पर बैठाकर मैदान से निकाला। गोरी की सेना में भगदड़ मच गई। पृथ्वीराज की **पूर्ण विजय** हुई।\n\n### 2. तराइन का द्वितीय युद्ध (1192 ई.):\n- **रणनीति:** 1192 ई. में गोरी 1,20,000 की अश्व सेना व 4 अनुभवी सेनापतियों (खारबक, खरमील, मुकलब, एलबक) के साथ आया। उसने धोखे से सन्धि वार्ता का नाटक रचा।\n- **कूटनीतिक छल:** अहले सुबह जब चौहान सैनिक नित्यक्रिया में व्यस्त थे, तब गोरी ने अचानक चौतरफा हमला बोल दिया।\n- **परिणाम:** राजपूत सेना पराजित हुई। पृथ्वीराज तृतीय को सरस्वती (सिरसा) के निकट बन्दी बनाया गया।\n- **ऐतिहासिक प्रभाव:** भारत में सदियों पुराने हिन्दू चक्रवर्ती साम्राज्य का अंत हुआ तथा **दिल्ली सल्तनत (तुर्क-मुस्लिम शासन)** की स्थायी नींव पड़ी।",
+        "en": "The two Battles of Tarain fought near Karnal (Haryana) permanently altered the trajectory of Indian history.\n\n### 1. First Battle of Tarain (1191 AD):\n- **Prithviraj III vs Muhammad Ghori:** Following Ghori's capture of Tabarhind (Bhatinda), Prithviraj mobilized a massive force. Govind Rai of Delhi severely wounded Ghori, routing the Turko-Afghan invaders.\n\n### 2. Second Battle of Tarain (1192 AD):\n- **The Turning Point:** Ghori invaded with 120,000 cavalry, feigning truce negotiations before executing a surprise dawn ambush. Prithviraj was defeated and captured near Sirsa. This paved the way for the establishment of the Delhi Sultanate."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. अलाउद्दीन खिलजी की साम्राज्यवादी विजयें एवं राजस्थान के 4 ऐतिहासिक साके (तुलनात्मक सारणी)",
+        "en": "2. Alauddin Khalji's Imperial Campaigns & The 4 Historic Sakas (Matrix)"
+      },
+      "content_markdown": {
+        "hi": "अलाउद्दीन खिलजी (1296-1316 ई.) दिल्ली सल्तनत का सर्वाधिक विस्तारवादी सुल्तान था, जिसने राजस्थान के प्रमुख दुर्गों को जीतने हेतु भीषण अभियान चलाए:\n\n| साका / दुर्ग (Fort & Saka) | वर्ष (Year) | राजपूत शासक व सेनापति (Defender) | जौहर का नेतृत्व (Jauhar Leader) | विश्वासघाती (Traitors) | दुर्ग का नया नाम (Renamed As) |\n|---|---|---|---|---|---|\n| **1. रणथम्भौर का साका** | **11 जुलाई 1301** | हम्मीर देव चौहान | **रानी रंगा देवी** एवं पुत्री पद्मला (जल जौहर) | रणमल, रतिपाल, सुर्जन शाह | — (उलूग खाँ को सौंपा) |\n| **2. चित्तौड़गढ़ का साका** | **26 अगस्त 1303** | रावल रतन सिंह (गोरा व बादल) | **रानी पद्मिनी** (16,000 वीरांगनाएँ - अग्नि जौहर) | राघव चेतन (जादूगर) | **खिज्राबाद** (खिज्र खाँ को सौंपा) |\n| **3. सिवाना का साका** | **1308 ई.** | सातलदेव (शीतलदेव) एवं सोम चौहान | **रानी मैणादे** | **भावला पंवार** (जल कुंड में गो-रक्त मिलाया) | **खैराबाद** (कमालुद्दीन गुर्ग को सौंपा) |\n| **4. जालौर का साका** | **1311 ई.** | कान्हड़देव एवं राजकुमार वीरमदेव | **रानी जेतलदे** | **बीका दहिया** (दीवार का कच्चा भेद बताया) | **जलालाबाद** (तोप मस्जिद का निर्माण) |",
+        "en": "Alauddin Khalji led brutal imperial campaigns to annex Rajasthan's fortified gateways, triggering four legendary Sakas:\n\n1. **Ranthambore (1301 AD):** Hammir Dev Chauhan; Queen Ranga Devi (**Jal Jauhar**); betrayed by Ranmal & Rati Pal.\n2. **Chittorgarh (1303 AD):** Rawal Ratan Singh & Gora-Badal; Queen Padmini (**Agni Jauhar** with 16,000 women); renamed **Khizrabad**.\n3. **Siwana (1308 AD):** Sataldev & Som Chauhan; Queen Mainade; betrayed by **Bhawla Pawar**; renamed **Khairabad**.\n4. **Jalore (1311 AD):** Kanhad Dev & Viramdev; Queen Jetalde; betrayed by **Bika Dahiya**; renamed **Jalalabad**."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. सिवाना दुर्ग का साका (1308 ई.) — 'जालौर की कुंजी'",
+        "en": "3. The Siege of Siwana Fort (1308 AD) — The Key to Jalore"
+      },
+      "content_markdown": {
+        "hi": "सिवाना दुर्ग (बालोतरा / पूर्व बाड़मेर) छप्पन की पहाड़ियों (हल्देश्वर पहाड़ी) पर स्थित एक अत्यंत दुर्गम किला है, जिसे **'जालौर दुर्ग की कुंजी' (Key to Jalore)** तथा **'मारवाड़ के राजाओं की शरणस्थली'** कहा जाता है।\n\n### 1308 ई. का ऐतिहासिक साका:\n- **शासक:** कान्हड़देव के भतीजे **सातलदेव (शीतलदेव)** एवं **सोम चौहान**।\n- **खिलजी सेनानायक:** **कमालुद्दीन गुर्ग (Kamaluddin Gurg)**।\n- **घेराबंदी व विश्वासघात:**\n  - सुल्तान की सेना महीनों तक दुर्ग की प्राचीर नहीं भेद सकी।\n  - अंततः अलाउद्दीन ने सातलदेव के सेनापति **भावला पंवार (Bhawla Pawar)** को दुर्ग देने का प्रलोभन देकर मिला लिया।\n  - भावला ने दुर्ग के मुख्य पेयजल स्रोत **'भांडेलाव तालाब' (Bhandelav Pond)** में **गाय का रक्त (गो-रक्त)** मिलाकर उसे अपवित्र कर दिया।\n- **साका (1308 ई.):**\n  - पेयजल संकट के कारण राजपूत वीरों ने दुर्ग के द्वार खोल दिए। सातलदेव व सोम लड़ते हुए वीरगति को प्राप्त हुए।\n  - वीरांगना **रानी मैणादे** के नेतृत्व में वीरांगनाओं ने अग्नि जौहर किया।\n- **परिणाम:** अलाउद्दीन ने सिवाना का नाम बदलकर **'खैराबाद' (Khairabad)** रखा तथा कमालुद्दीन गुर्ग को दुर्ग का सूबेदार नियुक्त किया।",
+        "en": "Siwana Fort (Balotra), situated on the Haldeshwar Hills, is historically acclaimed as the **'Key to Jalore'** and the **'Refuge Sanctuary of Marwar Rulers'**.\n\n### The 1308 AD Siege:\n- **Defenders:** Kanhad Dev's nephew **Sataldev (Sheetaldev)** and commander **Som Chauhan**.\n- **Imperial General:** **Kamaluddin Gurg**.\n- **Treachery:** Traitor **Bhawla Pawar** desecrated the fortress's primary reservoir, the **Bhandelav Talab**, with cow blood.\n- **Saka:** Forced out by water contamination, Sataldev fell fighting heroically (*Kesariya*); Queen **Mainade** led the fire immolation (*Jauhar*).\n- **Aftermath:** Alauddin renamed Siwana to **'Khairabad'**."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "4. राजपूत प्रतिरोध की युद्ध शैलियाँ एवं साका की अवधारणा",
+        "en": "4. Rajput Defensive Military Doctrines & The Concept of Saka"
+      },
+      "content_markdown": {
+        "hi": "### 'साका' (Saka) की अवधारणा:\nजब शत्रु की विशाल सेना दुर्ग को घेर लेती थी और रसद व जल समाप्त हो जाने पर विजय की कोई संभावना नहीं बचती थी, तब राजपूत दोहरी धार्मिक-सैन्य आहुति देते थे जिसे **'साका'** कहा जाता है:\n1. **जौहर (Jauhar):** दुर्ग के भीतर वीरांगना रानियाँ अपने सतित्व व कुल मर्यादा की रक्षा हेतु धधकती अग्नि की ज्वालाओं (या जल) में कूदकर आत्मोत्सर्ग करती थीं।\n2. **केसरिया (Kesariya):** जौहर के उपरांत पुरुष योद्धा केसरिया बाना (वस्त्र) धारण कर, सिर पर कफन बाँधकर दुर्ग के फाटक खोल देते थे और *'मारो या मरो'* के संकल्प के साथ शत्रु सेना पर टूट पड़ते थे।\n\n*जब जौहर एवं केसरिया दोनों पूर्ण होते थे, तभी वह घटना 'पूर्ण साका' कहलाती थी। (यदि केवल एक हो तो 'अर्द्ध-साका' कहलाता था, जैसे 1550 ई. का जैसलमेर साका)।*\n\n### दुर्ग रक्षा यंत्र (Siege Weapons of Rajasthan Forts):\n- **गरगज (Gargaj):** दुर्ग की दीवार के समानांतर बनाया गया ऊँचा मिट्टी/लकड़ी का टीला जिससे तोपें/तीर चलाए जाते थे।\n- **साबात (Sabat):** आक्रमणकारी सैनिकों को पत्थरों व तीरों से बचाने के लिए बनाई गई चमड़े की ढकी हुई सुरंग/रास्ता।\n- **मगरबी व अरादा (Manjaniq / Arada):** दुर्ग की प्राचीर से बड़े-बड़े पत्थर फेंकने वाले प्राचीन यांत्रिक प्रक्षेपास्त्र (रणथम्भौर में नुसरत खाँ इसी के पत्थर से मारा गया था)।",
+        "en": "### The Anatomy of a 'Saka':\nA **Saka** is the ultimate dual martyrdom undertaken by besieged Rajputs when all supplies were exhausted:\n1. **Jauhar:** The voluntary self-immolation of Rajput women into sacred flames (or water) to preserve their chastity and clan honor.\n2. **Kesariya:** Clad in saffron robes, male warriors opened fortress gates to fight to the last breath (*Fight unto Death*).\n\n*A full Saka required both Jauhar and Kesariya (if Jauhar did not take place, it was designated a Half-Saka / Ardha-Saka, such as Jaisalmer in 1550 AD).*\n\n### Medieval Siege Apparatus:\n- **Gargaj:** Elevated movable siege mounds.\n- **Sabat:** Armored, leather-roofed approach trenches.\n- **Maghrabi / Manjaniq:** Mechanical stone-throwing catapults."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "तराइन का प्रथम युद्ध (1191): पृथ्वीराज तृतीय की विजय; द्वितीय युद्ध (1192): मुहम्मद गोरी की विजय (दिल्ली सल्तनत की स्थापना)।",
+      "en": "1st Battle of Tarain (1191): Prithviraj wins; 2nd Battle (1192): Ghori wins (Delhi Sultanate established)."
+    },
+    {
+      "hi": "राजस्थान का प्रथम साका 11 जुलाई 1301 को रणथम्भौर में हुआ (हम्मीर का केसरिया, रंगादेवी का जल जौहर)।",
+      "en": "Rajasthan's 1st Saka occurred on 11 July 1301 at Ranthambore (Hammir's Kesariya, Ranga Devi's Jal Jauhar)."
+    },
+    {
+      "hi": "चित्तौड़गढ़ का प्रथम साका 26 अगस्त 1303 को हुआ (रतनसिंह का केसरिया, रानी पद्मिनी का 16,000 स्त्रियों सहित अग्नि जौहर)।",
+      "en": "Chittorgarh's 1st Saka took place on 26 August 1303 (Ratan Singh's Kesariya, Rani Padmini's Agni Jauhar)."
+    },
+    {
+      "hi": "सिवाना दुर्ग (बालोतरा) को 'जालौर दुर्ग की कुंजी' तथा 'मारवाड़ के शासकों की शरणस्थली' कहा जाता है।",
+      "en": "Siwana Fort (Balotra) is called the 'Key to Jalore' and 'Refuge of Marwar Rulers'."
+    },
+    {
+      "hi": "1308 ई. में सिवाना के साके में सातलदेव व सोम शहीद हुए तथा रानी मैणादे ने जौहर किया; सिवाना का नाम 'खैराबाद' रखा गया।",
+      "en": "In 1308, Sataldev fell in Siwana Saka, Queen Mainade committed Jauhar; Siwana was renamed 'Khairabad'."
+    },
+    {
+      "hi": "सिवाना के देशद्रोही 'भावला पंवार' ने भांडेलाव तालाब के जल में गो-रक्त मिलाकर उसे अपवित्र किया था।",
+      "en": "Traitor Bhawla Pawar desecrated Bhandelav pond at Siwana by contaminating it with cow blood."
+    },
+    {
+      "hi": "1311 ई. में जालौर का साका हुआ (कान्हड़देव व वीरमदेव का बलिदान, जेतलदे का जौहर); नाम 'जलालाबाद' रखा गया।",
+      "en": "In 1311, Jalore Saka took place (Kanhad Dev & Viramdev martyred, Jetalde's Jauhar); renamed 'Jalalabad'."
+    },
+    {
+      "hi": "अलाउद्दीन द्वारा बदले गए नाम: चित्तौड़ = खिज्राबाद, सिवाना = खैराबाद, जालौर = जलालाबाद।",
+      "en": "Renamed forts by Alauddin: Chittorgarh = Khizrabad, Siwana = Khairabad, Jalore = Jalalabad."
+    },
+    {
+      "hi": "दुर्ग से पत्थर फेंकने वाले प्राचीन यांत्रिक प्रक्षेपास्त्र को 'मगरबी / अरादा' तथा ढकी हुई सुरंग को 'साबात' कहते थे।",
+      "en": "Stone-catapults were called 'Maghrabi/Arada' and covered assault tunnels were called 'Sabat'."
+    },
+    {
+      "hi": "रणथम्भौर घेरे में अलाउद्दीन का प्रसिद्ध सेनापति 'नुसरत खाँ' दुर्ग प्राचीर से फेंके गए पत्थर से मारा गया था।",
+      "en": "Alauddin's general Nusrat Khan was killed by a catapult stone during the siege of Ranthambore."
+    }
+  ],
+  "timeline": [
+    {
+      "year_or_era": "1191 / 1192 AD",
+      "event": {
+        "hi": "तराइन के प्रथम व द्वितीय युद्ध — भारत में मुस्लिम सत्ता का सूत्रपात।",
+        "en": "First and Second Battles of Tarain — dawn of Muslim rule in India."
+      }
+    },
+    {
+      "year_or_era": "11 July 1301 AD",
+      "event": {
+        "hi": "रणथम्भौर का साका — राजस्थान का प्रथम ऐतिहासिक साका एवं जल जौहर।",
+        "en": "Siege of Ranthambore: Rajasthan's 1st historical Saka & Jal Jauhar."
+      }
+    },
+    {
+      "year_or_era": "26 August 1303 AD",
+      "event": {
+        "hi": "चित्तौड़गढ़ का प्रथम साका — रावल रतनसिंह का बलिदान एवं रानी पद्मिनी का जौहर (खिज्राबाद)।",
+        "en": "1st Saka of Chittorgarh: Rawal Ratan Singh's martyrdom & Rani Padmini's Jauhar."
+      }
+    },
+    {
+      "year_or_era": "1308 AD",
+      "event": {
+        "hi": "सिवाना का साका — सातलदेव चौहान का बलिदान एवं खैराबाद नामकरण।",
+        "en": "Saka of Siwana: martyrdom of Sataldev Chauhan & renamed Khairabad."
+      }
+    },
+    {
+      "year_or_era": "1311 AD",
+      "event": {
+        "hi": "जालौर का साका — कान्हड़देव व वीरमदेव का बलिदान एवं जलालाबाद नामकरण।",
+        "en": "Saka of Jalore: martyrdom of Kanhad Dev & Viramdev; renamed Jalalabad."
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "hi": "परीक्षा जाल: अलाउद्दीन के आक्रमणों का सही कालक्रम: रणथम्भौर (1301) → चित्तौड़गढ़ (1303) → सिवाना (1308) → जालौर (1311)। यह क्रम परीक्षा में बार-बार पूछा जाता है!",
+      "en": "TRAP: Chronological order of Alauddin's Sakas: Ranthambore (1301) → Chittorgarh (1303) → Siwana (1308) → Jalore (1311)."
+    },
+    {
+      "hi": "परीक्षा जाल: सिवाना का विश्वासघाती 'भावला पंवार' था (भांडेलाव तालाब), जालौर का 'बीका दहिया' था, और रणथम्भौर के 'रणमल व रतिपाल' थे।",
+      "en": "TRAP: Siwana traitor = Bhawla Pawar; Jalore traitor = Bika Dahiya; Ranthambore traitors = Ranmal & Rati Pal."
+    },
+    {
+      "hi": "परीक्षा जाल: 'जालौर की कुंजी' सिवाना दुर्ग को कहते हैं, जबकि 'रणथम्भौर की कुंजी' झाईन दुर्ग को कहते हैं।",
+      "en": "TRAP: 'Key to Jalore' = Siwana Fort; 'Key to Ranthambore' = Jhain Fort."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.03.05-01",
+      "question": {
+        "hi": "अलाउद्दीन खिलजी के राजस्थान अभियानों के दौरान हुए ऐतिहासिक साकों का सही कालक्रमानुसार क्रम कौन सा है?",
+        "en": "What is the correct chronological sequence of the historic Sakas during Alauddin Khalji's Rajasthan campaigns?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "रणथम्भौर (1301) → चित्तौड़गढ़ (1303) → सिवाना (1308) → जालौर (1311)", "en": "Ranthambore (1301) → Chittorgarh (1303) → Siwana (1308) → Jalore (1311)" } },
+        { "id": "B", "text": { "hi": "चित्तौड़गढ़ (1303) → रणथम्भौर (1301) → जालौर (1311) → सिवाना (1308)", "en": "Chittorgarh (1303) → Ranthambore (1301) → Jalore (1311) → Siwana (1308)" } },
+        { "id": "C", "text": { "hi": "रणथम्भौर (1301) → सिवाना (1308) → चित्तौड़गढ़ (1303) → जालौर (1311)", "en": "Ranthambore (1301) → Siwana (1308) → Chittorgarh (1303) → Jalore (1311)" } },
+        { "id": "D", "text": { "hi": "सिवाना (1308) → जालौर (1311) → रणथम्भौर (1301) → चित्तौड़गढ़ (1303)", "en": "Siwana (1308) → Jalore (1311) → Ranthambore (1301) → Chittorgarh (1303)" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "अलाउद्दीन खिलजी के राजस्थान अभियानों का सही क्रम: रणथम्भौर (1301 ई.) → चित्तौड़गढ़ (1303 ई.) → सिवाना (1308 ई.) → जालौर (1311 ई.) है।",
+        "en": "The exact chronological order of Alauddin's conquests in Rajasthan is: Ranthambore (1301 AD) → Chittorgarh (1303 AD) → Siwana (1308 AD) → Jalore (1311 AD)."
+      },
+      "pyq_source": "RPSC RAS Pre 2013 / 2018 / RSSB CET 2023",
+      "difficulty": "easy",
+      "tags": ["Alauddin Khalji", "Chronology", "Sakas"]
+    },
+    {
+      "id": "MCQ-A.03.05-02",
+      "question": {
+        "hi": "राजस्थान के किस दुर्ग को 'जालौर दुर्ग की कुंजी' (Key to Jalore Fort) तथा मारवाड़ के राजाओं की संकटकालीन शरणस्थली कहा जाता है?",
+        "en": "Which fort in Rajasthan is called the 'Key to Jalore Fort' and the emergency refuge sanctuary of the rulers of Marwar?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "सिवाना दुर्ग (बालोतरा)", "en": "Siwana Fort (Balotra)" } },
+        { "id": "B", "text": { "hi": "झाईन दुर्ग", "en": "Jhain Fort" } },
+        { "id": "C", "text": { "hi": "कोटड़ा दुर्ग", "en": "Kotra Fort" } },
+        { "id": "D", "text": { "hi": "तारागढ़ दुर्ग", "en": "Taragarh Fort" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "हल्देश्वर पहाड़ी पर स्थित सिवाना दुर्ग (बालोतरा) को जालौर की कुंजी तथा राठौड़ों की शरणस्थली कहा जाता है (राव मालदेव व चन्द्रसेन ने यहाँ शरण ली थी)।",
+        "en": "Siwana Fort (Balotra), situated on Haldeshwar Hill, is celebrated as the 'Key to Jalore' and the retreat sanctuary of Rathore rulers (Maldeo, Chandrasen)."
+      },
+      "pyq_source": "RPSC 2nd Grade 2018 / RSSB Patwari 2021",
+      "difficulty": "easy",
+      "tags": ["Siwana", "Key to Jalore", "Forts"]
+    },
+    {
+      "id": "MCQ-A.03.05-03",
+      "question": {
+        "hi": "1308 ई. के सिवाना घेरे के समय अलाउद्दीन खिलजी ने किस विश्वासघाती के माध्यम से भांडेलाव तालाब में गो-रक्त मिलाकर पेयजल को अपवित्र करवाया था?",
+        "en": "During the 1308 AD siege of Siwana, through which traitor did Alauddin Khalji contaminate the Bhandelav reservoir with cow blood?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "भावला पंवार (Bhawla Pawar)", "en": "Bhawla Pawar" } },
+        { "id": "B", "text": { "hi": "बीका दहिया", "en": "Bika Dahiya" } },
+        { "id": "C", "text": { "hi": "रणमल", "en": "Ranmal" } },
+        { "id": "D", "text": { "hi": "राघव चेतन", "en": "Raghav Chetan" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "सिवाना के शासक सातलदेव के सेनापति भावला पंवार ने देशद्रोह करते हुए भांडेलाव तालाब में गो-रक्त मिलवा दिया था, जिसके कारण 1308 का साका हुआ।",
+        "en": "Traitor Bhawla Pawar poisoned the water of Bhandelav reservoir with cow blood, forcing Sataldev and his men into the 1308 Saka."
+      },
+      "pyq_source": "RPSC 1st Grade History 2020 / RSSB VDO 2021",
+      "difficulty": "medium",
+      "tags": ["Bhawla Pawar", "Siwana 1308", "Traitors"]
+    },
+    {
+      "id": "MCQ-A.03.05-04",
+      "question": {
+        "hi": "1308 ई. में सिवाना विजय के पश्चात सुल्तान अलाउद्दीन खिलजी ने सिवाना दुर्ग का नाम बदलकर क्या रखा था?",
+        "en": "What did Sultan Alauddin Khalji rename Siwana Fort to after conquering it in 1308 AD?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "खिज्राबाद", "en": "Khizrabad" } },
+        { "id": "B", "text": { "hi": "खैराबाद (Khairabad)", "en": "Khairabad" } },
+        { "id": "C", "text": { "hi": "जलालाबाद", "en": "Jalalabad" } },
+        { "id": "D", "text": { "hi": "सुल्तानपुर", "en": "Sultanpur" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "1308 ई. में सिवाना जीतकर अलाउद्दीन ने उसका नाम 'खैराबाद' रखा तथा कमालुद्दीन गुर्ग को दुर्ग का सूबेदार नियुक्त किया।",
+        "en": "After conquering Siwana in 1308 AD, Alauddin renamed it 'Khairabad' and placed it under the charge of Kamaluddin Gurg."
+      },
+      "pyq_source": "RPSC College Lecturer 2016 / RSSB CET 2023",
+      "difficulty": "easy",
+      "tags": ["Khairabad", "Siwana", "Renamed Forts"]
+    },
+    {
+      "id": "MCQ-A.03.05-05",
+      "question": {
+        "hi": "1301 ई. में रणथम्भौर दुर्ग की घेराबंदी के दौरान अलाउद्दीन खिलजी का कौन सा प्रमुख सेनापति दुर्ग की प्राचीर से फेंके गए पत्थर (मगरबी) से मारा गया था?",
+        "en": "During the 1301 AD siege of Ranthambore, which prominent general of Alauddin Khalji was killed by a catapult stone (Maghrabi) from the fort walls?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "उलूग खाँ", "en": "Ulugh Khan" } },
+        { "id": "B", "text": { "hi": "नुसरत खाँ (Nusrat Khan)", "en": "Nusrat Khan" } },
+        { "id": "C", "text": { "hi": "जफर खाँ", "en": "Zafar Khan" } },
+        { "id": "D", "text": { "hi": "कमालुद्दीन गुर्ग", "en": "Kamaluddin Gurg" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "रणथम्भौर घेरे में गरगज बनाते समय दुर्ग से चौहान सैनिकों द्वारा फेंके गए विशाल पाषाण (मगरबी के प्रहार) से नुसरत खाँ मारा गया था।",
+        "en": "General Nusrat Khan was struck and killed by a heavy boulder launched by Rajput catapults (Maghrabis) during the siege of Ranthambore."
+      },
+      "pyq_source": "RPSC RAS Pre 2021 / RSSB Forester 2022",
+      "difficulty": "medium",
+      "tags": ["Nusrat Khan", "Ranthambore 1301", "Khalji Generals"]
+    },
+    {
+      "id": "MCQ-A.03.05-06",
+      "question": {
+        "hi": "मध्यकालीन दुर्ग घेराबंदी में आक्रमणकारी सैनिकों को पत्थरों व तीरों से सुरक्षित रखने हेतु चमड़े की छत से बनाई गई ढकी हुई सुरंग/रास्ता क्या कहलाता था?",
+        "en": "In medieval siegecraft, what was the leather-roofed covered assault passage built to protect invading soldiers from stones and arrows called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "साबात (Sabat)", "en": "Sabat" } },
+        { "id": "B", "text": { "hi": "गरगज (Gargaj)", "en": "Gargaj" } },
+        { "id": "C", "text": { "hi": "मगरबी (Maghrabi)", "en": "Maghrabi" } },
+        { "id": "D", "text": { "hi": "अरादा (Arada)", "en": "Arada" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "साबात (Sabat) एक ऐसा ढका हुआ गलियारा होता था जिसकी छत चमड़े व लकड़ी की होती थी, जिसके नीचे सैनिक सुरक्षित रहकर दुर्ग की दीवार तक पहुँचते थे।",
+        "en": "A Sabat was an armored, leather-covered assault gallery constructed under siege to shield attacking troops while undermining fortification walls."
+      },
+      "pyq_source": "RPSC Assistant Professor 2020 / RAS Mains",
+      "difficulty": "hard",
+      "tags": ["Sabat", "Siegecraft", "Medieval Warfare"]
+    },
+    {
+      "id": "MCQ-A.03.05-07",
+      "question": {
+        "hi": "रणथम्भौर दुर्ग की 'कुंजी' (Key to Ranthambore Fort) के रूप में किस सहायक दुर्ग को जाना जाता था जिस पर जलालुद्दीन एवं अलाउद्दीन ने पहले अधिकार किया?",
+        "en": "Which auxiliary fort was known as the 'Key to Ranthambore Fort', captured first by Jalaluddin and Alauddin Khalji?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "झाईन दुर्ग (Jhain Fort)", "en": "Jhain Fort" } },
+        { "id": "B", "text": { "hi": "सिवाना दुर्ग", "en": "Siwana Fort" } },
+        { "id": "C", "text": { "hi": "खण्डार दुर्ग", "en": "Khandar Fort" } },
+        { "id": "D", "text": { "hi": "माण्डलगढ़ दुर्ग", "en": "Mandalgarh Fort" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "रणथम्भौर की रक्षा पंक्ति का पहला पड़ाव 'झाईन दुर्ग' (नौशहरे-झाईन) था, जिसे रणथम्भौर की कुंजी कहा जाता था।",
+        "en": "Jhain Fort was the strategic frontline defense outpost universally designated as the 'Key to Ranthambore Fort'."
+      },
+      "pyq_source": "RPSC 2nd Grade 2019 / RSSB Lab Assistant 2022",
+      "difficulty": "medium",
+      "tags": ["Jhain Fort", "Ranthambore", "Sieges"]
+    },
+    {
+      "id": "MCQ-A.03.05-08",
+      "question": {
+        "hi": "1303 ई. में चित्तौड़गढ़ विजय के उपरांत अलाउद्दीन खिलजी ने चित्तौड़ का शासन अपने किस पुत्र को सौंपकर दुर्ग का नाम 'खिज्राबाद' रखा था?",
+        "en": "After conquering Chittorgarh in 1303 AD, to which son did Alauddin Khalji assign the fortress, renaming it 'Khizrabad'?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "खिज्र खाँ (Khizr Khan)", "en": "Khizr Khan" } },
+        { "id": "B", "text": { "hi": "मुबारक खिलजी", "en": "Mubarak Khalji" } },
+        { "id": "C", "text": { "hi": "शिहाबुद्दीन उमर", "en": "Shihabuddin Umar" } },
+        { "id": "D", "text": { "hi": "उलूग खाँ", "en": "Ulugh Khan" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "चित्तौड़ जीतने के बाद अलाउद्दीन ने अपने बड़े पुत्र 'खिज्र खाँ' को वहाँ का प्रशासक बनाया और दुर्ग का नाम 'खिज्राबाद' रखा।",
+        "en": "Alauddin appointed his eldest son Khizr Khan as the governor of Chittor, renaming the citadel 'Khizrabad'."
+      },
+      "pyq_source": "RPSC College Lecturer 2021 / RSSB Patwari 2021",
+      "difficulty": "easy",
+      "tags": ["Khizr Khan", "Khizrabad", "Chittorgarh 1303"]
+    },
+    {
+      "id": "MCQ-A.03.05-09",
+      "question": {
+        "hi": "1192 ई. के तराइन के द्वितीय युद्ध में मुहम्मद गोरी की विजय के क्या प्रमुख सामरिक कारण थे?",
+        "en": "What were the primary strategic factors behind Muhammad Ghori's victory in the 1192 AD Second Battle of Tarain?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "गोरी द्वारा सुबह अचानक छलपूर्वक आक्रमण, गतिशील अश्वारोही धनुर्धर एवं भारतीय राजाओं में एकता का अभाव", "en": "Ghori's surprise dawn ambush, mobile horse-archers & lack of united coalition among Indian rulers" } },
+        { "id": "B", "text": { "hi": "पृथ्वीराज के पास सेना की अत्यधिक कमी होना", "en": "Severe shortage of troops under Prithviraj" } },
+        { "id": "C", "text": { "hi": "गोरी के पास तोपखाने का होना", "en": "Ghori having artillery cannons" } },
+        { "id": "D", "text": { "hi": "हाथियों का युद्ध मैदान से भाग जाना", "en": "War elephants fleeing the battlefield" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "गोरी ने रात के धोखे से सुबह अचानक आक्रमण किया, उसके पास मध्य एशियाई फुर्तीले घुड़सवार तीरंदाज थे, जबकि राजपूत सेना परम्परागत व्यूह रचना में थी तथा जयचंद जैसे पड़ोसी शासक तटस्थ/शत्रुतापूर्ण रहे।",
+        "en": "Ghori employed deception, swift horse-archery tactics, and surprise morning ambushes while exploiting internal rivalries among Indian kings."
+      },
+      "pyq_source": "RPSC 1st Grade 2022 / RAS Mains",
+      "difficulty": "medium",
+      "tags": ["Tarain II", "Military Strategy", "Prithviraj Ghori"]
+    },
+    {
+      "id": "MCQ-A.03.05-10",
+      "question": {
+        "hi": "1308 ई. के सिवाना के साके में सातलदेव चौहान के साथ किस वीर सेनापति ने अदम्य साहस दिखाते हुए वीरगति प्राप्त की थी?",
+        "en": "In the 1308 AD Saka of Siwana, which gallant commander fought alongside Sataldev Chauhan to achieve martyrdom?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "सोमेश्वर / सोम चौहान (Som Chauhan)", "en": "Som Chauhan" } },
+        { "id": "B", "text": { "hi": "वीरमदेव", "en": "Viramdev" } },
+        { "id": "C", "text": { "hi": "गोरा", "en": "Gora" } },
+        { "id": "D", "text": { "hi": "बादल", "en": "Badal" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "सिवाना के साके (1308 ई.) में सातलदेव तथा उनके प्रमुख सेनापति 'सोम चौहान' दोनों ने कमालुद्दीन गुर्ग की सेना के विरुद्ध लड़ते हुए वीरगति पाई थी।",
+        "en": "In the 1308 Siwana Saka, both Sataldev and his chief general Som Chauhan fell heroically defending the fort against Kamaluddin Gurg."
+      },
+      "pyq_source": "RPSC RAS Pre 2021 / RSSB CET 2023",
+      "difficulty": "medium",
+      "tags": ["Som Chauhan", "Sataldev", "Siwana 1308"]
+    }
+  ]
+}
