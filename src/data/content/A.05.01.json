@@ -1,0 +1,370 @@
+{
+  "id": "A.05.01",
+  "subject_id": "history",
+  "unit_id": "A.05",
+  "slug": "feudal-jagirdari-system-rajput-hierarchy",
+  "title": {
+    "hi": "मध्यकालीन सामंतशाही व जागीरदारी व्यवस्था — ताजमी, रेख, छठूंद, तलवार बंधाई व श्रेणियाँ",
+    "en": "Medieval Feudal/Jagirdari System — Tazimi, Rekh, Chhathund, Talwar Bandhai & Ranks"
+  },
+  "short_summary": {
+    "hi": "राजस्थान की सामंती व्यवस्था (रक्त संबंध एवं कुल परंपरा पर आधारित), मेवाड़ (उमराव - 16 प्रथम श्रेणी व 32 द्वितीय श्रेणी), मारवाड़ (सिंघवी, राजवी, मुथा, सिरदार), आमेर (बारह कोटड़ी), जागीरदारी शुल्क (पट्टा रेख, भरतू रेख, तलवार बंधाई, हुक्मनामा) व सामंती विशेषाधिकार।",
+    "en": "Rajasthan's kinship-based feudal system, Mewar ranks (16 Umraos, 32 Battis), Marwar categories (Rajvi, Sardar, Mutha), Amer's Barah Kothri, feudal levies (Patta Rekh, Bhartu Rekh, Talwar Bandhai, Hukmnama), and Tazimi privileges."
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
+    "last_updated": "2026-09-14",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. सामंती व्यवस्था की प्रकृति एवं रियासत-वार सामंतों की श्रेणियाँ",
+        "en": "1. Nature of Rajput Feudalism & State-wise Noble Ranks"
+      },
+      "content_markdown": {
+        "hi": "### राजस्थान की सामंत व्यवस्था की मूल प्रकृति\n* **रक्त संबंध एवं बंधुत्व पर आधारित:** कर्नल जेम्स टॉड ने राजस्थान की सामंत व्यवस्था की तुलना यूरोपीय सामंतवाद (Feudalism) से की, किंतु भारतीय इतिहासकारों (डॉ. जी.एन. शर्मा, डॉ. मथुरालाल शर्मा) के अनुसार यह यूरोपीय व्यवस्था से भिन्न **रक्त संबंध (Kinship & Clan Brotherhood)** पर आधारित थी। राजा अपने सामंतों का स्वामी नहीं, बल्कि 'समान कुल में प्रथम' (Primus Inter Pares) होता था।\n\n### प्रमुख रियासतों में सामंतों का वर्गीकरण\n\n| रियासत | सामंतों की प्रमुख श्रेणियाँ | विशिष्ट विवरण व उदाहरण |\n|---|---|---|\n| **मेवाड़ (Mewar)** | 1. **सोलह (प्रथम श्रेणी / बड़े उमराव)**<br>2. **बत्तीस (द्वितीय श्रेणी / छोटे उमराव)**<br>3. **गोल के सामंत (तृतीय श्रेणी)** | - प्रथम श्रेणी 'सोलह' में सलूँबर (चूँडावत), सादड़ी (झाला), बिजोलिया (पंवार), बेगूँ, बेदला (चौहान) आदि प्रमुख थे।<br>- **सलूँबर के राव:** मेवाड़ महाराणा का राजतिलक करने, हरावल (अग्रिम पंक्ति) का नेतृत्व करने तथा सनदों पर हस्ताक्षर का विशेषाधिकार था। |\n| **मारवाड़ (Marwar)** | 1. **राजवी** (शासक के सगे संबंधी — तीन पीढ़ियों तक करमुक्त)<br>2. **सरदार** (अन्य शाखाओं के जागीरदार)<br>3. **मुत्सद्दी** (प्रशासनिक अधिकारी / कायस्थ, ओसवाल)<br>4. **गनायत** (विवाह संबंधों द्वारा जुड़े सामंत) | - **कुराब** एवं **हाथ का कुरब:** सम्मान का सर्वोच्च प्रतीक।<br>- **दोवड़ी ताजीम** एवं **इकहरी ताजीम**। |\n| **आमेर/जयपुर (Amer)** | **बारह कोटड़ी (Barah Kothri)** | - पृथ्वीराज कछवाहा ने अपने 12 पुत्रों के नाम पर 12 कोटड़ियों में राज्य बाँटा।<br>- बाद में सवाई जयसिंह के समय ताजमी सामंत: **'राजावत'**, **'शेखावत'**, **'नाथवत'**, **'खंगारोत'** आदि प्रमुख बने। |\n| **कोटा (Kota)** | **देशती** व **हुजूरी** | - देशती = परगनों के जागीरदार; हुजूरी = राजदरबार में उपस्थित रहने वाले सामंत। |",
+        "en": "### Nature of Rajput Feudalism\n* **Kinship & Clan Brotherhood:** Unlike European feudalism based on contractual subservience, Rajasthan's system was anchored in blood ties (Bhaibant). The king was considered the first among equals (Primus Inter Pares).\n\n### Classification of Nobles across Princely States\n* **Mewar:** \n  - **Solah (The 16 First Class Umraos):** Salumbar (Chundawats), Sadri (Jhalas), Bijolia (Panwars), Bedla (Chauhans).\n  - **Battis (The 32 Second Class Umraos)** and **Gol nobles**.\n  - Salumbar chief held the hereditary privilege of crowning the Maharana and leading the Harawal (vanguard).\n* **Marwar:**\n  - **Rajvi:** Close blood relatives of the ruler (tax-exempt for 3 generations).\n  - **Sardar, Mutasaddi, Ganayat**.\n* **Amer (Jaipur):**\n  - **Barah Kothri:** Established by Prithviraj Kachhwaha for his 12 sons; evolved into Rajawat, Shekhawat, Nathawat, Khangarot estates.\n* **Kota:** Classified into **Deshti** and **Huzoori**."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. सामंती कर, शुल्क एवं प्रशासनिक शब्दावली",
+        "en": "2. Feudal Levies, Taxes & Administrative Terminology"
+      },
+      "content_markdown": {
+        "hi": "### प्रमुख सामंती कर एवं शुल्क (Exam Most Repeated)\n\n1. **रेख (Rekh):** \n   - सामंत की जागीर से होने वाली अनुमानित वार्षिक आय का लेखा-जोखा।\n   - **पट्टा रेख (Patta Rekh):** जागीर का पट्टा देते समय राजा द्वारा पट्टे में अंकित अनुमानित वार्षिक आय।\n   - **भरतू रेख (Bhartu Rekh):** युद्ध अथवा शांति काल में सामंत द्वारा राजा के राजकोष में वास्तव में चुकाई जाने वाली वार्षिक राशि।\n2. **छठूंद / छठाक (Chhathund):**\n   - जागीर की वार्षिक आय का 1/6 भाग, जो सामंत द्वारा राज्य सरकार को सैन्य सेवा के बदले वार्षिक रूप में दिया जाता था।\n3. **तलवार बंधाई (Talwar Bandhai):**\n   - नए जागीरदार के गद्दीनशीनी (उत्तराधिकार) के समय राजा द्वारा ली जाने वाली **उत्तराधिकार शुल्क / नजराना**।\n   - अन्य नाम: **'कैद खालसा'**, **'हुक्मनामा'**, **'पेषकशी'**, **'नजराना'**, **'नजर'** (मेवाड़ में तलवार बंधाई, मारवाड़ में हुक्मनामा/कैद खालसा, जैसलमेर में यह शुल्क नहीं लिया जाता था)।\n4. **न्योता कर (Nyota Barar):**\n   - राजा या सामंत के परिवार में विवाह या मांगलिक अवसर पर प्रजा व सामंतों से लिया जाने वाला विशेष कर।\n5. **ताजीम (Tazimi):**\n   - दरबार में जब सामंत उपस्थित होता, तो राजा के खड़े होकर उसका अभिवादन स्वीकार करने का सर्वोच्च सम्मान।",
+        "en": "### Key Feudal Terms & Taxes\n1. **Rekh:** Estimated annual revenue of a jagir.\n   - **Patta Rekh:** Theoretical revenue recorded in the original land grant deed.\n   - **Bhartu Rekh:** Actual annual revenue deposited into the state treasury.\n2. **Chhathund:** Military tribute amounting to 1/6th of annual revenue paid by the jagirdar.\n3. **Talwar Bandhai (Succession Cess):** Paid by a newly invested jagirdar upon assuming seat.\n   - Also termed **Hukmnama**, **Kaid Khalisa**, **Peshkashi**, **Nazrana** (Exempt in Jaisalmer).\n4. **Nyota Barar:** Special festive levy collected on weddings in the royal family.\n5. **Tazim:** Imperial court etiquette where the ruler stood up to welcome designated nobles."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. जागीर भूमि एवं भूमि के प्रकार",
+        "en": "3. Land Classifications & Tenures in Medieval Rajasthan"
+      },
+      "content_markdown": {
+        "hi": "### भूमि का वर्गीकरण (Classification of Land)\n* **1. खालसा भूमि (Khalsa Land):** राजा के सीधे नियंत्रण में रहने वाली केंद्रीय भूमि, जिसका लगान सीधे राजकीय कोष में जमा होता था।\n* **2. जागीर भूमि (Jagir Land):** सामंतों, सरदारों व रक्त-संबंधियों को सैन्य सेवाओं के बदले दी गई वंशानुगत भूमि।\n* **3. भोम भूमि (Bhom Land):** राज्य की सुरक्षा, बलिदान या सार्वजनिक सेवा करने वाले 'भोमिया' राजपूतों को दी गई लगान-मुक्त (कर-मुक्त) भूमि।\n* **4. सासण / इणान / डोली / पुण्यार्थ भूमि (Sasan / Doli Land):** मंदिरों, ब्राह्मणों, चारणों, भाटों एवं संतों को धार्मिक व परोपकारी कार्यों हेतु दी गई पूर्णतः कर-मुक्त एवं अहस्तांतरणीय भूमि।\n\n### सामंतों के विशेषाधिकार\n* सामंतों को अपने क्षेत्र में न्याय करने, स्थानीय पुलिस (चौकीदार) रखने तथा लगान वसूलने के दीवानी व फौजदारी अधिकार प्राप्त थे।",
+        "en": "### Classification of Land\n* **Khalsa Land:** Crown land directly administered by the royal treasury.\n* **Jagir Land:** Fiefs granted to nobles in return for military levies.\n* **Bhom Land:** Rent-free tenure awarded to Bhomias for acts of self-sacrifice or local protection.\n* **Sasan / Doli / Inam Land:** Tax-exempt lands perpetually donated to temples, Brahmins, Charans, and ascetics.\n\n### Feudal Judicial Powers\n* Nobles enjoyed full civil and criminal jurisdiction within their respective estates."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "राजस्थान की सामंतशाही व्यवस्था अनुबंध पर नहीं बल्कि 'रक्त संबंध एवं कुल बंधुत्व' (Kinship) पर आधारित थी।",
+      "en": "Rajasthan's feudal order was rooted in clan kinship and brotherhood rather than contractual vassalage."
+    },
+    {
+      "hi": "मेवाड़ में सामंतों की सर्वोच्च श्रेणी 'सोलह' (प्रथम श्रेणी उमराव) तथा द्वितीय 'बत्तीस' कहलाती थी।",
+      "en": "In Mewar, the top noble tier was called 'Solah' (16 Umraos) and second tier 'Battis' (32)."
+    },
+    {
+      "hi": "मेवाड़ में हरावल (सेना की अग्रिम पंक्ति) का नेतृत्व एवं राजतिलक का अधिकार सलूँबर के चूँडावतों को था।",
+      "en": "Salumbar Chundawats held the hereditary right to lead the vanguard (Harawal) and crown the Maharana."
+    },
+    {
+      "hi": "आमेर में पृथ्वीराज कछवाहा द्वारा स्थापित सामंती प्रशासनिक व्यवस्था को 'बारह कोटड़ी' कहा गया।",
+      "en": "Amer's feudal division established by Prithviraj Kachhwaha was termed 'Barah Kothri'."
+    },
+    {
+      "hi": "जागीर पट्टे में उल्लिखित अनुमानित वार्षिक राजस्व को 'पट्टा रेख' तथा वास्तविक प्रदत्त को 'भरतू रेख' कहते थे।",
+      "en": "Estimated revenue in the grant deed was 'Patta Rekh'; actual deposited revenue was 'Bhartu Rekh'."
+    },
+    {
+      "hi": "नए जागीरदार के गद्दी पर बैठने पर राजा द्वारा लिया जाने वाला उत्तराधिकार शुल्क 'तलवार बंधाई' (हुक्मनामा) कहलाता था।",
+      "en": "Succession cess paid upon a new jagirdar's accession was called 'Talwar Bandhai' or 'Hukmnama'."
+    },
+    {
+      "hi": "जैसलमेर रियासत में नए जागीरदार से 'तलवार बंधाई' (उत्तराधिकार शुल्क) नहीं लिया जाता था।",
+      "en": "In Jaisalmer princely state, succession fee (Talwar Bandhai) was completely exempt."
+    },
+    {
+      "hi": "धार्मिक कार्यों, ब्राह्मणों व चारणों को दी गई कर-मुक्त भूमि को 'सासण' या 'डोली' कहा जाता था।",
+      "en": "Tax-exempt charitable land given to temples, Brahmins, and Charans was termed 'Sasan' or 'Doli'."
+    },
+    {
+      "hi": "राजदरबार में सामंत के आगमन पर राजा द्वारा खड़े होकर सम्मान देने की प्रथा को 'ताजीम' कहा जाता था।",
+      "en": "The royal court protocol of the king standing to receive an honored noble was called 'Tazim'."
+    },
+    {
+      "hi": "मारवाड़ में राजा के सगे भाइयों और निकट संबंधियों को 'राजवी' कहा जाता था जो 3 पीढ़ियों तक करमुक्त रहते थे।",
+      "en": "In Marwar, close royal kin were titled 'Rajvi' and remained tax-exempt for three generations."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "14वीं सदी",
+      "event": {
+        "hi": "राव चूँडा द्वारा मारवाड़ में विधिवत सामंत प्रथा व जागीर व्यवस्था का बीजारोपण।",
+        "en": "Rao Chunda initiates the structured feudal jagirdari system in Marwar."
+      }
+    },
+    {
+      "year": "15वीं सदी (1438 ई.)",
+      "event": {
+        "hi": "मेवाड़ में चूँडा के त्याग के बाद सलूँबर ठिकाने को हरावल व राजतिलक के विशेषाधिकार प्रदान।",
+        "en": "Chundawats of Salumbar granted hereditary vanguard and coronation privileges in Mewar."
+      }
+    },
+    {
+      "year": "16वीं सदी (1527 ई.)",
+      "event": {
+        "hi": "आमेर में पृथ्वीराज कछवाहा द्वारा 'बारह कोटड़ी' व्यवस्था का संस्थागत गठन।",
+        "en": "Institutional establishment of the 'Barah Kothri' system in Amer by Prithviraj Kachhwaha."
+      }
+    },
+    {
+      "year": "1818 ई.",
+      "event": {
+        "hi": "ब्रिटिश सहायक संधियों के बाद सामंतों के सैन्य व प्रशासनिक अधिकारों में तेजी से गिरावट का आरंभ।",
+        "en": "Decline of noble military jurisdiction following British Subsidiary Treaties across Rajputana."
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "concept": {
+        "hi": "पट्टा रेख vs भरतू रेख",
+        "en": "Patta Rekh vs Bhartu Rekh"
+      },
+      "trap": {
+        "hi": "परीक्षार्थी अक्सर पट्टा रेख (अनुमानित/लिखित) और भरतू रेख (वास्तविक जमा राशि) में भ्रमित होते हैं।",
+        "en": "Students confuse Patta Rekh (estimated on paper) with Bhartu Rekh (actual paid tax)."
+      },
+      "trick": {
+        "hi": "पट्टा = पट्टे में लिखा अनुमान; भरतू = जो खजाने में 'भरा' (जमा किया) गया।",
+        "en": "Patta = Written deed; Bhartu = Actually deposited (Bharna)."
+      }
+    },
+    {
+      "concept": {
+        "hi": "तलवार बंधाई शुल्क: रियासतवार नाम",
+        "en": "Succession Cess: Regional Names"
+      },
+      "trap": {
+        "hi": "मेवाड़ में 'तलवार बंधाई/कैद खालसा'; मारवाड़ में 'हुक्मनामा/पेशकशी'; जैसलमेर में 'करमुक्त' (कोई शुल्क नहीं)।",
+        "en": "Mewar = Talwar Bandhai; Marwar = Hukmnama; Jaisalmer = Exempt."
+      },
+      "trick": {
+        "hi": "जैसलमेर = शून्य तलवार बंधाई (Zero Succession Tax)।",
+        "en": "Jaisalmer = Zero Succession Cess."
+      }
+    },
+    {
+      "concept": {
+        "hi": "खालसा vs सासण vs भोम",
+        "en": "Khalsa vs Sasan vs Bhom Land"
+      },
+      "trap": {
+        "hi": "खालसा = राजा के सीधे नियंत्रण में; सासण = मंदिरों/ब्राह्मणों को पुण्यार्थ; भोम = बलिदान करने वाले भोमिया राजपूतों को।",
+        "en": "Khalsa = Crown land; Sasan = Religious grant; Bhom = Military sacrifice grant."
+      },
+      "trick": {
+        "hi": "खालसा = सरकारी कोष; सासण = धर्म/दान; भोम = शौर्य/रक्षा।",
+        "en": "Khalsa = Crown; Sasan = Religion; Bhom = Bravery."
+      }
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.05.01-01",
+      "question": {
+        "hi": "मध्यकालीन राजस्थान में किसी सामंत की जागीर के पट्टे में उल्लिखित अनुमानित वार्षिक आय को क्या कहा जाता था?",
+        "en": "In medieval Rajasthan, what was the estimated annual revenue recorded in a noble's grant deed termed as?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "भरतू रेख", "en": "Bhartu Rekh" } },
+        { "id": "B", "text": { "hi": "पट्टा रेख", "en": "Patta Rekh" } },
+        { "id": "C", "text": { "hi": "छठूंद", "en": "Chhathund" } },
+        { "id": "D", "text": { "hi": "हुक्मनामा", "en": "Hukmnama" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "जागीर प्रदान करते समय राज्य द्वारा पट्टे पर दर्ज अनुमानित आय को 'पट्टा रेख' कहा जाता था, जबकि राज्य में वास्तव में दी जाने वाली राशि 'भरतू रेख' कहलाती थी।",
+        "en": "The estimated annual revenue assessed on paper was called 'Patta Rekh', whereas the actual deposited sum was 'Bhartu Rekh'."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC RAS Prelims 2018 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.05.01-02",
+      "question": {
+        "hi": "नए जागीरदार के गद्दी पर बैठने के अवसर पर राजा द्वारा लिया जाने वाला उत्तराधिकार शुल्क मेवाड़ रियासत में किस नाम से जाना जाता था?",
+        "en": "By what name was the succession tax charged upon a new noble's accession known in the princely state of Mewar?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "तलवार बंधाई (कैद खालसा)", "en": "Talwar Bandhai (Kaid Khalisa)" } },
+        { "id": "B", "text": { "hi": "छठूंद कर", "en": "Chhathund Tax" } },
+        { "id": "C", "text": { "hi": "न्योता कर", "en": "Nyota Tax" } },
+        { "id": "D", "text": { "hi": "धूंआ भाड़ा", "en": "Dhoona Bhada" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "नए जागीरदार के पदारोहण पर 'तलवार बंधाई' ली जाती थी। इसे मारवाड़ में 'हुक्मनामा' या 'पेशकशी' भी कहा जाता था।",
+        "en": "The succession cess collected upon new investiture was called 'Talwar Bandhai' in Mewar and 'Hukmnama' in Marwar."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 2nd Grade GK 2022 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.05.01-03",
+      "question": {
+        "hi": "राजस्थान की किस रियासत में नए जागीरदार के पदारोहण पर 'तलवार बंधाई' (उत्तराधिकार शुल्क) पूर्णतः माफ (शून्य) था?",
+        "en": "In which princely state of Rajasthan was the succession fee 'Talwar Bandhai' completely exempt?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मेवाड़", "en": "Mewar" } },
+        { "id": "B", "text": { "hi": "मारवाड़", "en": "Marwar" } },
+        { "id": "C", "text": { "hi": "जैसलमेर", "en": "Jaisalmer" } },
+        { "id": "D", "text": { "hi": "बीकानेर", "en": "Bikaner" } }
+      ],
+      "correct_option": "C",
+      "explanation": {
+        "hi": "जैसलमेर रियासत की दुर्गम मरुस्थलीय भौगोलिक परिस्थितियों के कारण वहाँ नए सामंत से तलवार बंधाई (हुक्मनामा) शुल्क नहीं लिया जाता था।",
+        "en": "Owing to harsh desert topography and defensive commitments, Jaisalmer exempted its nobles from Talwar Bandhai."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 1st Grade Teacher 2020 / RSSB VDO 2021"
+    },
+    {
+      "id": "MCQ-A.05.01-04",
+      "question": {
+        "hi": "मेवाड़ रियासत में युद्ध के समय सेना के अग्रिम दस्ते (हरावल) का नेतृत्व करने एवं नए महाराणा का राजतिलक करने का पैतृक अधिकार किस ठिकाने के पास था?",
+        "en": "In Mewar, which thikana held the hereditary privilege of leading the army vanguard (Harawal) and crowning the new Maharana?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "बिजोलिया (पंवार)", "en": "Bijolia (Panwar)" } },
+        { "id": "B", "text": { "hi": "सलूँबर (चूँडावत)", "en": "Salumbar (Chundawat)" } },
+        { "id": "C", "text": { "hi": "सादड़ी (झाला)", "en": "Sadri (Jhala)" } },
+        { "id": "D", "text": { "hi": "बेदला (चौहान)", "en": "Bedla (Chauhan)" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "कुंवर चूँडा के ज्येष्ठ पुत्र होने के बावजूद गद्दी त्यागने के उपलक्ष्य में सलूँबर के चूँडावतों को हरावल का नेतृत्व व राजतिलक का अधिकार दिया गया था।",
+        "en": "In honour of Prince Chunda's supreme sacrifice, Salumbar Chundawats enjoyed the vanguard lead and coronation rights."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC RAS Prelims 2016 / RSSB Lab Assistant 2022"
+    },
+    {
+      "id": "MCQ-A.05.01-05",
+      "question": {
+        "hi": "आमेर रियासत में कछवाहा शासक पृथ्वीराज कछवाहा द्वारा अपने पुत्रों के मध्य राज्य के विभाजन की व्यवस्था को क्या कहा जाता है?",
+        "en": "What was the administrative division of estates established by Prithviraj Kachhwaha in Amer termed as?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "सोलह उमराव", "en": "Solah Umrao" } },
+        { "id": "B", "text": { "hi": "बारह कोटड़ी", "en": "Barah Kothri" } },
+        { "id": "C", "text": { "hi": "बत्तीस बत्तीसा", "en": "Battis Battisa" } },
+        { "id": "D", "text": { "hi": "चार दरबारी", "en": "Char Darbari" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "पृथ्वीराज कछवाहा ने आमेर को अपने 12 पुत्रों के लिए 12 प्रशासनिक सामंती भागों में विभाजित किया, जिसे 'बारह कोटड़ी' कहा गया।",
+        "en": "Prithviraj Kachhwaha partitioned Amer into 12 noble estates for his sons, famously styled 'Barah Kothri'."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 2nd Grade GK 2019 / Police Constable 2020"
+    },
+    {
+      "id": "MCQ-A.05.01-06",
+      "question": {
+        "hi": "मध्यकालीन राजस्थान में राजा के सीधे प्रशासनिक नियंत्रण वाली सरकारी भूमि, जिसका लगान सीधे राजकोष में जमा होता था, क्या कहलाती थी?",
+        "en": "In medieval Rajasthan, what was the crown land under the direct administrative control of the king called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "जागीर भूमि", "en": "Jagir Land" } },
+        { "id": "B", "text": { "hi": "खालसा भूमि", "en": "Khalsa Land" } },
+        { "id": "C", "text": { "hi": "भोम भूमि", "en": "Bhom Land" } },
+        { "id": "D", "text": { "hi": "सासण भूमि", "en": "Sasan Land" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "जो भूमि किसी सामंत को न देकर राज्य के प्रत्यक्ष अधिकार में रखी जाती थी और उसका राजस्व सीधे राज्य के खजाने में जाता था, उसे 'खालसा' कहा जाता था।",
+        "en": "Crown lands administered directly by state officials without noble mediation were known as 'Khalsa Land'."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RSSB REET 2021 / Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.05.01-07",
+      "question": {
+        "hi": "धार्मिक संस्थाओं, मंदिरों, ब्राह्मणों, चारणों एवं संतों को दी गई पूर्णतः कर-मुक्त व अहस्तांतरणीय भूमि को क्या कहा जाता था?",
+        "en": "What was the tax-exempt, perpetual charitable land grant given to temples, Brahmins, and Charans termed as?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "सासण / डोली भूमि", "en": "Sasan / Doli Land" } },
+        { "id": "B", "text": { "hi": "चरणोत भूमि", "en": "Charnot Land" } },
+        { "id": "C", "text": { "hi": "गोचर भूमि", "en": "Gochar Land" } },
+        { "id": "D", "text": { "hi": "पीवल भूमि", "en": "Peewal Land" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "धर्मार्थ व पुण्यार्थ दी गई भूमि को 'सासण' या 'डोली' कहा जाता था। यह भूमि सदैव के लिए कर-मुक्त होती थी और इसे छीना नहीं जा सकता था।",
+        "en": "Religious and charitable grants made in perpetuity were designated 'Sasan' or 'Doli' lands."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC College Assistant Professor 2020 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.05.01-08",
+      "question": {
+        "hi": "राजदरबार में जब किसी विशेषाधिकार प्राप्त सामंत के उपस्थित होने पर राजा सम्मान स्वरूप अपने सिंहासन से खड़ा होता था, तो उस प्रथा को क्या कहा जाता था?",
+        "en": "What was the court etiquette called where the king stood up from the throne to receive an honored noble?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कुरब", "en": "Kurab" } },
+        { "id": "B", "text": { "hi": "ताजीम", "en": "Tazim" } },
+        { "id": "C", "text": { "hi": "नजरानगी", "en": "Nazrangi" } },
+        { "id": "D", "text": { "hi": "बाँह पसाव", "en": "Banh Pasav" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "'ताजीम' दरबार का सर्वोच्च सम्मान था। इसमें राजा सामंत के आने व प्रस्थान पर खड़ा होकर आदर प्रकट करता था (दोवड़ी ताजीम व इकहरी ताजीम)।",
+        "en": "'Tazim' was the premier royal honor wherein the ruler stood up to acknowledge the entry and exit of the noble."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB Forester 2022"
+    },
+    {
+      "id": "MCQ-A.05.01-09",
+      "question": {
+        "hi": "सामंत द्वारा अपनी जागीर की वार्षिक आय का 1/6 भाग सैन्य सेवा के बदले राज्य को देने वाला कर क्या कहलाता था?",
+        "en": "What was the tribute amounting to 1/6th of annual revenue paid by a noble in lieu of military service called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "लाटा", "en": "Lata" } },
+        { "id": "B", "text": { "hi": "छठूंद (छठाक)", "en": "Chhathund" } },
+        { "id": "C", "text": { "hi": "घड़ी कर", "en": "Ghari Kar" } },
+        { "id": "D", "text": { "hi": "खर-लाखड़", "en": "Khar-Lakhar" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "जागीरदार द्वारा अपनी आय का छठवाँ हिस्सा (1/6 भाग) राज्य को सुरक्षा व सेना रखरखाव के बदले देने की व्यवस्था 'छठूंद' कहलाती थी।",
+        "en": "'Chhathund' was the military levy calculated as 1/6th of the noble's assessed income."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC School Lecturer 2022 / RSSB Junior Accountant 2024"
+    },
+    {
+      "id": "MCQ-A.05.01-10",
+      "question": {
+        "hi": "मारवाड़ रियासत में शासक के निकट सगे संबंधियों (भाइयों व चाचाओं) की श्रेणी को क्या कहा जाता था, जो तीन पीढ़ियों तक करमुक्त रहते थे?",
+        "en": "In Marwar, what were the close royal kin titled who remained tax-exempt for three generations?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मुत्सद्दी", "en": "Mutasaddi" } },
+        { "id": "B", "text": { "hi": "राजवी", "en": "Rajvi" } },
+        { "id": "C", "text": { "hi": "सरदार", "en": "Sardar" } },
+        { "id": "D", "text": { "hi": "गनायत", "en": "Ganayat" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "मारवाड़ में महाराजा के सगे भाइयों व चाचा-ताऊ के वंशजों को 'राजवी' कहा जाता था। इन्हें तीन पीढ़ियों तक रेख और हुक्मनामा से छूट प्राप्त थी।",
+        "en": "In Marwar, the ruler's immediate royal kin were designated 'Rajvi' and enjoyed 3 generations of tax immunity."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC RAS 2021 / RSSB CET Graduate 2023"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "id": "A.05.02",
+  "subject_id": "history",
+  "unit_id": "A.05",
+  "slug": "medieval-revenue-and-tax-system-lag-bag",
+  "title": {
+    "hi": "मध्यकालीन भू-राजस्व व्यवस्था एवं लाग-बाग — लाटा, कूंता, मुकाता, चाही-बारानी व प्रमुख कर",
+    "en": "Medieval Land Revenue System & Lag-Bag — Lata, Kunta, Mukata, Chahi-Barani & Taxes"
+  },
+  "short_summary": {
+    "hi": "मध्यकालीन राजस्थान में भू-राजस्व निर्धारण की पद्धतियाँ (लाटा, कूंता, मुकाता, बटाई), सिंचाई व भूमि के प्रकार (चाही, बारानी, पीवल, गोरा), सामंती लाग-बाग (चंवरी कर, खर-लाखड़, धूंआ कर, गनीम-बराड़) तथा बैठ-बेगार प्रथा का विस्तृत विश्लेषण।",
+    "en": "Land revenue assessment methods (Lata, Kunta, Mukata, Batai), land classifications by irrigation (Chahi, Barani, Peewal), feudal cesses/lag-bag (Chauri kar, Khar-Lakhar, Dhuwan kar, Ganim-Barar), and forced labor (Baith-Begar)."
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
+    "last_updated": "2026-09-14",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. भू-राजस्व निर्धारण एवं वसूली की प्रमुख पद्धतियाँ",
+        "en": "1. Land Revenue Assessment & Collection Methods"
+      },
+      "content_markdown": {
+        "hi": "### मध्यकालीन राजस्थान में लगान निर्धारण की प्रणालियाँ\n\n| पद्धति | स्वरूप एवं निर्धारण विधि |\n|---|---|\n| **1. लाटा (Lata)** | फसल कटने के बाद खलिहान में अनाज का ढेर (रास) बनाकर तौल के आधार पर राज्य का हिस्सा निर्धारित करना। |\n| **2. कूंता (Kunta)** | खेत में **खड़ी फसल को देखकर** अनुमान के आधार पर राज्य के राजस्व का निर्धारण करना। |\n| **3. बटाई (Batai)** | पैदावार का राज्य और किसान के मध्य प्रत्यक्ष विभाजन। इसके तीन मुख्य रूप थे:<br>- **खेत बटाई:** फसल पकने पर खेत में खड़ी फसल का बंटवारा।<br>- **लंक बटाई:** फसल काटकर बिना दाने निकाले (पूलों में) बंटवारा।<br>- **रास बटाई:** दाना निकालने के बाद खलिहान में ढेर लगाकर बंटवारा। |\n| **4. मुकाता / मुकाती (Mukata)** | नकदी के रूप में एकमुश्त निश्चित लगान प्रति बीघा वसूलने की व्यवस्था। |\n| **5. घूघरी (Ghughari)** | प्रति हल अथवा प्रति बीघा के हिसाब से कुछ सेर अनाज निश्चित कर लेना। |\n| **6. बिगोड़ी (Bigodi)** | प्रति बीघा भूमि पर नकद रूप में निर्धारित राजस्व दर। |",
+        "en": "### Revenue Assessment Systems\n* **Lata:** Division of harvested grain after threshing and piling in the threshing yard.\n* **Kunta:** Visual estimation of yield based on standing crop in the field.\n* **Batai (Crop Sharing):** Direct produce sharing:\n  - **Khet Batai:** Division in the field before harvesting.\n  - **Lank Batai:** Division of harvested sheaves before threshing.\n  - **Ras Batai:** Division of clean grain after winnowing.\n* **Mukata:** Fixed cash rate per unit of land.\n* **Bigodi:** Cash assessment calculated per bigha."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. भूमि एवं फसलों का वर्गीकरण (सिंचाई व स्थिति अनुसार)",
+        "en": "2. Classification of Agricultural Land by Irrigation"
+      },
+      "content_markdown": {
+        "hi": "### सिंचाई व उर्वरता के आधार पर भूमि के प्रकार\n* **चाही (Chahi):** कुओं द्वारा सींची जाने वाली अत्यंत उपजाऊ भूमि।\n* **नहरी (Nehri):** नहरों व नालों के जल से सींची जाने वाली भूमि।\n* **तालाबी (Talabi):** तालाबों या पोखरों के जल से सिंचित भूमि।\n* **बारानी (Barani):** पूर्णतः वर्षा के जल पर निर्भर असिंचित भूमि।\n* **पीवल (Peewal):** नियमित रूप से सिंचित की जाने वाली भूमि (असिंचित को 'गोरमा/अपीवल' भी कहते थे)।\n* **गोरवा / गोरमा / गोयरा (Goyra):** गाँव की आबादी के बिल्कुल निकट स्थित भूमि, जहाँ घरेलू खाद-कचरा मिलने से उर्वरता सर्वाधिक होती थी।\n* **माल / मगरा (Mal / Magra):** पठारी या पहाड़ी असिंचित भूमि।\n\n### प्रमुख कृषि मौसम\n* **स्यालू / सावणी (Kharif):** वर्षा ऋतु की फसलें (बाजरा, मक्का, ज्वार, मोठ, ग्वार)।\n* **उन्हालू / बैसाखी (Rabi):** शीतकालीन फसलें (गेहूं, जौ, चना, सरसों)।",
+        "en": "### Land Classification\n* **Chahi:** Well-irrigated fertile land.\n* **Nehri:** Canal-irrigated land.\n* **Talabi:** Tank/pond irrigated land.\n* **Barani:** Rain-dependent un-irrigated dry land.\n* **Peewal:** Regularly irrigated land.\n* **Goyra / Gorma:** Farmland adjacent to the village settlement, naturally fertilized by organic manure.\n\n### Agricultural Seasons\n* **Syalu / Sawani (Kharif):** Monsoon crops (Millet, Maize, Sorghum, Pulses).\n* **Unhalu / Baisakhi (Rabi):** Winter crops (Wheat, Barley, Gram, Mustard)."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. प्रमुख सामंती लाग-बाग (अतिरिक्त गैर-कानूनी कर) एवं बैठ-बेगार",
+        "en": "3. Feudal Cesses (Lag-Bag) & Forced Labor (Baith-Begar)"
+      },
+      "content_markdown": {
+        "hi": "### कुख्यात सामंती लाग-बाग (Bijolia & Marwar Cesses)\nरियासतों में मूल लगान के अतिरिक्त किसानों से 84 से अधिक प्रकार की 'लाग-बाग' (अवैध उपकर) वसूली जाती थी:\n\n1. **चंवरी कर (Chauri Kar):** किसान द्वारा अपनी पुत्री के विवाह के अवसर पर जागीरदार को दिया जाने वाला कर (1903 ई. में बिजोलिया के राव कृष्णसिंह द्वारा 5 रुपये प्रति विवाह लगाया गया)।\n2. **तलवार बंधाई (Talwar Bandhai):** 1906 ई. में बिजोलिया के राव पृथ्वीसिंह ने गद्दी पर बैठने पर यह कर किसानों पर थोप दिया।\n3. **खर-लाखड़ (Khar-Lakhar):** राजा या सामंत के घोड़ों, ऊँटों व हाथियों हेतु चारा, घास व लकड़ी मुफ्त में किसानों से वसूलना।\n4. **धूंआ कर / घर-गिनती (Dhuwan Kar):** प्रत्येक परिवार से चूल्हा जलने (घर के आधार पर) लिया जाने वाला कर।\n5. **गनीम-बराड़ (Ganim-Barar):** युद्ध के समय अथवा मराठा आक्रमणकारियों को चौथ देने हेतु प्रजा से वसूला जाने वाला युद्ध-कर।\n6. **खिचड़ी लाग:** सामंती सेना के पड़ाव के समय सैनिकों के भोजन हेतु गाँव वालों से वसूला जाने वाला कर।\n7. **डाण / जकात (Dan / Zakat):** राज्य की सीमा में व्यापारिक माल के आयात-निर्यात पर लिया जाने वाला चुंगी कर।\n\n### बैठ-बेगार प्रथा (Forced Unpaid Labor)\n* किसानों, कारीगरों, चर्मकारों व दलित जातियों से बिना कोई पारिश्रमिक दिए जबरन घरेलू, सामंती व कृषि कार्य करवाने की अमानवीय प्रथा 'बैठ-बेगार' कहलाती थी।",
+        "en": "### Oppressive Feudal Cesses (Lag-Bag)\nPeasants were burdened with over 84 varieties of exactions over and above land rent:\n1. **Chauri Kar:** Fee levied on the marriage of a peasant's daughter (Imposed in 1903 at Rs 5 by Rao Krishnasingh of Bijolia).\n2. **Talwar Bandhai:** Succession tax shifted onto peasants by Rao Prithvisingh of Bijolia in 1906.\n3. **Khar-Lakhar:** Free supply of wood, grass, and fodder for royal stables.\n4. **Dhuwan Kar:** Hearth tax imposed on every household.\n5. **Ganim-Barar:** Wartime cess levied to pay off Maratha tributes.\n6. **Khichdi Lag:** Food levy charged on villagers when the state army encamped.\n7. **Dan (Transit Duty):** Customs and toll duty on goods.\n\n### Baith-Begar (Forced Labor)\n* Coerced, unpaid labor extracted from peasants, artisans, and underprivileged castes."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "खलिहान में कटी फसल का ढेर लगाकर राज्य का हिस्सा तय करना 'लाटा' कहलाता था।",
+      "en": "Assessing the state share by weighing the threshed grain pile in the yard was termed 'Lata'."
+    },
+    {
+      "hi": "खेत में खड़ी फसल को देखकर उपज का अनुमान लगाना 'कूंता' कहलाता था।",
+      "en": "Estimating the yield by visual inspection of standing crops in the field was called 'Kunta'."
+    },
+    {
+      "hi": "कुओं द्वारा सिंचित उपजाऊ भूमि को 'चाही' तथा वर्षा पर निर्भर असिंचित भूमि को 'बारानी' कहते थे।",
+      "en": "Well-irrigated land was 'Chahi' while rain-fed un-irrigated land was 'Barani'."
+    },
+    {
+      "hi": "गाँव की आबादी के समीप स्थित सर्वाधिक खाद-युक्त उपजाऊ भूमि को 'गोयरा / गोरमा' कहा जाता था।",
+      "en": "Highly fertile soil situated immediately adjacent to village dwellings was called 'Goyra'."
+    },
+    {
+      "hi": "1903 ई. में बिजोलिया के राव कृष्णसिंह ने पुत्री के विवाह पर 5 रुपये का 'चंवरी कर' लगाया था।",
+      "en": "In 1903, Rao Krishnasingh of Bijolia levied a Rs 5 'Chauri Tax' on the marriage of daughters."
+    },
+    {
+      "hi": "1906 ई. में बिजोलिया के राव पृथ्वीसिंह ने तलवार बंधाई कर का भार किसानों पर डाल दिया था।",
+      "en": "In 1906, Rao Prithvisingh of Bijolia imposed the burden of Talwar Bandhai upon peasants."
+    },
+    {
+      "hi": "सामंत के पशुओं हेतु मुफ्त चारा व लकड़ी की वसूली को 'खर-लाखड़' लाग कहा जाता था।",
+      "en": "Exaction of free fodder and wood for feudal livestock was called 'Khar-Lakhar'."
+    },
+    {
+      "hi": "युद्ध के समय अथवा मराठों को चौथ देने हेतु जनता से वसूला गया कर 'गनीम-बराड़' कहलाता था।",
+      "en": "The war emergency tax collected to pay Maratha tributes was termed 'Ganim-Barar'."
+    },
+    {
+      "hi": "बिना पारिश्रमिक दिए किसानों व कारीगरों से जबरन काम कराने की कुप्रथा को 'बैठ-बेगार' कहा जाता था।",
+      "en": "Forced labor extracted without compensation from peasants was called 'Baith-Begar'."
+    },
+    {
+      "hi": "प्रति बीघा भूमि पर नकद रूप में निर्धारित भू-राजस्व दर को 'बिगोड़ी' या 'मुकाता' कहते थे।",
+      "en": "Fixed cash revenue rate assessed per bigha was called 'Bigodi' or 'Mukata'."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "मध्यकाल",
+      "event": {
+        "hi": "राजस्थान की समस्त रियासतों में लाटा-कूंता एवं बटाई प्रणाली का व्यापक प्रचलन।",
+        "en": "Widespread prevalence of Lata-Kunta and crop-sharing systems across Rajputana."
+      }
+    },
+    {
+      "year": "18वीं सदी",
+      "event": {
+        "hi": "मराठा आक्रमणों के दबाव में रियासतों द्वारा 'गनीम-बराड़' व 'खिचड़ी लाग' जैसे नए करों का थोपा जाना।",
+        "en": "Imposition of Ganim-Barar and transit war cesses due to Maratha raids."
+      }
+    },
+    {
+      "year": "1903 ई.",
+      "event": {
+        "hi": "बिजोलिया जागीरदार कृष्णसिंह द्वारा किसानों पर कुख्यात 'चंवरी कर' लगाना।",
+        "en": "Rao Krishnasingh imposes the oppressive Chauri tax in Bijolia thikana."
+      }
+    },
+    {
+      "year": "1906 ई.",
+      "event": {
+        "hi": "राव पृथ्वीसिंह द्वारा किसानों पर 'तलवार बंधाई कर' अधिरोपित करना — बिजोलिया विद्रोह का नया चरण।",
+        "en": "Rao Prithvisingh shifts the burden of Talwar Bandhai onto Bijolia peasantry."
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "concept": {
+        "hi": "लाटा vs कूंता",
+        "en": "Lata vs Kunta"
+      },
+      "trap": {
+        "hi": "लाटा और कूंता के अंतर में अक्सर गलती होती है।",
+        "en": "Candidates frequently interchange Lata and Kunta."
+      },
+      "trick": {
+        "hi": "कूंता = 'क' से खड़ी फसल का अनुमान; लाटा = 'ल' से अनाज की राशि/ढेर (लूट/तौल)।",
+        "en": "Kunta = Standing crop estimate (Khadi fasal); Lata = Threshed grain heap."
+      }
+    },
+    {
+      "concept": {
+        "hi": "चाही vs बारानी vs गोयरा",
+        "en": "Chahi vs Barani vs Goyra"
+      },
+      "trap": {
+        "hi": "चाही = कुओं से सिंचित; बारानी = केवल वर्षा पर निर्भर; गोयरा = आबादी के पास की खादयुक्त भूमि।",
+        "en": "Chahi = Wells; Barani = Rainfed; Goyra = Near settlement."
+      },
+      "trick": {
+        "hi": "चाही = कुआँ (Water-well); बारानी = बारिश (Rain); गोयरा = गाँव के पास (Near village).",
+        "en": "Chahi = Wells; Barani = Rain; Goyra = Village adjacent."
+      }
+    },
+    {
+      "concept": {
+        "hi": "चंवरी कर vs तलवार बंधाई (वर्ष व जागीरदार)",
+        "en": "Chauri Kar vs Talwar Bandhai (Year & Rulers)"
+      },
+      "trap": {
+        "hi": "चंवरी कर = 1903 (राव कृष्णसिंह); तलवार बंधाई = 1906 (राव पृथ्वीसिंह)।",
+        "en": "Chauri Kar = 1903 (Rao Krishnasingh); Talwar Bandhai = 1906 (Rao Prithvisingh)."
+      },
+      "trick": {
+        "hi": "कृष्ण ने चंवरी लगाई (1903), पृथ्वी ने तलवार बांधी (1906)।",
+        "en": "Krishna imposed Chauri (1903), Prithvi imposed Talwar (1906)."
+      }
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.05.02-01",
+      "question": {
+        "hi": "मध्यकालीन राजस्थान में खेत में खड़ी फसल को देखकर लगान (राजस्व) का अनुमान लगाने की पद्धति को क्या कहा जाता था?",
+        "en": "In medieval Rajasthan, what was the method of estimating land revenue by inspecting the standing crop called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "लाटा", "en": "Lata" } },
+        { "id": "B", "text": { "hi": "कूंता", "en": "Kunta" } },
+        { "id": "C", "text": { "hi": "मुकाता", "en": "Mukata" } },
+        { "id": "D", "text": { "hi": "बिगोड़ी", "en": "Bigodi" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "खेत में खड़ी फसल को देखकर उपज व लगान का अनुमान लगाने की प्रथा 'कूंता' (आंकना) कहलाती थी, जबकि फसल कटने के बाद ढेर लगाकर तौलना 'लाटा' कहलाता था।",
+        "en": "Visual estimation of standing crop was called 'Kunta', whereas weighing threshed grain piles was called 'Lata'."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC RAS Prelims 2021 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.05.02-02",
+      "question": {
+        "hi": "1903 ई. में बिजोलिया ठिकाने के किस जागीरदार ने किसानों पर पुत्री के विवाह के अवसर पर 'चंवरी कर' लगाया था?",
+        "en": "In 1903 AD, which jagirdar of Bijolia imposed the 'Chauri Tax' on peasants on the occasion of their daughters' marriage?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "राव गोविंद दास", "en": "Rao Govind Das" } },
+        { "id": "B", "text": { "hi": "राव कृष्णसिंह", "en": "Rao Krishnasingh" } },
+        { "id": "C", "text": { "hi": "राव पृथ्वीसिंह", "en": "Rao Prithvisingh" } },
+        { "id": "D", "text": { "hi": "राव केसरी सिंह", "en": "Rao Kesari Singh" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "1903 ई. में राव कृष्णसिंह ने 5 रुपये प्रति विवाह 'चंवरी कर' लगाया, जिसके विरोध में किसानों ने दो वर्षों तक अपनी पुत्रियों का विवाह रोक दिया था।",
+        "en": "In 1903, Rao Krishnasingh levied the Rs 5 Chauri tax, leading to a boycott of marriages by peasants for two years."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 2nd Grade GK 2022 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.05.02-03",
+      "question": {
+        "hi": "मध्यकालीन राजस्थान में कुओं द्वारा सिंचित की जाने वाली उपजाऊ भूमि को किस नाम से जाना जाता था?",
+        "en": "In medieval Rajasthan, what was the fertile agricultural land irrigated by wells called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "बारानी भूमि", "en": "Barani Land" } },
+        { "id": "B", "text": { "hi": "चाही भूमि", "en": "Chahi Land" } },
+        { "id": "C", "text": { "hi": "गोयरा भूमि", "en": "Goyra Land" } },
+        { "id": "D", "text": { "hi": "माल भूमि", "en": "Mal Land" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "कुओं से सींची जाने वाली भूमि 'चाही', नहरों से 'नहरी', तालाबों से 'तालाबी' तथा वर्षा पर निर्भर भूमि 'बारानी' कहलाती थी।",
+        "en": "Well-irrigated land was known as 'Chahi', while rain-fed land was known as 'Barani'."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 1st Grade Teacher 2020 / Police Constable 2020"
+    },
+    {
+      "id": "MCQ-A.05.02-04",
+      "question": {
+        "hi": "गाँव की आबादी के बिल्कुल निकट स्थित भूमि, जो प्राकृतिक खाद मिलने के कारण सर्वाधिक उर्वर होती थी, क्या कहलाती थी?",
+        "en": "What was the fertile farmland located immediately adjacent to the village settlement called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कंकड़ भूमि", "en": "Kankad Land" } },
+        { "id": "B", "text": { "hi": "गोयरा / गोरमा भूमि", "en": "Goyra / Gorma Land" } },
+        { "id": "C", "text": { "hi": "चरणोत भूमि", "en": "Charnot Land" } },
+        { "id": "D", "text": { "hi": "बीड़ भूमि", "en": "Beed Land" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "आबादी के पास वाली भूमि को 'गोयरा' या 'गोरमा' कहा जाता था। यहाँ खाद सुलभ होने से पैदावार सबसे अधिक होती थी।",
+        "en": "Land nearest to the village was termed 'Goyra' or 'Gorma', boasting maximum fertility due to organic domestic manure."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC RAS Prelims 2016 / RSSB REET Level 2"
+    },
+    {
+      "id": "MCQ-A.05.02-05",
+      "question": {
+        "hi": "युद्ध के समय अथवा मराठा आक्रमणकारियों को चौथ/हर्जाना देने के उद्देश्य से प्रजा पर लगाया जाने वाला विशेष कर क्या कहलाता था?",
+        "en": "What was the special wartime tax levied on subjects to pay off Maratha tributes called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "धूंआ कर", "en": "Dhuwan Kar" } },
+        { "id": "B", "text": { "hi": "गनीम-बराड़", "en": "Ganim-Barar" } },
+        { "id": "C", "text": { "hi": "खर-लाखड़", "en": "Khar-Lakhar" } },
+        { "id": "D", "text": { "hi": "खिचड़ी लाग", "en": "Khichdi Lag" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "शत्रु (मराठा/मुग़ल) से रक्षा अथवा उन्हें दी जाने वाली रकम जुटाने हेतु जनता पर 'गनीम-बराड़' (युद्ध कर) लगाया जाता था।",
+        "en": "'Ganim-Barar' was an emergency wartime levy collected from subjects to meet military expenditures or tribute demands."
+      },
+      "difficulty": "hard",
+      "pyq_source": "RPSC College Assistant Professor 2020 / RSSB VDO 2021"
+    },
+    {
+      "id": "MCQ-A.05.02-06",
+      "question": {
+        "hi": "सामंत अथवा राजा के घोड़ों व मवेशियों के लिए किसानों से मुफ्त में चारा, घास व लकड़ी वसूलने की सामंती लाग क्या कहलाती थी?",
+        "en": "What was the feudal cess called that forced peasants to supply free fodder and wood for royal livestock?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "खर-लाखड़", "en": "Khar-Lakhar" } },
+        { "id": "B", "text": { "hi": "बिगोड़ी", "en": "Bigodi" } },
+        { "id": "C", "text": { "hi": "डाण", "en": "Dan" } },
+        { "id": "D", "text": { "hi": "न्योता लाग", "en": "Nyota Lag" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "'खर-लाखड़' के अंतर्गत जागीरदार के अस्तबल के लिए किसानों को मुफ्त में घास, पूले और सूखी लकड़ियाँ पहुँचानी पड़ती थीं।",
+        "en": "'Khar-Lakhar' was the oppressive demand compelling farmers to furnish free dry wood and grass for noble stables."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 2nd Grade GK 2018 / RSSB Lab Assistant 2022"
+    },
+    {
+      "id": "MCQ-A.05.02-07",
+      "question": {
+        "hi": "मध्यकालीन राजस्थान में बिना किसी पारिश्रमिक के किसानों और शिल्पकारों से जबरन श्रम करवाने की अमानवीय प्रथा को क्या कहा जाता था?",
+        "en": "What was the oppressive practice of extracting forced unpaid labor from peasants and artisans called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "सागड़ी प्रथा", "en": "Sagari Pratha" } },
+        { "id": "B", "text": { "hi": "बैठ-बेगार प्रथा", "en": "Baith-Begar Pratha" } },
+        { "id": "C", "text": { "hi": "डावरिया प्रथा", "en": "Davariya Pratha" } },
+        { "id": "D", "text": { "hi": "त्याग प्रथा", "en": "Tyag Pratha" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "बिना मजदूरी दिए जबरन काम कराने की कुप्रथा को 'बैठ-बेगार' कहा जाता था। किसान आंदोलनों का यह एक प्रमुख कारण था।",
+        "en": "Unpaid coerced labor was called 'Baith-Begar', which became a primary trigger for peasant revolts."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RSSB Patwari 2021 / Police Constable 2022"
+    },
+    {
+      "id": "MCQ-A.05.02-08",
+      "question": {
+        "hi": "फसल कटने के बाद बिना दाने निकाले (फसल के पूलों में) राज्य और किसान के बीच होने वाले लगान बंटवारे को क्या कहा जाता था?",
+        "en": "What was the crop division called where harvested sheaves were divided before threshing out grains?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "खेत बटाई", "en": "Khet Batai" } },
+        { "id": "B", "text": { "hi": "लंक बटाई", "en": "Lank Batai" } },
+        { "id": "C", "text": { "hi": "रास बटाई", "en": "Ras Batai" } },
+        { "id": "D", "text": { "hi": "मुकाता", "en": "Mukata" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "कटी हुई फसल के पूलों (बंडल) का सीधे बंटवारा करना 'लंक बटाई' कहलाता था, जबकि दाना निकालने के बाद खलिहान में बंटवारा 'रास बटाई' कहलाता था।",
+        "en": "Dividing the sheaves directly before winnowing was termed 'Lank Batai', whereas dividing cleaned grain heaps was 'Ras Batai'."
+      },
+      "difficulty": "hard",
+      "pyq_source": "RPSC School Lecturer 2022 / RSSB Forester 2022"
+    },
+    {
+      "id": "MCQ-A.05.02-09",
+      "question": {
+        "hi": "प्रत्येक घर अथवा चूल्हे पर लगने वाले पारिवारिक कर को मध्यकालीन राजस्थान में किस नाम से जाना जाता था?",
+        "en": "By what name was the family tax levied on each hearth/household known in medieval Rajasthan?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "धूंआ कर (घर-गिनती)", "en": "Dhuwan Kar (Ghar-Ginti)" } },
+        { "id": "B", "text": { "hi": "दामिनी कर", "en": "Damini Kar" } },
+        { "id": "C", "text": { "hi": "आँकड़ा कर", "en": "Aankda Kar" } },
+        { "id": "D", "text": { "hi": "खिचड़ी कर", "en": "Khichdi Kar" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "गाँव के प्रत्येक घर में जलने वाले चूल्हे के आधार पर वार्षिक रूप से वसूले जाने वाले कर को 'धूंआ भाड़ा' या 'धूंआ कर' कहा जाता था।",
+        "en": "'Dhuwan Kar' (Hearth tax) was levied annually on every dwelling unit where a fire was lit."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.05.02-10",
+      "question": {
+        "hi": "प्रति बीघा भूमि पर नकद रूप में तय किया गया निश्चित वार्षिक लगान क्या कहलाता था?",
+        "en": "What was the fixed annual cash revenue assessed per bigha of land called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "बिगोड़ी (मुकाता)", "en": "Bigodi (Mukata)" } },
+        { "id": "B", "text": { "hi": "कूंता", "en": "Kunta" } },
+        { "id": "C", "text": { "hi": "लाटा", "en": "Lata" } },
+        { "id": "D", "text": { "hi": "घूघरी", "en": "Ghughari" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "प्रति बीघा भूमि पर निर्धारित नकद लगान दर को 'बिगोड़ी' या 'मुकाता' कहा जाता था।",
+        "en": "The fixed cash assessment levied per bigha of land was termed 'Bigodi' or 'Mukata'."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 2nd Grade Sanskrit 2019 / RSSB Junior Accountant 2024"
+    }
+  ]
+}

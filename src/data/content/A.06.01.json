@@ -1,0 +1,380 @@
+{
+  "id": "A.06.01",
+  "subject_id": "history",
+  "unit_id": "A.06",
+  "slug": "1857-revolt-outbreak-and-military-cantonments",
+  "title": {
+    "hi": "1857 की क्रांति: राजस्थान में विप्लव एवं 6 सैन्य छावनियाँ — नसीराबाद, नीमच, देवली व एरिनपुरा",
+    "en": "1857 Revolt in Rajasthan: Outbreak & 6 Cantonments — Naseerabad, Neemuch, Deoli & Erinpura"
+  },
+  "short_summary": {
+    "hi": "1857 की क्रांति के समय राजस्थान की राजनीतिक स्थिति (ए.जी.जी. जॉर्ज पैट्रिक लॉरेंस), 6 सैनिक छावनियाँ (नसीराबाद, नीमच, देवली, ब्यावर, खेरवाड़ा, एरिनपुरा), 28 मई 1857 को नसीराबाद से क्रांति का आगाज (15वीं बंगाल नेटिव इन्फैंट्री), 3 जून 1857 को नीमच में विद्रोह (मोहम्मद अली बेग), डूंगला गाँव में अंग्रेज शरणार्थियों की रक्षा (रूघाराम किसान), तथा देवली का विप्लव।",
+    "en": "Political setup in 1857 (AGG George Patrick Lawrence), 6 British Cantonments, outbreak at Naseerabad on May 28, 1857 (15th BNI), Neemuch revolt on June 3, 1857 (Mohammad Ali Beg), refuge at Rugharam's house in Doongla, and Deoli."
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
+    "last_updated": "2026-09-14",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. 1857 क्रांति के समय राजस्थान का प्रशासनिक ढाँचा एवं पॉलिटिकल एजेंट",
+        "en": "1. Administrative Setup & Political Agents during 1857 Revolt"
+      },
+      "content_markdown": {
+        "hi": "### राजपूताना एजेंसी एवं ए.जी.जी. (AGG)\n* **एजेंट टू गवर्नर जनरल (AGG):** क्रांति के समय राजस्थान के AGG **जॉर्ज पैट्रिक लॉरेंस** (George Patrick Lawrence) थे।\n* **मुख्यालय:** ग्रीष्मकालीन मुख्यालय **माउंट आबू (सिरोही)** तथा शीतकालीन मुख्यालय **अजमेर** था। 19 मई 1857 को मेरठ विद्रोह की सूचना लॉरेंस को माउंट आबू में मिली थी।\n* **राजस्थान के प्रथम AGG:** **मिस्टर लोकेट (1832 ई.)**।\n\n### प्रमुख रियासतें, शासक एवं पॉलिटिकल एजेंट (Exam Match Table)\n\n| रियासत | तत्कालीन शासक | ब्रिटिश पॉलिटिकल एजेंट (P.A.) |\n|---|---|---|\n| **मेवाड़ (उदयपुर)** | महाराणा स्वरूप सिंह | **मेजर शॉवर्स (Major Showers)** |\n| **मारवाड़ (जोधपुर)** | महाराजा तख्तसिंह | **मॉक मेसन (Mock Meson)** |\n| **जयपुर** | महाराजा सवाई रामसिंह द्वितीय | **कर्नल ईडन (Major Eden)** |\n| **कोटा** | महाराव रामसिंह द्वितीय | **मेजर बर्टन (Major Burton)** |\n| **भरतपुर** | महाराजा जसवंत सिंह (नाबालिग) | **मॉरिसन (Morrison)** |\n| **सिरोही** | महाराव शिवसिंह | **जे.डी. हॉल (J.D. Hall)** |",
+        "en": "### Administrative Framework\n* **Agent to the Governor-General (AGG):** **George Patrick Lawrence** was the AGG during the 1857 uprising.\n* **Headquarters:** Mount Abu (Summer HQ) and Ajmer (Winter HQ).\n* **First AGG of Rajputana (1832):** Mr. Abraham Lockett.\n\n### States, Rulers & Political Agents (1857)\n* **Mewar (Udaipur):** Maharana Swaroop Singh | Major Showers\n* **Marwar (Jodhpur):** Maharaja Takht Singh | Mock Meson\n* **Jaipur:** Maharaja Sawai Ram Singh II | Major Eden\n* **Kota:** Maharao Ram Singh II | Major Burton\n* **Bharatpur:** Maharaja Jaswant Singh | Morrison\n* **Sirohi:** Maharao Shiv Singh | J.D. Hall"
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. राजस्थान की 6 सैनिक छावनियाँ (The 6 Cantonments)",
+        "en": "2. The 6 Military Cantonments in Rajasthan"
+      },
+      "content_markdown": {
+        "hi": "### क्रांति के समय राजस्थान में 6 ब्रिटिश छावनियाँ थीं:\n\n| छावनी | वर्तमान जिला | तैनात सैनिक टुकड़ी / रेजिमेंट | 1857 में विद्रोह की स्थिति |\n|---|---|---|---|\n| **1. नसीराबाद** | अजमेर | 15वीं व 30वीं बंगाल नेटिव इन्फैंट्री, बंबई लांसर्स | **विद्रोह हुआ (28 मई 1857 — राजस्थान में क्रांति की शुरुआत)** |\n| **2. नीमच** | मध्य प्रदेश (तत्कालीन मेवाड़ एजेंसी) | नीमच ब्रिगेड / मालवा-मेवाड़ कैवेलरी | **विद्रोह हुआ (3 जून 1857 — मोहम्मद अली बेग व हीरासिंह)** |\n| **3. एरिनपुरा** | पाली | जोधपुर लीजियन (Jodhpur Legion) | **विद्रोह हुआ (21 अगस्त 1857 — 'चलो दिल्ली, मारो फिरंगी')** |\n| **4. देवली** | टोंक | कोटा कंटिंजेंट (Kota Contingent) | **विद्रोह हुआ (5 जून 1857)** |\n| **5. ब्यावर** | ब्यावर (अजमेर) | मेर रेजिमेंट (Merwara Battalion) | **प्रत्यक्ष विद्रोह में भाग नहीं लिया (शांत रही)** |\n| **6. खेरवाड़ा** | उदयपुर | मेवाड़ भील कोर (MBC) | **प्रत्यक्ष विद्रोह में भाग नहीं लिया (शांत रही)** |\n\n> **Exam Key Fact:** ब्यावर (मेर) और खेरवाड़ा (भील) छावनियों ने 1857 की क्रांति में सीधे भाग नहीं लिया था।",
+        "en": "### The 6 Cantonments\n1. **Naseerabad (Ajmer):** 15th & 30th Bengal Native Infantry (Outbreak: May 28, 1857 — First spark in Rajasthan).\n2. **Neemuch (MP, Mewar Agency):** Neemuch Brigade (Outbreak: June 3, 1857 — Led by Mohammad Ali Beg & Hira Singh).\n3. **Erinpura (Pali):** Jodhpur Legion (Outbreak: Aug 21, 1857 — 'Chalo Delhi, Maro Firangi').\n4. **Deoli (Tonk):** Kota Contingent (Outbreak: June 5, 1857).\n5. **Beawar (Ajmer):** Mer Regiment (**Did not participate**).\n6. **Kherwara (Udaipur):** Mewar Bhil Corps (**Did not participate**)."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. नसीराबाद विप्लव (28 मई 1857) — राजस्थान में क्रांति का श्रीगणेश",
+        "en": "3. Naseerabad Outbreak (May 28, 1857) — First Uprising in Rajasthan"
+      },
+      "content_markdown": {
+        "hi": "### नसीराबाद में क्रांति का घटनाक्रम (28 मई 1857)\n* **कारण:** मेरठ विद्रोह के बाद अजमेर शस्त्रागार से **15वीं बंगाल नेटिव इन्फैंट्री (BNI)** को नसीराबाद भेज दिया गया, जिससे सैनिकों में अविश्वास व चर्बीयुक्त कारतूसों को लेकर तीव्र आक्रोश फैला।\n* **क्रांति का आरंभ:** **28 मई 1857 की दोपहर को 15वीं नेटिव इन्फैंट्री** के सैनिकों (प्रमुख विद्रोही सैनिक: **बख्तावर सिंह**) ने विद्रोह का बिगुल फूँक दिया। बाद में 30वीं नेटिव इन्फैंट्री भी क्रांति में शामिल हो गई।\n* **अंग्रेज अधिकारियों की हत्या:**\n  - विद्रोहियों ने मेजर **स्पॉटिसवुड (Spottiswoode)** एवं कर्नल **न्यूबरी (Newbury)** को मौत के घाट उतार दिया।\n  - लेफ्टिनेंट लॉक व हार्डी घायल हुए, जबकि कर्नल पेनी को दिल का दौरा पड़ने से मृत्यु हुई।\n* **दिल्ली कूच:** नसीराबाद छावनी को लूटने और जलाने के बाद क्रांतिकारी सीधे मुग़ल सम्राट बहादुरशाह जफ़र की सहायता हेतु **दिल्ली की ओर रवाना** हो गए।",
+        "en": "### Naseerabad Outbreak (May 28, 1857)\n* **Trigger:** The 15th Bengal Native Infantry was suspiciously transferred from Ajmer armoury to Naseerabad, instilling deep mistrust among soldiers.\n* **Outbreak:** Soldiers of the 15th BNI led by **Bakhtawar Singh** raised the banner of revolt on May 28, 1857, joined by the 30th BNI.\n* **British Casualties:** Major Spottiswoode and Colonel Newbury were killed; Colonel Penny died of cardiac arrest.\n* **March to Delhi:** After burning the cantonment, mutineers marched straight to Delhi."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "4. नीमच विप्लव (3 जून 1857) एवं डूंगला शरण प्रकरण",
+        "en": "4. Neemuch Outbreak (June 3, 1857) & Doongla Refugee Incident"
+      },
+      "content_markdown": {
+        "hi": "### नीमच में क्रांति (3 जून 1857)\n* **कर्नल एबॉट की शपथ:** 2 जून को अंग्रेज कप्तान एबॉट ने सैनिकों को वफादारी की शपथ दिलानी चाही। इस पर **मोहम्मद अली बेग** ने चुनौती देते हुए कहा: > *\"क्या अंग्रेजों ने अपनी शपथ का पालन किया? क्या आपने अवध का विलय नहीं किया? इसलिए हम भी अपनी शपथ से बंधे नहीं हैं।\"*\n* **विद्रोह:** **3 जून 1857 की रात्रि 11 बजे** मोहम्मद अली बेग और सूबेदार **हीरासिंह** के नेतृत्व में नीमच छावनी में विद्रोह भड़क उठा। शस्त्रागार लूटकर आग लगा दी गई।\n\n### डूंगला गाँव का शरण प्रकरण (रूघाराम किसान)\n* नीमच से 40 अंग्रेज अधिकारी अपने बाल-बच्चों सहित जान बचाकर भागे।\n* चित्तौड़गढ़ के कपासन के निकट **डूंगला गाँव** में किसान **रूघाराम** ने इन 40 अंग्रेजों को अपने घर में सुरक्षित शरण दी।\n* मेवाड़ के पॉलिटिकल एजेंट **मेजर शॉवर्स** तथा महाराणा स्वरूप सिंह के सेनापति बेदला के राव बख्तसिंह ने डूंगला पहुंचकर इन अंग्रेजों को सुरक्षित निकाला।\n* महाराणा स्वरूप सिंह ने इन 40 अंग्रेज शरणार्थियों को उदयपुर लाकर **पिछोला झील के जगमंदिर महलों** में ठहराया और गोकुलचंद मेहता की देखरेख में इनकी सुरक्षा का प्रबंध किया।",
+        "en": "### Neemuch Outbreak (June 3, 1857)\n* **Abbot's Oath Defied:** On June 2, Colonel Abbot tried to administer an oath of loyalty. **Mohammad Ali Beg** boldly retorted: > *\"Did you keep your oath when you annexed Awadh? Why should we be bound by ours?\"*\n* **Rebellion:** Under Mohammad Ali Beg and Subedar Hira Singh, mutiny broke out at 11 PM on June 3, 1857.\n\n### The Doongla Refugee Incident\n* 40 British officers and families fled Neemuch and were given protective shelter at **Doongla village** by peasant **Rugharam**.\n* Major Showers and Bedla chief Bakht Singh rescued them.\n* Maharana Swaroop Singh sheltered these 40 British refugees inside the **Jagmandir Palace in Lake Pichola**, Udaipur under Gokulchand Mehta's supervision."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "1857 की क्रांति के समय राजस्थान का ए.जी.जी. (Agent to Governor General) जॉर्ज पैट्रिक लॉरेंस था।",
+      "en": "During the 1857 revolt, the AGG of Rajputana was George Patrick Lawrence."
+    },
+    {
+      "hi": "1857 में राजस्थान में 6 सैनिक छावनियाँ थीं: नसीराबाद, नीमच, एरिनपुरा, देवली, ब्यावर और खेरवाड़ा।",
+      "en": "There were 6 military cantonments: Naseerabad, Neemuch, Erinpura, Deoli, Beawar, and Kherwara."
+    },
+    {
+      "hi": "ब्यावर (मेर रेजीमेंट) और खेरवाड़ा (मेवाड़ भील कोर) छावनियों ने 1857 की क्रांति में भाग नहीं लिया।",
+      "en": "Beawar and Kherwara cantonments remained passive and did not join the 1857 mutiny."
+    },
+    {
+      "hi": "राजस्थान में 1857 की क्रांति का प्रारंभ 28 मई 1857 को नसीराबाद छावनी से हुआ (15वीं बंगाल नेटिव इन्फैंट्री)।",
+      "en": "The 1857 revolt in Rajasthan commenced on May 28, 1857 from Naseerabad Cantonment (15th BNI)."
+    },
+    {
+      "hi": "नसीराबाद में विद्रोही सैनिकों ने अंग्रेज अधिकारी मेजर स्पॉटिसवुड और कर्नल न्यूबरी की हत्या कर दी थी।",
+      "en": "In Naseerabad, mutineers killed British officers Major Spottiswoode and Colonel Newbury."
+    },
+    {
+      "hi": "नीमच में 3 जून 1857 को मोहम्मद अली बेग और हीरासिंह के नेतृत्व में क्रांति की शुरुआत हुई।",
+      "en": "In Neemuch, the mutiny broke out on June 3, 1857 led by Mohammad Ali Beg and Hira Singh."
+    },
+    {
+      "hi": "नीमच से भागे 40 अंग्रेजों को डूंगला गाँव में किसान रूघाराम ने शरण दी थी।",
+      "en": "40 British refugees fleeing Neemuch were sheltered in Doongla village by peasant Rugharam."
+    },
+    {
+      "hi": "मेवाड़ महाराणा स्वरूप सिंह ने 40 अंग्रेज शरणार्थियों को पिछोला झील के 'जगमंदिर' में ठहराया था।",
+      "en": "Maharana Swaroop Singh sheltered the 40 British refugees in Lake Pichola's Jagmandir Palace."
+    },
+    {
+      "hi": "क्रांति के समय मेवाड़ के पॉलिटिकल एजेंट मेजर शॉवर्स, मारवाड़ के मॉक मेसन व कोटा के मेजर बर्टन थे।",
+      "en": "Political Agents were Major Showers (Mewar), Mock Meson (Marwar), and Major Burton (Kota)."
+    },
+    {
+      "hi": "राजस्थान के प्रथम ए.जी.जी. मिस्टर लोकेट थे (1832 ई., राजपूताना एजेंसी स्थापना)।",
+      "en": "The first AGG of Rajputana Agency was Mr. Abraham Lockett (1832 AD)."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1857 ई. (19 मई)",
+      "event": {
+        "hi": "माउंट आबू में ए.जी.जी. जॉर्ज लॉरेंस को मेरठ विप्लव की पहली आधिकारिक सूचना प्राप्त।",
+        "en": "AGG George Lawrence receives official news of the Meerut revolt at Mount Abu."
+      }
+    },
+    {
+      "year": "1857 ई. (28 मई)",
+      "event": {
+        "hi": "नसीराबाद छावनी में 15वीं नेटिव इन्फैंट्री द्वारा विद्रोह — राजस्थान में 1857 क्रांति का आगाज।",
+        "en": "15th BNI revolts at Naseerabad Cantonment, sparking the 1857 revolt in Rajasthan."
+      }
+    },
+    {
+      "year": "1857 ई. (3 जून)",
+      "event": {
+        "hi": "नीमच छावनी में मोहम्मद अली बेग व हीरासिंह के नेतृत्व में भीषण सैनिक विद्रोह।",
+        "en": "Outbreak of mutiny at Neemuch Cantonment led by Mohammad Ali Beg and Hira Singh."
+      }
+    },
+    {
+      "year": "1857 ई. (5 जून)",
+      "event": {
+        "hi": "देवली छावनी (टोंक) में कोटा कंटिंजेंट के सैनिकों द्वारा विद्रोह।",
+        "en": "Kota Contingent soldiers mutiny at Deoli Cantonment (Tonk)."
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "concept": {
+        "hi": "क्रांति की तिथियाँ: नसीराबाद vs नीमच vs एरिनपुरा",
+        "en": "Dates of Outbreak: Naseerabad vs Neemuch vs Erinpura"
+      },
+      "trap": {
+        "hi": "नसीराबाद = 28 मई 1857; नीमच = 3 जून 1857; देवली = 5 जून 1857; एरिनपुरा = 21 अगस्त 1857; कोटा = 15 अक्टूबर 1857।",
+        "en": "Naseerabad = May 28; Neemuch = June 3; Deoli = June 5; Erinpura = Aug 21; Kota = Oct 15."
+      },
+      "trick": {
+        "hi": "क्रम: नसीराबाद (मई) -> नीमच (जून) -> एरिनपुरा (अगस्त) -> कोटा (अक्टूबर)।",
+        "en": "Order: Naseerabad (May) -> Neemuch (June) -> Erinpura (Aug) -> Kota (Oct)."
+      }
+    },
+    {
+      "concept": {
+        "hi": "विद्रोह में भाग न लेने वाली छावनियाँ",
+        "en": "Cantonments that did not revolt"
+      },
+      "trap": {
+        "hi": "6 में से 2 छावनियाँ शांत रहीं: ब्यावर (मेर बटालियन) और खेरवाड़ा (मेवाड़ भील कोर)।",
+        "en": "Out of 6, exactly 2 cantonments did not revolt: Beawar (Mers) and Kherwara (MBC)."
+      },
+      "trick": {
+        "hi": "सूत्र: 'BK' शांत रहा -> B (Beawar), K (Kherwara)।",
+        "en": "Formula: 'BK' remained quiet -> B (Beawar), K (Kherwara)."
+      }
+    },
+    {
+      "concept": {
+        "hi": "जगमंदिर शरण: शाहजहाँ vs 1857 अंग्रेज",
+        "en": "Jagmandir Refuge: Prince Khurram vs 1857 British"
+      },
+      "trap": {
+        "hi": "1622 में शाहजहाँ (खुर्रम) को महाराणा कर्ण सिंह ने जगमंदिर में ठहराया था; 1857 में नीमच के अंग्रेज शरणार्थियों को महाराणा स्वरूप सिंह ने जगमंदिर में ठहराया।",
+        "en": "In 1622, Maharana Karan Singh sheltered Prince Khurram; in 1857, Maharana Swaroop Singh sheltered British refugees in Jagmandir."
+      },
+      "trick": {
+        "hi": "शाहजहाँ = कर्ण सिंह; 1857 अंग्रेज = स्वरूप सिंह।",
+        "en": "Shah Jahan = Karan Singh; 1857 British = Swaroop Singh."
+      }
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.06.01-01",
+      "question": {
+        "hi": "राजस्थान में 1857 के स्वतंत्रता संग्राम की शुरुआत सर्वप्रथम किस तिथि को एवं किस छावनी से हुई थी?",
+        "en": "On which date and from which cantonment did the 1857 revolt in Rajasthan first commence?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "10 मई 1857 — मेरठ", "en": "10 May 1857 — Meerut" } },
+        { "id": "B", "text": { "hi": "28 मई 1857 — नसीराबाद छावनी", "en": "28 May 1857 — Naseerabad Cantonment" } },
+        { "id": "C", "text": { "hi": "3 जून 1857 — नीमच छावनी", "en": "3 June 1857 — Neemuch Cantonment" } },
+        { "id": "D", "text": { "hi": "21 अगस्त 1857 — एरिनपुरा छावनी", "en": "21 August 1857 — Erinpura Cantonment" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "राजस्थान में 1857 की क्रांति का श्रीगणेश 28 मई 1857 को अजमेर की नसीराबाद छावनी में 15वीं बंगाल नेटिव इन्फैंट्री के सैनिकों द्वारा किया गया था।",
+        "en": "The 1857 uprising in Rajasthan started on May 28, 1857 from Naseerabad Cantonment by the 15th Bengal Native Infantry."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC RAS Prelims 2018 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.06.01-02",
+      "question": {
+        "hi": "1857 की क्रांति के समय राजस्थान में स्थित 6 सैनिक छावनियों में से किन दो छावनियों के सैनिकों ने प्रत्यक्ष विद्रोह में भाग नहीं लिया था?",
+        "en": "Among the 6 military cantonments in Rajasthan during the 1857 revolt, which two did NOT participate in the uprising?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "नीमच एवं देवली", "en": "Neemuch and Deoli" } },
+        { "id": "B", "text": { "hi": "ब्यावर एवं खेरवाड़ा", "en": "Beawar and Kherwara" } },
+        { "id": "C", "text": { "hi": "एरिनपुरा एवं नसीराबाद", "en": "Erinpura and Naseerabad" } },
+        { "id": "D", "text": { "hi": "देवली एवं ब्यावर", "en": "Deoli and Beawar" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "ब्यावर (मेर बटालियन) एवं खेरवाड़ा (मेवाड़ भील कोर) छावनियों के सैनिकों ने 1857 के विद्रोह में भाग नहीं लिया और वे पूर्णतः शांत रहे।",
+        "en": "Soldiers of Beawar (Mer Regiment) and Kherwara (Mewar Bhil Corps) cantonments refrained from participating in the revolt."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 2nd Grade GK 2022 / RSSB CET Graduate 2023"
+    },
+    {
+      "id": "MCQ-A.06.01-03",
+      "question": {
+        "hi": "3 जून 1857 को नीमच छावनी में किस क्रांतिकारी सैनिक ने कर्नल एबॉट के समक्ष वफादारी की शपथ लेने से इनकार कर विद्रोह की ज्वाला प्रज्वलित की थी?",
+        "en": "On June 3, 1857 at Neemuch Cantonment, which revolutionary soldier refused to take the oath of loyalty before Colonel Abbot?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "बख्तावर सिंह", "en": "Bakhtawar Singh" } },
+        { "id": "B", "text": { "hi": "मोहम्मद अली बेग", "en": "Mohammad Ali Beg" } },
+        { "id": "C", "text": { "hi": "सूबेदार शीतल प्रसाद", "en": "Subedar Sheetal Prasad" } },
+        { "id": "D", "text": { "hi": "मेहराब खां", "en": "Mehrab Khan" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "मोहम्मद अली बेग ने अवध के अन्यायपूर्ण विलय की याद दिलाते हुए अंग्रेजों के प्रति वफादारी की शपथ लेने से इनकार किया और 3 जून को नीमच में विद्रोह कर दिया।",
+        "en": "Mohammad Ali Beg boldly challenged Colonel Abbot invoking the unlawful annexation of Awadh and sparked the Neemuch revolt."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 1st Grade Teacher 2020 / RSSB VDO 2021"
+    },
+    {
+      "id": "MCQ-A.06.01-04",
+      "question": {
+        "hi": "नीमच छावनी से जान बचाकर भागे 40 अंग्रेज अधिकारियों व उनके परिवारों को चित्तौड़गढ़ के 'डूंगला गाँव' में किस किसान ने शरण दी थी?",
+        "en": "Which peasant in 'Doongla village' gave shelter to 40 British officers and their families fleeing from Neemuch Cantonment?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "रूघाराम किसान", "en": "Rugharam Kisan" } },
+        { "id": "B", "text": { "hi": "नानजी पटेल", "en": "Nanji Patel" } },
+        { "id": "C", "text": { "hi": "ठाकरी पटेल", "en": "Thakari Patel" } },
+        { "id": "D", "text": { "hi": "रूपाजी धाकड़", "en": "Rupaji Dhakar" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "डूंगला गाँव (कपासन के पास) के किसान रूघाराम ने नीमच से भागे 40 अंग्रेज शरणार्थियों को अपने घर में सुरक्षित पनाह दी थी।",
+        "en": "Farmer Rugharam of Doongla village provided safe refuge in his dwelling to 40 British evacuees from Neemuch."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC RAS Prelims 2021 / RSSB REET Level 2"
+    },
+    {
+      "id": "MCQ-A.06.01-05",
+      "question": {
+        "hi": "1857 के विप्लव के समय मेवाड़ महाराणा स्वरूप सिंह ने डूंगला से मुक्त कराए गए 40 अंग्रेज शरणार्थियों को उदयपुर में कहाँ ठहराया था?",
+        "en": "During the 1857 revolt, where did Maharana Swaroop Singh of Mewar house the 40 British refugees rescued from Doongla?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "सहेलियों की बाड़ी", "en": "Saheliyon ki Bari" } },
+        { "id": "B", "text": { "hi": "पिछोला झील के जगमंदिर महल में", "en": "Jagmandir Palace in Lake Pichola" } },
+        { "id": "C", "text": { "hi": "सिटी पैलेस के जनाना महल में", "en": "Zanana Mahal of City Palace" } },
+        { "id": "D", "text": { "hi": "सज्जनगढ़ दुर्ग में", "en": "Sajjangarh Fort" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "महाराणा स्वरूप सिंह ने अंग्रेज शरणार्थियों को पिछोला झील के सुरम्य जगमंदिर महलों में ठहराया और गोकुलचंद मेहता को उनकी सुरक्षा सौंपी।",
+        "en": "Maharana Swaroop Singh accommodated the British refugees inside Jagmandir Palace on Lake Pichola."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC School Lecturer 2022 / Police Constable 2020"
+    },
+    {
+      "id": "MCQ-A.06.01-06",
+      "question": {
+        "hi": "1857 की क्रांति के समय राजस्थान में ब्रिटिश 'एजेंट टू गवर्नर जनरल' (AGG) कौन था?",
+        "en": "Who was the British 'Agent to the Governor-General' (AGG) in Rajasthan during the 1857 revolt?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मिस्टर लोकेट", "en": "Mr. Lockett" } },
+        { "id": "B", "text": { "hi": "जॉर्ज पैट्रिक लॉरेंस", "en": "George Patrick Lawrence" } },
+        { "id": "C", "text": { "hi": "मेजर शॉवर्स", "en": "Major Showers" } },
+        { "id": "D", "text": { "hi": "मॉक मेसन", "en": "Mock Meson" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "1857 के विद्रोह के समय राजस्थान के AGG जॉर्ज पैट्रिक लॉरेंस थे, जिनका ग्रीष्मकालीन मुख्यालय माउंट आबू में था।",
+        "en": "George Patrick Lawrence was the AGG stationed at Mount Abu during the outbreak of the 1857 revolt."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC RAS 2016 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.06.01-07",
+      "question": {
+        "hi": "1857 की क्रांति के समय कोटा रियासत में तैनात ब्रिटिश पॉलिटिकल एजेंट कौन था जिसकी हत्या विद्रोहियों द्वारा कर दी गई थी?",
+        "en": "Who was the British Political Agent stationed in Kota state during 1857 who was murdered by mutineers?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कर्नल ईडन", "en": "Colonel Eden" } },
+        { "id": "B", "text": { "hi": "मेजर बर्टन", "en": "Major Burton" } },
+        { "id": "C", "text": { "hi": "मेजर शॉवर्स", "en": "Major Showers" } },
+        { "id": "D", "text": { "hi": "कैप्टन हीथकोट", "en": "Captain Heathcote" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "कोटा में 15 अक्टूबर 1857 को हुए जन-विद्रोह में क्रांतिकारियों ने पॉलिटिकल एजेंट मेजर बर्टन और उसके दो पुत्रों की हत्या कर दी थी।",
+        "en": "During the mass uprising in Kota, revolutionaries murdered Political Agent Major Burton and his two sons."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 2nd Grade GK 2018 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.06.01-08",
+      "question": {
+        "hi": "28 मई 1857 को नसीराबाद में हुए विद्रोह में किन दो ब्रिटिश सैन्य अधिकारियों को क्रांतिकारियों ने मार डाला था?",
+        "en": "Which two British military officers were killed by mutineers at Naseerabad on May 28, 1857?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मेजर स्पॉटिसवुड एवं कर्नल न्यूबरी", "en": "Major Spottiswoode and Colonel Newbury" } },
+        { "id": "B", "text": { "hi": "मेजर बर्टन एवं डॉक्टर सेडलर", "en": "Major Burton and Dr. Sadlar" } },
+        { "id": "C", "text": { "hi": "मॉक मेसन एवं मेजर होम्स", "en": "Mock Meson and Major Holmes" } },
+        { "id": "D", "text": { "hi": "कैप्टन हीथकोट एवं लेफ्टिनेंट लॉक", "en": "Captain Heathcote and Lt. Lock" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "नसीराबाद छावनी में 15वीं नेटिव इन्फैंट्री के सैनिकों ने मेजर स्पॉटिसवुड और कर्नल न्यूबरी की हत्या कर दी थी।",
+        "en": "Mutineers of the 15th BNI at Naseerabad killed Major Spottiswoode and Colonel Newbury."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC College Assistant Professor 2020 / RSSB Lab Assistant 2022"
+    },
+    {
+      "id": "MCQ-A.06.01-09",
+      "question": {
+        "hi": "1832 ई. में स्थापित 'राजपूताना एजेंसी' के प्रथम ए.जी.जी. (Agent to Governor General) कौन थे?",
+        "en": "Who was the first AGG of the 'Rajputana Agency' established in 1832 AD?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कर्नल जेम्स टॉड", "en": "Col. James Tod" } },
+        { "id": "B", "text": { "hi": "मिस्टर अब्राहम लोकेट", "en": "Mr. Abraham Lockett" } },
+        { "id": "C", "text": { "hi": "चार्ल्स मेटकाफ", "en": "Charles Metcalfe" } },
+        { "id": "D", "text": { "hi": "डेविड ऑक्टरलोनी", "en": "David Ochterlony" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "1832 ई. में लॉर्ड विलियम बेंटिंक के समय अजमेर में राजपूताना एजेंसी गठित की गई, जिसके प्रथम AGG मिस्टर लोकेट बनाए गए थे।",
+        "en": "When the Rajputana Agency was founded in 1832 under Lord William Bentinck, Mr. Abraham Lockett was appointed the first AGG."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB Forester 2022"
+    },
+    {
+      "id": "MCQ-A.06.01-10",
+      "question": {
+        "hi": "1857 की क्रांति के समय 'सिरोही' रियासत में तैनात ब्रिटिश पॉलिटिकल एजेंट (P.A.) कौन था?",
+        "en": "Who was the British Political Agent stationed in Sirohi state during the 1857 revolt?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मॉरिसन", "en": "Morrison" } },
+        { "id": "B", "text": { "hi": "जे.डी. हॉल", "en": "J.D. Hall" } },
+        { "id": "C", "text": { "hi": "कर्नल ईडन", "en": "Colonel Eden" } },
+        { "id": "D", "text": { "hi": "मेजर निक्सन", "en": "Major Nixon" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "सिरोही रियासत में पॉलिटिकल एजेंट जे.डी. हॉल (J.D. Hall) तैनात था, जबकि भरतपुर में मॉरिसन तथा जयपुर में कर्नल ईडन तैनात था।",
+        "en": "J.D. Hall was the Political Agent stationed in Sirohi state during the 1857 revolt."
+      },
+      "difficulty": "hard",
+      "pyq_source": "RPSC RAS 2021 / RSSB Junior Accountant 2024"
+    }
+  ]
+}

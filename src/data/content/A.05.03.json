@@ -1,0 +1,363 @@
+{
+  "id": "A.05.03",
+  "subject_id": "history",
+  "unit_id": "A.05",
+  "slug": "military-organization-and-fort-defense-system",
+  "title": {
+    "hi": "मध्यकालीन सैन्य संगठन, दुर्ग सुरक्षा व्यवस्था एवं सैन्य शब्दावली",
+    "en": "Medieval Military Organization, Fort Defense & Siege Terminology"
+  },
+  "short_summary": {
+    "hi": "मध्यकालीन राजपूताना की सैन्य संरचना (बख्शी, हरावल, चंद्रावल, तोपखाना), दुर्ग घेराबंदी व रक्षा यंत्र (साबात, पाशीब, अर्रादा, मगरबी, मंजनीक), तोपों के प्रकार (गजनाल, शुतरनाल, नरनाल), तथा सामरिक छावनी व गुप्तचर व्यवस्था।",
+    "en": "Rajput battlefield formations (Bakhshi, Harawal, Chandawal, Artillery), siegecraft & defense machinery (Sabat, Pasheb, Arrada, Magrabi, Manjaniq), portable cannons (Gajnal, Shutarnal), and military cantonments."
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
+    "last_updated": "2026-09-14",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. युद्ध व्यूहरचना एवं सैन्य संगठन (Battlefield Formations)",
+        "en": "1. Rajput Battlefield Formations & Military Structure"
+      },
+      "content_markdown": {
+        "hi": "### सैन्य पद एवं कमान संरचना\n* **सेनापति / फौजदार / बख्शी:** राजा के बाद सेना का सर्वोच्च प्रशासनिक व परिचालन अधिकारी, जो सैनिकों की भर्ती, रसद, अस्त्र-शस्त्र एवं वेतन (हुलिया व दाग प्रथा) का प्रबंधन करता था।\n\n### प्रमुख युद्ध व्यूहरचना (Battle Formations)\n\n| व्यूह अंग | राजस्थानी / सैन्य नाम | कार्य एवं सामरिक महत्व |\n|---|---|---|\n| **1. अग्रिम दस्ता** | **हरावल (Harawal)** | सेना की सबसे आगे रहने वाली लड़ाकू पंक्ति, जिसका कार्य शत्रु पर प्रथम घातक प्रहार करना होता था। (मेवाड़ में सलूँबर के चूँडावत तथा मारवाड़ में चम्पावत हरावल का नेतृत्व करते थे)। |\n| **2. पश्च दस्ता** | **चंद्रावल (Chandawal)** | सेना की सबसे पिछली रक्षात्मक पंक्ति, जो रसद की रक्षा तथा पीछे से होने वाले हमलों को रोकती थी। |\n| **3. दायाँ पार्श्व** | **दक्षिण पार्श्व (Right Wing)** | सेना के दाहिने हिस्से की कमान। |\n| **4. बायाँ पार्श्व** | **वाम पार्श्व (Left Wing)** | सेना के बाएँ हिस्से की कमान। |\n| **5. मध्य दस्ता** | **वस्त (Centre / Qalb)** | राजा अथवा मुख्य सेनापति का स्थान, जहाँ राज्य का मुख्य शाही ध्वज (निशान) फहराता था। |",
+        "en": "### Command Structure & Battlefield Divisions\n* **Bakhshi / Faujdar:** Supreme administrative officer managing recruitment, logistics, inspections, and payroll.\n\n### Formations (Vyuha)\n* **Harawal (Vanguard):** Foremost frontline unit tasked with the initial offensive charge (Held hereditarily by Salumbar Chundawats in Mewar and Champawats in Marwar).\n* **Chandawal (Rearguard):** The rearmost defensive wing securing supply lines and repelling flank ambushes.\n* **Right Wing & Left Wing:** Flanking divisions.\n* **Centre (Qalb / Vast):** Station of the King or Supreme Commander flying the state royal banner."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. दुर्ग घेराबंदी एवं रक्षा यंत्र (Siege Warfare Machinery)",
+        "en": "2. Siegecraft & Fort Defense Technology"
+      },
+      "content_markdown": {
+        "hi": "### दुर्ग घेराबंदी के प्रमुख यंत्र व प्रणालियाँ (Exam Hotspot)\n\n1. **साबात (Sabat):**\n   - किले की दीवार तक सुरक्षित पहुँचने के लिए बनाया गया **चमड़े व मजबूत लकड़ी से ढका हुआ सुरक्षित गलियारा / सुरंग मार्ग**। इसके भीतर सैनिक बिना तीर-गोली लगे दुर्ग की नींव में बारूद की सुरंग (सुरंग खोदी) बिछाने पहुँचते थे। (उदा. 1567 ई. में चित्तौड़गढ़ के घेरे में अकबर द्वारा निर्मित साबात)।\n2. **पाशीब (Pasheb):**\n   - दुर्ग की ऊँची प्राचीरों (दीवारों) के बराबर पहुँचने और तोपों को ऊँचाई पर स्थापित करने हेतु पत्थरों, लकड़ी व मिट्टी से बनाया गया **विशाल कृत्रिम चबूतरा / रैंप**।\n3. **अर्रादा (Arrada) / मगरबी (Magrabi) / मंजनीक (Manjaniq):**\n   - दुर्ग की दीवारों को तोड़ने हेतु भारी पत्थरों, जलती हुई आग के गोलों अथवा गर्म तेल को फेंकने वाला **विशाल यांत्रिक प्रक्षेपास्त्र (Catapult/Trebuchet)**।\n4. **ढुकन / ढेकुली (Dhekuli):**\n   - पत्थरों को उछालकर किले की प्राचीर पर स्थित रक्षकों पर मारने वाला यंत्र।\n5. **गरगच (Gargach):**\n   - पहियों पर चलने वाला लकड़ी का सुरक्षा कवच/बुर्ज जिसके पीछे सैनिक छिपकर दुर्ग पर हमला करते थे।",
+        "en": "### Historic Siege Engines & Tactics\n1. **Sabat:** A covered, leather-roofed corridor built during a siege to allow soldiers to approach fort ramparts safely and dig subterranean mines (e.g. Akbar's Sabat at Chittor in 1567).\n2. **Pasheb:** An elevated artificial ramp/mound constructed out of earth and sandbags to match the height of fort battlements for cannons.\n3. **Arrada / Magrabi / Manjaniq:** Giant mechanical catapults designed to heave massive boulders and burning resin onto fortifications.\n4. **Gargach:** Movable wheeled siege tower shielding troops from defensive projectile fire."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. तोपों के प्रकार एवं राजस्थान की प्रसिद्ध ऐतिहासिक तोपें",
+        "en": "3. Artillery Classification & Famous Historic Cannons"
+      },
+      "content_markdown": {
+        "hi": "### तोपों का वर्गीकरण (Classification of Artillery)\n* **गजनाल (Gajnal):** हाथी की पीठ पर रखकर दागी जाने वाली हल्की तोप।\n* **शुतरनाल (Shutarnal):** ऊँट की पीठ पर रखकर दागी जाने वाली हल्की तोप (रेहकला)।\n* **नरनाल (Narnal):** एक या दो व्यक्तियों (पैदल सैनिकों) द्वारा ढोई जाने वाली हल्की तोप।\n\n### राजस्थान के दुर्गों की प्रसिद्ध ऐतिहासिक तोपें\n\n| तोप का नाम | दुर्ग / स्थान | ऐतिहासिक विशेषता |\n|---|---|---|\n| **जयबाण तोप** | **जयगढ़ दुर्ग (जयपुर)** | एशिया की सबसे बड़ी पहियों पर रखी तोप; निर्माता: सवाई जयसिंह द्वितीय (1720 ई.)। एक बार परीक्षण में गोला 22 मील दूर चाकसू में गिरा जहाँ **'गोलेलाव तालाब'** बना। |\n| **गर्भ गुंजन तोप** | **तारागढ़ दुर्ग (बूंदी)** | अत्यंत भीषण व कान फाडू गर्जना करने वाली तोप। |\n| **किलकिला, शंभूबाण, गजनी खां** | **मेहरानगढ़ दुर्ग (जोधपुर)** | जोधपुर दुर्ग की प्राचीर पर स्थित ऐतिहासिक भारी तोपें (नुसरत, कड़क बिजली, धूड़धानी, बिच्छू बाण)। |\n| **हुंहुंकार तोप** | **शेरगढ़ दुर्ग (धौलपुर)** | धौलपुर के शेरगढ़ किले में स्थित प्रसिद्ध भारी तोप। |\n| **कड़क बिजली तोप** | **मेहरानगढ़ (जोधपुर)** | महाराजा मानसिंह के समय निर्मित तोप। |",
+        "en": "### Artillery Classification\n* **Gajnal:** Light cannon mounted and fired from elephant back.\n* **Shutarnal:** Portable cannon carried on camel back (Zamburak).\n* **Narnal:** Man-portable light field piece.\n\n### Iconic Historic Cannons of Rajasthan\n* **Jaivana Cannon (Jaigarh Fort, Jaipur):** World's largest cannon on wheels; built by Sawai Jai Singh II in 1720. Test shot landed 22 miles away in Chaksu, creating the Golelao pond.\n* **Garbh Gunjam (Taragarh, Bundi):** Known for its thunderous concussion.\n* **Kilkila, Shambhuban, Gajni Khan, Kadak Bijli (Mehrangarh, Jodhpur):** Famous battery guarding Jodhpur citadel.\n* **Hunhunkar Cannon (Shergarh Fort, Dholpur):** Renowned fortress artillery piece."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "युद्ध में सेना की सबसे अग्रिम पंक्ति को 'हरावल' तथा सबसे पिछली पंक्ति को 'चंद्रावल' कहा जाता था।",
+      "en": "The foremost offensive frontline was 'Harawal' and the rearmost defensive wing was 'Chandawal'."
+    },
+    {
+      "hi": "मेवाड़ में हरावल का नेतृत्व सलूँबर के चूँडावतों तथा मारवाड़ में चम्पावत राठौड़ों का पैतृक विशेषाधिकार था।",
+      "en": "Salumbar Chundawats in Mewar and Champawats in Marwar held hereditary vanguard rights."
+    },
+    {
+      "hi": "दुर्ग तक सुरक्षित पहुँचने हेतु बनाया गया चमड़े की छत वाला ढका हुआ गलियारा 'साबात' कहलाता था।",
+      "en": "A leather-covered protective approach passage leading to the fort wall was called 'Sabat'."
+    },
+    {
+      "hi": "किले की दीवार के समानांतर तोपों को ऊँचाई पर स्थापित करने के लिए बना मिट्टी-पत्थर का चबूतरा 'पाशीब' कहलाता था।",
+      "en": "An elevated earthen mound/ramp built to match fort rampart height was termed 'Pasheb'."
+    },
+    {
+      "hi": "दुर्ग पर भारी पत्थर व आग के गोले फेंकने वाले यांत्रिक प्रक्षेपास्त्र को 'अर्रादा / मगरबी / मंजनीक' कहते थे।",
+      "en": "Stone and fireball-flinging catapult engines were known as 'Arrada / Magrabi / Manjaniq'."
+    },
+    {
+      "hi": "हाथी की पीठ पर रखी तोप 'गजनाल' तथा ऊँट की पीठ पर रखी तोप 'शुतरनाल' कहलाती थी।",
+      "en": "Elephant-mounted cannon was 'Gajnal' and camel-mounted cannon was 'Shutarnal'."
+    },
+    {
+      "hi": "एशिया की पहियों पर रखी सबसे बड़ी 'जयबाण तोप' जयगढ़ दुर्ग (जयपुर) में स्थित है (निर्माता: सवाई जयसिंह)।",
+      "en": "Asia's largest cannon on wheels, 'Jaivana', is housed in Jaigarh Fort, Jaipur."
+    },
+    {
+      "hi": "तारागढ़ दुर्ग (बूंदी) की सबसे प्रसिद्ध व भीषण गर्जना करने वाली तोप 'गर्भ गुंजन' है।",
+      "en": "The most famous thunderous cannon atop Taragarh Fort (Bundi) is 'Garbh Gunjam'."
+    },
+    {
+      "hi": "मेहरानगढ़ दुर्ग (जोधपुर) की प्राचीर पर किलकिला, शंभूबाण, गजनी खां, कड़क बिजली और नुसरत तोपें स्थित हैं।",
+      "en": "Mehrangarh Fort ramparts are defended by Kilkila, Shambhuban, Gajni Khan, and Kadak Bijli cannons."
+    },
+    {
+      "hi": "धौलपुर के शेरगढ़ दुर्ग में स्थित प्रसिद्ध भारी तोप का नाम 'हुंहुंकार तोप' है।",
+      "en": "The famous heavy cannon located in Shergarh Fort of Dholpur is named 'Hunhunkar Cannon'."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1567–68 ई.",
+      "event": {
+        "hi": "अकबर द्वारा चित्तौड़गढ़ दुर्ग के तीसरे घेरे में साबात एवं पाशीब का ऐतिहासिक प्रयोग।",
+        "en": "Akbar's historic deployment of Sabat and Pasheb during the third siege of Chittorgarh."
+      }
+    },
+    {
+      "year": "1576 ई. (हल्दीघाटी)",
+      "event": {
+        "hi": "महाराणा प्रताप की सेना में हरावल का नेतृत्व हाकिम खां सूर तथा चूँडावत कृष्णदास द्वारा किया गया।",
+        "en": "Hakim Khan Sur and Rawat Krishnadas Chundawat lead the Harawal vanguard at Haldighati."
+      }
+    },
+    {
+      "year": "1720 ई.",
+      "event": {
+        "hi": "सवाई जयसिंह द्वितीय द्वारा जयगढ़ दुर्ग में एशिया की सबसे बड़ी 'जयबाण तोप' की ढलाई।",
+        "en": "Casting of the gigantic Jaivana cannon at Jaigarh Fort foundry by Sawai Jai Singh II."
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "concept": {
+        "hi": "हरावल vs चंद्रावल",
+        "en": "Harawal vs Chandawal"
+      },
+      "trap": {
+        "hi": "परीक्षार्थी अक्सर अग्रिम और पश्च पंक्ति के नामों में भ्रमित हो जाते हैं।",
+        "en": "Candidates frequently mix up the advance vanguard and rear guard."
+      },
+      "trick": {
+        "hi": "हरावल = 'ह' से HEAD (आगे); चंद्रावल = 'च' से पीछे (Tail/Rear)।",
+        "en": "Harawal = Front (Head); Chandawal = Back (Rear)."
+      }
+    },
+    {
+      "concept": {
+        "hi": "साबात vs पाशीब",
+        "en": "Sabat vs Pasheb"
+      },
+      "trap": {
+        "hi": "साबात = चमड़े से ढका सुरंग मार्ग/गलियारा; पाशीब = मिट्टी-पत्थर का ऊँचा चबूतरा/रैंप।",
+        "en": "Sabat = Covered crawlway/tunnel; Pasheb = Elevated earthen ramp."
+      },
+      "trick": {
+        "hi": "साबात = सड़क/मार्ग (Surakshit marg); पाशीब = पाषाण का चबूतरा (Platform).",
+        "en": "Sabat = Tunnel passage; Pasheb = Ramp platform."
+      }
+    },
+    {
+      "concept": {
+        "hi": "गजनाल vs शुतरनाल",
+        "en": "Gajnal vs Shutarnal"
+      },
+      "trap": {
+        "hi": "गज = हाथी (Elephant); शुतर = ऊँट (Camel)।",
+        "en": "Gaj = Elephant; Shutur = Camel."
+      },
+      "trick": {
+        "hi": "गजनाल = हाथी की पीठ पर तोप; शुतरनाल = ऊँट की पीठ पर तोप।",
+        "en": "Gajnal = Elephant mounted; Shutarnal = Camel mounted."
+      }
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.05.03-01",
+      "question": {
+        "hi": "मध्यकालीन राजपूताना की युद्ध व्यूहरचना में सेना के सबसे अग्रिम दस्ते (फ्रंटलाइन) को क्या कहा जाता था?",
+        "en": "In medieval Rajput battlefield formation, what was the frontline advance unit called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "चंद्रावल", "en": "Chandawal" } },
+        { "id": "B", "text": { "hi": "हरावल", "en": "Harawal" } },
+        { "id": "C", "text": { "hi": "कल्ब", "en": "Qalb" } },
+        { "id": "D", "text": { "hi": "वाम पार्श्व", "en": "Vam Parshva" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "सेना की सबसे आगे रहने वाली लड़ाकू पंक्ति 'हरावल' कहलाती थी, जबकि सबसे पिछली रक्षात्मक पंक्ति 'चंद्रावल' कहलाती थी।",
+        "en": "The foremost combat frontline was called 'Harawal', whereas the rearmost unit was termed 'Chandawal'."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC RAS Prelims 2018 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.05.03-02",
+      "question": {
+        "hi": "मध्यकाल में दुर्ग की घेराबंदी के दौरान सैनिकों के सुरक्षित आगे बढ़ने हेतु चमड़े व मजबूत लकड़ियों से ढके हुए मार्ग/गलियारे को क्या कहा जाता था?",
+        "en": "During medieval fort sieges, what was the covered protective passage constructed of hides and timber called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "पाशीब", "en": "Pasheb" } },
+        { "id": "B", "text": { "hi": "साबात", "en": "Sabat" } },
+        { "id": "C", "text": { "hi": "अर्रादा", "en": "Arrada" } },
+        { "id": "D", "text": { "hi": "मंजनीक", "en": "Manjaniq" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "किले की दीवार तक सैनिकों को सुरक्षित पहुँचाने हेतु चमड़े की छत वाले ढके मार्ग को 'साबात' कहा जाता था (जैसे अकबर द्वारा 1567 में चित्तौड़ घेरे में बनाया गया)।",
+        "en": "A leather-roofed protective assault trench/corridor was called a 'Sabat' (e.g. Akbar's Sabat at Chittor in 1567)."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 2nd Grade GK 2022 / RSSB CET Graduate 2023"
+    },
+    {
+      "id": "MCQ-A.05.03-03",
+      "question": {
+        "hi": "दुर्ग की ऊँची प्राचीरों तक पहुँचने एवं तोपों को ऊँचाई पर स्थापित करने हेतु पत्थरों व मिट्टी से बनाए गए विशाल कृत्रिम चबूतरे/रैंप को क्या कहा जाता था?",
+        "en": "What was the elevated earthen ramp/mound constructed to match the height of fort walls for artillery called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "पाशीब", "en": "Pasheb" } },
+        { "id": "B", "text": { "hi": "साबात", "en": "Sabat" } },
+        { "id": "C", "text": { "hi": "गरगच", "en": "Gargach" } },
+        { "id": "D", "text": { "hi": "ढेकुली", "en": "Dhekuli" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "किले की दीवार के बराबर ऊँचाई प्राप्त करने हेतु बनाए गए विशाल मिट्टी-पत्थर के चबूतरे को 'पाशीब' कहा जाता था।",
+        "en": "An elevated siege mound/ramp built to place cannons at level with fortress battlements was termed 'Pasheb'."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 1st Grade Teacher 2020 / RSSB VDO 2021"
+    },
+    {
+      "id": "MCQ-A.05.03-04",
+      "question": {
+        "hi": "एशिया की पहियों पर रखी सबसे बड़ी 'जयबाण तोप' राजस्थान के किस दुर्ग में स्थित है?",
+        "en": "In which fort of Rajasthan is Asia's largest cannon on wheels, 'Jaivana', situated?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मेहरानगढ़ दुर्ग (जोधपुर)", "en": "Mehrangarh Fort (Jodhpur)" } },
+        { "id": "B", "text": { "hi": "जयगढ़ दुर्ग (जयपुर)", "en": "Jaigarh Fort (Jaipur)" } },
+        { "id": "C", "text": { "hi": "तारागढ़ दुर्ग (बूंदी)", "en": "Taragarh Fort (Bundi)" } },
+        { "id": "D", "text": { "hi": "जूनागढ़ दुर्ग (बीकानेर)", "en": "Junagarh Fort (Bikaner)" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "सवाई जयसिंह द्वितीय द्वारा 1720 ई. में ढलवाई गई 'जयबाण तोप' जयगढ़ दुर्ग (जयपुर) के बुर्ज पर स्थित है।",
+        "en": "The legendary Jaivana cannon cast in 1720 by Sawai Jai Singh II is mounted at Jaigarh Fort, Jaipur."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RSSB Patwari 2021 / Police Constable 2020"
+    },
+    {
+      "id": "MCQ-A.05.03-05",
+      "question": {
+        "hi": "तारागढ़ दुर्ग (बूंदी) की प्राचीर पर स्थित उस प्रसिद्ध तोप का नाम क्या है जो अपनी भयंकर गर्जना के लिए जानी जाती है?",
+        "en": "What is the name of the famous cannon on Taragarh Fort (Bundi) known for its thunderous sound?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "गर्भ गुंजन तोप", "en": "Garbh Gunjam Cannon" } },
+        { "id": "B", "text": { "hi": "किलकिला तोप", "en": "Kilkila Cannon" } },
+        { "id": "C", "text": { "hi": "हुंहुंकार तोप", "en": "Hunhunkar Cannon" } },
+        { "id": "D", "text": { "hi": "शंभूबाण तोप", "en": "Shambhuban Cannon" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "बूंदी के तारागढ़ किले की सबसे शक्तिशाली तोप 'गर्भ गुंजन' है जिसकी गर्जना से घाटी गूंज उठती थी।",
+        "en": "'Garbh Gunjam' is the famed massive artillery piece stationed on the ramparts of Taragarh Fort in Bundi."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC School Lecturer 2022 / RSSB REET Level 2"
+    },
+    {
+      "id": "MCQ-A.05.03-06",
+      "question": {
+        "hi": "ऊँट की पीठ पर रखकर दागी जाने वाली हल्की व गतिशील तोप को मध्यकाल में किस नाम से जाना जाता था?",
+        "en": "What was the mobile light cannon mounted and fired from a camel's back called in medieval times?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "गजनाल", "en": "Gajnal" } },
+        { "id": "B", "text": { "hi": "शुतरनाल (रेहकला)", "en": "Shutarnal (Rehkala)" } },
+        { "id": "C", "text": { "hi": "नरनाल", "en": "Narnal" } },
+        { "id": "D", "text": { "hi": "हथनाल", "en": "Hathnal" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "फारसी में 'शुतर' का अर्थ ऊँट होता है। ऊँट की पीठ पर रखी हल्की तोप 'शुतरनाल' (जंबूरक) तथा हाथी की पीठ पर 'गजनाल' कहलाती थी।",
+        "en": "In Persian, 'Shutur' means camel. Camel-mounted swivel guns were called 'Shutarnal', whereas elephant-mounted ones were 'Gajnal'."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC College Assistant Professor 2020 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.05.03-07",
+      "question": {
+        "hi": "जोधपुर के मेहरानगढ़ दुर्ग की प्राचीर पर स्थित ऐतिहासिक तोपों में कौन-सा नाम शामिल नहीं है?",
+        "en": "Among the historical cannons defending Mehrangarh Fort in Jodhpur, which name is NOT included?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "किलकिला तोप", "en": "Kilkila Cannon" } },
+        { "id": "B", "text": { "hi": "शंभूबाण तोप", "en": "Shambhuban Cannon" } },
+        { "id": "C", "text": { "hi": "गजनी खां तोप", "en": "Gajni Khan Cannon" } },
+        { "id": "D", "text": { "hi": "जयबाण तोप", "en": "Jaivana Cannon" } }
+      ],
+      "correct_option": "D",
+      "explanation": {
+        "hi": "जयबाण तोप जयगढ़ दुर्ग (जयपुर) में स्थित है। मेहरानगढ़ दुर्ग में किलकिला, शंभूबाण, गजनी खां, कड़क बिजली, नुसरत, धूड़धानी तोपें स्थित हैं।",
+        "en": "Jaivana is situated in Jaigarh Fort, Jaipur. Mehrangarh houses Kilkila, Shambhuban, Gajni Khan, Kadak Bijli, and Nusrat."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RSSB Lab Assistant 2022 / Police Constable 2022"
+    },
+    {
+      "id": "MCQ-A.05.03-08",
+      "question": {
+        "hi": "मध्यकालीन दुर्ग रक्षा में शत्रु की सेना पर भारी पत्थर, जलती हुई राल व तेल फेंकने वाले यांत्रिक प्रक्षेपास्त्र यंत्र को क्या कहा जाता था?",
+        "en": "What was the mechanical engine used to fling heavy rocks and burning oil onto attacking siege forces called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "अर्रादा / मगरबी (मंजनीक)", "en": "Arrada / Magrabi (Manjaniq)" } },
+        { "id": "B", "text": { "hi": "साबात", "en": "Sabat" } },
+        { "id": "C", "text": { "hi": "पाशीब", "en": "Pasheb" } },
+        { "id": "D", "text": { "hi": "शुतरनाल", "en": "Shutarnal" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "अर्रादा, मगरबी और मंजनीक विशाल यांत्रिक गुलेल (Catapult) यंत्र थे जिनका उपयोग भारी पत्थर व आग फेंकने के लिए किया जाता था।",
+        "en": "Arrada, Magrabi, and Manjaniq were heavy catapult engines used in defensive and offensive siege artillery."
+      },
+      "difficulty": "hard",
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB Forester 2022"
+    },
+    {
+      "id": "MCQ-A.05.03-09",
+      "question": {
+        "hi": "धौलपुर के प्रसिद्ध 'शेरगढ़ दुर्ग' में स्थित ऐतिहासिक भारी तोप का नाम क्या है?",
+        "en": "What is the name of the famous heavy historic cannon stationed in Shergarh Fort of Dholpur?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "हुंहुंकार तोप", "en": "Hunhunkar Cannon" } },
+        { "id": "B", "text": { "hi": "गर्भ गुंजन तोप", "en": "Garbh Gunjam Cannon" } },
+        { "id": "C", "text": { "hi": "कड़क बिजली तोप", "en": "Kadak Bijli Cannon" } },
+        { "id": "D", "text": { "hi": "शंभूबाण तोप", "en": "Shambhuban Cannon" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "धौलपुर के शेरगढ़ किले (चम्बल नदी के किनारे) में स्थित विशाल तोप का नाम 'हुंहुंकार तोप' है (निर्माता: राजा कीरत सिंह)।",
+        "en": "The famous cannon guarding Shergarh Fort along Chambal River in Dholpur is the 'Hunhunkar Cannon'."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 2nd Grade Hindi 2019 / RSSB Junior Accountant 2024"
+    },
+    {
+      "id": "MCQ-A.05.03-10",
+      "question": {
+        "hi": "मध्यकालीन सैन्य प्रशासन में सैनिकों की भर्ती, रसद व्यवस्था, अस्त्र-शस्त्र निरीक्षण तथा वेतन प्रबंधन का कार्य करने वाला सर्वोच्च अधिकारी क्या कहलाता था?",
+        "en": "In medieval military administration, what was the chief officer in charge of troop recruitment, logistics, and payroll called?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "दीवान", "en": "Diwan" } },
+        { "id": "B", "text": { "hi": "बख्शी (फौज बख्शी)", "en": "Bakhshi (Fauj Bakhshi)" } },
+        { "id": "C", "text": { "hi": "खानसामा", "en": "Khansama" } },
+        { "id": "D", "text": { "hi": "कोतवाल", "en": "Kotwal" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "सैन्य विभाग का प्रधान अधिकारी 'बख्शी' या 'फौज बख्शी' कहलाता था, जो सैनिकों की सूची, हुलिया, दाग प्रथा व रसद का प्रबंधन करता था।",
+        "en": "The head of the military department was called 'Bakhshi', supervising troop registers, branding of horses, supplies, and pay."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC RAS Prelims 2021 / RSSB CET Graduate 2023"
+    }
+  ]
+}
