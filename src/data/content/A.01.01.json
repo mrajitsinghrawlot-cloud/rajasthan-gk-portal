@@ -1,0 +1,381 @@
+{
+  "id": "A.01.01",
+  "subject_id": "history",
+  "unit_id": "A.01",
+  "slug": "inscriptions-and-prashastis",
+  "title": {
+    "hi": "शिलालेख एवं प्रशस्तियाँ",
+    "en": "Inscriptions & Prashastis of Rajasthan"
+  },
+  "short_summary": {
+    "hi": "राजस्थान के इतिहास निर्माण में पुरालेखीय स्रोतों (शिलालेख, प्रशस्ति, ताम्रपत्र एवं यूप स्तम्भ) का प्रामाणिक एवं विस्तृत अध्ययन।",
+    "en": "Comprehensive study of epigraphic sources, rock edicts, royal eulogies (prashastis), copper plates, and yupa pillars for reconstructive history of Rajasthan."
+  },
+  "metadata": {
+    "pyq_frequency": "high",
+    "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
+    "last_updated": "2026-09-14",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. पुरालेखीय स्रोतों का परिचय एवं प्राचीनतम अभिलेख",
+        "en": "1. Introduction to Epigraphy & Earliest Inscriptions"
+      },
+      "content_markdown": {
+        "hi": "शिलाओं, स्तम्भों, ताम्रपत्रों, मन्दिरों एवं गुफाओं पर उत्कीर्ण लेख इतिहास निर्माण के सर्वाधिक प्रामाणिक एवं तिथियुक्त स्रोत माने जाते हैं। अभिलेखों के अध्ययन को **पुरालेखशास्त्र (Epigraphy)** कहा जाता है।\n\n### प्रमुख प्राचीनतम अभिलेख:\n1. **बड़ली का शिलालेख (443 ई.पू. / 543 ई.पू. वीर निर्वाण संवत्):**\n   - **स्थान:** भिल्लोत माता मन्दिर, बड़ली (अजमेर)।\n   - **महत्व:** यह राजस्थान का **सबसे प्राचीन शिलालेख** तथा भारत का दूसरा सबसे प्राचीन (पिपरहवा के बाद) शिलालेख है।\n   - **लिपि:** ब्राह्मी लिपि। वर्तमान में यह अजमेर संग्रहालय में सुरक्षित है। इसमें जैन धर्म के प्रभाव की पुष्टि होती है। *(संदर्भ: डॉ. गौरीशंकर हीराचंद ओझा)*\n2. **भाबरू / बैराठ शिलालेख (तीसरी शताब्दी ई.पू.):**\n   - **स्थान:** बीजक की पहाड़ी, बैराठ (कोटपूतली-बहरोड़ / पूर्व जयपुर)।\n   - **खोज:** 1837 ई. में **कैप्टन बर्ट (Captain Burt)** द्वारा खोजा गया।\n   - **शासक व लिपि:** मौर्य सम्राट **अशोक** का अभिलेख; ब्राह्मी लिपि व प्राकृत भाषा।\n   - **महत्व:** अशोक द्वारा बौद्ध धर्म के **त्रिरत्न (बुद्ध, धम्म, संघ)** में निष्ठा व्यक्त। अशोक को *'प्रियदर्शी राजा मगध'* कहा गया है। यह वर्तमान में **एशियाटिक सोसाइटी, कोलकाता संग्रहालय** में सुरक्षित है।\n   - **बैराठ का दूसरा शिलालेख:** 1871-72 में कार्लाइल द्वारा भीम जी की डूंगरी से खोजा गया।\n3. **घोसुण्डी का शिलालेख (द्वितीय शताब्दी ई.पू.):**\n   - **स्थान:** घोसुण्डी गाँव (नगरी/मध्यमिका के पास, चित्तौड़गढ़)।\n   - **खोज व वाचन:** सर्वप्रथम **डॉ. डी.आर. भण्डारकर** द्वारा पढ़ा गया।\n   - **लिपि व भाषा:** ब्राह्मी लिपि, संस्कृत भाषा।\n   - **महत्व:** राजस्थान में **भागवत (वैष्णव) धर्म के प्रचार का प्राचीनतम अभिलेखीय प्रमाण**। इसमें 'पाराशरी के पुत्र सर्वतात' द्वारा अश्वमेध यज्ञ कराने तथा 'संकर्षण (बलराम) एवं वासुदेव (कृष्ण)' के पूजा-प्राकार (चारदीवारी) निर्माण का उल्लेख है।",
+        "en": "Inscriptions carved on rocks, pillars, copper-plates, and temples are the most authentic dated historical sources. The study of inscriptions is known as **Epigraphy**.\n\n### Earliest Landmark Inscriptions:\n1. **Badli Inscription (443 BC):** Located at Bhillot Mata Temple, Badli (Ajmer). It is the **oldest inscription found in Rajasthan** and second oldest in India. Written in Brahmi script, preserved in Ajmer Museum. Mentions Jain influence.\n2. **Bhabru Rock Edict (3rd Century BC):** Discovered in 1837 by **Captain Burt** at Bijak Hill, Bairath. Carved by Mauryan Emperor **Ashoka** in Brahmi script and Prakrit language. Confirms Ashoka's faith in **Triratna (Buddha, Dhamma, Sangha)**. Currently preserved in Asiatic Society Museum, Kolkata.\n3. **Ghosundi Inscription (2nd Century BC):** Discovered near Nagari (Chittorgarh) and deciphered by **Dr. D.R. Bhandarkar**. Written in Sanskrit with Brahmi script. Provides the **earliest epigraphic evidence of Bhagavata (Vaishnava) religion** and performance of Ashvamedha Yajna by King Sarvatata."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. मध्यकालीन प्रमुख शिलालेख: बिजोलिया, घटियाला, सामोली एवं चिरवा",
+        "en": "2. Medieval Landmark Inscriptions: Bijolia, Ghatiyala, Samoli & Chirwa"
+      },
+      "content_markdown": {
+        "hi": "### 1. बिजोलिया शिलालेख (1170 ई. / वि.सं. 1226):\n- **स्थान:** पार्श्वनाथ मन्दिर, बिजोलिया (भीलवाड़ा)।\n- **शासक:** चौहान शासक **सोमेश्वर** के काल का।\n- **रचयिता:** **गुणभद्र**; कायस्थ: केशव; उत्कीर्णक: गोविन्द।\n- **ऐतिहासिक महत्व:**\n  - शाकम्भरी व अजमेर के चौहानों को **'वत्सगोत्रीय ब्राह्मण' (विप्र श्रीवत्सगोत्रे)** बताया गया है।\n  - चौहानों के आदिपुरुष **वासुदेव चौहान** द्वारा 551 ई. में सांभर झील के निर्माण का उल्लेख।\n  - **प्राचीन नगरों के भौगोलिक नाम:**\n    - *जालौर* → जाबालीपुर\n    - *भीनमाल* → श्रीमाल\n    - *सांभर* → शाकम्भरी\n    - *नागौर* → अहिच्छत्रपुर\n    - *बिजोलिया* → विन्ध्यवल्ली\n    - *दिल्ली* → ढिल्लिका\n    - *नाडोल* → नड्डूल\n    - *मण्डलauthor/भीलवाड़ा क्षेत्र* → माण्डलगढ़ / मेदपाट\n\n### 2. घटियाला शिलालेख (861 ई. / वि.सं. 918):\n- **स्थान:** घटियाला (जोधपुर ग्रामीण)।\n- **शासक:** प्रतिहार शासक **कक्कुका (Kakkuka)**।\n- **महत्व:**\n  - मण्डोर के गुर्जर-प्रतिहारों की विस्तृत वंशावली (हरिश्चंद्र से कक्कुका तक)।\n  - मग जाति के ब्राह्मणों का उल्लेख।\n  - **राजस्थान में सती प्रथा का प्रथम अभिलेखीय साक्ष्य:** 861 ई. के घटियाला लेख में सेनापति राणुका की पत्नी 'सम्पल देवी' के सती होने का वर्णन है।\n\n### 3. सामोली शिलालेख (646 ई. / वि.सं. 703):\n- **स्थान:** सामोली गाँव (भोमट क्षेत्र, उदयपुर)।\n- **शासक:** मेवाड़ के गुहिल शासक **शीलादित्य**।\n- **महत्व:** गुहिल वंश का समय निर्धारण करने में मील का पत्थर। इसमें जावर क्षेत्र में **तांबे व जस्ते (Agucha/Zawar) की खानों** की शुरुआत और महाजन जातक द्वारा अरण्यवासिनी देवी मन्दिर निर्माण का उल्लेख है।\n\n### 4. चिरवा का शिलालेख (1273 ई. / वि.सं. 1330):\n- **स्थान:** चिरवा गाँव (उदयपुर)।\n- **रचयिता:** रत्नप्रभ सूरि; लेखक: पार्श्वचन्द्र; शिल्पी: केल्हण।\n- **शासक:** मेवाड़ के गुहिल शासक **जैत्रसिंह, तेजसिंह एवं समरसिंह** का वर्णन। जैत्रसिंह द्वारा इल्तुतमिश की सेना को पराजित करने (भूताला युद्ध) का उल्लेख।",
+        "en": "### 1. Bijolia Inscription (1170 AD):\n- Located at Parshvanath Temple, Bijolia (Bhilwara), during the reign of Chauhan ruler **Someshvara**.\n- Composed by **Gunabhadra**.\n- Defines Chauhans of Shakambhari as **Vatsagotriya Brahmins**.\n- Credits **Vasudeva Chauhan** with the founding of the dynasty and creation of Sambhar Lake in 551 AD.\n- Records ancient geographical names: Jabalipur (Jalore), Shrimal (Bhinmal), Ahichhatrapur (Nagaur), Vindhyavalli (Bijolia), Dhillika (Delhi).\n\n### 2. Ghatiyala Inscriptions (861 AD):\n- Located in Jodhpur, issued by Pratihara King **Kakkuka**.\n- Traces genealogy of Mandore Pratiharas.\n- Contains the **earliest epigraphic evidence of Sati practice in Rajasthan** (Sampal Devi, wife of commander Ranuka).\n\n### 3. Samoli Inscription (646 AD):\n- Issued during Guhila King **Shiladitya** in Udaipur.\n- Crucial for establishing chronology of Guhilas; mentions early mining at Zawar.\n\n### 4. Chirwa Inscription (1273 AD):\n- Composed by Ratnaprabha Suri in Udaipur. Details reigns of Jaitra Singh, Teja Singh, and Samar Singh of Mewar, referencing the battle of Bhutala against Iltutmish."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. प्रसिद्ध प्रशस्तियाँ: राजप्रशस्ति, कीर्ति स्तम्भ एवं जूनागढ़",
+        "en": "3. Famous Royal Eulogies (Prashastis): Raj Prashasti, Kirti Stambh & Junagarh"
+      },
+      "content_markdown": {
+        "hi": "प्रशस्ति का शाब्दिक अर्थ 'राजा की कीर्ति या प्रशंसा में लिखा गया काव्य' होता है।\n\n### 1. राजप्रशस्ति (1676 ई. / वि.सं. 1732):\n- **स्थान:** राजसमंद झील की 'नौचौकी पाल' पर (राजसमंद)।\n- **शासक:** मेवाड़ महाराणा **राजसिंह प्रथम** (पूर्णता महाराणा जयसिंह के समय)।\n- **रचयिता:** **रणछोड़ भट्ट तैलंग** (संस्कृत महाकाव्य)।\n- **विशालता:** **25 काले संगमरमर के बड़े शिलापट्टों** पर उत्कीर्ण — **विश्व का सबसे बड़ा शिलालेख (World's Largest Stone Inscription)**।\n- **विषय-वस्तु:**\n  - इसमें 24 सर्ग हैं।\n  - बप्पा रावल से लेकर महाराणा राजसिंह तक मेवाड़ का विस्तृत इतिहास।\n  - **1615 ई. की मुगल-मेवाड़ सन्धि** (महाराणा अमरसिंह व जहांगीर) का प्रामाणिक विवरण।\n  - राजसमंद झील के अकाल राहत कार्य के रूप में निर्माण का विवरण।\n\n### 2. कीर्ति स्तम्भ प्रशस्ति (1460 ई. / वि.सं. 1517):\n- **स्थान:** चित्तौड़गढ़ दुर्ग (विजय स्तम्भ की 9वीं मंजिल पर)।\n- **शासक:** **महाराणा कुम्भा**।\n- **रचयिता:** **अत्रि भट्ट** (शुरुआत) तथा उनके देहांत के बाद उनके पुत्र **महेश भट्ट** (पूर्णता)।\n- **महत्व:**\n  - महाराणा कुम्भा की मालवा (सारंगपुर युद्ध 1437) व गुजरात विजय का विवरण।\n  - कुम्भा की उपाधियाँ: *अभिनव भरताचार्य, हिन्दू सुरत्राण, हाल गुरु, छाप गुरु, दान गुरु, शैल गुरु* आदि।\n  - कुम्भा द्वारा रचित संगीत ग्रन्थों का उल्लेख: **संगीतराज, संगीत मीमांसा, सूड प्रबंध, चण्डी शतक टीका**।\n\n### 3. कुम्भलगढ़ प्रशस्ति (1460 ई. / वि.सं. 1517):\n- **स्थान:** कुम्भलगढ़ दुर्ग के कुम्भस्वामी (मामादेव) मन्दिर में (वर्तमान में उदयपुर संग्रहालय में सुरक्षित)।\n- **रचयिता:** कान्हा व्यास / महेश भट्ट।\n- **महत्व:** बप्पा रावल को 'विप्र' (ब्राह्मण) एवं 'आनन्दपुर के विप्र' शाखा से संबंधित बताया गया है। हम्मीर को **'विषम घाटी पंचानन'** (विकट आक्रमणों में सिंह के समान) उपाधि इसी प्रशस्ति में दी गई है।\n\n### 4. जूनागढ़ / बीकानेर प्रशस्ति (1594 ई.):\n- **स्थान:** जूनागढ़ दुर्ग के सूरजपोल द्वार पर (बीकानेर)।\n- **शासक:** महाराजा **रायसिंह**; रचयिता: जैन मुनि **जयता**।\n- **महत्व:** बीकानेर के संस्थापक राव बीका से लेकर रायसिंह तक का इतिहास एवं जूनागढ़ निर्माण का विवरण।\n\n### 5. जगन्नाथ राय प्रशस्ति (1652 ई.):\n- **स्थान:** जगदीश (जगन्नाथ राय) मन्दिर, उदयपुर।\n- **शासक:** महाराणा **जगतसिंह प्रथम**; रचयिता: **कृष्ण भट्ट**।\n- **महत्व:** हल्दीघाटी युद्ध का सजीव चित्रण एवं जगतसिंह के दान-पुण्य का वर्णन।",
+        "en": "A *Prashasti* is a royal panegyric or eulogy composed by court scholars to record dynastic achievements.\n\n### 1. Raj Prashasti (1676 AD):\n- Located at Nauchowki embankment of Rajsamand Lake.\n- Commissioned by Maharana **Raj Singh I** and composed by **Ranchhod Bhatt Tailang** in Sanskrit.\n- Engraved across **25 black marble slabs** — recognized as the **largest stone inscription in the world**.\n- Documents Mewar history from Bappa Rawal to Raj Singh, details the 1615 Mughal-Mewar Treaty, and famine relief construction of the lake.\n\n### 2. Kirti Stambh Prashasti (1460 AD):\n- Located at Chittorgarh Fort.\n- Begun by **Atri Bhatt** and completed by his son **Mahesh Bhatt** under Maharana Kumbha.\n- Lists Kumbha's victories, royal titles (*Abhinav Bharatacharya, Hindu Surtran, Hal Guru*), and literary works (*Sangeetraj, Sangeet Mimamsa*).\n\n### 3. Kumbhalgarh Prashasti (1460 AD):\n- Preserved from Kumbhalgarh fort; confers the title **'Visham Ghati Panchanan'** on Rana Hammir.\n\n### 4. Junagarh Prashasti (1594 AD):\n- Located at Suraj Pol of Junagarh Fort, Bikaner; composed by Jain monk **Jayata** for Maharaja Rai Singh.\n\n### 5. Jagannath Rai Prashasti (1652 AD):\n- Located at Jagdish Temple, Udaipur; composed by **Krishna Bhatt** during Maharana Jagat Singh I."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "4. अन्य महत्वपूर्ण अभिलेख एवं यूप स्तम्भ",
+        "en": "4. Other Notable Inscriptions & Yupa Pillars"
+      },
+      "content_markdown": {
+        "hi": "### यूप स्तम्भ (यज्ञीय स्तम्भ लेख):\nवैदिक यज्ञों के सम्पादन के उपलक्ष्य में स्थापित पाषाण स्तम्भों को **यूप स्तम्भ** कहा जाता है:\n1. **बड़वा यूप अभिलेख (238-239 ई. / वि.सं. 295):**\n   - **स्थान:** बड़वा गाँव (अंता, बारां)।\n   - **महत्व:** मौखरि वंश के राजा **महासेनापति बल** एवं उनके पुत्रों द्वारा त्रि-रात्र यज्ञ कराने का उल्लेख। राजस्थान में मौखरियों का सबसे प्राचीन व एकमात्र अभिलेख।\n2. **नांदसा यूप स्तम्भ (225 ई. / वि.सं. 282):**\n   - **स्थान:** नांदसा गाँव (सहाड़ा, भीलवाड़ा)।\n   - **महत्व:** सोम द्वारा षोडश (सोलह) यज्ञ कराने का उल्लेख; मालव गण के पराक्रम की जानकारी।\n3. **बरनाला यूप स्तम्भ (227 ई.):**\n   - **स्थान:** बरनाला (जयपुर/दौसा क्षेत्र — वर्तमान में आमेर संग्रहालय में)। कृत संवत् 284 का उल्लेख।\n\n### अन्य विशिष्ट शिलालेख:\n- **कंसवा / कंसुआ का शिलालेख (738 ई. / वि.सं. 795):** कोटा के पास। इसमें राजस्थान के अंतिम **मौर्य राजा धवल** का उल्लेख मिलता है।\n- **मान मोरी का शिलालेख (713 ई.):** मानसरोवर झील (चित्तौड़गढ़)। कर्नल जेम्स टॉड ने इसे इंग्लैंड ले जाते समय जहाज का संतुलन बिगड़ने पर **समुद्र में फेंक दिया था**। इसमें समुद्र मंथन व चित्तौड़ के राजा मान मौर्य का वर्णन था।\n- **हर्षनाथ की प्रशस्ति (973 ई.):** सीकर (हर्ष पर्वत)। चौहान राजा विग्रहराज द्वितीय के समय की। इसमें शिव मन्दिर निर्माण तथा चौहानों की वंशावली वर्णित है।\n- **अपराजित का शिलालेख (661 ई.):** नागदा (उदयपुर) के कुण्डेश्वर मन्दिर से। दामोदर द्वारा रचित; गुहिल राजा अपराजित की विजयों का उल्लेख।",
+        "en": "### Yupa (Sacrificial) Inscriptions:\n1. **Badva Yupa Inscription (238-239 AD):** Baran district; records Triratra sacrifice performed by Maukhari Mahasenapati Bala's sons. Oldest record of Maukhari dynasty in Rajasthan.\n2. **Nandsa Yupa Inscription (225 AD):** Sahada, Bhilwara; records Vedic rituals and references the Malava Republic.\n3. **Barnala Yupa Inscription (227 AD):** Amer Museum; records Krita Samvat.\n\n### Other Notable Inscriptions:\n- **Kansua Inscription (738 AD):** Kota; contains the last historical mention of Mauryan King Dhavala in Rajasthan.\n- **Man Mori Inscription (713 AD):** Found by Colonel James Tod at Lake Mansarovar (Chittor). Tod had to throw it into the sea due to ship overweight on his voyage to England.\n- **Harshnath Prashasti (973 AD):** Sikar; belongs to Vigraharaja II, details Chauhan genealogy and temple patronages."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "राजस्थान का सबसे प्राचीन शिलालेख: बड़ली का शिलालेख (443 ई.पू., अजमेर)।",
+      "en": "Oldest inscription in Rajasthan: Badli Inscription (443 BC, Ajmer)."
+    },
+    {
+      "hi": "अशोक का भाबरू शिलालेख कैप्टन बर्ट ने 1837 में बैराठ से खोजा (वर्तमान में कोलकाता संग्रहालय में)।",
+      "en": "Ashoka's Bhabru Edict was discovered by Captain Burt in 1837 at Bairath (now in Kolkata Museum)."
+    },
+    {
+      "hi": "घोसुण्डी शिलालेख (चित्तौड़गढ़) राजस्थान में भागवत/वैष्णव धर्म का प्राचीनतम अभिलेखीय प्रमाण है।",
+      "en": "Ghosundi Inscription (Chittorgarh) is the earliest epigraphic evidence of Vaishnavism in Rajasthan."
+    },
+    {
+      "hi": "बिजोलिया शिलालेख (1170 ई.) चौहानों को 'वत्सगोत्रीय ब्राह्मण' बताता है और गुणभद्र द्वारा रचित है।",
+      "en": "Bijolia Inscription (1170 AD) declares Chauhans as Vatsagotriya Brahmins and was composed by Gunabhadra."
+    },
+    {
+      "hi": "विश्व का सबसे बड़ा शिलालेख: राजप्रशस्ति (25 काले संगमरमर के शिलापट्ट, रणछोड़ भट्ट तैलंग, राजसमंद)।",
+      "en": "World's largest inscription: Raj Prashasti (25 black marble slabs, Ranchhod Bhatt, Rajsamand Lake)."
+    },
+    {
+      "hi": "कीर्ति स्तम्भ प्रशस्ति के रचयिता अत्रि भट्ट थे, जिसे उनके पुत्र महेश भट्ट ने पूरा किया।",
+      "en": "Kirti Stambh Prashasti was authored by Atri Bhatt and completed by his son Mahesh Bhatt."
+    },
+    {
+      "hi": "घटियाला शिलालेख (861 ई., जोधपुर) राजस्थान में सती प्रथा का प्रथम अभिलेखीय साक्ष्य प्रदान करता है।",
+      "en": "Ghatiyala Inscription (861 AD, Jodhpur) provides the first epigraphic evidence of Sati in Rajasthan."
+    },
+    {
+      "hi": "कर्नल टॉड ने इंग्लैंड ले जाते समय 'मान मोरी शिलालेख' (713 ई.) को समुद्र में फेंक दिया था।",
+      "en": "Colonel James Tod threw the Man Mori Inscription (713 AD) into the sea during his return voyage to England."
+    },
+    {
+      "hi": "कंसुआ शिलालेख (738 ई., कोटा) राजस्थान में मौर्य राजा 'धवल' का अंतिम उल्लेख करता है।",
+      "en": "Kansua Inscription (738 AD, Kota) provides the final historical mention of Mauryan King Dhavala."
+    },
+    {
+      "hi": "बड़वा यूप स्तम्भ अभिलेख (बारां) मौखरि वंश से संबंधित राजस्थान का एकमात्र व प्राचीनतम अभिलेख है।",
+      "en": "Badva Yupa pillar inscription (Baran) is the earliest and only record of the Maukhari dynasty in Rajasthan."
+    }
+  ],
+  "timeline": [
+    {
+      "year_or_era": "443 BC",
+      "event": {
+        "hi": "बड़ली शिलालेख (अजमेर) — राजस्थान का प्राचीनतम ज्ञात अभिलेख।",
+        "en": "Badli Inscription (Ajmer) — Oldest known inscription in Rajasthan."
+      }
+    },
+    {
+      "year_or_era": "3rd Century BC",
+      "event": {
+        "hi": "सम्राट अशोक का भाबरू शिलालेख बैराठ की बीजक पहाड़ी पर उत्कीर्ण।",
+        "en": "Mauryan Emperor Ashoka's Bhabru Edict engraved at Bairath."
+      }
+    },
+    {
+      "year_or_era": "2nd Century BC",
+      "event": {
+        "hi": "घोसुण्डी शिलालेख (चित्तौड़) द्वारा वैष्णव धर्म एवं अश्वमेध यज्ञ का उल्लेख।",
+        "en": "Ghosundi Inscription records early Bhagavata worship and Ashvamedha Yajna."
+      }
+    },
+    {
+      "year_or_era": "861 AD",
+      "event": {
+        "hi": "प्रतिहार कक्कुका का घटियाला शिलालेख — राजस्थान का प्रथम सती अभिलेख साक्ष्य।",
+        "en": "Ghatiyala Inscription of Pratihara Kakkuka — earliest Sati reference."
+      }
+    },
+    {
+      "year_or_era": "1170 AD",
+      "event": {
+        "hi": "बिजोलिया शिलालेख — चौहानों को वत्सगोत्रीय ब्राह्मण घोषित किया गया।",
+        "en": "Bijolia Inscription classifies Chauhans as Vatsagotriya Brahmins."
+      }
+    },
+    {
+      "year_or_era": "1460 AD",
+      "event": {
+        "hi": "अत्रि व महेश भट्ट द्वारा चित्तौड़गढ़ में कीर्ति स्तम्भ प्रशस्ति की रचना।",
+        "en": "Atri and Mahesh Bhatt complete the Kirti Stambh Prashasti."
+      }
+    },
+    {
+      "year_or_era": "1676 AD",
+      "event": {
+        "hi": "रणछोड़ भट्ट तैलंग द्वारा 25 संगमरमर पट्टों पर राजप्रशस्ति की रचना।",
+        "en": "Ranchhod Bhatt engraves Raj Prashasti across 25 black marble slabs."
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "hi": "परीक्षा जाल: 'कीर्ति स्तम्भ प्रशस्ति' और 'कुम्भलगढ़ प्रशस्ति' दोनों 1460 ई. (वि.सं. 1517) की हैं। कीर्ति स्तम्भ प्रशस्ति अत्रि व महेश भट्ट ने लिखी, जबकि कुम्भलगढ़ प्रशस्ति में कान्हा व्यास/महेश भट्ट का नाम आता है।",
+      "en": "TRAP: Both Kirti Stambh Prashasti and Kumbhalgarh Prashasti date to 1460 AD. Kirti Stambh was composed by Atri & Mahesh Bhatt, whereas Kumbhalgarh Prashasti associates with Kanha Vyas / Mahesh Bhatt."
+    },
+    {
+      "hi": "परीक्षा जाल: अशोक का भाबरू शिलालेख वर्तमान में राजस्थान में नहीं, बल्कि 'कोलकाता संग्रहालय' (एशियाटिक सोसाइटी) में सुरक्षित है।",
+      "en": "TRAP: Ashoka's Bhabru Edict is NOT in Rajasthan today; it is preserved at the Asiatic Society Museum in Kolkata."
+    },
+    {
+      "hi": "परीक्षा जाल: 'बड़वा यूप स्तम्भ' बारां जिले में है (मौखरि वंश), जबकि 'नांदसा यूप स्तम्भ' भीलवाड़ा जिले में है (मालव गण)।",
+      "en": "TRAP: Badva Yupa is in Baran (Maukhari dynasty), whereas Nandsa Yupa is in Bhilwara (Malava republic)."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.01.01-01",
+      "question": {
+        "hi": "राजस्थान का सबसे प्राचीन ज्ञात शिलालेख कौन सा है?",
+        "en": "Which is the oldest known inscription found in Rajasthan?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "घोसुण्डी का शिलालेख", "en": "Ghosundi Inscription" } },
+        { "id": "B", "text": { "hi": "बड़ली का शिलालेख", "en": "Badli Inscription" } },
+        { "id": "C", "text": { "hi": "भाबरू का शिलालेख", "en": "Bhabru Inscription" } },
+        { "id": "D", "text": { "hi": "बिजोलिया का शिलालेख", "en": "Bijolia Inscription" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "बड़ली का शिलालेख (443 ई.पू., अजमेर) राजस्थान का सबसे प्राचीन तथा भारत का दूसरा सबसे प्राचीन शिलालेख है। यह ब्राह्मी लिपि में है।",
+        "en": "The Badli Inscription (443 BC, Ajmer) is the oldest in Rajasthan and second oldest in India, written in Brahmi script."
+      },
+      "pyq_source": "RPSC College Lecturer 2016 / RSSB Lab Assistant 2022",
+      "difficulty": "easy",
+      "tags": ["Inscriptions", "Ancient Rajasthan"]
+    },
+    {
+      "id": "MCQ-A.01.01-02",
+      "question": {
+        "hi": "मौर्य सम्राट अशोक का प्रसिद्ध 'भाबरू शिलालेख' 1837 ई. में किसके द्वारा खोजा गया था?",
+        "en": "By whom was the famous Bhabru Rock Edict of Mauryan Emperor Ashoka discovered in 1837 AD?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कर्नल जेम्स टॉड", "en": "Colonel James Tod" } },
+        { "id": "B", "text": { "hi": "कैप्टन बर्ट", "en": "Captain Burt" } },
+        { "id": "C", "text": { "hi": "ए.सी.एल. कार्लाइल", "en": "A.C.L. Carlleyle" } },
+        { "id": "D", "text": { "hi": "डॉ. डी.आर. भण्डारकर", "en": "Dr. D.R. Bhandarkar" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "कैप्टन बर्ट ने 1837 ई. में बैराठ की बीजक की पहाड़ी से भाबरू शिलालेख खोजा था, जो वर्तमान में कोलकाता के एशियाटिक सोसाइटी संग्रहालय में सुरक्षित है।",
+        "en": "Captain Burt discovered the Bhabru Edict in 1837 at Bijak Hill (Bairath). It is currently preserved in Asiatic Society, Kolkata."
+      },
+      "pyq_source": "RPSC RAS Pre 2021 / RSSB Patwari 2021",
+      "difficulty": "medium",
+      "tags": ["Mauryan", "Bairath", "Ashoka"]
+    },
+    {
+      "id": "MCQ-A.01.01-03",
+      "question": {
+        "hi": "राजस्थान में भागवत (वैष्णव) धर्म के प्रचार का प्राचीनतम अभिलेखीय साक्ष्य किस शिलालेख से प्राप्त होता है?",
+        "en": "From which inscription is the earliest epigraphic evidence of the spread of Bhagavata (Vaishnava) religion in Rajasthan obtained?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "घोसुण्डी शिलालेख (चित्तौड़गढ़)", "en": "Ghosundi Inscription (Chittorgarh)" } },
+        { "id": "B", "text": { "hi": "घटियाला शिलालेख (जोधपुर)", "en": "Ghatiyala Inscription (Jodhpur)" } },
+        { "id": "C", "text": { "hi": "कंसुआ शिलालेख (कोटा)", "en": "Kansua Inscription (Kota)" } },
+        { "id": "D", "text": { "hi": "सामोली शिलालेख (उदयपुर)", "en": "Samoli Inscription (Udaipur)" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "घोसुण्डी शिलालेख (द्वितीय शताब्दी ई.पू.) में राजा सर्वतात द्वारा अश्वमेध यज्ञ और संकर्षण-वासुदेव के पूजा प्राकार निर्माण का उल्लेख है, जो भागवत धर्म का प्राचीनतम साक्ष्य है।",
+        "en": "Ghosundi Inscription (2nd Century BC) mentions Ashvamedha Yajna and worship enclosure for Sankarshana & Vasudeva, serving as the earliest Vaishnavite evidence."
+      },
+      "pyq_source": "RPSC 1st Grade 2020 / RSSB CET 2023",
+      "difficulty": "medium",
+      "tags": ["Vaishnavism", "Ghosundi", "Nagari"]
+    },
+    {
+      "id": "MCQ-A.01.01-04",
+      "question": {
+        "hi": "शाकम्भरी के चौहान शासकों को 'वत्सगोत्रीय ब्राह्मण' किस शिलालेख में बताया गया है?",
+        "en": "In which inscription are the Chauhan rulers of Shakambhari described as 'Vatsagotriya Brahmins'?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "हर्षनाथ प्रशस्ति", "en": "Harshnath Prashasti" } },
+        { "id": "B", "text": { "hi": "चिरवा शिलालेख", "en": "Chirwa Inscription" } },
+        { "id": "C", "text": { "hi": "बिजोलिया शिलालेख", "en": "Bijolia Inscription" } },
+        { "id": "D", "text": { "hi": "रणकपुर प्रशस्ति", "en": "Ranakpur Prashasti" } }
+      ],
+      "correct_option": "C",
+      "explanation": {
+        "hi": "1170 ई. के बिजोलिया शिलालेख (रचयिता गुणभद्र) में चौहानों को वत्सगोत्रीय ब्राह्मण कहा गया है तथा वासुदेव चौहान द्वारा 551 ई. में सांभर झील निर्माण का उल्लेख है।",
+        "en": "The 1170 AD Bijolia Inscription (composed by Gunabhadra) terms Chauhans as Vatsagotriya Brahmins and attributes the founding of Sambhar Lake to Vasudeva Chauhan."
+      },
+      "pyq_source": "RPSC RAS Pre 2013 / 2018 / RSSB VDO 2021",
+      "difficulty": "easy",
+      "tags": ["Chauhans", "Bijolia", "Origin"]
+    },
+    {
+      "id": "MCQ-A.01.01-05",
+      "question": {
+        "hi": "विश्व के सबसे बड़े शिलालेख 'राजप्रशस्ति' के रचयिता कौन थे?",
+        "en": "Who was the composer of the world's largest stone inscription, 'Raj Prashasti'?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "महेश भट्ट", "en": "Mahesh Bhatt" } },
+        { "id": "B", "text": { "hi": "रणछोड़ भट्ट तैलंग", "en": "Ranchhod Bhatt Tailang" } },
+        { "id": "C", "text": { "hi": "कृष्ण भट्ट", "en": "Krishna Bhatt" } },
+        { "id": "D", "text": { "hi": "कान्हा व्यास", "en": "Kanha Vyas" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "राजप्रशस्ति महाराणा राजसिंह के आदेश पर रणछोड़ भट्ट तैलंग द्वारा संस्कृत भाषा में रची गई। यह राजसमंद झील की नौचौकी पाल पर 25 काले संगमरमर के शिलापट्टों पर उत्कीर्ण है।",
+        "en": "Raj Prashasti was composed by Ranchhod Bhatt Tailang in Sanskrit on the orders of Maharana Raj Singh, engraved across 25 black marble slabs at Rajsamand Lake."
+      },
+      "pyq_source": "RPSC 2nd Grade 2018 / RSSB Patwari 2021",
+      "difficulty": "easy",
+      "tags": ["Rajsamand", "Mewar", "Prashasti"]
+    },
+    {
+      "id": "MCQ-A.01.01-06",
+      "question": {
+        "hi": "चित्तौड़गढ़ स्थित 'कीर्ति स्तम्भ प्रशस्ति' की रचना किसने प्रारम्भ की थी तथा इसे किसने पूर्ण किया?",
+        "en": "Who began the composition of Kirti Stambh Prashasti at Chittorgarh and who completed it?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कान्हा व्यास ने शुरू की एवं महेश भट्ट ने पूर्ण की", "en": "Kanha Vyas began and Mahesh Bhatt completed" } },
+        { "id": "B", "text": { "hi": "अत्रि भट्ट ने शुरू की एवं उनके पुत्र महेश भट्ट ने पूर्ण की", "en": "Atri Bhatt began and his son Mahesh Bhatt completed" } },
+        { "id": "C", "text": { "hi": "रणछोड़ भट्ट ने शुरू की एवं सदाशिव ने पूर्ण की", "en": "Ranchhod Bhatt began and Sadashiv completed" } },
+        { "id": "D", "text": { "hi": "मंडन ने शुरू की एवं नाथा ने पूर्ण की", "en": "Mandan began and Natha completed" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "कीर्ति स्तम्भ प्रशस्ति (1460 ई.) की रचना कवि अत्रि भट्ट ने शुरू की थी। उनके निधन के उपरांत उनके विद्वान पुत्र महेश भट्ट ने इसे पूर्ण किया।",
+        "en": "Kirti Stambh Prashasti (1460 AD) was begun by court poet Atri Bhatt and completed posthumously by his son Mahesh Bhatt."
+      },
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB Forester 2022",
+      "difficulty": "medium",
+      "tags": ["Kumbha", "Chittorgarh", "Inscriptions"]
+    },
+    {
+      "id": "MCQ-A.01.01-07",
+      "question": {
+        "hi": "राजस्थान में सती प्रथा का सर्वप्रथम अभिलेखीय प्रमाण किस शिलालेख से मिलता है?",
+        "en": "From which inscription is the earliest epigraphic evidence of Sati practice in Rajasthan obtained?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "बिजोलिया शिलालेख (1170 ई.)", "en": "Bijolia Inscription (1170 AD)" } },
+        { "id": "B", "text": { "hi": "घटियाला शिलालेख (861 ई.)", "en": "Ghatiyala Inscription (861 AD)" } },
+        { "id": "C", "text": { "hi": "सामोली शिलालेख (646 ई.)", "en": "Samoli Inscription (646 AD)" } },
+        { "id": "D", "text": { "hi": "हर्षनाथ शिलालेख (973 ई.)", "en": "Harshnath Inscription (973 AD)" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "जोधपुर के घटियाला शिलालेख (861 ई., प्रतिहार शासक कक्कुका) में सेनापति राणुका की पत्नी सम्पल देवी के सती होने का उल्लेख है, जो राज्य का प्रथम सती अभिलेख है।",
+        "en": "Ghatiyala Inscription (861 AD) of Pratihara King Kakkuka records the Sati of Sampal Devi, wife of general Ranuka, making it the first Sati record in Rajasthan."
+      },
+      "pyq_source": "RPSC College Lecturer 2014 / RSSB Police Constable 2022",
+      "difficulty": "medium",
+      "tags": ["Sati", "Pratihara", "Ghatiyala"]
+    },
+    {
+      "id": "MCQ-A.01.01-08",
+      "question": {
+        "hi": "कर्नल जेम्स टॉड ने इंग्लैंड जाते समय किस ऐतिहासिक शिलालेख को भारी होने के कारण समुद्र में फेंक दिया था?",
+        "en": "Which historical inscription was thrown into the sea by Colonel James Tod due to ship overload during his journey to England?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मान मोरी का शिलालेख", "en": "Man Mori Inscription" } },
+        { "id": "B", "text": { "hi": "कंसुआ का शिलालेख", "en": "Kansua Inscription" } },
+        { "id": "C", "text": { "hi": "बड़वा का यूप अभिलेख", "en": "Badva Yupa Inscription" } },
+        { "id": "D", "text": { "hi": "अपराजित का शिलालेख", "en": "Aparajita Inscription" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "चित्तौड़गढ़ की मानसरोवर झील से प्राप्त मान मोरी शिलालेख (713 ई.) में अमृत मंथन व राजा मान मौर्य का उल्लेख था। कर्नल टॉड ने जहाज का संतुलन बिगड़ने पर इसे समुद्र में फेंक दिया था।",
+        "en": "The Man Mori Inscription (713 AD) from Mansarovar Lake (Chittorgarh) described the Churning of Ocean & Raja Man Maurya. Tod threw it into the sea due to vessel ballast issues."
+      },
+      "pyq_source": "RPSC 2nd Grade 2016 / RSSB Patwari 2015",
+      "difficulty": "medium",
+      "tags": ["Tod", "Man Mori", "Chittorgarh"]
+    },
+    {
+      "id": "MCQ-A.01.01-09",
+      "question": {
+        "hi": "मौखरि वंश के महासेनापति बल के तीन पुत्रों द्वारा यज्ञ सम्पादन का उल्लेख करने वाला 'बड़वा यूप अभिलेख' किस जिले में स्थित है?",
+        "en": "In which district is the 'Badva Yupa Inscription' located, which records Vedic sacrifices performed by three sons of Maukhari general Bala?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "भीलवाड़ा", "en": "Bhilwara" } },
+        { "id": "B", "text": { "hi": "बारां", "en": "Baran" } },
+        { "id": "C", "text": { "hi": "कोटा", "en": "Kota" } },
+        { "id": "D", "text": { "hi": "झालावाड़", "en": "Jhalawar" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "hi": "बड़वा यूप अभिलेख (238-239 ई.) बारां जिले के अंता के पास बड़वा गाँव में है। यह मौखरि राजाओं का राजस्थान में सबसे प्राचीन व एकमात्र अभिलेख है।",
+        "en": "Badva Yupa Inscription (238-239 AD) is located in Baran district (near Anta). It is the earliest and only Maukhari record in Rajasthan."
+      },
+      "pyq_source": "RPSC RAS Pre 2016 / 1st Grade 2022",
+      "difficulty": "hard",
+      "tags": ["Maukhari", "Baran", "Yupa"]
+    },
+    {
+      "id": "MCQ-A.01.01-10",
+      "question": {
+        "hi": "बिजोलिया शिलालेख (1170 ई.) के अनुसार निम्नलिखित में से कौन सा प्राचीन नाम और आधुनिक स्थान का युग्म सुमेलित नहीं है?",
+        "en": "According to the Bijolia Inscription (1170 AD), which of the following pairs of ancient name and modern location is NOT correctly matched?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "जाबालीपुर — जालौर", "en": "Jabalipur — Jalore" } },
+        { "id": "B", "text": { "hi": "श्रीमाल — भीनमाल", "en": "Shrimal — Bhinmal" } },
+        { "id": "C", "text": { "hi": "अहिच्छत्रपुर — नागौर", "en": "Ahichhatrapur — Nagaur" } },
+        { "id": "D", "text": { "hi": "विन्ध्यवल्ली — बयाना", "en": "Vindhyavalli — Bayana" } }
+      ],
+      "correct_option": "D",
+      "explanation": {
+        "hi": "विन्ध्यवल्ली 'बिजोलिया' का प्राचीन नाम था (न कि बयाना का; बयाना का प्राचीन नाम श्रीपंथ था)। अन्य सभी युग्म बिल्कुल सही हैं।",
+        "en": "Vindhyavalli was the ancient name of Bijolia (not Bayana; Bayana's ancient name was Shripath). All other pairs are matched accurately."
+      },
+      "pyq_source": "RPSC RAS Pre 2023 / RSSB CET 2023",
+      "difficulty": "hard",
+      "tags": ["Bijolia", "Ancient Names", "Geography"]
+    }
+  ]
+}

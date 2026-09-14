@@ -1,18 +1,17 @@
 import type { SubTopicDetail } from '../types/content';
 import type { SubTopicSummary } from '../types/taxonomy';
 
-// Import pre-loaded pilot content files
-import B0101 from './content/B.01.01.json';
-import A0401 from './content/A.04.01.json';
-import C0202 from './content/C.02.02.json';
-import D0101 from './content/D.01.01.json';
+// Dynamically import all content JSON files
+const contentModules = import.meta.glob<SubTopicDetail>('./content/*.json', { eager: true, import: 'default' });
 
-const contentRegistry: Record<string, SubTopicDetail> = {
-  'B.01.01': B0101 as unknown as SubTopicDetail,
-  'A.04.01': A0401 as unknown as SubTopicDetail,
-  'C.02.02': C0202 as unknown as SubTopicDetail,
-  'D.01.01': D0101 as unknown as SubTopicDetail,
-};
+const contentRegistry: Record<string, SubTopicDetail> = {};
+
+for (const path in contentModules) {
+  const content = contentModules[path];
+  if (content && content.id) {
+    contentRegistry[content.id] = content;
+  }
+}
 
 export function getSubTopicDetail(subtopic: SubTopicSummary): SubTopicDetail {
   if (contentRegistry[subtopic.id]) {
