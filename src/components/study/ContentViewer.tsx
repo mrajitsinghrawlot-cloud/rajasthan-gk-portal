@@ -5,6 +5,7 @@ import { StatusActionBar } from './StatusActionBar';
 import { RapidFacts } from './RapidFacts';
 import { TimelineView } from './TimelineView';
 import { ExamTraps } from './ExamTraps';
+import { MarkdownViewer } from './MarkdownViewer';
 import { QuizEngine } from '../quiz/QuizEngine';
 import {
   BookOpen,
@@ -168,9 +169,7 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
                   <span>{t(section.section_title)}</span>
                 </h3>
 
-                <div className="prose dark:prose-invert max-w-none text-xs sm:text-base leading-relaxed text-stone-800 dark:text-stone-200 font-hi space-y-2.5 whitespace-pre-line">
-                  {t(section.content_markdown)}
-                </div>
+                <MarkdownViewer content={t(section.content_markdown)} />
               </section>
             ))}
           </div>
