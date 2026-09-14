@@ -60,6 +60,7 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
     setShowExplanation(false);
     if (currentIndex < questions.length - 1) {
       setCurrentIndex(prev => prev + 1);
+      window.scrollTo({ top: 120, behavior: 'smooth' });
     } else {
       let correctCount = 0;
       questions.forEach((q, idx) => {
@@ -69,6 +70,7 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
       });
       saveQuizResult(subtopicId, correctCount, questions.length, seconds);
       setIsCompleted(true);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   };
 
@@ -76,6 +78,7 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
     setShowExplanation(false);
     if (currentIndex > 0) {
       setCurrentIndex(prev => prev - 1);
+      window.scrollTo({ top: 120, behavior: 'smooth' });
     }
   };
 
@@ -85,6 +88,7 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
     setShowExplanation(false);
     setIsCompleted(false);
     setSeconds(0);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   if (isCompleted) {
@@ -108,15 +112,15 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
   const isCurrentAnswered = selectedOption !== null;
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-4 sm:space-y-6">
       
       {/* Progress & Timer Bar */}
-      <div className="flex items-center justify-between gap-4 p-3.5 bg-stone-100 dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-2xl">
-        <div className="flex items-center gap-2">
-          <span className="text-xs font-bold text-stone-700 dark:text-stone-300">
-            {language === 'hi' ? 'प्रगति:' : 'Progress:'} {answeredCount}/{questions.length}
+      <div className="flex items-center justify-between gap-3 p-3 sm:p-3.5 bg-stone-100 dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-2xl">
+        <div className="flex items-center gap-2 min-w-0">
+          <span className="text-xs font-bold text-stone-700 dark:text-stone-300 shrink-0 font-mono">
+            {answeredCount}/{questions.length}
           </span>
-          <div className="w-24 sm:w-36 h-2 bg-stone-200 dark:bg-stone-800 rounded-full overflow-hidden">
+          <div className="w-20 sm:w-36 h-2 bg-stone-200 dark:bg-stone-800 rounded-full overflow-hidden">
             <div
               className="h-full bg-rajasthan-saffron transition-all duration-300 rounded-full"
               style={{ width: `${(answeredCount / questions.length) * 100}%` }}
@@ -124,7 +128,7 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
           </div>
         </div>
 
-        <div className="flex items-center gap-1.5 text-xs font-mono font-bold text-stone-600 dark:text-stone-400">
+        <div className="flex items-center gap-1.5 text-xs font-mono font-bold text-stone-600 dark:text-stone-400 shrink-0">
           <Clock className="w-3.5 h-3.5 text-amber-500" />
           <span>
             {Math.floor(seconds / 60)}:{seconds % 60 < 10 ? `0${seconds % 60}` : seconds % 60}
@@ -143,25 +147,25 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
         onToggleExplanation={() => setShowExplanation(prev => !prev)}
       />
 
-      {/* Navigation Buttons */}
-      <div className="flex items-center justify-between gap-3 pt-2">
+      {/* Navigation Buttons (Thumb Reachable) */}
+      <div className="flex items-center justify-between gap-3 pt-1 pb-4">
         <button
           onClick={handlePrev}
           disabled={currentIndex === 0}
-          className="flex items-center gap-1.5 px-4 py-2.5 rounded-2xl bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 text-xs font-bold text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800 disabled:opacity-40 disabled:pointer-events-none transition-all"
+          className="flex items-center gap-1.5 px-4 py-3 rounded-2xl bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 text-xs sm:text-sm font-bold text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800 disabled:opacity-30 disabled:pointer-events-none active:scale-95 transition-all shadow-2xs"
         >
           <ArrowLeft className="w-4 h-4" />
-          <span>{language === 'hi' ? 'पिछला' : 'Previous'}</span>
+          <span>{language === 'hi' ? 'पिछला' : 'Prev'}</span>
         </button>
 
         <button
           onClick={handleNext}
           disabled={!isCurrentAnswered}
-          className="flex items-center gap-1.5 px-6 py-2.5 rounded-2xl bg-rajasthan-saffron hover:bg-orange-600 text-white text-xs sm:text-sm font-bold shadow-md shadow-orange-500/20 disabled:opacity-40 disabled:pointer-events-none transition-all"
+          className="flex-1 max-w-xs flex items-center justify-center gap-2 py-3 px-6 rounded-2xl bg-gradient-to-r from-rajasthan-saffron to-orange-600 hover:from-orange-600 hover:to-rajasthan-saffron text-white text-xs sm:text-sm font-bold shadow-md shadow-orange-500/20 disabled:opacity-40 disabled:pointer-events-none active:scale-[0.98] transition-all"
         >
           <span>
             {currentIndex === questions.length - 1
-              ? (language === 'hi' ? 'परिणाम देखें' : 'Finish Quiz')
+              ? (language === 'hi' ? 'परिणाम देखें' : 'View Result')
               : (language === 'hi' ? 'अगला प्रश्न' : 'Next Question')}
           </span>
           <ArrowRight className="w-4 h-4" />

@@ -15,7 +15,7 @@ export const PWAInstallBanner: React.FC = () => {
   const [isOffline, setIsOffline] = useState(!navigator.onLine);
 
   useEffect(() => {
-    // Check if already installed in standalone mode
+    // Check if already running in standalone PWA mode
     if (window.matchMedia('(display-mode: standalone)').matches || (window.navigator as any).standalone) {
       setIsInstalled(true);
     }
@@ -57,31 +57,31 @@ export const PWAInstallBanner: React.FC = () => {
     <>
       {/* Offline Status Warning Bar */}
       {isOffline && (
-        <div className="bg-amber-600 text-white px-4 py-2 text-xs font-semibold flex items-center justify-center gap-2 shadow-sm animate-fade-in">
-          <WifiOff className="w-4 h-4 animate-pulse" />
-          <span>
+        <div className="bg-amber-600 text-white px-3 py-2 text-xs font-semibold flex items-center justify-center gap-2 shadow-sm animate-fade-in z-50">
+          <WifiOff className="w-4 h-4 animate-pulse shrink-0" />
+          <span className="truncate">
             {language === 'hi' 
-              ? 'ऑफ़लाइन मोड सक्रिय: सभी सहेजे गए नोट्स और क्विज़ बिना इंटरनेट के भी उपलब्ध हैं।' 
-              : 'Offline Mode Active: All cached study notes and quizzes are available without internet.'}
+              ? 'ऑफ़लाइन मोड: सभी सहेजे गए नोट्स बिना इंटरनेट के उपलब्ध हैं।' 
+              : 'Offline Mode: All saved study notes are available offline.'}
           </span>
         </div>
       )}
 
-      {/* PWA Android App Install Bottom-Banner */}
+      {/* PWA Android App Install Floating Banner */}
       {deferredPrompt && !isDismissed && !isInstalled && (
-        <div className="fixed bottom-16 lg:bottom-4 left-3 right-3 sm:left-auto sm:right-4 sm:max-w-md z-50 bg-stone-900/95 text-white border border-rajasthan-saffron/40 p-4 rounded-2xl shadow-2xl backdrop-blur-lg animate-slide-up">
+        <div className="fixed bottom-20 lg:bottom-4 left-3 right-3 sm:left-auto sm:right-4 sm:max-w-md z-40 bg-stone-900/95 text-white border border-rajasthan-saffron/40 p-3.5 sm:p-4 rounded-3xl shadow-2xl backdrop-blur-lg animate-slide-up">
           <div className="flex items-start gap-3">
             {/* App Icon */}
-            <div className="w-12 h-12 rounded-xl bg-rajasthan-saffron flex items-center justify-center shadow-md shrink-0">
-              <Smartphone className="w-6 h-6 text-white" />
+            <div className="w-11 h-11 rounded-2xl bg-gradient-to-br from-rajasthan-saffron to-amber-600 flex items-center justify-center shadow-md shrink-0">
+              <Smartphone className="w-5 h-5 text-white" />
             </div>
 
-            {/* Banner Text */}
+            {/* Banner Content */}
             <div className="flex-1 min-w-0">
               <div className="flex items-center justify-between gap-1">
-                <h4 className="font-bold text-sm text-stone-100 flex items-center gap-1.5">
+                <h4 className="font-bold text-xs sm:text-sm text-stone-100 flex items-center gap-1.5 truncate">
                   <span>{language === 'hi' ? 'राजस्थान GK ऐप इंस्टॉल करें' : 'Install Rajasthan GK App'}</span>
-                  <span className="px-1.5 py-0.5 text-[9px] font-extrabold bg-emerald-500 text-white rounded">PWA</span>
+                  <span className="px-1.5 py-0.2 text-[9px] font-extrabold bg-emerald-500 text-white rounded">PWA</span>
                 </h4>
                 <button 
                   onClick={() => setIsDismissed(true)}
@@ -92,26 +92,26 @@ export const PWAInstallBanner: React.FC = () => {
                 </button>
               </div>
 
-              <p className="text-xs text-stone-300 mt-0.5 line-clamp-2">
+              <p className="text-[11px] text-stone-300 mt-0.5 line-clamp-2 leading-tight">
                 {language === 'hi'
-                  ? 'अपने फोन की होम स्क्रीन पर जोड़ें। तेज़ स्पीड, बिना इंटरनेट ऑफलाइन अभ्यास।'
-                  : 'Add to Android home screen for instant access, native feel, and offline studying.'}
+                  ? 'होम स्क्रीन पर जोड़ें। तेज़ स्पीड, बिना इंटरनेट ऑफलाइन अध्ययन।'
+                  : 'Add to home screen for 1-tap launch, native app feel & offline access.'}
               </p>
 
-              <div className="flex items-center gap-2 mt-3">
+              <div className="flex items-center gap-2 mt-2.5">
                 <button
                   onClick={handleInstallClick}
-                  className="flex items-center justify-center gap-1.5 bg-gradient-to-r from-rajasthan-saffron to-amber-600 hover:from-amber-600 hover:to-rajasthan-saffron text-white text-xs font-bold px-3.5 py-1.5 rounded-xl shadow transition-transform active:scale-95"
+                  className="flex items-center justify-center gap-1.5 bg-gradient-to-r from-rajasthan-saffron to-amber-600 hover:from-amber-600 hover:to-rajasthan-saffron text-white text-xs font-bold px-3 py-1.5 rounded-xl shadow transition-transform active:scale-95"
                 >
                   <Download className="w-3.5 h-3.5" />
-                  <span>{language === 'hi' ? 'ऐप इंस्टॉल करें' : 'Install Now'}</span>
+                  <span>{language === 'hi' ? 'इंस्टॉल करें' : 'Install'}</span>
                 </button>
 
                 <button
                   onClick={() => setIsDismissed(true)}
                   className="text-xs text-stone-400 hover:text-stone-200 px-2 py-1.5 font-medium"
                 >
-                  {language === 'hi' ? 'बाद में' : 'Maybe Later'}
+                  {language === 'hi' ? 'बाद में' : 'Later'}
                 </button>
               </div>
             </div>

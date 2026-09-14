@@ -18,8 +18,8 @@
 
 /* Custom scrollbars */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
 }
 
 ::-webkit-scrollbar-track {
@@ -27,14 +27,29 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(160, 140, 120, 0.4);
+  background: rgba(160, 140, 120, 0.35);
   border-radius: 9999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(160, 140, 120, 0.7);
+  background: rgba(160, 140, 120, 0.65);
 }
 
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Devanagari Font Helper */
 .font-hi {
   font-family: 'Noto Sans Devanagari', 'Tiro Devanagari Hindi', sans-serif;
+}
+
+/* Touch manipulation optimizations */
+html, body {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }

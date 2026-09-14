@@ -48,8 +48,14 @@ const MainContent: React.FC = () => {
 
       {/* Header Bar */}
       <Header
-        onOpenSearch={() => setIsSearchOpen(true)}
-        onOpenDashboard={() => setIsDashboardOpen(true)}
+        onOpenSearch={() => {
+          setIsMobileSidebarOpen(false);
+          setIsSearchOpen(true);
+        }}
+        onOpenDashboard={() => {
+          setIsMobileSidebarOpen(false);
+          setIsDashboardOpen(true);
+        }}
         darkMode={darkMode}
         onToggleDarkMode={() => setDarkMode(prev => !prev)}
       />
@@ -64,6 +70,7 @@ const MainContent: React.FC = () => {
           onSelectSubtopic={(sub) => {
             setSelectedSubtopic(sub);
             setActiveStudyTab('notes');
+            setIsMobileSidebarOpen(false);
             window.scrollTo({ top: 0, behavior: 'smooth' });
           }}
           isOpen={isMobileSidebarOpen}
@@ -71,19 +78,22 @@ const MainContent: React.FC = () => {
         />
 
         {/* Primary Study Content Area */}
-        <main className="flex-1 min-w-0 p-4 sm:p-6 lg:p-8">
+        <main className="flex-1 min-w-0 p-3.5 sm:p-6 lg:p-8">
           
           {/* Mobile Quick Action Pill */}
-          <div className="lg:hidden mb-4 flex items-center justify-between gap-2 p-2.5 rounded-2xl bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 shadow-xs">
+          <div className="lg:hidden mb-3.5 flex items-center justify-between gap-2 p-2 rounded-2xl bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 shadow-2xs">
             <button
               onClick={() => setIsMobileSidebarOpen(true)}
-              className="flex items-center gap-2 text-xs font-bold text-stone-800 dark:text-stone-200 px-3 py-1.5 rounded-xl bg-stone-100 dark:bg-stone-800 active:scale-95 transition-transform"
+              className="flex items-center gap-1.5 text-xs font-bold text-stone-800 dark:text-stone-200 px-3 py-1.5 rounded-xl bg-stone-100 dark:bg-stone-800 active:scale-95 transition-transform truncate"
             >
-              <Menu className="w-4 h-4 text-rajasthan-saffron" />
-              <span>{selectedSubtopic.id} • Browse Topics</span>
+              <Menu className="w-4 h-4 text-rajasthan-saffron shrink-0" />
+              <span className="truncate">{selectedSubtopic.id} • Browse Topics</span>
             </button>
             <button
-              onClick={() => setIsDashboardOpen(true)}
+              onClick={() => {
+                setIsMobileSidebarOpen(false);
+                setIsDashboardOpen(true);
+              }}
               className="p-1.5 rounded-xl text-stone-500 hover:text-stone-800 dark:hover:text-stone-200 active:scale-95 transition-transform"
               title="Progress Dashboard"
             >
@@ -105,13 +115,20 @@ const MainContent: React.FC = () => {
       <BottomNavBar
         activeTab={activeStudyTab === 'quiz' ? 'quiz' : 'study'}
         onSelectTab={(tab) => {
+          setIsMobileSidebarOpen(false);
           if (tab === 'quiz') setActiveStudyTab('quiz');
           if (tab === 'study') setActiveStudyTab('notes');
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }}
-        onOpenSidebar={() => setIsMobileSidebarOpen(true)}
-        onOpenSearch={() => setIsSearchOpen(true)}
-        onOpenDashboard={() => setIsDashboardOpen(true)}
+        onOpenSidebar={() => setIsMobileSidebarOpen(prev => !prev)}
+        onOpenSearch={() => {
+          setIsMobileSidebarOpen(false);
+          setIsSearchOpen(true);
+        }}
+        onOpenDashboard={() => {
+          setIsMobileSidebarOpen(false);
+          setIsDashboardOpen(true);
+        }}
         isSidebarOpen={isMobileSidebarOpen}
         isDashboardOpen={isDashboardOpen}
       />
@@ -124,6 +141,7 @@ const MainContent: React.FC = () => {
         onNavigateToSubtopic={(sub) => {
           setSelectedSubtopic(sub);
           setActiveStudyTab('notes');
+          setIsMobileSidebarOpen(false);
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }}
       />
@@ -135,6 +153,7 @@ const MainContent: React.FC = () => {
         onSelectSubtopic={(sub) => {
           setSelectedSubtopic(sub);
           setActiveStudyTab('notes');
+          setIsMobileSidebarOpen(false);
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }}
       />
