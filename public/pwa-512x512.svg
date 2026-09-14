@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="saffronGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8A3D" />
+      <stop offset="100%" stop-color="#E05300" />
+    </linearGradient>
+    <linearGradient id="goldGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE082" />
+      <stop offset="100%" stop-color="#FFB300" />
+    </linearGradient>
+    <linearGradient id="maroonGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#800020" />
+      <stop offset="100%" stop-color="#4A0012" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#saffronGrad512)" />
+  <circle cx="256" cy="256" r="202" stroke="rgba(255,255,255,0.25)" stroke-width="5" stroke-dasharray="16 10" fill="none" />
+  <g transform="scale(2.666) translate(-3,-3)">
+    <path d="M42 142 L42 98 L54 98 L54 104 L66 104 L66 98 L78 98 L78 104 L90 104 L90 98 L102 98 L102 104 L114 104 L114 98 L126 98 L126 104 L138 104 L138 98 L150 98 L150 142 Z" fill="#FFFDF8"/>
+    <path d="M72 82 C72 66 84 56 96 52 C108 56 120 66 120 82 Z" fill="url(#goldGrad512)" />
+    <circle cx="96" cy="46" r="5" fill="#FFE082"/>
+    <path d="M96 41 L96 34" stroke="#FFE082" stroke-width="3" stroke-linecap="round"/>
+    <path d="M48 88 C48 78 55 72 62 70 C69 72 76 78 76 88 Z" fill="url(#goldGrad512)"/>
+    <path d="M116 88 C116 78 123 72 130 70 C137 72 144 78 144 88 Z" fill="url(#goldGrad512)"/>
+    <path d="M82 142 V116 C82 108 88 102 96 102 C104 102 110 108 110 116 V142 Z" fill="url(#maroonGrad512)"/>
+    <rect x="56" y="114" width="12" height="16" rx="6" fill="url(#maroonGrad512)" />
+    <rect x="124" y="114" width="12" height="16" rx="6" fill="url(#maroonGrad512)" />
+    <circle cx="96" cy="74" r="3.5" fill="#800020"/>
+  </g>
+</svg>

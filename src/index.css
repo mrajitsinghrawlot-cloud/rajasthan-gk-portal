@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --color-rajasthan-saffron: #FF6B1A;
+  --color-rajasthan-saffron-dark: #D84E00;
+  --color-rajasthan-gold: #E09F3E;
+  --color-rajasthan-maroon: #800020;
+  --color-rajasthan-royal-blue: #1E3A8A;
+  --color-rajasthan-sand: #FAF6F0;
+  --color-rajasthan-sand-dark: #F0E6D8;
+  --color-rajasthan-charcoal: #1C1917;
+  --color-rajasthan-surface-dark: #292524;
+  --color-rajasthan-card-dark: #201D1B;
+  
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-devanagari: 'Noto Sans Devanagari', 'Tiro Devanagari Hindi', sans-serif;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(160, 140, 120, 0.4);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(160, 140, 120, 0.7);
+}
+
+.font-hi {
+  font-family: 'Noto Sans Devanagari', 'Tiro Devanagari Hindi', sans-serif;
+}

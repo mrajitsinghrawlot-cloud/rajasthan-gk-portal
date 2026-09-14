@@ -1,0 +1,223 @@
+{
+  "id": "B.01.01",
+  "subject_id": "art-culture",
+  "unit_id": "B.01",
+  "slug": "the-panchpir-of-rajasthan",
+  "title": {
+    "en": "The Panchpir of Rajasthan",
+    "hi": "राजस्थान के पंचपीर"
+  },
+  "short_summary": {
+    "en": "Detailed study notes and MCQs on the 5 revered Panchpir folk deities: Ramdevji, Pabuji, Gogaji, Mehaji Mangalia, and Harbhuji.",
+    "hi": "राजस्थान के पाँच प्रमुख लोक देवता (पंचपीर): बाबा रामदेवजी, पाबूजी, गोगाजी, मेहाजी मांगलिया एवं हड़भूजी पर सम्पूर्ण परीक्षा उपयोगी अध्ययन सामग्री।"
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
+    "last_updated": "2026-09-13",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "en": "1. Definition & The Classical Doha (स्मरण सूत्र)",
+        "hi": "1. परिभाषा एवं प्रसिद्ध दोहा"
+      },
+      "content_markdown": {
+        "en": "Those **5 folk deities of Rajasthan** who are equally revered and worshipped by both **Hindus and Muslims** are known as **Panchpir**.\n\n### Famous Mnemonic Doha (प्रसिद्ध दोहा):\n> *\"पाबू, हड़बू, रामदे, मांगलिया मेहा।\"*  \n> *\"पाँचू पीर पधारज्यौ, गोगाजी जेहा॥\"*\n\n**The 5 Panchpir deities are:**\n1. **Pabuji (पाबूजी)**\n2. **Harbhuji (हड़भूजी)**\n3. **Ramdevji (रामदेवजी)**\n4. **Mehaji Mangalia (मेहाजी मांगलिया)**\n5. **Gogaji (गोगाजी)**\n\n> ⚠️ **Critical Exam Trap:** **Tejaji** and **Devnarayanji** are legendary folk deities of Rajasthan, but they are **NOT** in the Panchpir list. RPSC & RSSB repeatedly include Tejaji as a distractor.",
+        "hi": "राजस्थान के वे **5 लोक देवता** जिन्हें **हिन्दू एवं मुस्लिम** दोनों धर्मों के लोग समान रूप से पूजते हैं, उन्हें **पंचपीर** कहा जाता है।\n\n### प्रसिद्ध दोहा:\n> *\"पाबू, हड़बू, रामदे, मांगलिया मेहा।\"*  \n> *\"पाँचू पीर पधारज्यौ, गोगाजी जेहा॥\"*\n\n**पंचपीरों की सूची:**\n1. **पाबूजी**\n2. **हड़भूजी**\n3. **रामदेवजी**\n4. **मेहाजी मांगलिया**\n5. **गोगाजी**\n\n> ⚠️ **सावधानी (परीक्षा जाल):** **तेजाजी** और **देवनारायण जी** राजस्थान के प्रमुख लोक देवता हैं, परन्तु वे **पंचपीरों में शामिल नहीं हैं**। RPSC/RSSB परीक्षाओं में बार-बार विकल्प में तेजाजी का नाम देकर प्रश्न पूछा जाता है।"
+      }
+    },
+    {
+      "section_title": {
+        "en": "2. Baba Ramdevji (बाबा रामदेवजी - रुणिचा रा धणी)",
+        "hi": "2. बाबा रामदेवजी (रुणिचा रा धणी)"
+      },
+      "content_markdown": {
+        "en": "- **Birthplace:** Undukashmir (Shiv Tehsil, Barmer district) in the Tanwar Rajput clan.\n- **Parents & Family:** Father: Ajmal ji Tanwar, Mother: Maina De; Wife: Netal De (Princess of Amarkot); Guru: Balinathji (Ashram at Masooria Hill, Jodhpur).\n- **Titles & Honorifics:** *Ramsapir*, *Runicha ra Dhani*, *Peeran ra Peer* (title conferred by 5 pirs of Mecca), Incarnation of Lord Krishna.\n- **Sect Established:** **Kamadiya Sect (कामांड़िया पंथ)** to eliminate untouchability and caste discrimination.\n- **Performing Art:** **Terah Taali Dance (तेरहताली नृत्य)** performed by women of Kamadiya sect using 13 Manjiras.\n- **Literary Masterpiece:** Only folk deity who was a poet — authored **'Chaubees Baniya' (24 बाणिया)**.\n- **Sister / Disciple:** Dali Bai (Meghwal caste — took samadhi one day before Ramdevji).\n- **Sacred Terminology:**\n  - 5-colored Flag: **Neja (नेजा)**\n  - Night Vigil / Bhajan: **Jamma (जम्मा)**\n  - Footprints / Icons: **Pagalye (पगल्ये)**\n  - Meghwal devotees: **Rikhiya (रिखिया)**\n- **Samadhi:** Ramdevra (Runicha, Pokhran, Jaisalmer) on Bhadrapada Shukla Ekadashi in VS 1515.",
+        "hi": "- **जन्म स्थल:** उण्डूकाश्मीर (शिव तहसील, बाड़मेर) में तंवर वंशीय राजपूत परिवार में।\n- **माता/पिता:** मैणादे / अजमल जी तंवर; **पत्नी:** नेतलदे (अमरकोट की राजकुमारी); **गुरु:** योगी बालीनाथ जी (मसूरिया पहाड़ी, जोधपुर)।\n- **उपाधियाँ:** *रामसा पीर*, *रुणिचा रा धणी*, *पीरों के पीर* (मक्का से आए पीरों द्वारा प्रदत्त), भगवान श्रीकृष्ण के अवतार।\n- **पंथ की स्थापना:** समाज में छुआछूत मिटाने हेतु **कामांड़िया पंथ** की स्थापना की।\n- **नृत्य परम्परा:** कामड़ जाति की महिलाओं द्वारा बैठकर प्रसिद्ध **तेरहताली नृत्य** (13 मंजीरों के साथ) किया जाता है।\n- **साहित्यिक रचना:** राजस्थान के एकमात्र लोक देवता जो **कवि भी थे** — प्रसिद्ध काव्य ग्रन्थ **'चौबीस बाणिया'** की रचना की।\n- **धर्म-बहिन / शिष्या:** डाली बाई (मेघवाल जाति) — रामदेवजी से एक दिन पूर्व समाधि ली।\n- **प्रमुख शब्दावली:**\n  - पचरंगी ध्वजा: **नेजा**\n  - रात्रि जागरण: **जम्मा**\n  - प्रतीक चिह्न: **पगल्ये** (चरण चिह्न)\n  - मेघवाल जाति के भक्त: **रिखिया**\n- **समाधि स्थल:** रामदेवरा (रुणिचा, पोकरण, जैसलमेर) में भाद्रपद शुक्ल एकादशी को।"
+      }
+    },
+    {
+      "section_title": {
+        "en": "3. Pabuji (पाबूजी - ऊँटों के देवता)",
+        "hi": "3. पाबूजी (ऊँटों के देवता एवं प्लेग रक्षक)"
+      },
+      "content_markdown": {
+        "en": "- **Birthplace:** Kolumand (Phalodi district) in the Rathore dynasty (Father: Dhadhal ji, Mother: Kamla De).\n- **Titles:** Deity of Camels (credited with introducing camels/Sands to Rajasthan), Plague Protector Deity, Incarnation of Lakshmana, *Gau-Rakshak*.\n- **Sacred Mare:** **Kesar Kalmi (केसर कालमी)** — black mare gifted by Deval Charni.\n- **Phad Painting:** Most popular and widely recited Phad scroll in Rajasthan; sung by Nayak/Bhil bards with **Ravanhattha** string instrument.\n- **Folk Song / Dance:** *Pabuji ke Pawade* sung with **Mate** percussion instrument; *Thali Dance* performed in his honor.\n- **Martyrdom:** Fought bravely and sacrificed life at Dhechu village defending Deval Charni's cows from his brother-in-law Jindrav Khichi (ruler of Nagaur/Jalore).",
+        "hi": "- **जन्म स्थल:** कोलू मण्ड (फलोदी) में राठौड़ वंश में (पिता: धांधल जी, माता: कमलादे)।\n- **उपनाम:** ऊँटों के देवता (राजस्थान में सर्वप्रथम ऊँट/साँड लाने का श्रेय), प्लेग रक्षक देवता, लक्ष्मण जी के अवतार, गौरक्षक।\n- **घोड़ी का नाम:** **केसर कालमी** (देवल चारणी द्वारा दी गई प्रसिद्ध घोड़ी)।\n- **फड़ वाचन:** राजस्थान की सबसे लोकप्रिय फड़; नायक/भील भोपों द्वारा **रावणहत्था** वाद्य यंत्र के साथ वाचन।\n- **गीत व नृत्य:** पाबूजी के पवाड़े **माटे** वाद्य के साथ गाए जाते हैं; थाली नृत्य पाबूजी के भक्तों द्वारा किया जाता है।\n- **बलिदान:** देवल चारणी की गायों को जींदराव खींची से मुक्त कराते हुए देचू गाँव (फलोदी) में वीरगति प्राप्त की।"
+      }
+    },
+    {
+      "section_title": {
+        "en": "4. Gogaji, Mehaji & Harbhuji (गोगाजी, मेहाजी एवं हड़भूजी)",
+        "hi": "4. गोगाजी, मेहाजी मांगलिया एवं हड़भूजी"
+      },
+      "content_markdown": {
+        "en": "### Gogaji (गोगाजी - जाहरपीर):\n- **Birthplace:** Dadrewa (Churu) in Chauhan clan; Father: Jever Singh, Mother: Bachhal De, Guru: Gorakhnath.\n- **Title:** *Jaharpir* (given by Mahmud of Ghazni), Supreme Snake Deity.\n- **Shrines:**\n  - **Sheersh Medi:** Dadrewa (Churu) where head fell during battle.\n  - **Dhur Medi / Goga Medi:** Nohar (Hanumangarh) — built like a mosque with **'Bismillah'** inscribed on entrance by Feroz Shah Tughlaq.\n  - **Gogaji ki Oladi:** Sanchore.\n- **Priests:** Chahal Muslim priests (*Chayal*) serve 11 months; Hindu priests serve during Bhadrapada month.\n\n### Harbhuji (हड़भूजी - शकुन शास्त्र के ज्ञाता):\n- **Birthplace:** Bhundel (Nagaur) in Sankhla Panwar clan; cousin of Baba Ramdevji.\n- **Shrine:** Bengti (Phalodi district).\n- **Unique Worship:** His **wooden bullock cart (छकड़ा गाड़ी)** used to bring grass for disabled cows is worshipped.\n- **Blessing to Rao Jodha:** Blessed Rao Jodha with a dagger (*Katar*) to recapture Mandore (1453).\n\n### Mehaji Mangalia (मेहाजी मांगलिया):\n- **Clan:** Sankhla clan raised in maternal Mangalia clan.\n- **Shrine:** Bapini (Phalodi district); Horse name: **Kiran Kabra (किरण काबरा)**.\n- **Belief:** Genealogy line of his priests/Bhopas does not increase by birth (they adopt children).",
+        "hi": "### गोगाजी (जाहरपीर / साँपों के देवता):\n- **जन्म:** ददरेवा (चूरू) में चौहान वंश में; पिता: जेवर सिंह, माता: बाछल दे, गुरु: गोरखनाथ जी।\n- **उपाधि:** महमूद गजनवी ने वीरता देखकर **'जाहरपीर'** (साक्षात देवता) कहा।\n- **तीर्थ स्थल:**\n  - **शीर्ष मेड़ी:** ददरेवा (चूरू) — जहाँ सिर गिरा था।\n  - **धुर मेड़ी / गोगामेड़ी:** नोहर (हनुमानगढ़) — फिरोज़ शाह तुगलक द्वारा मक़बरेनुमा निर्माण, द्वार पर **'बिस्मिल्लाह'** अंकित।\n  - **गोगाजी की ओलडी:** सांचौर।\n- **पुजारी:** 11 माह चायल मुस्लिम पुजारी और 1 माह (भाद्रपद) हिन्दू पुजारी पूजा करते हैं।\n\n### हड़भूजी (शकुन शास्त्र के ज्ञाता):\n- **जन्म:** भुंडेल (नागौर) में सांखला पंवार वंश में; बाबा रामदेवजी के मौसेरे भाई।\n- **प्रमुख धाम:** बैंगटी (फलोदी)।\n- **विशिष्ट पूजा:** इनके मन्दिर में किसी मूर्ति की नहीं, बल्कि **छकड़ा गाड़ी (बैलगाड़ी)** की पूजा होती है जिससे वे पंगु गायों हेतु घास लाते थे।\n- **राव जोधा को आशीर्वाद:** मण्डोर विजय हेतु राव जोधा को कटार एवं घोड़ा भेंट किया था।\n\n### मेहाजी मांगलिया:\n- **प्रमुख धाम:** बापणी (फलोदी); प्रिय घोड़ा: **किरण काबरा**।\n- **विशेषता:** मेहाजी के भोपों की वंश वृद्धि नहीं होती, वे गोद लेकर वंश चलाते हैं।"
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "en": "Panchpir Mnemonic: Pabuji, Harbhuji, Ramdevji, Mehaji Mangalia, Gogaji.",
+      "hi": "पंचपीर स्मरण सूत्र: पाबू, हड़बू, रामदे, मांगलिया मेहा, गोगाजी।"
+    },
+    {
+      "en": "Only poet among folk deities: Baba Ramdevji ('Chaubees Baniya').",
+      "hi": "लोक देवताओं में एकमात्र कवि: बाबा रामदेवजी ('चौबीस बाणिया' के रचयिता)।"
+    },
+    {
+      "en": "Terah Taali dance is performed exclusively during Ramdevra fair using 13 Manjiras.",
+      "hi": "तेरहताली नृत्य रामदेवरा मेले में कामड़ महिलाओं द्वारा 13 मंजीरों से किया जाता है।"
+    },
+    {
+      "en": "Pabuji's Phad uses Ravanhattha string instrument; Devnarayanji's Phad uses Jantar.",
+      "hi": "पाबूजी की फड़ में रावणहत्था और देवनारायण जी की फड़ में जंतर वाद्य यंत्र प्रयुक्त होता है।"
+    },
+    {
+      "en": "Harbhuji's cart (Chhakda Gadi) is worshipped at Bengti village in Phalodi.",
+      "hi": "हड़भूजी के मन्दिर (बैंगटी, फलोदी) में उनकी छकड़ा बैलगाड़ी की पूजा होती है।"
+    },
+    {
+      "en": "Gogaji's samadhi entrance at Nohar has 'Bismillah' inscribed in Persian script.",
+      "hi": "गोगामेड़ी (नोहर) के प्रवेश द्वार पर फ़ारसी में 'बिस्मिल्लाह' अंकित है।"
+    }
+  ],
+  "timeline": [
+    {
+      "year_or_era": "14th Century AD",
+      "event": {
+        "en": "Baba Ramdevji establishes Kamadiya Panth and composes 'Chaubees Baniya'.",
+        "hi": "बाबा रामदेवजी द्वारा कामांड़िया पंथ की स्थापना एवं 'चौबीस बाणिया' की रचना।"
+      }
+    },
+    {
+      "year_or_era": "1453 AD",
+      "event": {
+        "en": "Harbhuji blesses Rao Jodha with a dagger to liberate Mandore from Mewar.",
+        "hi": "हड़भूजी द्वारा राव जोधा को मण्डोर विजय हेतु कटार एवं आशीर्वाद प्रदान करना।"
+      }
+    },
+    {
+      "year_or_era": "Bhadrapada Month",
+      "event": {
+        "en": "Annual Ramdevra Fair (Bhadrapada Shukla 2 to 11) & Gogamedi Fair (Goga Navami).",
+        "hi": "रामदेवरा मेला (भाद्रपद शुक्ल द्वितीया से एकादशी) एवं गोगामेड़ी मेला (गोगा नवमी)।"
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "en": "TRAP: Question asks 'Which of the following is NOT a Panchpir?' Options: (A) Pabuji (B) Gogaji (C) Tejaji (D) Harbhuji. Correct Answer is C (Tejaji).",
+      "hi": "परीक्षा जाल: 'निम्न में से कौन पंचपीरों में शामिल नहीं हैं?' विकल्प: (A) पाबूजी (B) गोगाजी (C) तेजाजी (D) हड़भूजी। सही उत्तर C (तेजाजी) है।"
+    },
+    {
+      "en": "TRAP: Devnarayanji has the longest Phad in Rajasthan (postal stamp 1992 & 2011), while Pabuji has the MOST POPULAR Phad.",
+      "hi": "परीक्षा जाल: राजस्थान की सबसे लम्बी फड़ देवनारायण जी की है, जबकि सबसे लोकप्रिय फड़ पाबूजी की है।"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-B.01.01-01",
+      "question": {
+        "en": "Which of the following folk deities of Rajasthan is NOT included in the 'Panchpir'?",
+        "hi": "राजस्थान के निम्नलिखित लोक देवताओं में से कौन 'पंचपीर' में शामिल नहीं हैं?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Ramdevji", "hi": "रामदेवजी" } },
+        { "id": "B", "text": { "en": "Pabuji", "hi": "पाबूजी" } },
+        { "id": "C", "text": { "en": "Tejaji", "hi": "तेजाजी" } },
+        { "id": "D", "text": { "en": "Gogaji", "hi": "गोगाजी" } }
+      ],
+      "correct_option": "C",
+      "explanation": {
+        "en": "The Panchpir list includes: Ramdevji, Pabuji, Gogaji, Mehaji Mangalia, and Harbhuji. Tejaji is a legendary deity but NOT part of the Panchpir.",
+        "hi": "पंचपीरों में रामदेवजी, पाबूजी, गोगाजी, मेहाजी मांगलिया एवं हड़भूजी शामिल हैं। तेजाजी पंचपीरों में शामिल नहीं हैं।"
+      },
+      "pyq_source": "RPSC RAS Prelims 2018 / RSSB Patwari 2021",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MCQ-B.01.01-02",
+      "question": {
+        "en": "Which folk deity of Rajasthan is known for authoring the poetic treatise 'Chaubees Baniya'?",
+        "hi": "राजस्थान के किस लोक देवता ने प्रसिद्ध काव्य ग्रन्थ 'चौबीस बाणिया' की रचना की थी?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Devnarayanji", "hi": "देवनारायण जी" } },
+        { "id": "B", "text": { "en": "Baba Ramdevji", "hi": "बाबा रामदेवजी" } },
+        { "id": "C", "text": { "en": "Pabuji", "hi": "पाबूजी" } },
+        { "id": "D", "text": { "en": "Mallinathji", "hi": "मल्लीनाथ जी" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "en": "Baba Ramdevji was the only folk deity in Rajasthan who was also a revered poet. He authored 'Chaubees Baniya'.",
+        "hi": "बाबा रामदेवजी राजस्थान के एकमात्र लोक देवता थे जो कवि भी थे। उन्होंने 'चौबीस बाणिया' ग्रन्थ की रचना की।"
+      },
+      "pyq_source": "RSSB CET Graduate Level 2023",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MCQ-B.01.01-03",
+      "question": {
+        "en": "Which musical instrument is predominantly used by Bhopa bards while narrating the Phad of Pabuji?",
+        "hi": "पाबूजी की फड़ के वाचन के समय भोपों द्वारा मुख्य रूप से किस वाद्य यंत्र का प्रयोग किया जाता है?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Algoza", "hi": "अलगोजा" } },
+        { "id": "B", "text": { "en": "Jantar", "hi": "जंतर" } },
+        { "id": "C", "text": { "en": "Ravanhattha", "hi": "रावणहत्था" } },
+        { "id": "D", "text": { "en": "Mandal", "hi": "मांदल" } }
+      ],
+      "correct_option": "C",
+      "explanation": {
+        "en": "Pabuji's Phad is sung with the Ravanhattha (string instrument). Devnarayanji's Phad is sung using the Jantar.",
+        "hi": "पाबूजी की फड़ का वाचन रावणहत्था के साथ किया जाता है, जबकि देवनारायण जी की फड़ का वाचन जंतर वाद्य यंत्र के साथ होता है।"
+      },
+      "pyq_source": "RPSC College Lecturer 2021",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MCQ-B.01.01-04",
+      "question": {
+        "en": "At which temple is the wooden bullock cart (Chhakda Gadi) worshipped instead of an idol?",
+        "hi": "किस लोक देवता के मन्दिर में मूर्ति के स्थान पर उनकी लकड़ी की छकड़ा गाड़ी (बैलगाड़ी) की पूजा की जाती है?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Harbhuji (Bengti)", "hi": "हड़भूजी (बैंगटी धाम)" } },
+        { "id": "B", "text": { "en": "Mehaji (Bapini)", "hi": "मेहाजी (बापणी)" } },
+        { "id": "C", "text": { "en": "Veer Fattaji", "hi": "वीर फत्ताजी" } },
+        { "id": "D", "text": { "en": "Khetlaji", "hi": "खेतलाजी" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "en": "Harbhuji's wooden cart kept at Bengti (Phalodi) is worshipped because he used it to carry fodder for lame and ailing cows.",
+        "hi": "हड़भूजी के बैंगटी (फलोदी) स्थित मन्दिर में उनकी छकड़ा गाड़ी की पूजा होती है जिससे वे असहाय गायों हेतु घास लाते थे।"
+      },
+      "pyq_source": "RSSB VDO Pre 2021",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MCQ-B.01.01-05",
+      "question": {
+        "en": "Which ruler built the tomb-like structure of Gogamedi temple with 'Bismillah' inscribed on the entrance?",
+        "hi": "गोगामेड़ी (नोहर) के मन्दिर का मक़बरेनुमा निर्माण कराकर प्रवेश द्वार पर 'बिस्मिल्लाह' किसने अंकित करवाया था?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Alauddin Khalji", "hi": "अलाउद्दीन खिलजी" } },
+        { "id": "B", "text": { "en": "Feroz Shah Tughlaq", "hi": "फिरोज़ शाह तुगलक" } },
+        { "id": "C", "text": { "en": "Maharaja Ganga Singh", "hi": "महाराजा गंगा सिंह" } },
+        { "id": "D", "text": { "en": "Akbar", "hi": "अकबर" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "en": "Feroz Shah Tughlaq constructed the tomb-style structure with 'Bismillah'. The modern temple facade was later rebuilt by Maharaja Ganga Singh of Bikaner.",
+        "hi": "फिरोज़ शाह तुगलक ने गोगामेड़ी मन्दिर को मक़बरे का स्वरूप दिया तथा 'बिस्मिल्लाह' लिखवाया। वर्तमान स्वरूप महाराजा गंगा सिंह द्वारा निर्मित है।"
+      },
+      "pyq_source": "RPSC RAS Pre 2021",
+      "difficulty": "hard"
+    }
+  ]
+}

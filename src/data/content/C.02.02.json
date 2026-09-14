@@ -1,0 +1,182 @@
+{
+  "id": "C.02.02",
+  "subject_id": "geography",
+  "unit_id": "C.02",
+  "slug": "aravalli-mountain-range",
+  "title": {
+    "en": "Aravalli Mountain Range",
+    "hi": "अरावली पर्वत श्रेणी — शिखर, दर्रे एवं पठार"
+  },
+  "short_summary": {
+    "en": "Detailed physical geography notes and MCQs on the Aravalli range: origin, peaks hierarchy, passes (Naal), major plateaus (Oriya, Bhorat), and economic importance.",
+    "hi": "अरावली पर्वतमाला: उत्पत्ति, विस्तार, प्रमुख पर्वत शिखरों का क्रम (गुरुशिखर, सेर, देलवाड़ा), प्रमुख दर्रे (नाल), प्रमुख पठार (उड़िया, भोराठ) एवं आर्थिक महत्व पर सम्पूर्ण अध्ययन सामग्री।"
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
+    "last_updated": "2026-09-13",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "en": "1. Origin, Extent & Structural Divisions",
+        "hi": "1. उत्पत्ति, विस्तार एवं संरचनात्मक विभाजन"
+      },
+      "content_markdown": {
+        "en": "- **Geological Era:** Formed during the **Pre-Cambrian era**; considered the **oldest relict fold mountain range in the world**.\n- **Origin Root:** Arabian Sea bed (near Minicoi/Lakshadweep island — hence the Arabian Sea is called the *Father of Aravalli*).\n- **Span:** From **Khedbrahma (Palanpur, Gujarat)** to **Raisina Hills (New Delhi)**.\n  - **Total Length:** 692 km.\n  - **Length in Rajasthan:** **550 km (~80% of total length)** from Khedbrahma (Sirohi) to Khetri (Neem ka Thana/Jhunjhunu).\n- **Direction:** South-West to North-East.\n- **Demographic Share:** Covers **9% of Rajasthan's total geographical area** and houses **10% of the state's population**.\n- **Rainfall:** Receives 50 to 90 cm annual rainfall; acts as the primary water divide between the Arabian Sea and Bay of Bengal drainage systems.",
+        "hi": "- **भूगर्भिक काल:** **प्री-कैम्ब्रियन काल** में निर्मित; विश्व की **प्राचीनतम वलित (अवशिष्ट) पर्वतमाला**।\n- **मूल उद्गम (गर्भ गृह):** अरब सागर (लक्षद्वीप के समीप — इसलिए अरब सागर को 'अरावली का पिता' कहा जाता है)।\n- **विस्तार:** **खेडब्रह्मा (पालनपुर, गुजरात)** से **रायसीना हिल्स (नई दिल्ली)** तक।\n  - **कुल लम्बाई:** 692 किमी।\n  - **राजस्थान में लम्बाई:** **550 किमी (कुल लम्बाई का लगभग 80%)** खेडब्रह्मा (सिरोही) से खेतड़ी (नीम का थाना) तक।\n- **दिशा:** दक्षिण-पश्चिम से उत्तर-पूर्व की ओर।\n- **क्षेत्रफल व जनसंख्या:** राजस्थान के कुल क्षेत्रफल का **9% भाग** तथा राज्य की **10% जनसंख्या** यहाँ निवास करती है।\n- **जल विभाजक:** अरब सागर एवं बंगाल की खाड़ी के अपवाह तंत्र के मध्य महान जल विभाजक का कार्य करती है।"
+      }
+    },
+    {
+      "section_title": {
+        "en": "2. Top Mountain Peaks Hierarchy (RPSC Standard Sequence)",
+        "hi": "2. प्रमुख पर्वत शिखरों का अवरोही क्रम (ऊँचाई अनुसार)"
+      },
+      "content_markdown": {
+        "en": "### Mnemonic Trick for Top Peaks: \n> **\"गुरु से दिल जरा आसा रखो रघुनाथ\"**\n\n| Rank | Peak Name (शिखर) | Height (ऊँचाई) | District (जिला) | Region (भाग) |\n| :---: | :--- | :---: | :--- | :--- |\n| **1** | **Guru Shikhar (गुरु शिखर)** | **1,722 m (1727 m)** | Sirohi (Mount Abu) | Southern Aravalli |\n| **2** | **Ser (सेर)** | **1,597 m** | Sirohi | Southern Aravalli |\n| **3** | **Delwara (देलवाड़ा)** | **1,442 m** | Sirohi | Southern Aravalli |\n| **4** | **Jharoga / Jarga (जरगा)** | **1,431 m** | Udaipur | Southern Aravalli |\n| **5** | **Achalgarh (अचलगढ़)** | **1,380 m** | Sirohi | Southern Aravalli |\n| **6** | **Kumbhalgarh (कुम्भलगढ़)** | **1,224 m** | Rajsamand | Southern Aravalli |\n| **7** | **Raghunathgarh (रघुनाथगढ़)** | **1,055 m** | Sikar | Northern Aravalli (Highest in North) |\n| **8** | **Rishikesh (ऋषिकेश)** | **1,017 m** | Sirohi | Southern Aravalli |\n| **9** | **Kamalnath (कमलनाथ)** | **1,001 m** | Udaipur | Southern Aravalli |\n| **10** | **Todgarh / Moramji (टॉडगढ़)** | **933 m (934 m)** | Beawar / Ajmer | Central Aravalli (Highest in Central) |\n| **11** | **Taragarh (तारागढ़)** | **873 m** | Ajmer | Central Aravalli |\n| **12** | **Bhabai / Kho (खोह)** | **920 m** | Jaipur | Northern Aravalli |",
+        "hi": "### शिखरों को याद रखने का सूत्र:\n> **\"गुरु से दिल जरा आसा रखो रघुनाथ\"** *(गुरुशिखर - सेर - देलवाड़ा - जरगा - अचलगढ़ - कुम्भलगढ़ - रघुनाथगढ़)*\n\n| क्रम | पर्वत शिखर | ऊँचाई | जिला | अरावली का भाग |\n| :---: | :--- | :---: | :--- | :--- |\n| **1** | **गुरुशिखर** | **1,722 मी. (1727 मी.)** | सिरोही (माउंट आबू) | दक्षिणी अरावली |\n| **2** | **सेर** | **1,597 मी.** | सिरोही | दक्षिणी अरावली |\n| **3** | **देलवाड़ा** | **1,442 मी.** | सिरोही | दक्षिणी अरावली |\n| **4** | **जरगा** | **1,431 मी.** | उदयपुर | दक्षिणी अरावली |\n| **5** | **अचलगढ़** | **1,380 मी.** | सिरोही | दक्षिणी अरावली |\n| **6** | **कुम्भलगढ़** | **1,224 मी.** | राजसमंद | दक्षिणी अरावली |\n| **7** | **रघुनाथगढ़** | **1,055 मी.** | सीकर | उत्तरी अरावली (उत्तरी भाग का सर्वोच्च शिखर) |\n| **8** | **ऋषिकेश** | **1,017 मी.** | सिरोही | दक्षिणी अरावली |\n| **9** | **कमलनाथ** | **1,001 मी.** | उदयपुर | दक्षिणी अरावली |\n| **10** | **टॉडगढ़ (मोरामजी)** | **933 मी. (934 मी.)** | ब्यावर / अजमेर | मध्य अरावली (मध्य भाग का सर्वोच्च शिखर) |\n| **11** | **तारागढ़** | **873 मी.** | अजमेर | मध्य अरावली |\n| **12** | **खोह** | **920 मी.** | जयपुर | उत्तरी अरावली |"
+      }
+    },
+    {
+      "section_title": {
+        "en": "3. Major Plateaus & Mountain Passes (पठार एवं प्रमुख दर्रे)",
+        "hi": "3. प्रमुख पठार एवं पर्वत दर्रे (नाल)"
+      },
+      "content_markdown": {
+        "en": "### Major Plateaus in Aravalli:\n1. **Oriya Plateau (उड़िया का पठार):** Height **1,360 m** (Highest plateau in Rajasthan, situated below Guru Shikhar in Sirohi).\n2. **Abu Plateau (आबू का पठार):** Height 1,200 m (Second highest plateau in Rajasthan).\n3. **Bhorat Plateau (भोराठ का पठार):** Located between **Gogunda (Udaipur)** and **Kumbhalgarh (Rajsamand)**; average height 1,225 m.\n4. **Lasadiya Plateau (लसाड़िया का पठार):** Dissected, rugged plateau situated to the east of **Jaisamand Lake** in Salumber/Udaipur.\n5. **Messa Plateau (मेसा का पठार):** Height 620 m (Chittorgarh Fort is situated on this plateau at the confluence of Berach and Gambhiri rivers).\n6. **Uparmal Plateau (ऊपरमाल का पठार):** High plateau extending from **Bijolia (Bhilwara)** to **Bhainsrorgarh (Chittorgarh)**.\n\n### Major Mountain Passes (Naal / Ghat):\n- **Pali Passes:** Desuri ki Naal, Jhilwa ki Naal (Paglya Naal - connects Mewar with Marwar), Someshwar Pass.\n- **Ajmer / Beawar Passes:** Bar Pass (NH 162 passes through it), Pakheriya, Suraghat, Shivpura Ghat.\n- **Udaipur / Rajsamand Passes:** Debari Pass, Elephant Pass (Hathi Darra), Kewda ki Naal, Phulwari ki Naal (Wildlife Sanctuary), Kamli Ghat.",
+        "hi": "### अरावली के प्रमुख पठार:\n1. **उड़िया का पठार:** ऊँचाई **1,360 मीटर** (राजस्थान का सर्वोच्च पठार, गुरुशिखर के नीचे सिरोही में स्थित)।\n2. **आबू का पठार:** ऊँचाई 1,200 मीटर (राज्य का दूसरा सर्वोच्च पठार)।\n3. **भोराठ का पठार:** **गोगुन्दा (उदयपुर) एवं कुम्भलगढ़ (राजसमंद)** के मध्य विस्तृत; औसत ऊँचाई 1,225 मी.।\n4. **लसाड़िया का पठार:** जयसमंद झील के पूर्व में स्थित अत्यधिक कटा-फटा पठार (सलूम्बर/उदयपुर)।\n5. **मेसा का पठार:** ऊँचाई 620 मीटर (चित्तौड़गढ़ दुर्ग बेड़च व गंभीरी नदियों के संगम पर इसी पठार पर स्थित है)।\n6. **ऊपरमाल का पठार:** **बिजोलिया (भीलवाड़ा) से भैंसरोड़गढ़ (चित्तौड़गढ़)** तक का उच्च भूभाग।\n\n### प्रमुख दर्रे (नाल / घाट):\n- **पाली के दर्रे:** देसूरी की नाल, झीलवाड़ा की नाल (पगलिया नाल — मेवाड़ को मारवाड़ से जोड़ता है), सोमेश्वर नाल।\n- **अजमेर / ब्यावर के दर्रे:** बर दर्रा (NH 162 गुजरता है), पखेरिया, सूराघाट, शिवपुरा घाट।\n- **उदयपुर / राजसमंद के दर्रे:** देबारी दर्रा, हाथी दर्रा, केवड़ा की नाल, फुलवारी की नाल, कामली घाट।"
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "en": "Guru Shikhar (1,722 m) was hailed by Col. James Tod as the 'Olympus of the Gods' (संतों का शिखर).",
+      "hi": "कर्नल जेम्स टॉड ने गुरुशिखर (1722 मी.) को 'संतों का शिखर' कहा।"
+    },
+    {
+      "en": "Oriya Plateau (1,360 m) in Sirohi is the highest plateau in Rajasthan.",
+      "hi": "उड़िया का पठार (1360 मी., सिरोhi) राजस्थान का सबसे ऊँचा पठार है।"
+    },
+    {
+      "en": "Bhorat plateau is located between Gogunda (Udaipur) and Kumbhalgarh (Rajsamand).",
+      "hi": "भोराठ का पठार गोगुन्दा (उदयपुर) और कुम्भलगढ़ (राजसमंद) के मध्य स्थित है।"
+    },
+    {
+      "en": "Raghunathgarh (1,055 m in Sikar) is the highest peak of the Northern Aravalli.",
+      "hi": "रघुनाथगढ़ (1055 मी., सीकर) उत्तरी अरावली का सर्वोच्च शिखर है।"
+    },
+    {
+      "en": "Todgarh / Moramji (933 m in Beawar/Ajmer) is the highest peak of Central Aravalli.",
+      "hi": "टॉडगढ़ / मोरामजी (933 मी., ब्यावर) मध्य अरावली का सर्वोच्च शिखर है।"
+    }
+  ],
+  "timeline": [
+    {
+      "year_or_era": "Pre-Cambrian Era",
+      "event": {
+        "en": "Orogenic folding leads to the formation of the ancient Aravalli mountain range.",
+        "hi": "प्री-कैम्ब्रियन काल में वलन क्रिया द्वारा अरावली पर्वतमाला की उत्पत्ति।"
+      }
+    },
+    {
+      "year_or_era": "1829 AD",
+      "event": {
+        "en": "Col. James Tod documents Aravalli peaks and names Guru Shikhar as 'Olympus of the Gods'.",
+        "hi": "कर्नल टॉड द्वारा अरावली का अध्ययन एवं गुरुशिखर को 'संतों का शिखर' नामकरण।"
+      }
+    }
+  ],
+  "exam_traps_and_tricks": [
+    {
+      "en": "TRAP: RPSC frequently asks to arrange peaks in descending order. Remember: Guru Shikhar (1722m) > Ser (1597m) > Delwara (1442m) > Jarga (1431m) > Achalgarh (1380m).",
+      "hi": "परीक्षा जाल: शिखरों को ऊँचाई के घटते क्रम में व्यवस्थित करने का प्रश्न बार-बार आता है: गुरुशिखर > सेर > देलवाड़ा > जरगा > अचलगढ़।"
+    },
+    {
+      "en": "TRAP: Do not confuse Bhorat plateau (Gogunda-Kumbhalgarh) with Bhomat region (tribal belt of southern Rajasthan).",
+      "hi": "परीक्षा जाल: 'भोराठ का पठार' (गोगुन्दा-कुम्भलगढ़) और 'भोमट क्षेत्र' (दक्षिणी आदिवासी बाहुल्य क्षेत्र) में भ्रमित न हों।"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-C.02.02-01",
+      "question": {
+        "en": "Which is the correct descending order of the following Aravalli mountain peaks according to their heights?",
+        "hi": "अरावली पर्वत शिखरों का उनकी ऊँचाई के अनुसार सही अवरोही (घटता हुआ) क्रम कौन-सा है?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Guru Shikhar → Delwara → Ser → Jarga", "hi": "गुरुशिखर → देलवाड़ा → सेर → जरगा" } },
+        { "id": "B", "text": { "en": "Guru Shikhar → Ser → Delwara → Jarga", "hi": "गुरुशिखर → सेर → देलवाड़ा → जरगा" } },
+        { "id": "C", "text": { "en": "Ser → Guru Shikhar → Jarga → Achalgarh", "hi": "सेर → गुरुशिखर → जरगा → अचलगढ़" } },
+        { "id": "D", "text": { "en": "Guru Shikhar → Ser → Jarga → Delwara", "hi": "गुरुशिखर → सेर → जरगा → देलवाड़ा" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "en": "The correct descending order is: Guru Shikhar (1722 m) > Ser (1597 m) > Delwara (1442 m) > Jarga (1431 m) > Achalgarh (1380 m).",
+        "hi": "सही अवरोही क्रम है: गुरुशिखर (1722 मी.) > सेर (1597 मी.) > देलवाड़ा (1442 मी.) > जरगा (1431 मी.) > अचलगढ़ (1380 मी.)।"
+      },
+      "pyq_source": "RPSC RAS Pre 2021 / RSSB CET 2023",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MCQ-C.02.02-02",
+      "question": {
+        "en": "Between which two locations is the 'Bhorat Plateau' situated in Rajasthan?",
+        "hi": "राजस्थान में 'भोराठ का पठार' किन दो स्थानों के मध्य स्थित है?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Between Kumbhalgarh and Gogunda", "hi": "कुम्भलगढ़ एवं गोगुन्दा के मध्य" } },
+        { "id": "B", "text": { "en": "Between Mount Abu and Guru Shikhar", "hi": "माउंट आबू एवं गुरुशिखर के मध्य" } },
+        { "id": "C", "text": { "en": "Between Bijolia and Bhainsrorgarh", "hi": "बिजोलिया एवं भैंसरोड़गढ़ के मध्य" } },
+        { "id": "D", "text": { "en": "Between Alwar and Rajgarh", "hi": "अलवर एवं राजगढ़ के मध्य" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "en": "The Bhorat plateau is located between Gogunda (Udaipur) and Kumbhalgarh (Rajsamand). Note that Bijolia to Bhainsrorgarh is the Uparmal plateau.",
+        "hi": "भोराठ का पठार गोगुन्दा (उदयपुर) और कुम्भलगढ़ (राजसमंद) के मध्य स्थित है। बिजोलिया से भैंसरोड़गढ़ तक ऊपरमाल का पठार है।"
+      },
+      "pyq_source": "RPSC 1st Grade 2022 / RSSB Patwari 2021",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MCQ-C.02.02-03",
+      "question": {
+        "en": "Which is the highest mountain peak of the Northern Aravalli region?",
+        "hi": "उत्तरी अरावली प्रदेश का सर्वोच्च पर्वत शिखर कौन-सा है?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Bairath", "hi": "बैराठ" } },
+        { "id": "B", "text": { "en": "Khoh", "hi": "खोह" } },
+        { "id": "C", "text": { "en": "Raghunathgarh (1,055 m)", "hi": "रघुनाथगढ़ (1,055 मी.)" } },
+        { "id": "D", "text": { "en": "Taragarh", "hi": "तारागढ़" } }
+      ],
+      "correct_option": "C",
+      "explanation": {
+        "en": "Raghunathgarh (located in Sikar district, height 1,055 m) is the highest peak of the Northern Aravalli range.",
+        "hi": "रघुनाथगढ़ (सीकर, 1055 मी.) उत्तरी अरावली की सबसे ऊँची चोटी है।"
+      },
+      "pyq_source": "RSSB VDO Pre 2021",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MCQ-C.02.02-04",
+      "question": {
+        "en": "Through which mountain pass (Naal) in Rajasthan does National Highway 162 pass?",
+        "hi": "राजस्थान का कौन-सा राष्ट्रीय राजमार्ग 162 किस प्रसिद्ध अरावली दर्रे से होकर गुजरता है?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Desuri ki Naal", "hi": "देसूरी की नाल" } },
+        { "id": "B", "text": { "en": "Bar Pass (बर दर्रा)", "hi": "बर दर्रा" } },
+        { "id": "C", "text": { "en": "Elephant Pass (हाथी दर्रा)", "hi": "हाथी दर्रा" } },
+        { "id": "D", "text": { "en": "Kewda ki Naal", "hi": "केवड़ा की नाल" } }
+      ],
+      "correct_option": "B",
+      "explanation": {
+        "en": "The Bar pass situated in Beawar/Pali connects Marwar with Ajmer and National Highway 162 passes through it.",
+        "hi": "बर दर्रा (ब्यावर/पाली) मध्य अरावली का प्रमुख दर्रा है जिससे होकर राष्ट्रीय राजमार्ग 162 गुजरता है।"
+      },
+      "pyq_source": "RPSC College Lecturer 2021",
+      "difficulty": "hard"
+    }
+  ]
+}

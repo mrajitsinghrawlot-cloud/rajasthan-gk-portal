@@ -1,0 +1,720 @@
+{
+  "version": "3.0.0",
+  "last_updated": "2026-09-13",
+  "subjects": [
+    {
+      "id": "history",
+      "code": "A",
+      "title": { "en": "Rajasthan History", "hi": "राजस्थान का इतिहास" },
+      "tagline": { "en": "Ancient Civilizations, Dynasties, 1857 Revolt, Movements & Integration", "hi": "प्राचीन सभ्यताएँ, प्रमुख राजवंश, 1857 क्रांति, आन्दोलन एवं एकीकरण" },
+      "color": "from-amber-600 to-orange-700",
+      "icon": "Crown",
+      "units": [
+        {
+          "id": "A.01",
+          "subject_id": "history",
+          "title": { "en": "Sources of Rajasthan History", "hi": "राजस्थान के इतिहास के स्रोत" },
+          "subtopics": [
+            { "id": "A.01.01", "unit_id": "A.01", "subject_id": "history", "slug": "inscriptions-and-prashastis", "title": { "en": "Inscriptions & Prashastis", "hi": "शिलालेख एवं प्रशस्तियाँ" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.01.02", "unit_id": "A.01", "subject_id": "history", "slug": "numismatics-and-coins", "title": { "en": "Numismatics & Historical Coins", "hi": "सिक्के एवं मुद्राशास्त्र" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.01.03", "unit_id": "A.01", "subject_id": "history", "slug": "historical-literature", "title": { "en": "Historical Literature & Court Chronicles", "hi": "ऐतिहासिक साहित्य एवं दरबारी इतिहासकार" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.01.04", "unit_id": "A.01", "subject_id": "history", "slug": "excavations-and-museums", "title": { "en": "Archaeological Excavations & Museums", "hi": "पुरातात्विक उत्खनन, अभिलेखागार एवं संग्रहालय" }, "pyq_frequency": "medium", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "A.02",
+          "subject_id": "history",
+          "title": { "en": "Ancient Civilizations & Janapadas", "hi": "प्राचीन राजस्थान एवं सभ्यताएँ" },
+          "subtopics": [
+            { "id": "A.02.01", "unit_id": "A.02", "subject_id": "history", "slug": "prehistoric-sites", "title": { "en": "Pre-historic & Stone Age Sites (Bagor, Tilwara)", "hi": "प्रागैतिहासिक एवं पाषाण युग स्थल (बागोर, तिलवाड़ा)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.02.02", "unit_id": "A.02", "subject_id": "history", "slug": "copper-bronze-sites", "title": { "en": "Copper & Bronze Age Sites (Kalibangan, Ganeshwar, Ahar)", "hi": "ताम्र-पाषाण युगीन सभ्यताएँ (कालीबंगा, गणेश्वर, आहड़)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.02.03", "unit_id": "A.02", "subject_id": "history", "slug": "iron-age-sites", "title": { "en": "Iron Age Sites (Bairath, Redh, Sunari)", "hi": "लौह युग एवं आद्य ऐतिहासिक स्थल (बैराठ, रैढ़, सुनारी)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.02.04", "unit_id": "A.02", "subject_id": "history", "slug": "ancient-janapadas", "title": { "en": "Ancient Janapadas (Matsya, Sibi, Malava, Yaudheya)", "hi": "प्राचीन जनपद (मत्स्य, शिवि, मालव, यौधेय)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.02.05", "unit_id": "A.02", "subject_id": "history", "slug": "mauryan-gupta-period", "title": { "en": "Mauryan, Kshatrapas, Guptas & Hunas in Rajasthan", "hi": "मौर्य, क्षत्रप, गुप्त एवं हूण काल" }, "pyq_frequency": "medium", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "A.03",
+          "subject_id": "history",
+          "title": { "en": "Rajput Origins & Gurjara-Pratiharas", "hi": "प्रारंभिक मध्यकाल एवं राजपूत उत्पत्ति" },
+          "subtopics": [
+            { "id": "A.03.01", "unit_id": "A.03", "subject_id": "history", "slug": "theories-of-rajput-origin", "title": { "en": "Theories of Rajput Origin (Agnikula, Solar, Foreign)", "hi": "राजपूत उत्पत्ति के सिद्धांत (अग्निकुल, सूर्यवंशी, विदेशी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.03.02", "unit_id": "A.03", "subject_id": "history", "slug": "gurjara-pratiharas", "title": { "en": "Gurjara-Pratiharas of Mandore & Bhinmal", "hi": "मण्डोर एवं भीनमाल के गुर्जर-प्रतिहार" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.03.03", "unit_id": "A.03", "subject_id": "history", "slug": "chauhans-of-ajmer-ranthambore", "title": { "en": "Chauhans of Ajmer & Ranthambore (Prithviraj III, Hammir)", "hi": "अजमेर एवं रणथम्भौर के चौहान (पृथ्वीराज तृतीय, हम्मीर)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.03.04", "unit_id": "A.03", "subject_id": "history", "slug": "chauhans-jalore-hadoti", "title": { "en": "Chauhans of Jalore, Sirohi & Hadoti (Kanhad Dev)", "hi": "जालौर, सिरोही एवं हाड़ौती के चौहान (कान्हड़देव)" }, "pyq_frequency": "medium", "target_exams": ["All"] },
+            { "id": "A.03.05", "unit_id": "A.03", "subject_id": "history", "slug": "parmars-of-rajasthan", "title": { "en": "Parmars of Abu, Malwa & Vagad", "hi": "आबू, मालवा एवं वागड़ के परमार" }, "pyq_frequency": "medium", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "A.04",
+          "subject_id": "history",
+          "title": { "en": "Major Dynasties of Rajasthan", "hi": "राजस्थान के प्रमुख राजवंश" },
+          "subtopics": [
+            { "id": "A.04.01", "unit_id": "A.04", "subject_id": "history", "slug": "mewar-guhilas-and-sisodias", "title": { "en": "Guhilas & Sisodias of Mewar (Kumbha, Sanga, Pratap)", "hi": "मेवाड़ के गुहिल एवं सिसोदिया (कुम्भा, सांगा, प्रताप)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"], "has_full_content": true },
+            { "id": "A.04.02", "unit_id": "A.04", "subject_id": "history", "slug": "marwar-rathores", "title": { "en": "Rathores of Marwar (Rao Jodha, Maldeo, Chandrasen)", "hi": "मारवाड़ के राठौड़ (राव जोधा, मालदेव, चन्द्रसेन)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.04.03", "unit_id": "A.04", "subject_id": "history", "slug": "bikaner-rathores", "title": { "en": "Rathores of Bikaner & Kishangarh (Rai Singh, Anup Singh)", "hi": "बीकानेर एवं किशनगढ़ के राठौड़ (राय सिंह, अनूप सिंह)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.04.04", "unit_id": "A.04", "subject_id": "history", "slug": "amber-kachhwahas", "title": { "en": "Kachhwahas of Amber / Jaipur (Man Singh I, Sawai Jai Singh II)", "hi": "आमेर / जयपुर के कछवाहा (मान सिंह प्रथम, सवाई जय सिंह)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.04.05", "unit_id": "A.04", "subject_id": "history", "slug": "jaisalmer-bhatis", "title": { "en": "Bhatis of Jaisalmer & The 2.5 Sakas", "hi": "जैसलमेर के भाटी एवं ढाई साके" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.04.06", "unit_id": "A.04", "subject_id": "history", "slug": "bundi-kota-hadas", "title": { "en": "Hadas of Bundi & Kota (Zalim Singh Jhala)", "hi": "बूंदी एवं कोटा के हाड़ा (जालिम सिंह झाला)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.04.07", "unit_id": "A.04", "subject_id": "history", "slug": "bharatpur-dholpur-jats", "title": { "en": "Jat Rulers of Bharatpur & Dholpur (Maharaja Suraj Mal)", "hi": "भरतपुर एवं धौलपुर के जाट (महाराजा सूरजमल)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.04.08", "unit_id": "A.04", "subject_id": "history", "slug": "other-princely-states", "title": { "en": "Other States (Karauli, Tonk Nawabs, Vagad, Shekhawati)", "hi": "अन्य रियासतें (करौली, टोंक के नवाब, वागड़, शेखावाटी)" }, "pyq_frequency": "medium", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "A.05",
+          "subject_id": "history",
+          "title": { "en": "Invasions, Mughal Relations & Marathas", "hi": "आक्रमण, मुगल सम्बन्ध एवं मराठा काल" },
+          "subtopics": [
+            { "id": "A.05.01", "unit_id": "A.05", "subject_id": "history", "slug": "delhi-sultanate-invasions", "title": { "en": "Delhi Sultanate Invasions & The Great Sakas (1301-1311)", "hi": "दिल्ली सल्तनत के आक्रमण एवं ऐतिहासिक साके" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.05.02", "unit_id": "A.05", "subject_id": "history", "slug": "mughal-rajput-relations", "title": { "en": "Mughal-Rajput Relations & Mansabdari System", "hi": "मुगल-राजपूत सम्बन्ध एवं मनसबदारी व्यवस्था" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.05.03", "unit_id": "A.05", "subject_id": "history", "slug": "maratha-incursions", "title": { "en": "Maratha Incursions & Hurda Conference (1734)", "hi": "राजस्थान में मराठा आक्रमण एवं हुरड़ा सम्मेलन (1734)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "A.06",
+          "subject_id": "history",
+          "title": { "en": "British Treaties & The 1857 Revolt", "hi": "ब्रिटिश शासन, सन्धियाँ एवं 1857 का विद्रोह" },
+          "subtopics": [
+            { "id": "A.06.01", "unit_id": "A.06", "subject_id": "history", "slug": "subsidiary-alliance-treaties", "title": { "en": "Subsidiary Alliance Treaties (1817-1818, Charles Metcalfe)", "hi": "सहायक सन्धियाँ (1817-1818, चार्ल्स मेटकॉफ)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.06.02", "unit_id": "A.06", "subject_id": "history", "slug": "british-agg-system", "title": { "en": "British Administrative Setup & AGG System", "hi": "ब्रिटिश प्रशासनिक ढाँचा एवं ए.जी.जी. व्यवस्था" }, "pyq_frequency": "medium", "target_exams": ["All"] },
+            { "id": "A.06.03", "unit_id": "A.06", "subject_id": "history", "slug": "revolt-of-1857-rajasthan", "title": { "en": "1857 Revolt in Rajasthan (6 Cantonments, Auwa, Kota)", "hi": "राजस्थान में 1857 का विद्रोह (6 छावनियाँ, आउवा, कोटा)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "A.07",
+          "subject_id": "history",
+          "title": { "en": "Peasant & Tribal Movements", "hi": "किसान एवं जनजातीय आन्दोलन" },
+          "subtopics": [
+            { "id": "A.07.01", "unit_id": "A.07", "subject_id": "history", "slug": "bijolia-peasant-movement", "title": { "en": "Bijolia Movement (1897–1941, 3 Phases, Pathik)", "hi": "बिजोलिया किसान आन्दोलन (1897-1941, 3 चरण, पथिक)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.07.02", "unit_id": "A.07", "subject_id": "history", "slug": "begu-peasant-movement", "title": { "en": "Begu Peasant Movement (Rupa ji & Kripa ji)", "hi": "बेगूं किसान आन्दोलन (रूपा जी एवं कृपा जी)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.07.03", "unit_id": "A.07", "subject_id": "history", "slug": "nimuchana-massacre", "title": { "en": "Nimuchana Massacre (1925, 'Dyerism Double Distilled')", "hi": "निमुचाणा किसान हत्याकाण्ड (1925)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.07.04", "unit_id": "A.07", "subject_id": "history", "slug": "shekhawati-peasant-movement", "title": { "en": "Shekhawati Movement & Katrathal 10,000 Women Conference", "hi": "शेखावाटी किसान आन्दोलन एवं कटराथल महिला सम्मेलन" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.07.05", "unit_id": "A.07", "subject_id": "history", "slug": "other-peasant-movements", "title": { "en": "Other Peasant Movements (Bundi, Dudhwa Khara, Marwar)", "hi": "अन्य किसान आन्दोलन (बूंदी, दूधवा खारा, मारवाड़)" }, "pyq_frequency": "medium", "target_exams": ["All"] },
+            { "id": "A.07.06", "unit_id": "A.07", "subject_id": "history", "slug": "bhagat-movement-mangarh", "title": { "en": "Bhagat Movement & Mangarh Dham Massacre (1913)", "hi": "भगत आन्दोलन एवं मानगढ़ धाम हत्याकाण्ड (1913)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.07.07", "unit_id": "A.07", "subject_id": "history", "slug": "eki-movement-tejawat", "title": { "en": "Eki Movement & Motilal Tejawat (21-Point Mewar Pukar)", "hi": "एकी आन्दोलन एवं मोतीलाल तेजावत (21 सूत्री मेवाड़ पुकार)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.07.08", "unit_id": "A.07", "subject_id": "history", "slug": "meena-agitation", "title": { "en": "Meena Movement Against Jairam Pesha Act (1930-1952)", "hi": "जरायम पेशा कानून विरोधी मीणा आन्दोलन" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "A.08",
+          "subject_id": "history",
+          "title": { "en": "Praja Mandal Movement & Freedom Struggle", "hi": "प्रजामण्डल आन्दोलन एवं स्वतंत्रता सेनानी" },
+          "subtopics": [
+            { "id": "A.08.01", "unit_id": "A.08", "subject_id": "history", "slug": "state-wise-praja-mandals", "title": { "en": "State-wise Praja Mandals (Founders, Years & Demands)", "hi": "रियासतवार प्रजामण्डल (संस्थापक, वर्ष एवं माँगें)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.08.02", "unit_id": "A.08", "subject_id": "history", "slug": "prominent-freedom-fighters", "title": { "en": "Key Freedom Fighters (Pathik, Vyas, Barhath Family, Gopa)", "hi": "प्रमुख स्वतंत्रता सेनानी (पथिक, व्यास, बारहठ परिवार, गोपा)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.08.03", "unit_id": "A.08", "subject_id": "history", "slug": "women-in-freedom-struggle", "title": { "en": "Women in Rajasthan Freedom Struggle (Kishori, Anjana, Ratna)", "hi": "राजस्थान के स्वतंत्रता संग्राम में महिलाएँ (किशोरी, अंजना, रत्ना)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "A.08.04", "unit_id": "A.08", "subject_id": "history", "slug": "freedom-press-and-societies", "title": { "en": "Newspapers, Periodicals & Political Organizations", "hi": "स्वतंत्रता काल के समाचार पत्र, पत्रिकाएँ एवं राजनीतिक संगठन" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "A.09",
+          "subject_id": "history",
+          "title": { "en": "Integration & Post-1956 Evolution", "hi": "राजस्थान का एकीकरण एवं उत्तर-1956 विकास" },
+          "subtopics": [
+            { "id": "A.09.01", "unit_id": "A.09", "subject_id": "history", "slug": "7-stages-of-integration", "title": { "en": "7 Stages of Rajasthan Integration (1948–1956)", "hi": "राजस्थान के एकीकरण के 7 चरण (1948-1956)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.09.02", "unit_id": "A.09", "subject_id": "history", "slug": "integration-matrix-table", "title": { "en": "Integration Matrix: Capitals, Rajpramukhs & PMs/CMs", "hi": "एकीकरण सारणी: राजधानियाँ, राजप्रमुख एवं मुख्यमंत्री" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "A.09.03", "unit_id": "A.09", "subject_id": "history", "slug": "post-1956-political-evolution", "title": { "en": "Post-1956 Admin & Panchayati Raj Launch (Nagaur 1959)", "hi": "1956 के बाद प्रशासनिक ढाँचा एवं पंचायती राज प्रारम्भ" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "art-culture",
+      "code": "B",
+      "title": { "en": "Rajasthan Art & Culture", "hi": "राजस्थान की कला एवं संस्कृति" },
+      "tagline": { "en": "Folk Deities, Dances, Music, Miniature Paintings, Forts & Heritage", "hi": "लोक देवता, नृत्य, संगीत, चित्रकला, दुर्ग, हस्तशिल्प एवं धरोहर" },
+      "color": "from-rose-600 to-pink-700",
+      "icon": "Palette",
+      "units": [
+        {
+          "id": "B.01",
+          "subject_id": "art-culture",
+          "title": { "en": "Folk Deities: Lok Devta", "hi": "लोक देवता" },
+          "subtopics": [
+            { "id": "B.01.01", "unit_id": "B.01", "subject_id": "art-culture", "slug": "the-panchpir-of-rajasthan", "title": { "en": "The Panchpir (Ramdevji, Pabuji, Gogaji, Mehaji, Harbhuji)", "hi": "राजस्थान के पंचपीर (रामदेवजी, पाबूजी, गोगाजी, मेहाजी, हड़भूजी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"], "has_full_content": true },
+            { "id": "B.01.02", "unit_id": "B.01", "subject_id": "art-culture", "slug": "other-major-folk-gods", "title": { "en": "Other Major Folk Gods (Tejaji, Devnarayanji, Mallinathji)", "hi": "अन्य प्रमुख लोक देवता (तेजाजी, देवनारायण जी, मल्लीनाथ जी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.02",
+          "subject_id": "art-culture",
+          "title": { "en": "Folk Goddesses: Lok Devi", "hi": "लोक देवियाँ / कुलदेवियाँ" },
+          "subtopics": [
+            { "id": "B.02.01", "unit_id": "B.02", "subject_id": "art-culture", "slug": "major-lok-devis", "title": { "en": "Major Lok Devis (Karni Mata, Jeen Mata, Shila Devi, Tanot)", "hi": "प्रमुख लोक देवियाँ (करणी माता, जीण माता, शीला देवी, तनोट)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.03",
+          "subject_id": "art-culture",
+          "title": { "en": "Sant Parampara & Religious Sects", "hi": "सन्त परम्परा एवं सम्प्रदाय" },
+          "subtopics": [
+            { "id": "B.03.01", "unit_id": "B.03", "subject_id": "art-culture", "slug": "nirgun-bhakti-saints", "title": { "en": "Nirgun Bhakti Saints (Dadu Dayal, Jasnathji, Jambhoji)", "hi": "निर्गुण भक्ति सन्त (दादू दयाल, जसनाथ जी, जाम्भोजी)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.03.02", "unit_id": "B.03", "subject_id": "art-culture", "slug": "sagun-bhakti-saints-meera", "title": { "en": "Sagun Bhakti Saints (Meera Bai, Rana Bai, Gavri Bai)", "hi": "सगुण भक्ति सन्त (मीराबाई, राणाबाई, गवरी बाई)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.03.03", "unit_id": "B.03", "subject_id": "art-culture", "slug": "major-sampradayas-sects", "title": { "en": "Major Sampradayas (Ram Snehi 4 Pithas, Vallabh, Nath, Nimbarka)", "hi": "प्रमुख सम्प्रदाय (रामस्नेही 4 पीठ, वल्लभ, नाथ, निम्बार्क)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.04",
+          "subject_id": "art-culture",
+          "title": { "en": "Folk Music & Musical Instruments", "hi": "लोक संगीत एवं वाद्य यंत्र" },
+          "subtopics": [
+            { "id": "B.04.01", "unit_id": "B.04", "subject_id": "art-culture", "slug": "traditional-singers", "title": { "en": "Traditional Singer Castes (Langas, Manganiyars, Mirasis)", "hi": "पारम्परिक गायक जातियाँ (लंगा, मांगणियार, मिरासी)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.04.02", "unit_id": "B.04", "subject_id": "art-culture", "slug": "folk-songs-forms", "title": { "en": "Folk Songs & Genres (Mand, Panihari, Kurjan, Gorbandh)", "hi": "लोक गीत एवं संगीत शैलियाँ (मांग, पणिहारी, कुरजां, गोरबंद)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.04.03", "unit_id": "B.04", "subject_id": "art-culture", "slug": "classical-music-gharanas", "title": { "en": "Classical Music Gharanas (Jaipur, Senia/Beenkar, Dagur)", "hi": "शास्त्रीय संगीत घराने (जयपुर, सेनिया/बीनकार, डागुर)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.04.04", "unit_id": "B.04", "subject_id": "art-culture", "slug": "tat-vadya-string", "title": { "en": "Tat Vadya: String Instruments (Ravanhattha, Kamayacha, Jantar)", "hi": "तत् वाद्य: तंतु वाद्य (रावणहत्था, कामायचा, जंतर, सारंगी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.04.05", "unit_id": "B.04", "subject_id": "art-culture", "slug": "sushir-vadya-wind", "title": { "en": "Sushir Vadya: Wind Instruments (Algoza, Pungi, Morchang)", "hi": "सुषिर वाद्य: फूँक वाद्य (अलगोजा - राज्य वाद्य, पूंगी, मोरचंग)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.04.06", "unit_id": "B.04", "subject_id": "art-culture", "slug": "avanaddha-vadya-percussion", "title": { "en": "Avanaddha Vadya: Percussion (Dhol, Chang, Daf, Mandal)", "hi": "अवनद्ध वाद्य: चमड़े वाले (ढोल, चंग, डफ, मांदल)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.04.07", "unit_id": "B.04", "subject_id": "art-culture", "slug": "ghan-vadya-solid", "title": { "en": "Ghan Vadya: Metallic/Solid (Manjira, Khartal, Thali)", "hi": "घन वाद्य: धातु/ठोस (मंजीरा, खड़ताल, थाली)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.05",
+          "subject_id": "art-culture",
+          "title": { "en": "Folk Dance", "hi": "लोक नृत्य" },
+          "subtopics": [
+            { "id": "B.05.01", "unit_id": "B.05", "subject_id": "art-culture", "slug": "regional-folk-dances", "title": { "en": "Regional Folk Dances (Ghoomar, Agni, Gair, Dhol, Bam)", "hi": "क्षेत्रीय लोक नृत्य (घूमर, अग्नि नृत्य, गैर, ढोल, बम्ब नृत्य)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.05.02", "unit_id": "B.05", "subject_id": "art-culture", "slug": "tribal-folk-dances", "title": { "en": "Tribal Dances (Bhil-Gauri, Garasia-Waler, Kalbeliya-UNESCO)", "hi": "जनजातीय नृत्य (भील-गवरी, गरासिया-वालर, कालबेलिया-यूनेस्को)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.05.03", "unit_id": "B.05", "subject_id": "art-culture", "slug": "professional-dances", "title": { "en": "Professional Dances (Bhavai, Terah Taali, Kacchi Ghodi, Chari)", "hi": "व्यावसायिक नृत्य (भवाई, तेरहताली, कच्छी घोड़ी, चरी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.06",
+          "subject_id": "art-culture",
+          "title": { "en": "Folk Theatre / Lok Natya", "hi": "लोक नाट्य / लोक रंगमंच" },
+          "subtopics": [
+            { "id": "B.06.01", "unit_id": "B.06", "subject_id": "art-culture", "slug": "khyal-theatre-styles", "title": { "en": "Khyal Styles (Turra-Kalangi, Shekhawati, Kuchamani)", "hi": "ख्याल शैलियाँ (तुर्रा-कलंगी, शेखावाटी, कुचामणी, हेला)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.06.02", "unit_id": "B.06", "subject_id": "art-culture", "slug": "rammat-theatre", "title": { "en": "Rammat of Bikaner & Jaisalmer (Tez Kavi)", "hi": "बीकानेर एवं जैसलमेर की रम्मत (तेज कवि)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.06.03", "unit_id": "B.06", "subject_id": "art-culture", "slug": "tamasha-nautanki-gawari", "title": { "en": "Tamasha, Nautanki, Gawari & Charbhaith Theatre", "hi": "तमाशा, नौटंकी, गवरी एवं चारबैंत" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.07",
+          "subject_id": "art-culture",
+          "title": { "en": "Painting Schools (Miniatures & Murals)", "hi": "चित्रकला शैलियाँ" },
+          "subtopics": [
+            { "id": "B.07.01", "unit_id": "B.07", "subject_id": "art-culture", "slug": "mewar-painting-school", "title": { "en": "Mewar School (Udaipur, Nathdwara Pichhwai, Deogarh)", "hi": "मेवाड़ शैली (उदयपुर, नाथद्वारा पिछवाई, देवगढ़)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.07.02", "unit_id": "B.07", "subject_id": "art-culture", "slug": "marwar-kishangarh-school", "title": { "en": "Marwar & Kishangarh School (Bani Thani, Usta Art)", "hi": "मारवाड़ एवं किशनगढ़ शैली (बणी-ठणी, उस्ता कला)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.07.03", "unit_id": "B.07", "subject_id": "art-culture", "slug": "hadoti-painting-school", "title": { "en": "Hadoti School (Bundi Murals/Chitrashala, Kota Shikar)", "hi": "हाड़ौती शैली (बूंदी भित्ति चित्र, कोटा शिकार दृश्य)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.07.04", "unit_id": "B.07", "subject_id": "art-culture", "slug": "dhundhar-shekhawati-school", "title": { "en": "Dhundhar & Shekhawati Haveli Frescoes", "hi": "ढूँढाड़ एवं शेखावाटी हवेलियों के भित्ति चित्र" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.07.05", "unit_id": "B.07", "subject_id": "art-culture", "slug": "folk-paintings-phad-sanjhi", "title": { "en": "Phad Painting, Sanjhi Art & Mandana Floor Art", "hi": "फड़ चित्रकला (शाहपुरा), सांझी कला एवं मांडणा" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.08",
+          "subject_id": "art-culture",
+          "title": { "en": "Handicrafts & Traditional Crafts", "hi": "हस्तशिल्प एवं पारम्परिक कलाएँ" },
+          "subtopics": [
+            { "id": "B.08.01", "unit_id": "B.08", "subject_id": "art-culture", "slug": "pottery-blue-molela", "title": { "en": "Blue Pottery (Jaipur) & Molela Terracotta (Rajsamand)", "hi": "ब्लू पॉटरी (जयपुर) एवं मोलेला टेराकोटा (राजसमंद)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.08.02", "unit_id": "B.08", "subject_id": "art-culture", "slug": "textile-crafts-printing", "title": { "en": "Textiles: Bandhej, Kota Doria, Sanganeri & Bagru Prints", "hi": "वस्त्र शिल्प: बंधेज, कोटा डोरिया, सांगानेरी एवं बगरू प्रिंट" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.08.03", "unit_id": "B.08", "subject_id": "art-culture", "slug": "jewelry-thewa-meenakari", "title": { "en": "Thewa Art (Pratapgarh) & Meenakari (Jaipur)", "hi": "थेवा कला (प्रतापगढ़) एवं मीनाकारी (जयपुर)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.08.04", "unit_id": "B.08", "subject_id": "art-culture", "slug": "wood-stone-leather-crafts", "title": { "en": "Stone, Woodcraft (Kaavad) & Leather Mojari Work", "hi": "काष्ठ कला (कावड़), संगमरमर शिल्प एवं चमड़ा मोजड़ी" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.09",
+          "subject_id": "art-culture",
+          "title": { "en": "Architecture: Forts, Havelis & Temples", "hi": "स्थापत्य कला: दुर्ग, हवेलियाँ एवं मन्दिर" },
+          "subtopics": [
+            { "id": "B.09.01", "unit_id": "B.09", "subject_id": "art-culture", "slug": "unesco-hill-forts", "title": { "en": "6 UNESCO World Heritage Hill Forts (Chittor, Kumbhalgarh...)", "hi": "यूनेस्को विश्व धरोहर 6 गिरि दुर्ग (चित्तौड़, कुम्भलगढ़...)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.09.02", "unit_id": "B.09", "subject_id": "art-culture", "slug": "other-prominent-forts", "title": { "en": "Other Major Forts (Mehrangarh, Junagarh, Lohagarh, Taragarh)", "hi": "अन्य प्रमुख दुर्ग (मेहरानगढ़, जूनागढ़, लोहागढ़, तारागढ़)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.09.03", "unit_id": "B.09", "subject_id": "art-culture", "slug": "havelis-and-stepwells", "title": { "en": "Havelis (Patwon, Salim Singh) & Stepwells (Chand Baori)", "hi": "हवेलियाँ (पटवों, सालिम सिंह) एवं बावड़ियाँ (चांद बावड़ी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.09.04", "unit_id": "B.09", "subject_id": "art-culture", "slug": "temple-architecture", "title": { "en": "Temple Architecture (Dilwara, Ranakpur, Eklingji, Kiradu)", "hi": "मन्दिर स्थापत्य (देलवाड़ा, रणकपुर, एकलिंगजी, किराडू)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.09.05", "unit_id": "B.09", "subject_id": "art-culture", "slug": "memorial-chhatris", "title": { "en": "Memorial Cenotaphs & Chhatris (84-Pillar, Jaswant Thada)", "hi": "स्मारक छतरियाँ (84 खंभों की, जसवंत थड़ा)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.09.06", "unit_id": "B.09", "subject_id": "art-culture", "slug": "all-unesco-sites", "title": { "en": "UNESCO World Heritage Sites in Rajasthan (4 Sites + 1 Intangible)", "hi": "राजस्थान में यूनेस्को विश्व धरोहर स्थल" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.10",
+          "subject_id": "art-culture",
+          "title": { "en": "Fairs & Festivals", "hi": "मेले एवं त्योहार" },
+          "subtopics": [
+            { "id": "B.10.01", "unit_id": "B.10", "subject_id": "art-culture", "slug": "traditional-festivals-calendar", "title": { "en": "Vikram Samvat Calendar, Gangaur & Teej Festivals", "hi": "विक्रम संवत् पंचांग, गणगौर एवं तीज उत्सव" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.10.02", "unit_id": "B.10", "subject_id": "art-culture", "slug": "major-cultural-fairs", "title": { "en": "Major Fairs (Pushkar, Baneshwar Tribal Kumbh, Kaila Devi)", "hi": "प्रमुख मेले (पुष्कर, बेणेश्वर धाम, कैला देवी, रामदेवरा)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.10.03", "unit_id": "B.10", "subject_id": "art-culture", "slug": "tourism-department-festivals", "title": { "en": "Tourism Festivals (Desert, Camel, Marwar, Matsya Festival)", "hi": "पर्यटन उत्सव (मरु महोत्सव, ऊँट उत्सव, मारवाड़, मत्स्य)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.11",
+          "subject_id": "art-culture",
+          "title": { "en": "Tribes of Rajasthan", "hi": "राजस्थान की जनजातियाँ" },
+          "subtopics": [
+            { "id": "B.11.01", "unit_id": "B.11", "subject_id": "art-culture", "slug": "meena-tribe", "title": { "en": "Mina / Meena Tribe (Customs, Panch Patel)", "hi": "मीणा जनजाति (रीति-रिवाज, पंच पटेल)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.11.02", "unit_id": "B.11", "subject_id": "art-culture", "slug": "bhil-tribe", "title": { "en": "Bhil Tribe (Taapra/Pal, Gameti, Dapa, Gawari)", "hi": "भील जनजाति (टापरा/पाल, गमेती, दापा, गवरी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.11.03", "unit_id": "B.11", "subject_id": "art-culture", "slug": "garasia-tribe", "title": { "en": "Garasia Tribe (Waler Dance, Mor Bandhiya Marriage)", "hi": "गरासिया जनजाति (वालर नृत्य, मोर बंधिया विवाह)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.11.04", "unit_id": "B.11", "subject_id": "art-culture", "slug": "sahariya-tribe-pvtg", "title": { "en": "Sahariya Tribe (Only PVTG in Rajasthan, Shahbad Baran)", "hi": "सहरिया जनजाति (राजस्थान की एकमात्र PVTG, शाहबाद)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.11.05", "unit_id": "B.11", "subject_id": "art-culture", "slug": "minor-tribes-kathodi-kanjar", "title": { "en": "Damor, Kathodi, Kanjar & Sansi Tribes", "hi": "डामोर, कथौड़ी, कंजर एवं सांसी जनजाति" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.12",
+          "subject_id": "art-culture",
+          "title": { "en": "Customs, Ornaments & Costumes", "hi": "रीति-रिवाज, आभूषण एवं वेशभूषा" },
+          "subtopics": [
+            { "id": "B.12.01", "unit_id": "B.12", "subject_id": "art-culture", "slug": "life-cycle-customs-sanskars", "title": { "en": "Life-Cycle Customs & 16 Sanskars (Badhar, Mosar)", "hi": "जीवन-चक्र रीति-रिवाज एवं 16 संस्कार (बढ़ार, मौसर)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.12.02", "unit_id": "B.12", "subject_id": "art-culture", "slug": "head-to-toe-ornaments", "title": { "en": "Head-to-Toe Traditional Ornaments (Borla, Timaniya...)", "hi": "शीर्ष से पैर तक पारम्परिक आभूषण (बोरला, तिमणिया...)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.12.03", "unit_id": "B.12", "subject_id": "art-culture", "slug": "traditional-costumes-turbans", "title": { "en": "Costumes & Turbans (Amar Shahi, Pomcha, Lahariya)", "hi": "वेशभूषा एवं पगड़ी/साफा (अमरशाही, पोमचा, लहरिया)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.13",
+          "subject_id": "art-culture",
+          "title": { "en": "Language, Literature & Academies", "hi": "भाषा, साहित्य एवं सांस्कृतिक संस्थान" },
+          "subtopics": [
+            { "id": "B.13.01", "unit_id": "B.13", "subject_id": "art-culture", "slug": "language-origin-dingal-pingal", "title": { "en": "Origin of Rajasthani & Dingal vs Pingal Literature", "hi": "राजस्थानी भाषा की उत्पत्ति एवं डिंगल-पिंगल साहित्य" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "B.13.02", "unit_id": "B.13", "subject_id": "art-culture", "slug": "rajasthani-dialects", "title": { "en": "Dialects & Sub-Dialects (Marwari, Dhundhari, Hadoti)", "hi": "बोलियाँ एवं उप-बोलियाँ (मारवाड़ी, ढूँढाड़ी, हाड़ौती)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.13.03", "unit_id": "B.13", "subject_id": "art-culture", "slug": "literary-masterpieces-authors", "title": { "en": "Literary Masterpieces & Authors (Chand Bardai, Sethia)", "hi": "प्रमुख साहित्यिक कृतियाँ एवं रचनाकार" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "B.13.04", "unit_id": "B.13", "subject_id": "art-culture", "slug": "state-cultural-academies", "title": { "en": "State Cultural Academies (Sahitya, Bhasha, Sanskrit...)", "hi": "राज्य सांस्कृतिक अकादमियाँ (साहित्य, भाषा, संस्कृत...)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.14",
+          "subject_id": "art-culture",
+          "title": { "en": "Cuisine & Regional Specialties", "hi": "व्यंजन एवं क्षेत्रीय विशेषताएँ" },
+          "subtopics": [
+            { "id": "B.14.01", "unit_id": "B.14", "subject_id": "art-culture", "slug": "signature-dishes-gi-tags", "title": { "en": "Signature Dishes & GI Tags (Dal Baati, Bikaneri Bhujia)", "hi": "प्रमुख व्यंजन एवं जीआई टैग (दाल-बाटी, बीकानेरी भुजिया)" }, "pyq_frequency": "medium", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "B.15",
+          "subject_id": "art-culture",
+          "title": { "en": "State Symbols", "hi": "राज्य चिह्न / प्रतीक" },
+          "subtopics": [
+            { "id": "B.15.01", "unit_id": "B.15", "subject_id": "art-culture", "slug": "official-state-symbols", "title": { "en": "Official State Symbols (Khejri, Rohida, Godawan, Camel, Sport)", "hi": "राजकीय प्रतीक चिह्न (खेजड़ी, रोहिड़ा, गोडावण, ऊँट, बास्केटबॉल)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "code": "C",
+      "title": { "en": "Rajasthan Geography", "hi": "राजस्थान का भूगोल" },
+      "tagline": { "en": "Physiography, Climate, Rivers, 50 Districts, Minerals, IGNP & Wildlife", "hi": "भौतिक प्रदेश, जलवायु, नदियाँ, 50 जिले, खनिज, आईजीएनपी एवं वन्यजीव" },
+      "color": "from-emerald-600 to-teal-700",
+      "icon": "Compass",
+      "units": [
+        {
+          "id": "C.01",
+          "subject_id": "geography",
+          "title": { "en": "Location, Extent & 50 Districts", "hi": "स्थिति, सीमाएँ एवं प्रशासनिक ढाँचा" },
+          "subtopics": [
+            { "id": "C.01.01", "unit_id": "C.01", "subject_id": "geography", "slug": "location-and-extent", "title": { "en": "Latitudinal & Longitudinal Extent and Geometry", "hi": "अक्षांशीय एवं देशांतरीय विस्तार तथा ज्यामिति" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.01.02", "unit_id": "C.01", "subject_id": "geography", "slug": "international-interstate-borders", "title": { "en": "International (1070 km) & 5 Interstate Borders", "hi": "अन्तर्राष्ट्रीय (1070 किमी) एवं 5 अन्तर्राज्यीय सीमाएँ" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.01.03", "unit_id": "C.01", "subject_id": "geography", "slug": "50-districts-10-divisions", "title": { "en": "50 Districts & 10 Divisions Reorganization (2023)", "hi": "50 जिले एवं 10 संभाग पुनर्गठन (2023)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.02",
+          "subject_id": "geography",
+          "title": { "en": "Physical Divisions / Physiography", "hi": "भौतिक प्रदेश" },
+          "subtopics": [
+            { "id": "C.02.01", "unit_id": "C.02", "subject_id": "geography", "slug": "western-thar-desert", "title": { "en": "Western Sandy Desert (Thar, Marusthali, Dunes)", "hi": "पश्चिमी मरुस्थल (थार, बालुका स्तूप, लाठी सीरीज़)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.02.02", "unit_id": "C.02", "subject_id": "geography", "slug": "aravalli-mountain-range", "title": { "en": "Aravalli Range (Peaks, Passes & Plateaus)", "hi": "अरावली पर्वत श्रेणी (शिखर, दर्रे एवं पठार)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"], "has_full_content": true },
+            { "id": "C.02.03", "unit_id": "C.02", "subject_id": "geography", "slug": "eastern-plains-chambal", "title": { "en": "Eastern Plains (Chambal Ravines, Banas, Chhappan)", "hi": "पूर्वी मैदान (चम्बल बीहड़, बनास, छप्पन का मैदान)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.02.04", "unit_id": "C.02", "subject_id": "geography", "slug": "hadoti-plateau-gbf", "title": { "en": "Hadoti Plateau & Great Boundary Fault (GBF)", "hi": "हाड़ौती पठार एवं महान सीमा भ्रंश (GBF)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.03",
+          "subject_id": "geography",
+          "title": { "en": "Climate & Monsoon System", "hi": "जलवायु एवं मानसून तंत्र" },
+          "subtopics": [
+            { "id": "C.03.01", "unit_id": "C.03", "subject_id": "geography", "slug": "climate-features-mawat", "title": { "en": "Climate Features, Loo & Mawat (Winter Rainfall)", "hi": "जलवायु विशेषताएँ, लू एवं मावठ (शीतकालीन वर्षा)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.03.02", "unit_id": "C.03", "subject_id": "geography", "slug": "koppen-climatic-classification", "title": { "en": "Koeppen's Climatic Classification (BWhw, BShw, Cwg, Aw)", "hi": "कोपेन का जलवायु वर्गीकरण" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.03.03", "unit_id": "C.03", "subject_id": "geography", "slug": "isohyets-rainfall-distribution", "title": { "en": "50 cm Isohyet & Rainfall Distribution", "hi": "50 सेमी समवर्षा रेखा एवं वर्षा वितरण" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.04",
+          "subject_id": "geography",
+          "title": { "en": "Drainage System, Rivers & Lakes", "hi": "अपवाह तंत्र, नदियाँ एवं झीलें" },
+          "subtopics": [
+            { "id": "C.04.01", "unit_id": "C.04", "subject_id": "geography", "slug": "luni-river-system", "title": { "en": "Luni River System (Jojari, Jawai, Sukri)", "hi": "लूनी नदी तंत्र (जोजड़ी, जवाई, सुकड़ी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.04.02", "unit_id": "C.04", "subject_id": "geography", "slug": "mahi-and-sabarmati", "title": { "en": "Mahi River (Tropic of Cancer Crosser) & Sabarmati", "hi": "माही नदी (कर्क रेखा को दो बार पार) एवं साबरमती" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.04.03", "unit_id": "C.04", "subject_id": "geography", "slug": "chambal-river-system", "title": { "en": "Chambal River System (4 Dams, Chulia Fall, Ravines)", "hi": "चम्बल नदी तंत्र (4 बाँध, चूलिया जलप्रपात, बीहड़)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.04.04", "unit_id": "C.04", "subject_id": "geography", "slug": "banas-and-banganga", "title": { "en": "Banas River ('Van ki Asha', Bisalpur) & Banganga", "hi": "बनास नदी ('वन की आशा', बीसलपुर) एवं बाणगंगा" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.04.05", "unit_id": "C.04", "subject_id": "geography", "slug": "inland-rivers-ghaggar", "title": { "en": "Inland Drainage Rivers (Ghaggar, Kantli, Sabi, Kakni)", "hi": "आन्तरिक अपवाह नदियाँ (घग्घर, कांतली, साबी, काकनी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.04.06", "unit_id": "C.04", "subject_id": "geography", "slug": "triveni-sangams", "title": { "en": "4 Triveni Sangams of Rajasthan (Bigod, Beneshwar...)", "hi": "राजस्थान के 4 त्रिवेणी संगम (बीगोद, बेणेश्वर...)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.04.07", "unit_id": "C.04", "subject_id": "geography", "slug": "saline-water-lakes", "title": { "en": "Saline Lakes (Sambhar Ramsar, Pachpadra, Didwana)", "hi": "खारे पानी की झीलें (सांभर रामसर, पचपदरा, डीडवाना)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.04.08", "unit_id": "C.04", "subject_id": "geography", "slug": "freshwater-lakes", "title": { "en": "Freshwater Lakes (Jaisamand, Rajsamand, Nakki Lake)", "hi": "मीठे पानी की झीलें (जयसमंद, राजसमंद, नक्की झील)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.05",
+          "subject_id": "geography",
+          "title": { "en": "Soils & Soil Conservation", "hi": "मिट्टी / मृदा एवं संरक्षण" },
+          "subtopics": [
+            { "id": "C.05.01", "unit_id": "C.05", "subject_id": "geography", "slug": "soil-types-and-usda", "title": { "en": "Soil Types & USDA Classification (Vertisols, Aridisols)", "hi": "मिट्टी के प्रकार एवं USDA वर्गीकरण (वर्टिसोल...)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "C.05.02", "unit_id": "C.05", "subject_id": "geography", "slug": "soil-erosion-sem-problem", "title": { "en": "Soil Erosion & Sem Problem (IGNP Waterlogging)", "hi": "मृदा अपरदन एवं सेम समस्या (आईजीएनपी)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.06",
+          "subject_id": "geography",
+          "title": { "en": "Vegetation, Forests & Wildlife", "hi": "वनस्पति, वन एवं वन्यजीव" },
+          "subtopics": [
+            { "id": "C.06.01", "unit_id": "C.06", "subject_id": "geography", "slug": "forest-types-report-data", "title": { "en": "Forest Types & ISFR State Forest Report Data", "hi": "वन प्रकार एवं राज्य वन रिपोर्ट आँकड़े" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "C.06.02", "unit_id": "C.06", "subject_id": "geography", "slug": "5-tiger-reserves", "title": { "en": "5 Tiger Reserves of Rajasthan (Ranthambore to Dholpur)", "hi": "राजस्थान के 5 बाघ अभयारण्य (रणथम्भौर से धौलपुर)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.06.03", "unit_id": "C.06", "subject_id": "geography", "slug": "national-parks-ramsar-sites", "title": { "en": "National Parks & 2 Ramsar Wetland Sites", "hi": "राष्ट्रीय उद्यान एवं 2 रामसर आर्द्रभूमि स्थल" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.06.04", "unit_id": "C.06", "subject_id": "geography", "slug": "wildlife-sanctuaries-reserves", "title": { "en": "Wildlife Sanctuaries & 30+ Conservation Reserves", "hi": "वन्यजीव अभयारण्य एवं 30+ संरक्षण रिज़र्व" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "C.06.05", "unit_id": "C.06", "subject_id": "geography", "slug": "khejarli-bishnoi-movement", "title": { "en": "Bishnoi Conservation & Khejarli Massacre (1730 AD)", "hi": "बिश्नोई संरक्षण एवं खेजड़ली बलिदान (1730 ई.)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.07",
+          "subject_id": "geography",
+          "title": { "en": "Agriculture & 10 Agro-Climatic Zones", "hi": "कृषि एवं 10 कृषि-जलवायु प्रदेश" },
+          "subtopics": [
+            { "id": "C.07.01", "unit_id": "C.07", "subject_id": "geography", "slug": "cropping-seasons-crops", "title": { "en": "Cropping Seasons & Major Crops (Mustard #1, Bajra #1)", "hi": "फसल ऋतुएँ एवं प्रमुख फसलें (सरसों #1, बाजरा #1)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.07.02", "unit_id": "C.07", "subject_id": "geography", "slug": "10-agro-climatic-zones", "title": { "en": "10 Agro-Climatic Zones of Rajasthan (IA to V)", "hi": "राजस्थान के 10 कृषि-जलवायु प्रदेश (IA से V)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.07.03", "unit_id": "C.07", "subject_id": "geography", "slug": "cazri-afri-institutes", "title": { "en": "Agricultural Research Institutes (CAZRI, AFRI, DRMR)", "hi": "कृषि अनुसंधान संस्थान (काजरी, आफरी, सेवर)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.08",
+          "subject_id": "geography",
+          "title": { "en": "Irrigation, Canals & Water Harvesting", "hi": "सिंचाई, नहरें एवं जल संग्रहण" },
+          "subtopics": [
+            { "id": "C.08.01", "unit_id": "C.08", "subject_id": "geography", "slug": "ignp-indira-gandhi-canal", "title": { "en": "Indira Gandhi Canal (IGNP - 7 Lift Canals)", "hi": "इन्दिरा गाँधी नहर परियोजना (7 लिफ्ट नहरें)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.08.02", "unit_id": "C.08", "subject_id": "geography", "slug": "narmada-ercp-projects", "title": { "en": "Narmada Canal (Sprinklers) & ERCP River-Link", "hi": "नर्मदा नहर (फव्वारा सिंचाई) एवं ईआरसीपी" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.08.03", "unit_id": "C.08", "subject_id": "geography", "slug": "traditional-water-harvesting", "title": { "en": "Traditional Water Harvesting (Khadin, Tanka, Johad)", "hi": "पारम्परिक जल संग्रहण (खड़ीन, टांका, जोहड़)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.09",
+          "subject_id": "geography",
+          "title": { "en": "Livestock & Animal Husbandry", "hi": "पशुधन एवं पशुपालन" },
+          "subtopics": [
+            { "id": "C.09.01", "unit_id": "C.09", "subject_id": "geography", "slug": "cattle-and-buffalo-breeds", "title": { "en": "Cattle Breeds (Rathi, Tharparkar, Gir, Nagauri)", "hi": "गाय एवं भैंस की नस्लें (राठी, थारपारकर, गिर, नागौरी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.09.02", "unit_id": "C.09", "subject_id": "geography", "slug": "sheep-breeds-chokla", "title": { "en": "Sheep Breeds (Chokla - 'Merino of India', Magra, Sonadi)", "hi": "भेड़ की नस्लें (चोकला - 'भारत की मेरिनो', मगरा)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.09.03", "unit_id": "C.09", "subject_id": "geography", "slug": "goats-camels-horses", "title": { "en": "Goats, Camels (Nachna) & Horses", "hi": "बकरी, ऊँट (नाचना) एवं घोड़े" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "C.09.04", "unit_id": "C.09", "subject_id": "geography", "slug": "state-cattle-fairs", "title": { "en": "Major State Cattle Fairs (Mallinath, Tejaji, Ramdev)", "hi": "प्रमुख राज्य पशु मेले (मल्लीनाथ, तेजाजी, रामदेव)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.10",
+          "subject_id": "geography",
+          "title": { "en": "Mineral Wealth & Mining", "hi": "खनिज संसाधन एवं खनन" },
+          "subtopics": [
+            { "id": "C.10.01", "unit_id": "C.10", "subject_id": "geography", "slug": "monopoly-minerals", "title": { "en": "Monopoly Minerals (Wollastonite, Jasper, Garnet, Zinc)", "hi": "एकाधिकार वाले खनिज (वोलेस्टोनाइट, जास्पर, तामड़ा)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.10.02", "unit_id": "C.10", "subject_id": "geography", "slug": "metallic-minerals", "title": { "en": "Metallic Minerals (Rampura-Agucha Lead-Zinc, Khetri Copper)", "hi": "धात्विक खनिज (रामपुरा-आगूचा, खेतड़ी तांबा)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.10.03", "unit_id": "C.10", "subject_id": "geography", "slug": "non-metallic-marble", "title": { "en": "Non-Metallic (Jhamarkotra Phosphate, Jamsar Gypsum, Marble)", "hi": "अधात्विक (झामरकोटड़ा रॉक फॉस्फेट, जिप्सम, संगमरमर)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.10.04", "unit_id": "C.10", "subject_id": "geography", "slug": "petroleum-gas-refinery", "title": { "en": "Petroleum (Mangala), Gas & Pachpadra Refinery (HRRL)", "hi": "पेट्रोलियम (मंगला), गैस एवं पचपदरा रिफाइनरी" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.11",
+          "subject_id": "geography",
+          "title": { "en": "Energy Resources", "hi": "ऊर्जा संसाधन" },
+          "subtopics": [
+            { "id": "C.11.01", "unit_id": "C.11", "subject_id": "geography", "slug": "solar-energy-bhadla", "title": { "en": "Solar Energy (#1 in India, Bhadla Solar Park 2245 MW)", "hi": "सौर ऊर्जा (भारत में #1, भड़ला सोलर पार्क)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.11.02", "unit_id": "C.11", "subject_id": "geography", "slug": "wind-biomass-energy", "title": { "en": "Wind Energy (Jaisalmer) & Biomass Power", "hi": "पवन ऊर्जा (जैसलमेर) एवं बायोमास संयंत्र" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "C.11.03", "unit_id": "C.11", "subject_id": "geography", "slug": "thermal-nuclear-rawatbhata", "title": { "en": "Suratgarh STPS & Rawatbhata Nuclear Plant (RAPP)", "hi": "सूरतगढ़ सुपर थर्मल एवं रावतभाटा परमाणु संयंत्र" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.12",
+          "subject_id": "geography",
+          "title": { "en": "Industries, RIICO & DMIC", "hi": "उद्योग, रीको एवं डीएमआईसी" },
+          "subtopics": [
+            { "id": "C.12.01", "unit_id": "C.12", "subject_id": "geography", "slug": "manufacturing-textile-cement", "title": { "en": "Textile (Bhilwara), Cement (#1) & Sugar Industries", "hi": "वस्त्र उद्योग (भीलवाड़ा), सीमेंट (#1) एवं चीनी उद्योग" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "C.12.02", "unit_id": "C.12", "subject_id": "geography", "slug": "riico-dmic-industrial-parks", "title": { "en": "RIICO, Japanese Zones & DMIC Corridor (38% in State)", "hi": "रीको, जापानी ज़ोन एवं डीएमआईसी कॉरिडोर" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "C.12.03", "unit_id": "C.12", "subject_id": "geography", "slug": "transport-connectivity", "title": { "en": "Airports, Railways (NW Zone) & Roadways", "hi": "हवाई अड्डे, उत्तर-पश्चिम रेलवे एवं राष्ट्रीय राजमार्ग" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.13",
+          "subject_id": "geography",
+          "title": { "en": "Tourism Circuits", "hi": "पर्यटन परिपथ" },
+          "subtopics": [
+            { "id": "C.13.01", "unit_id": "C.13", "subject_id": "geography", "slug": "official-tourism-circuits", "title": { "en": "10 Tourism Circuits (Desert, Mewar, Hadoti, Shekhawati)", "hi": "10 पर्यटन परिपथ (मरु, मेवाड़, हाड़ौती, शेखावाटी)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.13.02", "unit_id": "C.13", "subject_id": "geography", "slug": "state-tourism-policies", "title": { "en": "Rajasthan Tourism Policies (2020, Eco-Tourism 2021)", "hi": "राजस्थान पर्यटन नीतियाँ (2020, इको-टूरिज्म 2021)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "C.14",
+          "subject_id": "geography",
+          "title": { "en": "Demography (Census 2011)", "hi": "जनसांख्यिकी (जनगणना 2011)" },
+          "subtopics": [
+            { "id": "C.14.01", "unit_id": "C.14", "subject_id": "geography", "slug": "population-growth-density", "title": { "en": "Population Size, Growth (21.3%) & Density Traps", "hi": "जनसंख्या वृद्धि (21.3%) एवं जनघनत्व" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.14.02", "unit_id": "C.14", "subject_id": "geography", "slug": "sex-ratio-metrics", "title": { "en": "Overall Sex Ratio (928) & Child Sex Ratio (888)", "hi": "लिंगानुपात (928) एवं बाल लिंगानुपात (888)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.14.03", "unit_id": "C.14", "subject_id": "geography", "slug": "literacy-rates-district-traps", "title": { "en": "Literacy Rates (Total 66.1%, Male/Female Traps)", "hi": "साक्षरता दर (कुल 66.1%, पुरुष/महिला जिले)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "C.14.04", "unit_id": "C.14", "subject_id": "geography", "slug": "sc-st-demography", "title": { "en": "SC (17.8%) & ST (13.5%) Demographic Distribution", "hi": "अनुसूचित जाति (17.8%) एवं जनजाति (13.5%) वितरण" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity-admin",
+      "code": "D",
+      "title": { "en": "Rajasthan Polity & Administration", "hi": "राजस्थान की राजव्यवस्था एवं प्रशासन" },
+      "tagline": { "en": "Governor, CM, Assembly, High Court, Panchayati Raj, RPSC & Commissions", "hi": "राज्यपाल, मुख्यमंत्री, विधानसभा, उच्च न्यायालय, पंचायती राज एवं आयोग" },
+      "color": "from-blue-600 to-indigo-700",
+      "icon": "Building2",
+      "units": [
+        {
+          "id": "D.01",
+          "subject_id": "polity-admin",
+          "title": { "en": "The Governor (Rajyapal)", "hi": "राज्यपाल" },
+          "subtopics": [
+            { "id": "D.01.01", "unit_id": "D.01", "subject_id": "polity-admin", "slug": "governor-powers-position", "title": { "en": "Constitutional Position & Powers (Articles 153–162)", "hi": "संवैधानिक स्थिति एवं शक्तियाँ (अनुच्छेद 153-162)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"], "has_full_content": true },
+            { "id": "D.01.02", "unit_id": "D.01", "subject_id": "polity-admin", "slug": "governor-chronology-exam-facts", "title": { "en": "Governor Chronology & Exam Facts (1st: Nihal Singh)", "hi": "राज्यपाल कालक्रम एवं विशिष्ट तथ्य (प्रथम: निहाल सिंह)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "D.01.03", "unit_id": "D.01", "subject_id": "polity-admin", "slug": "presidents-rule-rajasthan", "title": { "en": "President's Rule in Rajasthan (4 Times: 1967, 1977, 1980, 1992)", "hi": "राजस्थान में राष्ट्रपति शासन (4 बार: 1967, 1977, 1980, 1992)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "D.02",
+          "subject_id": "polity-admin",
+          "title": { "en": "Chief Minister & Council of Ministers", "hi": "मुख्यमंत्री एवं मंत्रिपरिषद्" },
+          "subtopics": [
+            { "id": "D.02.01", "unit_id": "D.02", "subject_id": "polity-admin", "slug": "cm-chronology-distinctions", "title": { "en": "CM Chronology & Distinctions (Paliwal, Sukhadia)", "hi": "मुख्यमंत्री कालक्रम एवं विशिष्टताएँ (पालीवाल, सुखाड़िया)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "D.02.02", "unit_id": "D.02", "subject_id": "polity-admin", "slug": "council-of-ministers-articles", "title": { "en": "Articles 163, 164, 167 & Cabinet Functioning", "hi": "अनुच्छेद 163, 164, 167 एवं मंत्रिमण्डल कार्यप्रणाली" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "D.03",
+          "subject_id": "polity-admin",
+          "title": { "en": "Rajasthan Legislative Assembly", "hi": "राजस्थान विधान सभा" },
+          "subtopics": [
+            { "id": "D.03.01", "unit_id": "D.03", "subject_id": "polity-admin", "slug": "assembly-composition-evolution", "title": { "en": "Vidhan Sabha Evolution (160 to 200 Seats, Speakers)", "hi": "विधानसभा विकास (160 से 200 सीटें, अध्यक्ष)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "D.03.02", "unit_id": "D.03", "subject_id": "polity-admin", "slug": "assembly-committees-pac", "title": { "en": "Assembly Committees (PAC, Estimates A & B)", "hi": "विधानसभा समितियाँ (लोक लेखा, प्राक्कलन समिति)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "D.04",
+          "subject_id": "polity-admin",
+          "title": { "en": "Rajasthan High Court", "hi": "राजस्थान उच्च न्यायालय" },
+          "subtopics": [
+            { "id": "D.04.01", "unit_id": "D.04", "subject_id": "polity-admin", "slug": "high-court-establishment", "title": { "en": "High Court at Jodhpur (1949), Jaipur Bench (1977)", "hi": "उच्च न्यायालय जोधपुर (1949) एवं जयपुर खण्डपीठ (1977)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "D.05",
+          "subject_id": "polity-admin",
+          "title": { "en": "State & District Administration", "hi": "राज्य एवं जिला प्रशासन" },
+          "subtopics": [
+            { "id": "D.05.01", "unit_id": "D.05", "subject_id": "polity-admin", "slug": "secretariat-chief-secretary", "title": { "en": "State Secretariat & Chief Secretary Role", "hi": "राज्य सचिवालय एवं मुख्य सचिव की भूमिका" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "D.05.02", "unit_id": "D.05", "subject_id": "polity-admin", "slug": "district-collector-subdivision", "title": { "en": "Divisional Commissioner & District Collector Hierarchy", "hi": "संभागीय आयुक्त एवं जिला कलक्टर प्रशासनिक तंत्र" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "D.05.03", "unit_id": "D.05", "subject_id": "polity-admin", "slug": "revenue-administration-patwari", "title": { "en": "Board of Revenue (Ajmer), Jamabandi & Land Records", "hi": "राजस्व मण्डल (अजमेर), जमाबंदी एवं भू-अभिलेख" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "D.06",
+          "subject_id": "polity-admin",
+          "title": { "en": "Local Self Government", "hi": "स्थानीय स्वशासन" },
+          "subtopics": [
+            { "id": "D.06.01", "unit_id": "D.06", "subject_id": "polity-admin", "slug": "panchayati-raj-institutions", "title": { "en": "Panchayati Raj (Nagaur 1959 1st in India, 73rd Amendment)", "hi": "पंचायती राज (नागौर 1959 भारत में प्रथम, 73वाँ संशोधन)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "D.06.02", "unit_id": "D.06", "subject_id": "polity-admin", "slug": "urban-local-bodies", "title": { "en": "Urban Local Bodies (74th Amendment, Corporations)", "hi": "शहरी स्थानीय निकाय (74वाँ संशोधन, नगर निगम)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "D.07",
+          "subject_id": "polity-admin",
+          "title": { "en": "Constitutional & Statutory Bodies", "hi": "संवैधानिक एवं सांविधिक निकाय" },
+          "subtopics": [
+            { "id": "D.07.01", "unit_id": "D.07", "subject_id": "polity-admin", "slug": "rpsc-structure-functions", "title": { "en": "RPSC (Est. 1949, Ajmer, 1+7 Members)", "hi": "राजस्थान लोक सेवा आयोग (स्थापना 1949, अजमेर)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "D.07.02", "unit_id": "D.07", "subject_id": "polity-admin", "slug": "state-election-commission", "title": { "en": "State Election Commission (Article 243K, 1994)", "hi": "राज्य निर्वाचन आयोग (अनुच्छेद 243K, 1994)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "D.07.03", "unit_id": "D.07", "subject_id": "polity-admin", "slug": "state-finance-commission", "title": { "en": "State Finance Commission (6 SFCs Profile)", "hi": "राज्य वित्त आयोग (6 वित्त आयोगों का विवरण)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "D.07.04", "unit_id": "D.07", "subject_id": "polity-admin", "slug": "state-human-rights-commission", "title": { "en": "State Human Rights Commission (RSHRC - 2000)", "hi": "राज्य मानवाधिकार आयोग (2000, 1+2 सदस्य)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "D.07.05", "unit_id": "D.07", "subject_id": "polity-admin", "slug": "lokayukta-rajasthan", "title": { "en": "Lokayukta (Act 1973, 1st: Justice I.D. Dua)", "hi": "लोकायुक्त (अधिनियम 1973, प्रथम: न्यायमूर्ति आई.डी. दुआ)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "D.07.06", "unit_id": "D.07", "subject_id": "polity-admin", "slug": "information-commission-women", "title": { "en": "State Information Commission & Women Commission", "hi": "राज्य सूचना आयोग एवं राज्य महिला आयोग" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "D.08",
+          "subject_id": "polity-admin",
+          "title": { "en": "Public Policy & E-Governance", "hi": "लोक नीति, अधिकार एवं ई-शासन" },
+          "subtopics": [
+            { "id": "D.08.01", "unit_id": "D.08", "subject_id": "polity-admin", "slug": "public-services-guarantee-hearing-act", "title": { "en": "Public Services Guarantee Act 2011 & Right to Hearing", "hi": "लोक सेवा गारंटी अधिनियम 2011 एवं सुनवाई का अधिकार" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "D.08.02", "unit_id": "D.08", "subject_id": "polity-admin", "slug": "e-governance-jan-soochna", "title": { "en": "Jan Soochna Portal, E-Mitra & Rajasthan Sampark", "hi": "जन सूचना पोर्टल, ई-मित्र एवं राजस्थान सम्पर्क" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "code": "E",
+      "title": { "en": "Rajasthan Economy", "hi": "राजस्थान की अर्थव्यवस्था" },
+      "tagline": { "en": "Economic Survey, GSDP, Budget, Industries, Agriculture & Infrastructure", "hi": "आर्थिक समीक्षा, जीएसडीपी, राज्य बजट, उद्योग, कृषि एवं अवसंरचना" },
+      "color": "from-cyan-600 to-blue-800",
+      "icon": "TrendingUp",
+      "units": [
+        {
+          "id": "E.01",
+          "subject_id": "economy",
+          "title": { "en": "Macro-Economic Profile", "hi": "समष्टि आर्थिक संकेतक" },
+          "subtopics": [
+            { "id": "E.01.01", "unit_id": "E.01", "subject_id": "economy", "slug": "gsdp-and-growth-rates", "title": { "en": "GSDP at Current & Constant Prices and Growth Trends", "hi": "सकल राज्य घरेलू उत्पाद (GSDP) एवं वृद्धि दर" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "E.01.02", "unit_id": "E.01", "subject_id": "economy", "slug": "per-capita-income", "title": { "en": "Per Capita Income (PCI) - State vs National", "hi": "प्रति व्यक्ति आय - राज्य बनाम राष्ट्रीय औसत" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "E.01.03", "unit_id": "E.01", "subject_id": "economy", "slug": "sectoral-contribution-gsva", "title": { "en": "Sectoral Shares: Agri (27%), Industry (27%), Services (46%)", "hi": "क्षेत्रवार योगदान: कृषि (27%), उद्योग (27%), सेवाएँ (46%)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "E.02",
+          "subject_id": "economy",
+          "title": { "en": "State Budget & Public Finance", "hi": "राज्य बजट एवं लोक वित्त" },
+          "subtopics": [
+            { "id": "E.02.01", "unit_id": "E.02", "subject_id": "economy", "slug": "state-budget-fiscal-indicators", "title": { "en": "State Budget: Fiscal Deficit & Debt Indicators", "hi": "राज्य बजट: राजकोषीय घाटा एवं ऋण संकेतक" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "E.02.02", "unit_id": "E.02", "subject_id": "economy", "slug": "tax-revenue-and-gst", "title": { "en": "Tax Revenue Composition, Stamp Duty & State GST", "hi": "कर राजस्व संरचना, स्टाम्प शुल्क एवं राज्य जीएसटी" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "E.03",
+          "subject_id": "economy",
+          "title": { "en": "Agricultural Economy", "hi": "कृषि अर्थव्यवस्था" },
+          "subtopics": [
+            { "id": "E.03.01", "unit_id": "E.03", "subject_id": "economy", "slug": "crop-production-productivity", "title": { "en": "Crop Production, Yield Data & Food Security", "hi": "फसल उत्पादन, उत्पादकता आँकड़े एवं खाद्य सुरक्षा" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "E.03.02", "unit_id": "E.03", "subject_id": "economy", "slug": "agro-processing-mandi-e-nam", "title": { "en": "Agro-Processing, Mandis, e-NAM & Cooperative Credit", "hi": "कृषि प्रसंस्करण, मण्डियाँ, ई-नाम एवं सहकारी साख" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "E.04",
+          "subject_id": "economy",
+          "title": { "en": "Industrial Development", "hi": "औद्योगिक विकास" },
+          "subtopics": [
+            { "id": "E.04.01", "unit_id": "E.04", "subject_id": "economy", "slug": "psus-and-private-enterprises", "title": { "en": "Major Public & Private Sector Enterprises", "hi": "प्रमुख सार्वजनिक एवं निजी क्षेत्र के उद्यम" }, "pyq_frequency": "medium", "target_exams": ["All"] },
+            { "id": "E.04.02", "unit_id": "E.04", "subject_id": "economy", "slug": "msme-and-handlooms", "title": { "en": "MSME Sector, Handlooms & Cottage Industries", "hi": "एमएसएमई क्षेत्र, हथकरघा एवं कुटीर उद्योग" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "E.04.03", "unit_id": "E.04", "subject_id": "economy", "slug": "growth-corridors-sez", "title": { "en": "DMIC Corridors, SEZs & Japanese Industrial Zones", "hi": "डीएमआईसी कॉरिडोर, सेज़ एवं जापानी औद्योगिक क्षेत्र" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "E.04.04", "unit_id": "E.04", "subject_id": "economy", "slug": "financial-bodies-riico-rfc", "title": { "en": "RIICO, RFC, RAJSICO Financial Bodies", "hi": "रीको, आरएफसी, राजसीको वित्तीय निकाय" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "E.05",
+          "subject_id": "economy",
+          "title": { "en": "Social Sector & Human Development", "hi": "सामाजिक क्षेत्र एवं मानव विकास" },
+          "subtopics": [
+            { "id": "E.05.01", "unit_id": "E.05", "subject_id": "economy", "slug": "education-health-indicators", "title": { "en": "Education & Health Statistics (IMR, MMR, GER)", "hi": "शिक्षा एवं स्वास्थ्य सांख्यिकी (शिशु मृत्यु दर, जीईआर)" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "E.05.02", "unit_id": "E.05", "subject_id": "economy", "slug": "poverty-unemployment-trends", "title": { "en": "Poverty & Unemployment Indicators in Rajasthan", "hi": "गरीबी एवं बेरोज़गारी संकेतक" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "E.06",
+          "subject_id": "economy",
+          "title": { "en": "Economic Survey Key Highlights", "hi": "राजस्थान आर्थिक समीक्षा मुख्य बिन्दु" },
+          "subtopics": [
+            { "id": "E.06.01", "unit_id": "E.06", "subject_id": "economy", "slug": "latest-economic-survey-data", "title": { "en": "Latest Economic Survey Annual Flashcards", "hi": "नवीनतम आर्थिक समीक्षा वार्षिक स्मरणीय तथ्य" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-awards",
+      "code": "F",
+      "title": { "en": "Sports, Awards & Current Affairs", "hi": "खेल, पुरस्कार एवं समसामयिकी" },
+      "tagline": { "en": "Olympic/Paralympic Icons, Rajasthan Ratna, Superlatives & Current Affairs", "hi": "ओलम्पिक/पैरालम्पिक खिलाड़ी, राजस्थान रत्न, प्रथम/सर्वोच्च एवं समसामयिकी" },
+      "color": "from-purple-600 to-indigo-800",
+      "icon": "Trophy",
+      "units": [
+        {
+          "id": "F.01",
+          "subject_id": "sports-awards",
+          "title": { "en": "Sports Personalities of Rajasthan", "hi": "राजस्थान की खेल विभूतियाँ" },
+          "subtopics": [
+            { "id": "F.01.01", "unit_id": "F.01", "subject_id": "sports-awards", "slug": "paralympic-olympic-icons", "title": { "en": "Devendra Jhajharia, Avani Lekhara & Rajyavardhan Rathore", "hi": "देवेन्द्र झाझड़िया, अवनि लेखरा एवं राज्यवर्धन राठौड़" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "F.01.02", "unit_id": "F.01", "subject_id": "sports-awards", "slug": "other-sports-personalities", "title": { "en": "Limba Ram, Apurvi Chandela & Cricket Icons", "hi": "लिम्बा राम, अपूर्वी चंदेला एवं क्रिकेट विभूतियाँ" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "F.01.03", "unit_id": "F.01", "subject_id": "sports-awards", "slug": "maharana-pratap-vashishta-awards", "title": { "en": "Maharana Pratap Award (₹5L), Guru Vashishta & Rural Olympics", "hi": "महाराणा प्रताप पुरस्कार (5 लाख), गुरु वशिष्ठ एवं ग्रामीण ओलम्पिक" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "F.02",
+          "subject_id": "sports-awards",
+          "title": { "en": "State Awards & Honours", "hi": "राज्य पुरस्कार एवं सम्मान" },
+          "subtopics": [
+            { "id": "F.02.01", "unit_id": "F.02", "subject_id": "sports-awards", "slug": "rajasthan-ratna-award", "title": { "en": "Rajasthan Ratna Award (2012 & 2022 Awardees List)", "hi": "राजस्थान रत्न पुरस्कार (2012 एवं 2022 प्राप्तकर्ता)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "F.02.02", "unit_id": "F.02", "subject_id": "sports-awards", "slug": "literary-academy-awards-meera", "title": { "en": "Meera Puraskar & Suryamal Misran Shikhar Puraskar", "hi": "मीरा पुरस्कार एवं सूर्यमल्ल मीसण शिखर पुरस्कार" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "F.03",
+          "subject_id": "sports-awards",
+          "title": { "en": "Military Heroes & Gallantry", "hi": "सैन्य वीर एवं वीरता पुरस्कार" },
+          "subtopics": [
+            { "id": "F.03.01", "unit_id": "F.03", "subject_id": "sports-awards", "slug": "param-vir-chakra-recipients", "title": { "en": "Param Vir Chakra Recipients (Major Piru Singh, Major Shaitan Singh)", "hi": "परमवीर चक्र विजेता (मेजर पीरू सिंह, मेजर शैतान सिंह)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "F.04",
+          "subject_id": "sports-awards",
+          "title": { "en": "Firsts, Largest & Smallest Superlatives", "hi": "प्रथम / सर्वाधिक / न्यूनतम — त्वरित पुनरावृत्ति" },
+          "subtopics": [
+            { "id": "F.04.01", "unit_id": "F.04", "subject_id": "sports-awards", "slug": "admin-political-firsts-table", "title": { "en": "1st Governor, 1st CM, 1st Speaker, 1st Woman Leaders", "hi": "प्रथम राज्यपाल, प्रथम मुख्यमंत्री, प्रथम अध्यक्ष, प्रथम महिला नेतृत्व" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "F.04.02", "unit_id": "F.04", "subject_id": "sports-awards", "slug": "geographical-superlatives-table", "title": { "en": "Highest Peak, Longest River, Largest District Quick Table", "hi": "सर्वोच्च शिखर, सबसे लम्बी नदी, सबसे बड़ा जिला तालिका" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "F.05",
+          "subject_id": "sports-awards",
+          "title": { "en": "Rajasthan Current Affairs", "hi": "राजस्थान समसामयिकी" },
+          "subtopics": [
+            { "id": "F.05.01", "unit_id": "F.05", "subject_id": "sports-awards", "slug": "major-current-events", "title": { "en": "Current Events & State In-News Updates", "hi": "प्रमुख समसामयिक घटनाएँ एवं चर्चित स्थान" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "govt-schemes",
+      "code": "G",
+      "title": { "en": "Government Schemes & Welfare", "hi": "सरकारी योजनाएँ एवं कल्याण" },
+      "tagline": { "en": "Flagship Health, Social Security, Education, Food & Digital Schemes", "hi": "फ्लैगशिप स्वास्थ्य, सामाजिक सुरक्षा, शिक्षा, खाद्य एवं डिजिटल योजनाएँ" },
+      "color": "from-teal-600 to-emerald-800",
+      "icon": "ShieldCheck",
+      "units": [
+        {
+          "id": "G.01",
+          "subject_id": "govt-schemes",
+          "title": { "en": "Flagship Health Schemes", "hi": "प्रमुख स्वास्थ्य योजनाएँ" },
+          "subtopics": [
+            { "id": "G.01.01", "unit_id": "G.01", "subject_id": "govt-schemes", "slug": "ayushman-arogya-maa-yojana", "title": { "en": "Mukhyamantri Ayushman Arogya (MAA) Yojana", "hi": "मुख्यमंत्री आयुष्मान आरोग्य (MAA) योजना" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "G.01.02", "unit_id": "G.01", "subject_id": "govt-schemes", "slug": "chiranjeevi-health-insurance", "title": { "en": "Chiranjeevi Health Insurance Evolution", "hi": "चिरंजीवी स्वास्थ्य बीमा योजना" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "G.01.03", "unit_id": "G.01", "subject_id": "govt-schemes", "slug": "nishulk-dawa-jaanch-yojana", "title": { "en": "Nishulk Dava Yojana (2011) & Nishulk Jaanch (2013)", "hi": "निःशुल्क दवा योजना (2011) एवं निःशुल्क जाँच योजना (2013)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "G.02",
+          "subject_id": "govt-schemes",
+          "title": { "en": "Social Security & Women Empowerment", "hi": "सामाजिक सुरक्षा एवं महिला सशक्तिकरण" },
+          "subtopics": [
+            { "id": "G.02.01", "unit_id": "G.02", "subject_id": "govt-schemes", "slug": "palanhar-yojana", "title": { "en": "Palanhar Yojana (Destitute Children Welfare)", "hi": "पालनहार योजना (अनाथ एवं निराश्रित बालक कल्याण)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "G.02.02", "unit_id": "G.02", "subject_id": "govt-schemes", "slug": "kanya-kanyadan-pension-schemes", "title": { "en": "Kanya Kanyadan / Hathleva & Ekal Nari Pension", "hi": "कन्या कन्यादान / हथलेवा एवं एकल नारी पेंशन योजना" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "G.02.03", "unit_id": "G.02", "subject_id": "govt-schemes", "slug": "indira-mahila-shakti-udyam", "title": { "en": "Indira Mahila Shakti Udyam Protsahan Scheme", "hi": "इन्दिरा महिला शक्ति उद्यम प्रोत्साहन योजना" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "G.03",
+          "subject_id": "govt-schemes",
+          "title": { "en": "Education & Skill Development", "hi": "शिक्षा एवं कौशल विकास" },
+          "subtopics": [
+            { "id": "G.03.01", "unit_id": "G.03", "subject_id": "govt-schemes", "slug": "anuprati-coaching-yojana", "title": { "en": "Mukhyamantri Anuprati Coaching Yojana", "hi": "मुख्यमंत्री अनुप्रति कोचिंग योजना" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "G.03.02", "unit_id": "G.03", "subject_id": "govt-schemes", "slug": "kalibai-devnarayan-scooty-yojana", "title": { "en": "Kalibai Bhil & Devnarayan Scooty Schemes", "hi": "कालीबाई भील एवं देवनारायण मेधावी छात्रा स्कूटी योजना" }, "pyq_frequency": "high", "target_exams": ["All"] },
+            { "id": "G.03.03", "unit_id": "G.03", "subject_id": "govt-schemes", "slug": "bal-gopal-dress-yojana", "title": { "en": "Bal Gopal Yojana (Milk in Schools) & Free Uniforms", "hi": "मुख्यमंत्री बाल गोपाल योजना एवं निःशुल्क यूनिफॉर्म" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "G.04",
+          "subject_id": "govt-schemes",
+          "title": { "en": "Food Security & Livelihood", "hi": "खाद्य सुरक्षा एवं आजीविका" },
+          "subtopics": [
+            { "id": "G.04.01", "unit_id": "G.04", "subject_id": "govt-schemes", "slug": "indira-annapurna-rasoi-yojana", "title": { "en": "Indira / Annapurna Rasoi Yojana (₹8 Per Meal)", "hi": "इन्दिरा / अन्नपूर्णा रसोई योजना (₹8 प्रति पौष्टिक भोजन)" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "G.04.02", "unit_id": "G.04", "subject_id": "govt-schemes", "slug": "urban-employment-guarantee", "title": { "en": "Indira Gandhi Urban Employment Guarantee (125 Days)", "hi": "इन्दिरा गाँधी शहरी रोज़गार गारंटी योजना (125 दिन)" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "G.05",
+          "subject_id": "govt-schemes",
+          "title": { "en": "Digital Governance & Transparency", "hi": "डिजिटल शासन एवं पारदर्शिता" },
+          "subtopics": [
+            { "id": "G.05.01", "unit_id": "G.05", "subject_id": "govt-schemes", "slug": "jan-aadhaar-scheme", "title": { "en": "Jan-Aadhaar ('One Number, One Card, One Identity')", "hi": "जन-आधार योजना ('एक नम्बर, एक कार्ड, एक पहचान')" }, "pyq_frequency": "ultra-high", "target_exams": ["All"] },
+            { "id": "G.05.02", "unit_id": "G.05", "subject_id": "govt-schemes", "slug": "jan-soochna-portal-sso", "title": { "en": "Jan Soochna Portal (RTI 4(2)) & SSO Ecosystem", "hi": "जन सूचना पोर्टल (RTI धारा 4(2)) एवं एसएसओ तंत्र" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        },
+        {
+          "id": "G.06",
+          "subject_id": "govt-schemes",
+          "title": { "en": "SC/ST/OBC & Divyang Welfare", "hi": "अनुसूचित जाति/जनजाति एवं दिव्यांग कल्याण" },
+          "subtopics": [
+            { "id": "G.06.01", "unit_id": "G.06", "subject_id": "govt-schemes", "slug": "special-welfare-pensions", "title": { "en": "Special Ability Pensions & Post-Matric Scholarships", "hi": "विशेष योग्यजन सम्मान पेंशन एवं उत्तर-मैट्रिक छात्रवृत्तियाँ" }, "pyq_frequency": "high", "target_exams": ["All"] }
+          ]
+        }
+      ]
+    }
+  ]
+}
