@@ -1,0 +1,280 @@
+{
+  "id": "A.09.02",
+  "subject_id": "history",
+  "unit_id": "A.09",
+  "slug": "integration-matrix-table",
+  "title": {
+    "hi": "एकीकरण सारणी: राजधानियाँ, राजप्रमुख, मुख्यमंत्री, समितियाँ एवं विभाग आवंटन",
+    "en": "Integration Matrix: Capitals, Rajpramukhs, Prime Ministers, Committees & Department Allocations"
+  },
+  "short_summary": {
+    "hi": "राजस्थान एकीकरण के सातों चरणों का प्रामाणिक तुलनात्मक चार्ट; चरणवार तिथियाँ, सम्मिलित रियासतें, राजधानियाँ, राजप्रमुख, उप-राजप्रमुख, प्रधानमंत्री/मुख्यमंत्री, उद्घाटनकर्ता, पी. सत्यनारायण राव समिति (राजधानी व न्याय/शिक्षा/कृषि/खनिज विभाग का विभिन्न शहरों में वितरण), शंकरराव देव समिति तथा फजल अली आयोग के सभी अनिवार्य तथ्य।",
+    "en": "Comprehensive master matrix of all 7 integration stages; comparative table of dates, states, capitals, Rajpramukhs, Premiers, inaugurators, P. Satyanarayan Rao Committee (distribution of High Court, Education, Mines, Forest & Revenue departments across cities), Shankarrao Deo Committee, and Fazal Ali Commission."
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
+    "last_updated": "2026-09-14",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. राजस्थान एकीकरण का मास्टर सारणी चार्ट (Complete Integration Matrix)",
+        "en": "1. Complete Integration Master Matrix"
+      },
+      "content_markdown": {
+        "hi": "### सातों चरणों का प्रामाणिक तुलनात्मक विवरण:\n\n| चरण सं. | चरण का नाम | गठन तिथि | शामिल रियासतें / क्षेत्र | राजधानी | राजप्रमुख / महाराजप्रमुख | उप-राजप्रमुख | प्रधानमंत्री / मुख्यमंत्री | उद्घाटनकर्ता |\n|---|---|---|---|---|---|---|---|---|\n| **1.** | **मत्स्य संघ** | 18 मार्च 1948 | अलवर, भरतपुर, धौलपुर, करौली + नीमराना | **अलवर** | उदयभान सिंह (धौलपुर) | गणेशपाल (करौली) | शोभाराम कुमावत (अलवर) | एन.वी. गाडगिल |\n| **2.** | **पूर्व राजस्थान संघ** | 25 मार्च 1948 | 9 रियासतें (कोटा, बूंदी, झालावाड़, बांसवाड़ा, डूंगरपुर, प्रतापगढ़, शाहपुरा, टोंक, किशनगढ़) + कुशलगढ़ | **कोटा** | भीमसिंह द्वितीय (कोटा) | बहादुर सिंह (बूंदी) | गोकुल लाल असावा (शाहपुरा) | एन.वी. गाडगिल |\n| **3.** | **संयुक्त राजस्थान** | 18 अप्रैल 1948 | पूर्व राजस्थान + **उदयपुर (मेवाड़)** | **उदयपुर** | महाराणा भूपाल सिंह (मेवाड़) | भीमसिंह द्वितीय (कोटा) | माणिक्यलाल वर्मा (उदयपुर) | पं. जवाहरलाल नेहरू |\n| **4.** | **वृहत् राजस्थान** | 30 मार्च 1949 | संयुक्त राजस्थान + **जयपुर, जोधपुर, बीकानेर, जैसलमेर** + लावा | **जयपुर** | **महाराजप्रमुख:** भूपाल सिंह<br>**राजप्रमुख:** मानसिंह द्वितीय (जयपुर) | भीमसिंह द्वितीय (कोटा) | पं. हीरालाल शास्त्री (जयपुर) | सरदार वल्लभभाई पटेल |\n| **5.** | **संयुक्त वृहत् राजस्थान** | 15 मई 1949 | वृहत् राजस्थान + **मत्स्य संघ** (शंकरराव देव समिति) | **जयपुर** | मानसिंह द्वितीय (जयपुर) | भीमसिंह द्वितीय (कोटा) | पं. हीरालाल शास्त्री | सरदार पटेल |\n| **6.** | **राजस्थान संघ** | 26 जनवरी 1950 | संयुक्त वृहत् राजस्थान + **सिरोही** (आबू-देलवाड़ा छोड़कर) | **जयपुर** | मानसिंह द्वितीय (जयपुर) | भीमसिंह द्वितीय (कोटा) | पं. हीरालाल शास्त्री | — (संविधान लागू) |\n| **7.** | **वर्तमान राजस्थान** | 1 नवंबर 1956 | राजस्थान संघ + **अजमेर-मेरवाड़ा** + **आबू-देलवाड़ा** + **सुनेल टप्पा** (सिरोंज MP को दिया) | **जयपुर** | *(पद समाप्त)*<br>**राज्यपाल:** गुरुमुख निहाल सिंह | *(पद समाप्त)* | **मुख्यमंत्री:** मोहनलाल सुखाड़िया | — (फजल अली आयोग) |",
+        "en": "### Master Matrix of Integration:\n* **Stage 1 (Matsya Union - 18 Mar 1948):** Capital: Alwar | Rajpramukh: Udaybhan Singh | PM: Shobharam Kumawat | Inaugurator: N.V. Gadgil.\n* **Stage 2 (Former Rajasthan - 25 Mar 1948):** Capital: Kota | Rajpramukh: Bhim Singh II | PM: Gokul Lal Asawa | Inaugurator: N.V. Gadgil.\n* **Stage 3 (United State of Rajasthan - 18 Apr 1948):** Capital: Udaipur | Rajpramukh: Maharana Bhupal Singh | PM: Manikya Lal Verma | Inaugurator: Pt. Nehru.\n* **Stage 4 (Greater Rajasthan - 30 Mar 1949):** Capital: Jaipur | Maharajpramukh: Bhupal Singh | Rajpramukh: Man Singh II | PM: Hiralal Shastri | Inaugurator: Sardar Patel.\n* **Stage 5 (United Greater Rajasthan - 15 May 1949):** Matsya Union merged via Shankarrao Deo Committee.\n* **Stage 6 (United Rajasthan - 26 Jan 1950):** Sirohi merged (excluding Abu/Delwara).\n* **Stage 7 (Modern Rajasthan - 1 Nov 1956):** Ajmer-Merwara, Abu-Delwara & Sunel Tappa merged via Fazal Ali Commission; 1st Governor: Gurumukh Nihal Singh; CM: Mohan Lal Sukhadia."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. पी. सत्यनारायण राव समिति एवं विभिन्न नगरों को विभागों का आवंटन",
+        "en": "2. P. Satyanarayan Rao Committee & Inter-City Departmental Allocations"
+      },
+      "content_markdown": {
+        "hi": "### पी. सत्यनारायण राव समिति (1949 ई.)\n* **अध्यक्ष:** **पी. सत्यनारायण राव**; **सदस्य:** **श्री वी. विश्वनाथन** एवं **श्री बी.के. गुप्ता**।\n* **उद्देश्य:** वृहत् राजस्थान की स्थाई राजधानी का चयन करना तथा विभिन्न प्रमुख रियासती नगरों के मध्य प्रशासनिक विभागों का संतुलित बंटवारा करना ताकि क्षेत्रीय असंतोष न रहे।\n\n### समिति द्वारा की गई प्रमुख सिफारिशें एवं विभाग आवंटन (Department Allocations):\n1. **राजधानी (Capital):** **जयपुर** (पेयजल, आवागमन एवं प्रशासनिक सुविधाओं के आधार पर)।\n2. **न्याय विभाग / उच्च न्यायालय (High Court):** **जोधपुर** (मुख्य पीठ जोधपुर रखी गई, 1958 में जयपुर में खंडपीठ बनी जिसे 1977 में पुनः स्थापित किया गया)।\n3. **शिक्षा विभाग (Education Department):** **बीकानेर** (प्राथमिक एवं माध्यमिक शिक्षा निदेशालय)।\n4. **खनिज एवं कस्टम-एक्साइज विभाग (Mines & Customs):** **उदयपुर**।\n5. **कृषि विभाग (Agriculture Department):** **भरतपुर**।\n6. **वन एवं सहकारिता विभाग (Forest & Cooperative):** **कोटा**।\n7. **राजस्व मंडल (Board of Revenue):** **अजमेर** (1956 के विलय उपरांत)।",
+        "en": "### P. Satyanarayan Rao Committee (1949 AD)\n* **Members:** P. Satyanarayan Rao (Chairman), V. Viswanathan, and B.K. Gupta.\n* **Mandate:** Recommending the permanent state capital and equitably allocating state administrative organs across major historic cities.\n\n### City-wise Departmental Allocations:\n1. **State Capital:** **Jaipur**.\n2. **High Court (Judiciary):** **Jodhpur**.\n3. **Education Department:** **Bikaner**.\n4. **Mines & Geology Department:** **Udaipur**.\n5. **Agriculture Department:** **Bharatpur**.\n6. **Forest & Cooperative Department:** **Kota**.\n7. **Board of Revenue:** **Ajmer** (post-1956 unification)."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. प्रिवीपर्स एवं विशेष रियासती भत्ते (Privy Purses of Princely Rulers)",
+        "en": "3. Privy Purses & Special Princely Allowances"
+      },
+      "content_markdown": {
+        "hi": "### प्रमुख शासकों के प्रिवीपर्स (Privy Purse Amounts):\n* **उदयपुर महाराणा भूपाल सिंह:** कुल 20 लाख रुपये (10 लाख प्रिवीपर्स + 5 लाख महाराजप्रमुख भत्ता + 5 लाख धार्मिक कार्यों हेतु)।\n* **जयपुर महाराजा सवाई मानसिंह द्वितीय:** 18 लाख रुपये (10 लाख प्रिवीपर्स + 5.5 लाख राजप्रमुख भत्ता + 2.5 लाख विशेष)।\n* **जोधपुर महाराजा हनवंत सिंह:** 17.5 लाख रुपये।\n* **बीकानेर महाराजा सार्दुल सिंह:** 17 लाख रुपये।\n* **समाप्ति:** 1971 में 26वें संविधान संशोधन द्वारा प्रधानमंत्री श्रीमती इंदिरा गांधी ने प्रिवीपर्स प्रणाली को पूर्णतः समाप्त कर दिया।",
+        "en": "### Privy Purses of Prominent Rulers:\n* **Udaipur (Maharana Bhupal Singh):** Rs 20 Lakhs total.\n* **Jaipur (Sawai Man Singh II):** Rs 18 Lakhs total.\n* **Jodhpur (Maharaja Hanwant Singh):** Rs 17.5 Lakhs.\n* **Bikaner (Maharaja Sadul Singh):** Rs 17 Lakhs.\n* **Abolition:** Formally abolished in 1971 via the 26th Constitutional Amendment by PM Indira Gandhi."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "पी. सत्यनारायण राव समिति के सदस्य पी. सत्यनारायण राव, वी. विश्वनाथन और बी.के. गुप्ता थे।",
+      "en": "Members of P. Satyanarayan Rao Committee were P. Satyanarayan Rao, V. Viswanathan, and B.K. Gupta."
+    },
+    {
+      "hi": "पी. सत्यनारायण राव समिति की सिफारिश पर जयपुर को राजधानी तथा जोधपुर को राजस्थान उच्च न्यायालय (High Court) आवंटित हुआ।",
+      "en": "On P. Satyanarayan Rao Committee's advice, Jaipur was designated Capital and Jodhpur received the High Court."
+    },
+    {
+      "hi": "बीकानेर को शिक्षा विभाग, उदयपुर को खनिज विभाग, भरतपुर को कृषि विभाग एवं कोटा को वन विभाग सौंपा गया।",
+      "en": "Bikaner received Education, Udaipur got Mines, Bharatpur got Agriculture, and Kota got Forest department."
+    },
+    {
+      "hi": "प्रथम दो चरणों (मत्स्य संघ व पूर्व राजस्थान) के उद्घाटनकर्ता एन.वी. गाडगिल, तीसरे के पं. नेहरू व चौथे के सरदार पटेल थे।",
+      "en": "Inaugurators: Stages 1 & 2 by N.V. Gadgil, Stage 3 by Pt. Nehru, and Stage 4 by Sardar Patel."
+    },
+    {
+      "hi": "डॉ. शंकरराव देव समिति में 3 सदस्य थे — डॉ. शंकरराव देव (अध्यक्ष), आर.के. सिधवा एवं प्रभुदयाल।",
+      "en": "Shankarrao Deo Committee comprised 3 members: Shankarrao Deo, R.K. Sidhwa, and Prabhudayal."
+    },
+    {
+      "hi": "26वें संविधान संशोधन (1971) द्वारा देशी राजाओं के प्रिवीपर्स (राजभत्ते) समाप्त कर दिए गए।",
+      "en": "The 26th Amendment (1971) permanently abolished princely Privy Purses across India."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.09.02-01",
+      "question": {
+        "hi": "वृहत् राजस्थान (1949) की राजधानी के चयन एवं प्रशासनिक विभागों के वितरण हेतु गठित 'पी. सत्यनारायण राव समिति' के अन्य दो सदस्य कौन थे?",
+        "en": "Who were the other two members of the 'P. Satyanarayan Rao Committee' formed in 1949 for capital selection and department allocation?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "वी. विश्वनाथन एवं बी.के. गुप्ता", "en": "V. Viswanathan & B.K. Gupta" } },
+        { "id": "B", "text": { "hi": "आर.के. सिधवा एवं प्रभुदयाल", "en": "R.K. Sidhwa & Prabhudayal" } },
+        { "id": "C", "text": { "hi": "हृदयनाथ कुंजरू एवं के.एम. पणिक्कर", "en": "H.N. Kunzru & K.M. Panikkar" } },
+        { "id": "D", "text": { "hi": "के.एम. मुंशी एवं एन.वी. गाडगिल", "en": "K.M. Munshi & N.V. Gadgil" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "पी. सत्यनारायण राव समिति में अध्यक्ष पी. सत्यनारायण राव थे तथा सदस्य वी. विश्वनाथन और बी.के. गुप्ता थे।",
+        "en": "The P. Satyanarayan Rao Committee comprised P. Satyanarayan Rao, V. Viswanathan, and B.K. Gupta."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC RAS Prelims 2018 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.09.02-02",
+      "question": {
+        "hi": "पी. सत्यनारायण राव समिति की सिफारिश पर राजस्थान का 'उच्च न्यायालय' (High Court) किस शहर में स्थापित करने का निर्णय लिया गया था?",
+        "en": "On the recommendation of the P. Satyanarayan Rao Committee, in which city was the Rajasthan High Court established?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "जोधपुर (Jodhpur)", "en": "Jodhpur" } },
+        { "id": "B", "text": { "hi": "जयपुर (Jaipur)", "en": "Jaipur" } },
+        { "id": "C", "text": { "hi": "उदयपुर (Udaipur)", "en": "Udaipur" } },
+        { "id": "D", "text": { "hi": "बीकानेर (Bikaner)", "en": "Bikaner" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "पी. सत्यनारायण राव समिति की सिफारिश पर राजधानी जयपुर बनी और न्याय विभाग (हाईकोर्ट की मुख्य पीठ) जोधपुर को आवंटित किया गया।",
+        "en": "On P. Satyanarayan Rao Committee's advice, High Court was placed at Jodhpur while Jaipur became the capital."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 1st Grade 2020 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.09.02-03",
+      "question": {
+        "hi": "एकीकरण के समय प्रशासनिक विभागों के बंटवारे में 'शिक्षा विभाग' (Education Department) किस शहर को आवंटित किया गया था?",
+        "en": "During the integration departmental distribution, which city was allocated the 'Education Department'?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "बीकानेर", "en": "Bikaner" } },
+        { "id": "B", "text": { "hi": "अजमेर", "en": "Ajmer" } },
+        { "id": "C", "text": { "hi": "जयपुर", "en": "Jaipur" } },
+        { "id": "D", "text": { "hi": "उदयपुर", "en": "Udaipur" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "सत्यनारायण राव समिति की सिफारिश पर बीकानेर को प्राथमिक व माध्यमिक शिक्षा विभाग का मुख्यालय सौंपा गया था।",
+        "en": "Bikaner was allocated the Directorate of Education on the committee's recommendation."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 2nd Grade 2022 / RSSB Lab Assistant 2022"
+    },
+    {
+      "id": "MCQ-A.09.02-04",
+      "question": {
+        "hi": "एकीकरण के समय 'कृषि विभाग' (Agriculture Department) राजस्थान के किस शहर को आवंटित किया गया था?",
+        "en": "Which city of Rajasthan was allocated the 'Agriculture Department' during the departmental distribution in 1949?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "भरतपुर", "en": "Bharatpur" } },
+        { "id": "B", "text": { "hi": "कोटा", "en": "Kota" } },
+        { "id": "C", "text": { "hi": "उदयपुर", "en": "Udaipur" } },
+        { "id": "D", "text": { "hi": "जोधपुर", "en": "Jodhpur" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "सत्यनारायण राव समिति की सिफारिश पर कृषि विभाग भरतपुर को, वन विभाग कोटा को तथा खनिज विभाग उदयपुर को दिया गया था।",
+        "en": "Agriculture was granted to Bharatpur, Forest to Kota, and Mines/Minerals to Udaipur."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.09.02-05",
+      "question": {
+        "hi": "मत्स्य संघ के वृहत् राजस्थान में विलय की जन-इच्छा जानने हेतु गठित 'डॉ. शंकरराव देव समिति' में कुल कितने सदस्य थे?",
+        "en": "How many total members were there in the 'Dr. Shankarrao Deo Committee' constituted to ascertain public will for Matsya Union merger?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "3 सदस्य (डॉ. शंकरराव देव, आर.के. सिधवा एवं प्रभुदयाल)", "en": "3 members (Dr. Shankarrao Deo, R.K. Sidhwa & Prabhudayal)" } },
+        { "id": "B", "text": { "hi": "2 सदस्य", "en": "2 members" } },
+        { "id": "C", "text": { "hi": "4 सदस्य", "en": "4 members" } },
+        { "id": "D", "text": { "hi": "5 सदस्य", "en": "5 members" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "डॉ. शंकरराव देव समिति में अध्यक्ष सहित कुल 3 सदस्य थे — डॉ. शंकरराव देव, आर.के. सिधवा और प्रभुदयाल।",
+        "en": "The Shankarrao Deo Committee was a 3-member body consisting of Shankarrao Deo, R.K. Sidhwa, and Prabhudayal."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC RAS 2021 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.09.02-06",
+      "question": {
+        "hi": "राजस्थान एकीकरण के प्रथम दो चरणों (मत्स्य संघ एवं पूर्व राजस्थान) के उद्घाटनकर्ता कौन केंद्रीय मंत्री थे?",
+        "en": "Which Union Minister was the inaugurator of the first two stages (Matsya Union & Former Rajasthan) of integration?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "एन.वी. गाडगिल (नरहरि विष्णु गाडगिल)", "en": "N.V. Gadgil (Narhar Vishnu Gadgil)" } },
+        { "id": "B", "text": { "hi": "सरदार वल्लभभाई पटेल", "en": "Sardar Vallabhbhai Patel" } },
+        { "id": "C", "text": { "hi": "पंडित जवाहरलाल नेहरू", "en": "Pandit Jawaharlal Nehru" } },
+        { "id": "D", "text": { "hi": "डॉ. जॉन मथाई", "en": "Dr. John Mathai" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "केंद्रीय निर्माण व ऊर्जा मंत्री एन.वी. गाडगिल (N.V. Gadgil) ने प्रथम चरण (18 मार्च 1948) एवं द्वितीय चरण (25 मार्च 1948) दोनों का उद्घाटन किया था।",
+        "en": "Union Minister N.V. Gadgil inaugurated both Stage 1 (Matsya Union) and Stage 2 (Former Rajasthan Union)."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 2nd Grade 2018 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.09.02-07",
+      "question": {
+        "hi": "देशी रियासतों के शासकों को दिए जाने वाले 'प्रिवीपर्स' (Privy Purses) को किस संविधान संशोधन अधिनियम द्वारा समाप्त किया गया था?",
+        "en": "By which Constitutional Amendment Act were the 'Privy Purses' paid to former princely rulers permanently abolished?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "26वाँ संविधान संशोधन (1971)", "en": "26th Constitutional Amendment (1971)" } },
+        { "id": "B", "text": { "hi": "7वाँ संविधान संशोधन (1956)", "en": "7th Constitutional Amendment (1956)" } },
+        { "id": "C", "text": { "hi": "42वाँ संविधान संशोधन (1976)", "en": "42nd Constitutional Amendment (1976)" } },
+        { "id": "D", "text": { "hi": "44वाँ संविधान संशोधन (1978)", "en": "44th Constitutional Amendment (1978)" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "1971 में 26वें संविधान संशोधन द्वारा तत्कालीन प्रधानमंत्री इंदिरा गांधी की सरकार ने राजाओं के विशेषाधिकार व प्रिवीपर्स समाप्त कर दिए।",
+        "en": "The 26th Constitutional Amendment Act in 1971 abolished privy purses and royal privileges in India."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC College Assistant Professor 2020 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.09.02-08",
+      "question": {
+        "hi": "25 मार्च 1948 को गठित 'पूर्व राजस्थान संघ' (द्वितीय चरण) के प्रधानमंत्री पद पर किसे नियुक्त किया गया था?",
+        "en": "Who was appointed as the Prime Minister of 'Former Rajasthan Union' (2nd stage) formed on 25 March 1948?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "गोकुल लाल असावा (शाहपुरा)", "en": "Gokul Lal Asawa (Shahpura)" } },
+        { "id": "B", "text": { "hi": "शोभाराम कुमावत (अलवर)", "en": "Shobharam Kumawat (Alwar)" } },
+        { "id": "C", "text": { "hi": "माणिक्यलाल वर्मा (उदयपुर)", "en": "Manikya Lal Verma (Udaipur)" } },
+        { "id": "D", "text": { "hi": "हीरालाल शास्त्री (जयपुर)", "en": "Hiralal Shastri (Jaipur)" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "द्वितीय चरण (पूर्व राजस्थान संघ) के प्रधानमंत्री शाहपुरा प्रजामण्डल के प्रमुख नेता गोकुल लाल असावा बनाए गए थे।",
+        "en": "Gokul Lal Asawa of Shahpura was appointed Prime Minister of the Former Rajasthan Union."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 1st Grade GK 2022 / RSSB Forester 2022"
+    },
+    {
+      "id": "MCQ-A.09.02-09",
+      "question": {
+        "hi": "राजस्थान के एकीकरण के समय 'खनिज एवं कस्टम-एक्साइज विभाग' किस रियासती नगर को सौंपा गया था?",
+        "en": "During the integration, which princely city was allocated the 'Mines & Customs Department'?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "उदयपुर", "en": "Udaipur" } },
+        { "id": "B", "text": { "hi": "जोधपुर", "en": "Jodhpur" } },
+        { "id": "C", "text": { "hi": "कोटा", "en": "Kota" } },
+        { "id": "D", "text": { "hi": "बीकानेर", "en": "Bikaner" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "पी. सत्यनारायण राव समिति की सिफारिश पर खनिज एवं भू-विज्ञान विभाग (Directorate of Mines & Geology) उदयपुर को सौंपा गया था।",
+        "en": "Udaipur was allocated the Directorate of Mines and Customs Department."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RSSB Junior Accountant 2024 / Police Constable 2020"
+    },
+    {
+      "id": "MCQ-A.09.02-10",
+      "question": {
+        "hi": "1953 में गठित राज्य पुनर्गठन आयोग (फजल अली आयोग) के अन्य दो सदस्य कौन थे?",
+        "en": "Who were the other two members of the State Reorganisation Commission (Fazal Ali Commission) formed in 1953?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "हृदयनाथ कुंजरू एवं सरदार के.एम. पणिक्कर", "en": "H.N. Kunzru & Sardar K.M. Panikkar" } },
+        { "id": "B", "text": { "hi": "वी. विश्वनाथन एवं बी.के. गुप्ता", "en": "V. Viswanathan & B.K. Gupta" } },
+        { "id": "C", "text": { "hi": "आर.के. सिधवा एवं प्रभुदयाल", "en": "R.K. Sidhwa & Prabhudayal" } },
+        { "id": "D", "text": { "hi": "के.एम. मुंशी एवं एन.वी. गाडगिल", "en": "K.M. Munshi & N.V. Gadgil" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "राज्य पुनर्गठन आयोग (1953) के अध्यक्ष न्यायमूर्ति फजल अली तथा दो अन्य सदस्य पंडित हृदयनाथ कुंजरू एवं सरदार के.एम. पणिक्कर थे।",
+        "en": "The Fazal Ali Commission had Justice Fazal Ali as Chairman, along with H.N. Kunzru and K.M. Panikkar as members."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC RAS 2016 / RSSB CET 2023"
+    }
+  ]
+}
