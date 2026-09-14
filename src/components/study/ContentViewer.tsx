@@ -169,7 +169,7 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
           <div className="space-y-4 sm:space-y-6">
             {content.notes_sections.map((section, idx) => (
               <section
-                key={idx}
+                key={`${content.id}-section-${idx}`}
                 className="p-4 sm:p-7 rounded-3xl bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 shadow-2xs space-y-3 sm:space-y-4"
               >
                 <h3 className="text-base sm:text-xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-100 dark:border-stone-800 pb-2.5 flex items-center gap-2 font-hi">

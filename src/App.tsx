@@ -16,8 +16,8 @@ import { Menu, BarChart3 } from 'lucide-react';
 const taxonomy = taxonomyDataRaw as unknown as MasterTaxonomy;
 
 const MainContent: React.FC = () => {
-  // Default selected subtopic: B.01.01 (Panchpir)
-  const defaultSubtopic = taxonomy.subjects[1]?.units[0]?.subtopics[0] || taxonomy.subjects[0].units[0].subtopics[0];
+  // Default selected subtopic: A.01.01 (Inscriptions & Prashastis)
+  const defaultSubtopic = taxonomy.subjects[0]?.units[0]?.subtopics[0];
   const [selectedSubtopic, setSelectedSubtopic] = useState<SubTopicSummary>(defaultSubtopic);
   const [activeStudyTab, setActiveStudyTab] = useState<StudyTabType>('notes');
   const [isSearchOpen, setIsSearchOpen] = useState(false);
@@ -114,6 +114,7 @@ const MainContent: React.FC = () => {
 
           {/* Active Subtopic Content Viewer */}
           <ContentViewer 
+            key={activeContent.id}
             content={activeContent} 
             activeTab={activeStudyTab}
             onTabChange={setActiveStudyTab}

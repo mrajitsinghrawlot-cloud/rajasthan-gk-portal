@@ -9,13 +9,18 @@ const contentRegistry: Record<string, SubTopicDetail> = {};
 for (const path in contentModules) {
   const content = contentModules[path];
   if (content && content.id) {
-    contentRegistry[content.id] = content;
+    contentRegistry[content.id.trim()] = content;
   }
 }
 
+export function hasCustomContent(id: string): boolean {
+  return Boolean(contentRegistry[id?.trim()]);
+}
+
 export function getSubTopicDetail(subtopic: SubTopicSummary): SubTopicDetail {
-  if (contentRegistry[subtopic.id]) {
-    return contentRegistry[subtopic.id];
+  const normalizedId = subtopic.id.trim();
+  if (contentRegistry[normalizedId]) {
+    return contentRegistry[normalizedId];
   }
 
   // Generate dynamic structured placeholder for topics in queue
