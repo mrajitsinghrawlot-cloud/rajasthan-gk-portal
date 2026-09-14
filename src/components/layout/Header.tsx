@@ -12,6 +12,7 @@ import {
 interface HeaderProps {
   onOpenSearch: () => void;
   onOpenDashboard: () => void;
+  onOpenWhatsNew?: () => void;
   darkMode: boolean;
   onToggleDarkMode: () => void;
 }
@@ -19,6 +20,7 @@ interface HeaderProps {
 export const Header: React.FC<HeaderProps> = ({
   onOpenSearch,
   onOpenDashboard,
+  onOpenWhatsNew,
   darkMode,
   onToggleDarkMode
 }) => {
@@ -40,9 +42,20 @@ export const Header: React.FC<HeaderProps> = ({
                 <h1 className="text-base sm:text-lg font-extrabold text-stone-900 dark:text-stone-100 tracking-tight truncate font-hi">
                   {ui('app_title')}
                 </h1>
-                <span className="hidden md:inline-flex items-center px-1.5 py-0.2 rounded-full text-[10px] font-bold bg-amber-100 dark:bg-amber-900/40 text-amber-800 dark:text-amber-300">
-                  v3.0
-                </span>
+                {onOpenWhatsNew ? (
+                  <button
+                    onClick={onOpenWhatsNew}
+                    className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-extrabold bg-gradient-to-r from-orange-500 to-amber-500 text-white shadow-xs hover:opacity-90 active:scale-95 transition-all cursor-pointer"
+                    title={language === 'hi' ? 'इस अपडेट में नया क्या है देखें' : 'View What\'s New in this update'}
+                  >
+                    <span>v3.0</span>
+                    <span className="w-1.5 h-1.5 rounded-full bg-yellow-200 animate-ping" />
+                  </button>
+                ) : (
+                  <span className="hidden md:inline-flex items-center px-1.5 py-0.2 rounded-full text-[10px] font-bold bg-amber-100 dark:bg-amber-900/40 text-amber-800 dark:text-amber-300">
+                    v3.0
+                  </span>
+                )}
               </div>
               <p className="text-[11px] text-stone-500 dark:text-stone-400 hidden sm:block truncate">
                 {ui('app_subtitle')}

@@ -22,6 +22,7 @@ const MainContent: React.FC = () => {
   const [activeStudyTab, setActiveStudyTab] = useState<StudyTabType>('notes');
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [isDashboardOpen, setIsDashboardOpen] = useState(false);
+  const [isWhatsNewOpen, setIsWhatsNewOpen] = useState(false);
   const [isMobileSidebarOpen, setIsMobileSidebarOpen] = useState(false);
 
   // Dark mode state
@@ -59,8 +60,11 @@ const MainContent: React.FC = () => {
   return (
     <div className="min-h-screen bg-stone-50 dark:bg-rajasthan-charcoal text-stone-900 dark:text-stone-100 flex flex-col font-sans transition-colors">
       
-      {/* PWA / Android Offline and Install Banners */}
-      <PWAInstallBanner />
+      {/* PWA / Android Offline and Install Banners & Update Modal */}
+      <PWAInstallBanner 
+        isWhatNewOpen={isWhatsNewOpen}
+        setIsWhatNewOpen={setIsWhatsNewOpen}
+      />
 
       {/* Header Bar */}
       <Header
@@ -71,6 +75,10 @@ const MainContent: React.FC = () => {
         onOpenDashboard={() => {
           setIsMobileSidebarOpen(false);
           setIsDashboardOpen(true);
+        }}
+        onOpenWhatsNew={() => {
+          setIsMobileSidebarOpen(false);
+          setIsWhatsNewOpen(true);
         }}
         darkMode={darkMode}
         onToggleDarkMode={() => setDarkMode(prev => !prev)}

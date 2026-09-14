@@ -8,7 +8,7 @@ import { cloudflare } from "@cloudflare/vite-plugin";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss(), VitePWA({
-    registerType: 'autoUpdate',
+    registerType: 'prompt',
     includeAssets: ['favicon.svg', 'pwa-192x192.svg', 'pwa-512x512.svg', 'maskable-icon.svg', 'icons.svg'],
     manifest: {
       name: 'Rajasthan GK Master | राजस्थान सामान्य ज्ञान',
