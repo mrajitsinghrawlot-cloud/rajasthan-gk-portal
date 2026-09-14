@@ -59,16 +59,16 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
   ];
 
   return (
-    <div className="max-w-4xl mx-auto space-y-6 pb-24 lg:pb-16">
+    <div className="max-w-4xl mx-auto space-y-4 sm:space-y-6 pb-28 lg:pb-16">
       
       {/* Top Header Card */}
-      <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-3xl p-5 sm:p-7 shadow-xs relative overflow-hidden transition-colors">
+      <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-3xl p-4 sm:p-7 shadow-xs relative overflow-hidden transition-colors">
         <div className="absolute top-0 right-0 w-64 h-64 bg-gradient-to-bl from-amber-500/10 via-orange-500/5 to-transparent rounded-full blur-3xl pointer-events-none" />
 
-        <div className="relative z-10 space-y-4">
+        <div className="relative z-10 space-y-3 sm:space-y-4">
           
           {/* Breadcrumb & Badges */}
-          <div className="flex flex-wrap items-center gap-2">
+          <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
             <span className="font-mono text-xs font-bold text-amber-700 dark:text-amber-400 bg-amber-50 dark:bg-amber-950/70 border border-amber-200 dark:border-amber-900 px-2 py-0.5 rounded-lg">
               {content.id}
             </span>
@@ -80,7 +80,7 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
             {content.metadata.pyq_frequency === 'ultra-high' && (
               <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-xs font-bold bg-orange-100 dark:bg-orange-950/80 text-orange-800 dark:text-orange-300 border border-orange-200 dark:border-orange-800">
                 <Flame className="w-3.5 h-3.5 fill-orange-500 text-orange-500" />
-                {language === 'hi' ? 'अति-महत्वपूर्ण (PYQ Hotspot)' : 'Ultra-High PYQ'}
+                <span>{language === 'hi' ? 'PYQ Hotspot' : 'Ultra-High PYQ'}</span>
               </span>
             )}
 
@@ -99,13 +99,13 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
           </div>
 
           {/* Subtopic Title */}
-          <h1 className="text-2xl sm:text-3xl font-extrabold text-stone-900 dark:text-stone-100 tracking-tight font-hi leading-tight">
+          <h1 className="text-xl sm:text-3xl font-extrabold text-stone-900 dark:text-stone-100 tracking-tight font-hi leading-tight">
             {t(content.title)}
           </h1>
 
           {/* Short Summary */}
           {content.short_summary && (
-            <p className="text-sm sm:text-base text-stone-600 dark:text-stone-300 font-hi leading-relaxed">
+            <p className="text-xs sm:text-base text-stone-600 dark:text-stone-300 font-hi leading-relaxed">
               {t(content.short_summary)}
             </p>
           )}
@@ -120,8 +120,8 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
         quizQuestionCount={content.mcqs?.length || 0}
       />
 
-      {/* Navigation Tabs Bar */}
-      <div className="flex items-center gap-1.5 p-1.5 bg-stone-100 dark:bg-stone-900/90 border border-stone-200 dark:border-stone-800 rounded-2xl overflow-x-auto scrollbar-none shadow-inner">
+      {/* Navigation Tabs Bar (Horizontal Touch Scrolling) */}
+      <div className="flex items-center gap-1.5 p-1.5 bg-stone-100 dark:bg-stone-900/90 border border-stone-200 dark:border-stone-800 rounded-2xl overflow-x-auto scrollbar-none shadow-inner touch-pan-x">
         {tabs.map(tab => {
           const Icon = tab.icon;
           const isActive = currentTab === tab.id;
@@ -130,9 +130,9 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
             <button
               key={tab.id}
               onClick={() => handleTabSelect(tab.id)}
-              className={`flex items-center gap-2 px-3.5 sm:px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all shrink-0 active:scale-95 ${
+              className={`flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all shrink-0 active:scale-95 touch-manipulation ${
                 isActive
-                  ? 'bg-white dark:bg-stone-800 text-rajasthan-saffron shadow-sm ring-1 ring-stone-200 dark:ring-stone-700'
+                  ? 'bg-white dark:bg-stone-800 text-rajasthan-saffron shadow-xs ring-1 ring-stone-200 dark:ring-stone-700'
                   : 'text-stone-600 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-100 hover:bg-stone-200/60 dark:hover:bg-stone-800/50'
               }`}
             >
@@ -157,18 +157,18 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
         
         {/* Full Study Notes Panel */}
         {currentTab === 'notes' && (
-          <div className="space-y-6">
+          <div className="space-y-4 sm:space-y-6">
             {content.notes_sections.map((section, idx) => (
               <section
                 key={idx}
-                className="p-5 sm:p-7 rounded-3xl bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 shadow-2xs space-y-4"
+                className="p-4 sm:p-7 rounded-3xl bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 shadow-2xs space-y-3 sm:space-y-4"
               >
-                <h3 className="text-lg sm:text-xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-100 dark:border-stone-800 pb-3 flex items-center gap-2 font-hi">
-                  <span className="w-2 h-6 bg-rajasthan-saffron rounded-full" />
-                  {t(section.section_title)}
+                <h3 className="text-base sm:text-xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-100 dark:border-stone-800 pb-2.5 flex items-center gap-2 font-hi">
+                  <span className="w-1.5 sm:w-2 h-5 sm:h-6 bg-rajasthan-saffron rounded-full shrink-0" />
+                  <span>{t(section.section_title)}</span>
                 </h3>
 
-                <div className="prose dark:prose-invert max-w-none text-sm sm:text-base leading-relaxed text-stone-800 dark:text-stone-200 font-hi space-y-3 whitespace-pre-line">
+                <div className="prose dark:prose-invert max-w-none text-xs sm:text-base leading-relaxed text-stone-800 dark:text-stone-200 font-hi space-y-2.5 whitespace-pre-line">
                   {t(section.content_markdown)}
                 </div>
               </section>
