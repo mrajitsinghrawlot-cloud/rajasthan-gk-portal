@@ -14,9 +14,156 @@
   "metadata": {
     "pyq_frequency": "high",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "बैराठ स्थान व नदी", "en": "Bairath Location & River" },
+      "value": { "hi": "कोटपूतली-बहरोड़ (पूर्व जयपुर) / बाणगंगा नदी", "en": "Kotputli-Behror (formerly Jaipur) / Banganga River" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "बैराठ प्राचीन नाम", "en": "Bairath Ancient Name" },
+      "value": { "hi": "विराटनगर (मत्स्य जनपद की राजधानी — पाण्डवों का अज्ञातवास)", "en": "Viratnagar (Capital of Matsya Janapada — Pandavas' exile)" },
+      "category": "उपनाम (Nomenclature)"
+    },
+    {
+      "label": { "hi": "बैराठ प्रमुख पहाड़ियाँ", "en": "Bairath Hills" },
+      "value": { "hi": "बीजक की पहाड़ी, भीम जी की डूंगरी, गणेश डूंगरी, महादेव डूंगरी", "en": "Bijak Hill, Bhim Doongri, Ganesh Doongri, Mahadev Doongri" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "बैराठ प्रथम उत्खनन", "en": "Bairath First Excavation" },
+      "value": { "hi": "रायबहादुर दयाराम साहनी (1936–37)", "en": "Rai Bahadur Daya Ram Sahni (1936–37)" },
+      "category": "उत्खनन (Excavation)"
+    },
+    {
+      "label": { "hi": "बैराठ विस्तृत उत्खनन", "en": "Bairath Extensive Excavation" },
+      "value": { "hi": "नीलरत्न बनर्जी एवं कैलाशनाथ दीक्षित (1962–63)", "en": "N.R. Banerjee & K.N. Dixit (1962–63)" },
+      "category": "उत्खनन (Excavation)"
+    },
+    {
+      "label": { "hi": "गोल बौद्ध मन्दिर व स्तूप", "en": "Circular Buddhist Chaitya" },
+      "value": { "hi": "बीजक की पहाड़ी (भारत का प्राचीनतम गोल हीनयान बौद्ध मन्दिर/चैत्य)", "en": "Bijak Hill (India's earliest circular Hinayana Buddhist chaitya)" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "स्वर्ण मंजूषा (सोने का कलश)", "en": "Golden Relic Casket" },
+      "value": { "hi": "सवाई रामसिंह द्वितीय के समय (भगवान बुद्ध के पवित्र अस्थि अवशेष)", "en": "Reign of Sawai Ram Singh II (Sacred corporeal relics of Gautama Buddha)" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "भाबरू शिलालेख (अशोक)", "en": "Bhabru Rock Edict" },
+      "value": { "hi": "खोज: कैप्टन बर्ट (1837) — बीजक डूंगरी (वर्तमान: कोलकाता संग्रहालय)", "en": "Discovered by Capt. Burt (1837) on Bijak Hill (Now in Kolkata Museum)" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "बैराठ से प्राप्त मुद्राएँ", "en": "Bairath Coin Cache" },
+      "value": { "hi": "सूती कपड़े में 36 सिक्के (8 पंचमार्क + 28 इंडो-ग्रीक, जिनमें 16 मिनाण्डर के)", "en": "36 coins wrapped in cloth (8 punch-marked + 28 Indo-Greek, 16 of Menander)" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "ह्वेनसांग की बैराठ यात्रा (634 ई.)", "en": "Xuanzang Visit (634 AD)" },
+      "value": { "hi": "बैराठ को 'पारयात्र' (Poliyeduolo) लिखा एवं 8 बौद्ध मठों का उल्लेख किया", "en": "Recorded Bairath as 'Poliyeduolo' with 8 active monasteries" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    },
+    {
+      "label": { "hi": "बैराठ बौद्ध विहारों का विध्वंस", "en": "Destruction of Bairath" },
+      "value": { "hi": "6ठी सदी में हूण शासक मिहिरकुल द्वारा विध्वंस", "en": "Destroyed in 6th century AD by Huna ruler Mihirakula" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    },
+    {
+      "label": { "hi": "शंख लिपि (Conch Script)", "en": "Shankha Lipi" },
+      "value": { "hi": "बैराठ की चट्टानों पर उत्कीर्ण रहस्यमयी लिपि", "en": "Mysterious script inscribed on Bairath rocks" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "रैढ़ स्थान व नदी", "en": "Rairh Location & River" },
+      "value": { "hi": "निवाई (टोंक) / ढील नदी", "en": "Niwai (Tonk) / Dheel River" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "रैढ़ उत्खनन", "en": "Rairh Excavation" },
+      "value": { "hi": "डॉ. के.एन. पुरी (1938–1940)", "en": "Dr. K.N. Puri (1938–40)" },
+      "category": "उत्खनन (Excavation)"
+    },
+    {
+      "label": { "hi": "प्राचीन भारत का टाटानगर", "en": "Tatanagar of Ancient India" },
+      "value": { "hi": "रैढ़ (टोंक) — विशाल लौह अयस्क प्रगलन भट्टियों व सिक्का टकसाल के कारण", "en": "Rairh (Tonk) — Due to massive iron smelting furnaces and mint" },
+      "category": "उपनाम (Nomenclature)"
+    },
+    {
+      "label": { "hi": "रैढ़ सिक्का भंडार", "en": "Rairh Coin Cache" },
+      "value": { "hi": "3,075 चाँदी के आहत/पंचमार्क सिक्के (एशिया का सबसे बड़ा एकमुश्त संचय)", "en": "3,075 punch-marked silver coins (Largest single coin hoard in Asia)" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "सेनापति वाचघोष की मुहर", "en": "Seal of Vachhaghosha" },
+      "value": { "hi": "रैढ़ (ब्राह्मी लिपि में उत्कीर्ण: 'सेनापतिस वाचघोषस')", "en": "Rairh (Brahmi inscription: 'Senapatisa Vachhaghoshasa')" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "सुनारी स्थान व नदी", "en": "Sunari Location & River" },
+      "value": { "hi": "खेतड़ी (नीम का थाना / झुंझुनूं) / कांतली नदी", "en": "Khetri (Neem Ka Thana / Jhunjhunu) / Kantli River" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "लोहा गलाने की प्राचीनतम धौंकनी भट्टियाँ", "en": "Earliest Iron Bellows Furnaces" },
+      "value": { "hi": "सुनारी (भारत में लोहा गलाने की सबसे प्राचीन धौंकनी वाली भट्टियाँ)", "en": "Sunari (India's oldest bellows-operated iron smelting furnaces)" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "सुनारी विशिष्ट साक्ष्य", "en": "Sunari Key Finds" },
+      "value": { "hi": "चावल (धान) के प्राचीनतम अवशेष, रथ के पहिए, तीरों के अग्रभाग", "en": "Ancient paddy grains, chariot wheels, iron arrowheads" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "नोह स्थान व नदी", "en": "Noh Location & River" },
+      "value": { "hi": "भरतपुर / रूपारेल नदी", "en": "Bharatpur / Ruparel River" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "नोह उत्खनन", "en": "Noh Excavation" },
+      "value": { "hi": "रत्नचंद्र अग्रवाल (1963–64)", "en": "R.C. Agrawal (1963–64)" },
+      "category": "उत्खनन (Excavation)"
+    },
+    {
+      "label": { "hi": "जाख बाबा (यक्ष) प्रतिमा", "en": "Jakh Baba Yaksha Statue" },
+      "value": { "hi": "नोह (शुंग-कुषाण कालीन आदमकद यक्ष प्रतिमा)", "en": "Noh (Life-size Shunga-Kushan Yaksha sculpture)" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "पक्षियों के चित्र वाले मृद्भाण्ड", "en": "Bird Motif Ceramics" },
+      "value": { "hi": "नोह (कटोरे की कोर पर चोंच में दाना दबाए पक्षियों के रेखाचित्र)", "en": "Noh (Bowls with birds holding grains in beak)" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "जोधपुरा सभ्यता स्थान व नदी", "en": "Jodhpura Location & River" },
+      "value": { "hi": "कोटपूतली-बहरोड़ (पूर्व जयपुर) / साबी नदी", "en": "Kotputli-Behror (formerly Jaipur) / Sabi River" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "जोधपुरा विशिष्ट साक्ष्य", "en": "Jodhpura Key Finds" },
+      "value": { "hi": "2 लोहा प्रगलन भट्टियाँ, कपीशवर्णी मृद्भाण्ड (OCP), डिश-ऑन-स्टैंड", "en": "2 iron smelting furnaces, OCP pottery, dish-on-stand vessels" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "ईसवाल (प्राचीन औद्योगिक बस्ती)", "en": "Isawal Industrial Village" },
+      "value": { "hi": "उदयपुर (2000 वर्ष प्राचीन लोहा गलाने का औद्योगिक केंद्र)", "en": "Udaipur (2,000-year-old iron smelting industrial township)" },
+      "category": "प्रमुख स्थल (Key Sites)"
+    },
+    {
+      "label": { "hi": "PGW संस्कृति (चित्रित धूसर मृद्भाण्ड)", "en": "PGW Culture" },
+      "value": { "hi": "1200–600 ई.पू. (महाभारत व उत्तर-वैदिक काल) — बैराठ, नोह, सुनारी, जोधपुरा", "en": "1200–600 BC (Mahabharata/Late Vedic era) — Bairath, Noh, Sunari, Jodhpura" },
+      "category": "संस्कृति व कालक्रम (Culture & Era)"
+    },
+    {
+      "label": { "hi": "NBPW परंपरा (उत्तरी काली चमकीली)", "en": "NBPW Culture" },
+      "value": { "hi": "600–200 ई.पू. (मौर्य व महाजनपद काल) — बैराठ, नोह, नगरी, रैढ़", "en": "600–200 BC (Mauryan/Mahajanapada era) — Bairath, Noh, Nagari, Rairh" },
+      "category": "संस्कृति व कालक्रम (Culture & Era)"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +171,8 @@
         "en": "1. Bairath (Viratnagar) Archaeological Civilization"
       },
       "content_markdown": {
-        "hi": "बैराठ राजस्थान में मौर्य काल, बौद्ध धर्म, महाभारत काल तथा लौह युग का सबसे महत्वपूर्ण संगम स्थल है।\n\n### आधारभूत तथ्य:\n- **स्थान व नदी:** कोटपूतली-बहरोड़ (पूर्व जयपुर) जिले में **बाणगंगा नदी** के तट पर।\n- **प्राचीन पहचान:** मत्स्य जनपद की राजधानी **विराटनगर**; महाभारत काल में पाण्डवों ने यहाँ राजा विराट के यहाँ एक वर्ष का **अज्ञातवास (Incognito Exile)** बिताया था।\n- **प्रमुख पहाड़ियाँ (डूंगरियां):** बीजक की पहाड़ी, भीम जी की डूंगरी, गणेश डूंगरी, महादेव डूंगरी।\n- **उत्खननकर्ता:**\n  - 1936-37 ई. में **रायबहादुर दयाराम साहनी** द्वारा प्रथम वैज्ञानिक उत्खनन।\n  - 1962-63 ई. में **नीलरत्न बनर्जी (N.R. Banerjee)** एवं **कैलाशनाथ दीक्षित (K.N. Dixit)** द्वारा विस्तृत उत्खनन।\n\n### प्रमुख एवं अद्वितीय पुरातात्विक साक्ष्य:\n1. **गोल बौद्ध मन्दिर एवं स्तूप (Circular Buddhist Chaitya):**\n   - बीजक की पहाड़ी से भारत का **प्राचीनतम गोल बौद्ध मन्दिर (हीनयान सम्प्रदाय का चैत्य)** तथा मठ के अवशेष मिले हैं।\n2. **स्वर्ण मंजूषा (Golden Relic Casket):**\n   - जयपुर महाराजा सवाई रामसिंह द्वितीय के समय उत्खनन में एक **स्वर्ण मंजूषा (सोने का कलश)** मिली थी, जिसमें **भगवान बुद्ध के पवित्र अस्थि अवशेष (Sacred Relics)** रखे हुए थे।\n3. **भाबरू शिलालेख (अशोक):**\n   - कैप्टन बर्ट द्वारा 1837 में बीजक डूंगरी से खोजा गया मौर्य सम्राट अशोक का शिलालेख (त्रिरत्न में निष्ठा)।\n4. **मुद्राएँ एवं यूनानी प्रभाव:**\n   - सूती कपड़े में लिपटे **36 सिक्के** (8 पंचमार्क + 28 इंडो-ग्रीक, जिनमें 16 यूनानी राजा **मिनाण्डर** के)।\n5. **चीनी यात्री ह्वेनसांग (Xuanzang) का आगमन:**\n   - 634 ई. में चीनी यात्री ह्वेनसांग बैराठ आया था। उसने बैराठ को **'पारयात्र' (Poliyeduolo)** लिखा तथा यहाँ **8 बौद्ध मठों** का उल्लेख किया।\n6. **हूण शासक मिहिरकुल का आक्रमण:**\n   - क्रूर हूण राजा मिहिरकुल ने बैराठ के बौद्ध विहारों और मन्दिरों को नष्ट कर दिया था।\n7. **शंख लिपि (Conch Script):** यहाँ की चट्टानों पर रहस्यमयी शंख लिपि के अनेक साक्ष्य मिले हैं।",
-        "en": "Bairath represents the premier meeting ground of Mauryan, Buddhist, Mahabharata, and Iron Age history in Rajasthan.\n\n### Core Facts:\n- **Location & River:** Situated on the **Banganga River** in Kotputli-Behror (formerly Jaipur).\n- **Epic Context:** Capital of Matsya Janapada (Viratnagar) where the Pandavas spent their final year of exile in disguise.\n- **Hills (Doongris):** Bijak Hill, Bhim Doongri, Ganesh Doongri.\n- **Excavators:** **Daya Ram Sahni** (1936-37), followed by **N.R. Banerjee** & **K.N. Dixit** (1962-63).\n\n### Major Discoveries:\n1. **Earliest Circular Buddhist Chaitya:** Ancient circular brick temple and monastery of the Hinayana sect.\n2. **Golden Relic Casket (Swarna Manjusha):** Uncovered during Sawai Ram Singh II's reign containing the sacred corporeal relics of Gautama Buddha.\n3. **Ashoka's Bhabru Edict:** Discovered by Captain Burt in 1837.\n4. **Coins:** 36 coins in cotton fabric (8 punch-marked, 28 Indo-Greek with 16 belonging to Menander).\n5. **Xuanzang's Visit (634 AD):** Termed the city 'Poliye-tuolo' and noted 8 functional monasteries.\n6. **Destruction by Huna ruler Mihirakula.**\n7. **Conch Script (Shankha Lipi) inscriptions.**"
+        "hi": "बैराठ राजस्थान में मौर्य काल, बौद्ध धर्म, महाभारत काल तथा लौह युग का सबसे महत्वपूर्ण संगम स्थल है।\n\n### आधारभूत तथ्य:\n- **स्थान व नदी:** कोटपूतली-बहरोड़ (पूर्व जयपुर) में **==बाणगंगा नदी==** के तट पर।\n- **प्राचीन पहचान:** मत्स्य जनपद की राजधानी **==विराटनगर==**; महाभारत काल में पाण्डवों ने यहाँ राजा विराट के यहाँ एक वर्ष का **==अज्ञातवास==** बिताया था।\n- **प्रमुख पहाड़ियाँ:** **==बीजक की पहाड़ी==**, **==भीम जी की डूंगरी==**, गणेश डूंगरी, महादेव डूंगरी।\n- **उत्खनन:**\n  - 1936-37 ई.: **==रायबहादुर दयाराम साहनी==** (प्रथम वैज्ञानिक उत्खनन)।\n  - 1962-63 ई.: **==नीलरत्न बनर्जी (N.R. Banerjee)==** एवं **==कैलाशनाथ दीक्षित (K.N. Dixit)==**।\n\n### प्रमुख एवं अद्वितीय पुरातात्विक साक्ष्य:\n1. **गोल बौद्ध मन्दिर एवं स्तूप (Circular Buddhist Chaitya):**\n   - बीजक की पहाड़ी से भारत का **==प्राचीनतम गोल बौद्ध मन्दिर (हीनयान सम्प्रदाय का चैत्य)==** तथा मठ प्राप्त।\n2. **स्वर्ण मंजूषा (Golden Relic Casket):**\n   - जयपुर महाराजा सवाई रामसिंह द्वितीय के समय उत्खनन में **==स्वर्ण मंजूषा (सोने का कलश)==** मिली, जिसमें **==भगवान बुद्ध के पवित्र अस्थि अवशेष==** सुरक्षित थे।\n3. **भाबरू शिलालेख (अशोक):**\n   - **==कैप्टन बर्ट==** द्वारा 1837 में बीजक डूंगरी से खोजा गया मौर्य सम्राट अशोक का शिलालेख (बौद्ध धर्म के त्रिरत्न: बुद्ध, धम्म, संघ में निष्ठा)।\n4. **मुद्राएँ एवं यूनानी प्रभाव:**\n   - सूती कपड़े में लिपटे **==36 सिक्के==** (8 पंचमार्क + 28 इंडो-ग्रीक, जिनमें **==16 सिक्के यूनानी राजा मिनाण्डर के==**)।\n5. **चीनी यात्री ह्वेनसांग (Xuanzang) का आगमन:**\n   - 634 ई. में ह्वेनसांग ने बैराठ की यात्रा की। उसने इसे **'==पारयात्र==' (Poliyeduolo)** लिखा तथा **==8 बौद्ध मठों==** का उल्लेख किया।\n6. **हूण शासक मिहिरकुल का आक्रमण:**\n   - क्रूर हूण राजा **==मिहिरकुल==** ने 6ठी सदी में बैराठ के बौद्ध विहारों और मन्दिरों को नष्ट कर दिया।\n7. **शंख लिपि (Conch Script):** यहाँ की चट्टानों पर **==शंख लिपि==** के रहस्यमयी साक्ष्य उत्कीर्ण मिले हैं।",
+        "en": "Bairath represents the meeting ground of Mauryan, Buddhist, Mahabharata, and Iron Age history in Rajasthan.\n\n### Core Facts:\n- **Location & River:** Situated on **==Banganga River==** in Kotputli-Behror (formerly Jaipur).\n- **Epic Context:** Capital of Matsya Janapada (**==Viratnagar==**) where Pandavas spent their final year of incognito exile.\n- **Hills:** **==Bijak Hill==**, **==Bhim Doongri==**, Ganesh Doongri.\n- **Excavators:** **==Daya Ram Sahni==** (1936-37); **==N.R. Banerjee & K.N. Dixit==** (1962-63).\n\n### Major Discoveries:\n1. **==Earliest Circular Buddhist Chaitya==:** Ancient circular brick temple and monastery of the Hinayana sect.\n2. **==Golden Relic Casket (Swarna Manjusha)==:** Discovered during Sawai Ram Singh II's reign containing **==corporeal relics of Lord Buddha==**.\n3. **==Ashoka's Bhabru Edict==:** Discovered by **==Captain Burt in 1837==** on Bijak Hill.\n4. **Coins:** 36 coins in cloth (8 punch-marked, 28 Indo-Greek with **==16 coins of King Menander==**).\n5. **==Xuanzang's Visit (634 AD)==:** Recorded the city as **==Poliyeduolo==** with 8 functional monasteries.\n6. **==Destruction by Huna ruler Mihirakula==** in the 6th century AD.\n7. **==Conch Script (Shankha Lipi)==** rock inscriptions."
       }
     },
     {
@@ -34,8 +181,8 @@
         "en": "2. Rairh Archaeological Site — Tatanagar of Ancient India"
       },
       "content_markdown": {
-        "hi": "रैढ़ सभ्यता राजस्थान में लौह धातु विज्ञान, टकसाल एवं मूर्तिकला का सबसे समृद्ध आद्य-ऐतिहासिक केंद्र था।\n\n### आधारभूत तथ्य:\n- **स्थान व नदी:** टोंक जिले की निवाई तहसील में **ढील नदी** के किनारे।\n- **उत्खनन:** 1938 से 1940 ई. के मध्य जयपुर रियासत के पुरातत्व निदेशक **डॉ. के.एन. पुरी (K.N. Puri)** द्वारा।\n- **उपनाम:** **'प्राचीन भारत का टाटानगर' (Tatanagar of Ancient India)** — लौह अयस्क गलाने की भट्टियों एवं लोहे के विशाल औजार भंडार के कारण।\n\n### प्रमुख पुरातात्विक साक्ष्य:\n1. **सिक्कों का विशाल भंडार:**\n   - **3,075 चाँदी के आहत/पंचमार्क सिक्के** मिले (एशिया का सबसे बड़ा एकमुश्त सिक्का संचय)।\n   - मालव गण, मित्र राजाओं एवं अपोलोडोटस के सिक्के।\n2. **लोहा प्रगलन उद्योग (Iron Metallurgy):**\n   - लोहा गलाने की भट्टियाँ, लोहे के कांटे, खुरपे, कीलें, छुरियाँ, बाणाग्र तथा अस्त्र-शस्त्र।\n3. **मृण्मूर्तियाँ (Terracotta Figurines):**\n   - मातृदेवी, पंखयुक्त यक्षिणी की प्रतिमा, यक्ष प्रतिमाएँ तथा हाथी-दांत के पासे।\n4. **सेनापति वाचघोष की मुहर:**\n   - ब्राह्मी लिपि में उत्कीर्ण *'सेनापतिस वाचघोषस'* पदनाम वाली मिट्टी की मुहर।",
-        "en": "Rairh was the foremost center of iron metallurgy, minting, and terracotta craft in early historic Rajasthan.\n\n### Key Facts:\n- **Location:** On the banks of the **Dheel River** in Niwai (Tonk).\n- **Excavator:** **Dr. K.N. Puri** (1938-40).\n- **Title:** **'Tatanagar of Ancient India'** due to massive iron-smelting workshops.\n\n### Artifacts:\n1. **Coin Hoard:** 3,075 punch-marked silver coins alongside Malava and Apollodotus issues.\n2. **Iron Tools:** Furnaces, arrowheads, nails, daggers, and agricultural implements.\n3. **Terracotta Figurines:** Winged Mother Goddess, Yakshi figures, and ivory dice.\n4. **Seal of Commander Vachhaghosha** inscribed in Brahmi script."
+        "hi": "रैढ़ सभ्यता राजस्थान में लौह धातु विज्ञान, टकसाल एवं मूर्तिकला का सबसे समृद्ध आद्य-ऐतिहासिक केंद्र था।\n\n### आधारभूत तथ्य:\n- **स्थान व नदी:** टोंक जिले की निवाई तहसील में **==ढील नदी==** के किनारे।\n- **उत्खनन:** 1938–1940 ई. में **==डॉ. के.एन. पुरी (K.N. Puri)==** द्वारा।\n- **उपनाम:** **'==प्राचीन भारत का टाटानगर==' (Tatanagar of Ancient India)** — लौह अयस्क गलाने की भट्टियों एवं लोहे के विशाल औजार भंडार के कारण।\n\n### प्रमुख पुरातात्विक साक्ष्य:\n1. **सिक्कों का विशाल भंडार:**\n   - **==3,075 चाँदी के आहत/पंचमार्क सिक्के==** मिले (एशिया का सबसे बड़ा एकमुश्त सिक्का संचय)।\n   - मालव गण, मित्र राजाओं एवं अपोलोडोटस के सिक्के।\n2. **लोहा प्रगलन उद्योग:**\n   - लोहा गलाने की भट्टियाँ, लोहे के कांटे, खुरपे, कीलें, छुरियाँ, बाणाग्र व अस्त्र-शस्त्र।\n3. **मृण्मूर्तियाँ:**\n   - मातृदेवी, पंखयुक्त यक्षिणी की प्रतिमा, यक्ष प्रतिमाएँ तथा हाथी-दांत के पासे।\n4. **सेनापति वाचघोष की मुहर:**\n   - ब्राह्मी लिपि में उत्कीर्ण **'==सेनापतिस वाचघोषस=='** पदनाम वाली मिट्टी की मुहर।",
+        "en": "Rairh was the foremost center of iron metallurgy, minting, and terracotta craft in early historic Rajasthan.\n\n### Key Facts:\n- **Location:** Banks of **==Dheel River==** in Niwai (Tonk).\n- **Excavator:** **==Dr. K.N. Puri==** (1938–40).\n- **Title:** **'==Tatanagar of Ancient India=='** due to massive iron-smelting workshops.\n\n### Artifacts:\n1. **==Coin Hoard==:** **==3,075 punch-marked silver coins==** (Asia's largest single cache) alongside Malava and Apollodotus issues.\n2. **==Iron Tools & Furnaces==:** Extensively developed iron smelting technology.\n3. **==Terracotta Figurines==:** Winged Mother Goddess and ivory dice.\n4. **==Seal of Commander Vachhaghosha==** inscribed in Brahmi script."
       }
     },
     {
@@ -44,8 +191,8 @@
         "en": "3. Sunari, Noh & Jodhpura Iron Age Centers"
       },
       "content_markdown": {
-        "hi": "### 1. सुनारी सभ्यता (Sunari, खेतड़ी, नीम का थाना / पूर्व झुंझुनूं):\n- **स्थान व नदी:** **कांतली नदी** के किनारे खेतड़ी क्षेत्र में।\n- **उत्खनन:** 1980-81 ई. में राजस्थान पुरातत्व विभाग द्वारा।\n- **महत्वपूर्ण साक्ष्य:**\n  - **भारत में लोहा गलाने की सबसे प्राचीन धौंकनी वाली भट्टियाँ (Oldest Iron Smelting Furnaces with Tuyeres)**।\n  - लोहे के तीरों के अग्रभाग (Arrowheads), भाले तथा लोहे का कटोरा।\n  - **चावल (धान) के प्राचीनतम अवशेष** एवं घोड़े से खींचे जाने वाले रथ के पहियों के साक्ष्य।\n  - चित्रित धूसर मृद्भाण्ड (PGW) संस्कृति।\n\n### 2. नोह सभ्यता (Noh, भरतपुर):\n- **स्थान व नदी:** भरतपुर में **रूपारेल नदी** के तट पर।\n- **उत्खनन:** 1963-64 ई. में **रत्नचंद्र अग्रवाल (R.C. Agrawal)** द्वारा।\n- **महत्वपूर्ण साक्ष्य:**\n  - 5 सांस्कृतिक कालखण्ड (OCP → Black & Red → PGW → NBPW → शुंग-कुषाण काल)।\n  - **'जाख बाबा' (Jakh Baba) की विशाल यक्ष प्रतिमा:** शुंग-कुषाण कालीन आदमकद यक्ष प्रतिमा।\n  - कटोरे की कोर पर चोंच में दाना दबाए **पक्षियों के चित्र वाले मृद्भाण्ड**।\n\n### 3. जोधपुरा सभ्यता (Jodhpura, कोटपूतली-बहरोड़ / पूर्व जयपुर):\n- **स्थान व नदी:** **साबी नदी** के तट पर।\n- **उत्खनन:** 1972-75 ई. में आर.सी. अग्रवाल एवं विजय कुमार द्वारा।\n- **महत्वपूर्ण साक्ष्य:**\n  - लोहा गलाने की दो प्राचीन भट्टियाँ एवं लोहे के अस्त्र।\n  - गेरुए रंग के कपीशवर्णी मृद्भाण्ड (OCP) तथा 'डिश-ऑन-स्टैंड' (Dish-on-Stand)।\n\n### 4. ईसवाल सभ्यता (Isawal, उदयपुर):\n- उदयपुर के ईसवाल से 2000 वर्ष प्राचीन **औद्योगिक बस्ती (Industrial Township)** तथा लोहा गलाने की भट्टियाँ प्राप्त हुई हैं।",
-        "en": "### 1. Sunari (Neem Ka Thana / Jhunjhunu):\n- Located on the **Kantli River** in Khetri; excavated in 1980-81.\n- Preserves the **earliest bellows-operated iron smelting furnaces in India**, iron arrowheads, spears, and evidence of paddy cultivation and horse-driven chariots.\n\n### 2. Noh (Bharatpur):\n- Located on the **Ruparel River**; excavated by **R.C. Agrawal** in 1963-64.\n- Yielded 5 cultural strata, a monumental Shunga-era Yaksha statue known as **'Jakh Baba'**, and pottery with bird motifs.\n\n### 3. Jodhpura (Kotputli-Behror / Jaipur):\n- Located on the **Sabi River**; yielded iron smelting furnaces, OCP pottery, and dish-on-stand vessels.\n\n### 4. Isawal (Udaipur):\n- 2,000-year-old metallurgical industrial village with extensive iron slag deposits."
+        "hi": "### 1. सुनारी सभ्यता (Sunari, खेतड़ी, नीम का थाना / पूर्व झुंझुनूं):\n- **स्थान व नदी:** **==कांतली नदी==** के किनारे खेतड़ी क्षेत्र में।\n- **उत्खनन:** 1980-81 ई. में राजस्थान पुरातत्व विभाग द्वारा।\n- **महत्वपूर्ण साक्ष्य:**\n  - **==भारत में लोहा गलाने की सबसे प्राचीन धौंकनी वाली भट्टियाँ==** (Bellows Furnaces)।\n  - लोहे के तीरों के अग्रभाग (Arrowheads), भाले तथा लोहे का कटोरा।\n  - **==चावल (धान) के प्राचीनतम अवशेष==** एवं रथ के पहियों के साक्ष्य।\n  - चित्रित धूसर मृद्भाण्ड (PGW) संस्कृति।\n\n### 2. नोह सभ्यता (Noh, भरतपुर):\n- **स्थान व नदी:** भरतपुर में **==रूपारेल नदी==** के तट पर।\n- **उत्खनन:** 1963-64 ई. में **==रत्नचंद्र अग्रवाल (R.C. Agrawal)==** द्वारा।\n- **महत्वपूर्ण साक्ष्य:**\n  - 5 सांस्कृतिक कालखण्ड (OCP → Black & Red → PGW → NBPW → शुंग-कुषाण काल)।\n  - **'==जाख बाबा==' (Jakh Baba) की विशाल यक्ष प्रतिमा:** शुंग-कुषाण कालीन आदमकद यक्ष प्रतिमा।\n  - कटोरे की कोर पर चोंच में दाना दबाए **==पक्षियों के चित्र वाले मृद्भाण्ड==**।\n\n### 3. जोधपुरा सभ्यता (Jodhpura, कोटपूतली-बहरोड़ / पूर्व जयपुर):\n- **स्थान व नदी:** **==साबी नदी==** के तट पर।\n- **उत्खनन:** 1972-75 ई. में आर.सी. अग्रवाल एवं विजय कुमार द्वारा।\n- **महत्वपूर्ण साक्ष्य:**\n  - लोहा गलाने की दो प्राचीन भट्टियाँ एवं लोहे के अस्त्र।\n  - कपीशवर्णी मृद्भाण्ड (OCP) तथा **'डिश-ऑन-स्टैंड'**।\n\n### 4. ईसवाल सभ्यता (Isawal, उदयपुर):\n- उदयपुर के ईसवाल से **==2000 वर्ष प्राचीन औद्योगिक बस्ती==** तथा लोहा गलाने की भट्टियाँ प्राप्त।",
+        "en": "### 1. Sunari (Neem Ka Thana / Jhunjhunu):\n- Located on **==Kantli River==** in Khetri.\n- Preserves the **==earliest bellows-operated iron smelting furnaces in India==**, paddy grain remains, and chariot wheels.\n\n### 2. Noh (Bharatpur):\n- Located on **==Ruparel River==**; excavated by **==R.C. Agrawal==** (1963-64).\n- Yielded 5 cultural strata, a monumental Shunga-era Yaksha statue known as **'==Jakh Baba=='**, and bird-motif pottery.\n\n### 3. Jodhpura (Kotputli-Behror / Jaipur):\n- Located on **==Sabi River==**; yielded iron smelting furnaces and dish-on-stand vessels.\n\n### 4. Isawal (Udaipur):\n- 2,000-year-old metallurgical industrial village."
       }
     },
     {
@@ -54,8 +201,8 @@
         "en": "4. Painted Grey Ware (PGW) & Northern Black Polished Ware (NBPW)"
       },
       "content_markdown": {
-        "hi": "लौह युग का निर्धारण विशिष्ट मृद्भाण्ड (मिट्टी के बर्तन) शैलियों से होता है:\n\n1. **चित्रित धूसर मृद्भाण्ड (Painted Grey Ware - PGW / 1200-600 ई.पू.):**\n   - धूसर/स्लेटी रंग के पतले, अच्छी तरह पकाए गए बर्तन जिन पर काले रंग से रेखागणितीय चित्रकारी होती है।\n   - यह संस्कृति महाभारत काल और उत्तर-वैदिक काल से संबंधित है।\n   - **प्रमुख राजस्थान स्थल:** बैराठ (जयपुर), नोह (भरतपुर), सुनारी (झुंझुनूं), जोधपुरा (जयपुर), अनूपगढ़ व तरखानवाला डेरा (गंगानगर)।\n2. **उत्तरी काली चमकीली पॉलिशदार परंपरा (NBPW / 600-200 ई.पू.):**\n   - शीशे जैसी अत्यधिक चमकदार काली पॉलिश वाले बर्तन (मौर्य काल ও महाजनपद काल के परिचायक)।\n   - **प्रमुख राजस्थान स्थल:** बैराठ, नोह, नगरी (चित्तौड़गढ़), रैढ़ (टोंक)।",
-        "en": "Iron Age chronology is defined by two primary ceramic traditions:\n\n1. **Painted Grey Ware (PGW / 1200-600 BC):** Fine grey ceramic with black geometric designs associated with the Late Vedic / Mahabharata era. Found at Bairath, Noh, Sunari, and Tarkhanwala Dera.\n2. **Northern Black Polished Ware (NBPW / 600-200 BC):** Glossy, mirror-finish black luxury ware associated with the Mauryan and Mahajanapada periods. Found at Bairath, Noh, Nagari, and Rairh."
+        "hi": "लौह युग का निर्धारण विशिष्ट मृद्भाण्ड शैलियों से होता है:\n\n1. **चित्रित धूसर मृद्भाण्ड (Painted Grey Ware - PGW / 1200-600 ई.पू.):**\n   - धूसर/स्लेटी रंग के पतले, अच्छी तरह पकाए गए बर्तन जिन पर काले रंग से रेखागणितीय चित्रकारी होती है।\n   - यह संस्कृति महाभारत काल और उत्तर-वैदिक काल से संबंधित है।\n   - **प्रमुख राजस्थान स्थल:** **==बैराठ (जयपुर), नोह (भरतपुर), सुनारी (झुंझुनूं), जोधपुरा (जयपुर)==**, अनूपगढ़ व तरखानवाला डेरा।\n2. **उत्तरी काली चमकीली पॉलिशदार परंपरा (NBPW / 600-200 ई.पू.):**\n   - शीशे जैसी अत्यधिक चमकदार काली पॉलिश वाले बर्तन (मौर्य काल व महाजनपद काल के परिचायक)।\n   - **प्रमुख राजस्थान स्थल:** **==बैराठ, नोह, नगरी (चित्तौड़गढ़), रैढ़ (टोंक)==**।",
+        "en": "Iron Age chronology is defined by two primary ceramic traditions:\n\n1. **==Painted Grey Ware (PGW / 1200-600 BC)==:** Fine grey ceramic with black geometric designs associated with Late Vedic / Mahabharata era. Sites: **==Bairath, Noh, Sunari, and Jodhpura==**.\n2. **==Northern Black Polished Ware (NBPW / 600-200 BC)==:** Mirror-finish black luxury ware associated with Mauryan and Mahajanapada periods. Sites: **==Bairath, Noh, Nagari, and Rairh==**."
       }
     }
   ],
@@ -98,51 +245,58 @@
     },
     {
       "hi": "हूण शासक मिहिरकुल ने बैराठ के बौद्ध मठों और स्तूपों को नष्ट कर दिया था।",
-      "en": "Huna ruler Mihirakula destroyed the Buddhist monasteries and stupas of Bairath."
+      "en": "Huna ruler Mihirakula destroyed the Buddhist monasteries and stupas at Bairath."
     }
   ],
   "timeline": [
     {
-      "year_or_era": "1000–600 BC",
+      "year_or_era": "1200–600 BC",
       "event": {
-        "hi": "राजस्थान में लौह धातु विज्ञान एवं चित्रित धूसर मृद्भाण्ड (PGW) संस्कृति का प्रसार।",
-        "en": "Spread of Iron metallurgy and Painted Grey Ware (PGW) culture in Rajasthan."
+        "hi": "महाभारत कालीन चित्रित धूसर मृद्भाण्ड (PGW) संस्कृति (बैराठ, नोह, सुनारी, जोधपुरा)।",
+        "en": "Painted Grey Ware (PGW) culture associated with Mahabharata era in Rajasthan."
       }
     },
     {
       "year_or_era": "3rd Century BC",
       "event": {
-        "hi": "मौर्य सम्राट अशोक द्वारा बैराठ में बौद्ध स्तूप, चैत्य एवं शिलालेखों का निर्माण।",
-        "en": "Mauryan Emperor Ashoka constructs stupas, chaityas, and rock edicts at Bairath."
+        "hi": "मौर्य सम्राट अशोक द्वारा बैराठ में भाबरू शिलालेख एवं गोल बौद्ध चैत्य का निर्माण।",
+        "en": "Ashoka's Bhabru Edict and circular Buddhist chaitya constructed at Bairath."
+      }
+    },
+    {
+      "year_or_era": "2nd Century BC",
+      "event": {
+        "hi": "रैढ़ (टोंक) में लौह प्रगलन टकसाल एवं नोह (भरतपुर) में जाख बाबा यक्ष प्रतिमा का निर्माण।",
+        "en": "Flourishing of Rairh iron mint and installation of Jakh Baba Yaksha at Noh."
       }
     },
     {
       "year_or_era": "634 AD",
       "event": {
-        "hi": "चीनी तीर्थयात्री ह्वेनसांग द्वारा बैराठ (विराटनगर) की ऐतिहासिक यात्रा।",
-        "en": "Historic visit of Chinese Buddhist pilgrim Xuanzang to Bairath (Viratnagar)."
+        "hi": "चीनी यात्री ह्वेनसांग की बैराठ (पारयात्र) यात्रा।",
+        "en": "Visit of Chinese pilgrim Xuanzang to Bairath (Poliyeduolo)."
       }
     },
     {
-      "year_or_era": "1936–1940 AD",
+      "year_or_era": "1936 AD / 1938 AD",
       "event": {
-        "hi": "दयाराम साहनी द्वारा बैराठ तथा डॉ. के.एन. पुरी द्वारा रैढ़ (टाटानगर) का उत्खनन।",
-        "en": "Excavations of Bairath (Daya Ram Sahni) and Rairh (Dr. K.N. Puri)."
+        "hi": "दयाराम साहनी द्वारा बैराठ तथा डॉ. के.एन. पुरी द्वारा रैढ़ का वैज्ञानिक उत्खनन।",
+        "en": "Scientific excavations at Bairath by D.R. Sahni and Rairh by Dr. K.N. Puri."
       }
     }
   ],
   "exam_traps_and_tricks": [
     {
-      "hi": "परीक्षा जाल: 'जोधपुरा' सभ्यता स्थल जयपुर/कोटपूतली-बहरोड़ में (साबी नदी पर) है, जोधपुर जिले में नहीं! यह एक बहुत सामान्य परीक्षा जाल है।",
-      "en": "TRAP: 'Jodhpura' archaeological site is located in Kotputli-Behror (on Sabi River), NOT in Jodhpur district!"
+      "hi": "परीक्षा जाल: 'जोधपुरा' पुरातात्विक स्थल 'कोटपूतली-बहरोड़ / जयपुर' में साबी नदी पर है, जोधपुर जिले में नहीं! परीक्षा में यह विकल्प देकर अक्सर भ्रमित किया जाता है।",
+      "en": "TRAP: 'Jodhpura' site is located in Kotputli-Behror / Jaipur on Sabi River, NOT in Jodhpur district."
     },
     {
-      "hi": "परीक्षा जाल: 'सुनारी' (खेतड़ी - कांतली नदी, लौह युग) और 'गणेश्वर' (नीम का थाना - कांतली नदी, ताम्र युग) दोनों कांतली नदी पर हैं, लेकिन काल अलग-अलग है।",
-      "en": "TRAP: Both Sunari and Ganeshwar are on the Kantli River, but Ganeshwar is Copper Age while Sunari is Iron Age."
+      "hi": "परीक्षा जाल: 'प्राचीन भारत का टाटानगर' रैढ़ (टोंक) को कहते हैं। यहाँ से 3,075 चांदी के आहत सिक्के मिले हैं।",
+      "en": "TRAP: 'Tatanagar of Ancient India' is Rairh (Tonk), famed for 3,075 punch-marked silver coins."
     },
     {
-      "hi": "परीक्षा जाल: 'जाख बाबा' की विशाल यक्ष प्रतिमा नोह (भरतपुर) से मिली है, जबकि 'बनासियन बुल' आहड़ (उदयपुर) से मिला है।",
-      "en": "TRAP: 'Jakh Baba' Yaksha statue was unearthed at Noh (Bharatpur), whereas 'Banasian Bull' was found at Ahar (Udaipur)."
+      "hi": "परीक्षा जाल: भगवान बुद्ध के अस्थि अवशेष वाली 'स्वर्ण मंजूषा' बैराठ (जयपुर) से मिली थी, जबकि 'जाख बाबा' की यक्ष प्रतिमा नोह (भरतपुर) से मिली है।",
+      "en": "TRAP: Golden casket with Buddha relics = Bairath; Jakh Baba Yaksha statue = Noh."
     }
   ],
   "mcqs": [
@@ -195,7 +349,7 @@
         "en": "From which archaeological site were India's earliest 'bellows-operated iron smelting furnaces' discovered?"
       },
       "options": [
-        { "id": "A", "text": { "hi": "सुनारी (खेतड़ी, नीम का थाना)", "en": "Sunari (Khetri, Neem Ka Thana)" } },
+        { "id": "A", "text": { "hi": "सुनारी (खेतड़ी, नीम का थाना)", "en": "Sunari (Khetri, नीम का थाना)" } },
         { "id": "B", "text": { "hi": "गणेश्वर (नीम का थाना)", "en": "Ganeshwar (Neem Ka Thana)" } },
         { "id": "C", "text": { "hi": "बैराठ (जयपुर)", "en": "Bairath (Jaipur)" } },
         { "id": "D", "text": { "hi": "नोह (भरतपुर)", "en": "Noh (Bharatpur)" } }

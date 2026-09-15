@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const contentDir = path.join(__dirname, '../src/data/content');
 
-const batch1Files = ['A.01.01.json', 'A.01.02.json', 'A.01.03.json', 'A.01.04.json'];
+const allFiles = fs.readdirSync(contentDir).filter(f => f.endsWith('.json')).sort();
 
 marked.setOptions({ gfm: true, breaks: true });
 
@@ -21,27 +21,52 @@ function renderMarkdown(content, highlightEnabled) {
   return marked.parse(processed);
 }
 
-for (const file of batch1Files) {
+let totalHighlights = 0;
+let totalQuickFacts = 0;
+let filesWithQuickFacts = 0;
+let errors = 0;
+
+for (const file of allFiles) {
   const raw = fs.readFileSync(path.join(contentDir, file), 'utf-8');
   const data = JSON.parse(raw);
-  console.log(`\n=== Testing [${file}]: ${data.title.hi} ===`);
   
-  let highlightCount = 0;
-  for (const section of data.notes_sections) {
-    const rawHi = section.content_markdown.hi;
-    const matches = rawHi.match(/==([^=\n]+)==/g);
-    if (matches) highlightCount += matches.length;
+  const qfCount = data.quick_facts?.length || 0;
+  if (qfCount > 0) filesWithQuickFacts++;
+  totalQuickFacts += qfCount;
 
-    // Test Highlight ON
-    const htmlOn = renderMarkdown(rawHi, true);
-    // Test Highlight OFF
-    const htmlOff = renderMarkdown(rawHi, false);
+  let fileHighlightCount = 0;
+  for (const section of (data.notes_sections || [])) {
+    for (const lang of ['hi', 'en']) {
+      const text = section.content_markdown?.[lang];
+      if (!text) continue;
+      const matches = text.match(/==([^=\n]+)==/g);
+      if (matches) fileHighlightCount += matches.length;
 
-    // Check if any leftover '==' exists
-    if (htmlOn.includes('==') || htmlOff.includes('==')) {
-      console.error(`❌ Found unparsed '==' in ${file} section ${section.section_title.hi}`);
+      const htmlOn = renderMarkdown(text, true);
+      const htmlOff = renderMarkdown(text, false);
+
+      if (htmlOn.includes('==') || htmlOff.includes('==')) {
+        console.error(`❌ Found unparsed '==' in ${file} [${lang}] section: ${section.section_title?.[lang]}`);
+        errors++;
+      }
     }
   }
-  console.log(`✅ Total highlight terms found: ${highlightCount}`);
-  console.log(`✅ Quick facts present: ${data.quick_facts?.length || 0}`);
+  totalHighlights += fileHighlightCount;
+
+  if (qfCount > 0 || fileHighlightCount > 0) {
+    console.log(`[${file}] ${data.title?.hi?.slice(0, 35)}... -> QuickFacts: ${qfCount}, Highlights: ${fileHighlightCount}`);
+  }
+}
+
+console.log('\n========================================');
+console.log(`Files with Quick Facts: ${filesWithQuickFacts} / ${allFiles.length}`);
+console.log(`Total Quick Facts:      ${totalQuickFacts}`);
+console.log(`Total Highlights:       ${totalHighlights}`);
+console.log(`Errors / Leaks:         ${errors}`);
+console.log('========================================');
+
+if (errors > 0) {
+  process.exit(1);
+} else {
+  console.log('✅ All highlight markers and quick facts verified successfully!');
 }

@@ -14,9 +14,96 @@
   "metadata": {
     "pyq_frequency": "medium",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "चित्तौड़गढ़ दुर्ग का निर्माण", "en": "Chittorgarh Fort Builder" },
+      "value": { "hi": "7वीं-8वीं सदी में मौर्य राजा चित्रांगद मोरी द्वारा", "en": "7th-8th century by Mauryan King Chitrangada Mori" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "चित्तौड़ विजय (बप्पा रावल)", "en": "Bappa Rawal Chittor Conquest" },
+      "value": { "hi": "734 ई. में मौर्य राजा मान मोरी को पराजित कर (हरित ऋषि के आशीर्वाद से)", "en": "734 AD: Defeated Mauryan King Man Mori with Harit Rishi's blessings" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "मान मोरी शिलालेख", "en": "Man Mori Inscription" },
+      "value": { "hi": "713 ई. (मानसरोवर झील, चित्तौड़) — अमृत मंथन व मौर्य वंशावली", "en": "713 AD (Mansarovar Lake, Chittor) — Amrit Manthan & Mauryan genealogy" },
+      "category": "अभिलेख (Inscriptions)"
+    },
+    {
+      "label": { "hi": "राजस्थान का अंतिम मौर्य राजा", "en": "Last Mauryan King of Rajasthan" },
+      "value": { "hi": "राजा धवल — कंसुआ शिलालेख (738 ई., कोटा)", "en": "King Dhavala — Kansua Inscription (738 AD, Kota)" },
+      "category": "राजवंश व शासक (Dynasties & Rulers)"
+    },
+    {
+      "label": { "hi": "अशोक के मौर्य अभिलेख", "en": "Ashokan Edicts" },
+      "value": { "hi": "भाबरू शिलालेख एवं लघु शिलालेख (बैराठ, विराटनगर)", "en": "Bhabru Rock Edict & Minor Edict (Bairath, Viratnagar)" },
+      "category": "अभिलेख (Inscriptions)"
+    },
+    {
+      "label": { "hi": "शक महाक्षत्रप रुद्रदामन (150 ई.)", "en": "Rudradaman I (150 AD)" },
+      "value": { "hi": "जूनागढ़ अभिलेख (संस्कृत) में 'मरु' (मारवाड़/राजस्थान) पर शासन का उल्लेख", "en": "Junagarh Inscription records rule over 'Maru' (Western Rajasthan)" },
+      "category": "अभिलेख (Inscriptions)"
+    },
+    {
+      "label": { "hi": "कुषाण कालीन साक्ष्य", "en": "Kushana Evidence" },
+      "value": { "hi": "कनिष्क व हुविष्क के सिक्के (बैराठ, रैढ़, सांभर, नलियासर) एवं रंगमहल मृण्मूर्तियाँ", "en": "Coins of Kanishka & Huvishka (Bairath, Rairh) & Rangmahal terracottas" },
+      "category": "पुरातात्विक साक्ष्य (Archaeological Finds)"
+    },
+    {
+      "label": { "hi": "समुद्रगुप्त प्रयाग प्रशस्ति", "en": "Samudragupta Prayag Prashasti" },
+      "value": { "hi": "मालव, यौधेय, अर्जुनायन एवं आभीर गणराज्यों द्वारा सर्वकरदान व अधीनता", "en": "Tribute and subordination of Malavas, Yaudheyas, Arjunayanas" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    },
+    {
+      "label": { "hi": "बयाना स्वर्ण सिक्का निधि (भरतपुर)", "en": "Bayana Gold Hoard" },
+      "value": { "hi": "भारत में गुप्त स्वर्ण सिक्कों का सबसे बड़ा भंडार (1,821 सिक्के, सर्वाधिक कुमारगुप्त प्रथम)", "en": "Largest Gupta gold hoard in India (1,821 Dināras, mostly Kumaragupta I)" },
+      "category": "मुद्राएँ (Coinage)"
+    },
+    {
+      "label": { "hi": "चारचौमा का शिव मन्दिर", "en": "CharChoma Shiva Temple" },
+      "value": { "hi": "कोटा (5वीं सदी गुप्त काल) — राजस्थान का सबसे प्राचीन विद्यमान देवालय (चतुर्मुखी शिवलिंग)", "en": "Kota (5th-century Gupta) — Oldest standing temple in Rajasthan" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "मण्डोर कृष्ण-लीला तोरण स्तम्भ", "en": "Mandore Krishna-Leela Pillars" },
+      "value": { "hi": "जोधपुर (5वीं सदी गुप्त काल) — गोवर्धन धारण व कालिया दमन का अंकन", "en": "Jodhpur (5th-century Gupta) — Depicts Krishna lifting Govardhan" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "गणितज्ञ ब्रह्मगुप्त (598–668 ई.)", "en": "Brahmagupta (598–668 AD)" },
+      "value": { "hi": "भीनमाल (जालौर) — 'ब्रह्मस्फुट सिद्धांत' (628 ई.), गुरुत्वाकर्षण नियम व शून्य के नियम", "en": "Bhinmal (Jalore) — Authored 'Brahmasphutasiddhanta', gravity & zero principles" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "महाकवि माघ", "en": "Mahakavi Magha" },
+      "value": { "hi": "भीनमाल (जालौर) — अमर महाकाव्य 'शिशुपाल वधम्' (संस्कृत वृहत्त्रयी)", "en": "Bhinmal (Jalore) — Sanskrit epic poet, composed 'Shishupala Vadha'" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "हूण शासक तोरमाण व मिहिरकुल", "en": "Huna Rulers Toramana & Mihirakula" },
+      "value": { "hi": "6ठी सदी — मिहिरकुल कट्टर शैव था; बैराठ के बौद्ध मठों का विनाश किया", "en": "6th century — Mihirakula was fanatic Shaivite; destroyed Bairath monasteries" },
+      "category": "राजवंश व शासक (Dynasties & Rulers)"
+    },
+    {
+      "label": { "hi": "बाड़ोली के शिव मन्दिर", "en": "Baroli Shiva Temples" },
+      "value": { "hi": "रावतभाटा (चित्तौड़गढ़) — घटेश्वर महादेव मन्दिर का निर्माण हूण शासक मिहिरकुल द्वारा", "en": "Rawatbhata (Chittorgarh) — Ghateshwara Mahadeva erected by Mihirakula" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "मिहिरकुल की पराजय (528 ई.)", "en": "Mihirakula Defeat (528 AD)" },
+      "value": { "hi": "मालवा नरेश यशोधर्मन द्वारा पराजित (मन्दसौर एवं रिष्ठल अभिलेख)", "en": "Defeated by Yashodharman of Malwa (Mandsaur & Rishtal Edicts)" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "हूण राजकुमारी हरियादेवी विवाह", "en": "Huna Princess Hariyadevi Marriage" },
+      "value": { "hi": "मेवाड़ के गुहिल शासक अल्लट (आलू रावल) से विवाह (आटपुर अभिलेख 977 ई.)", "en": "Married Mewar King Allata (recorded in Atpur Edict 977 AD)" },
+      "category": "वैवाहिक संबंध (Matrimonial Ties)"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +111,8 @@
         "en": "1. Mauryan Rule in Rajasthan & The Chittorgarh Mauryas"
       },
       "content_markdown": {
-        "hi": "मौर्य साम्राज्य (322-185 ई.पू.) के समय राजस्थान का अधिकांश भाग मगध साम्राज्य के सीधे नियंत्रण में था।\n\n### प्रमुख साक्ष्य एवं शासक:\n1. **सम्राट अशोक के अभिलेख (बैराठ):**\n   - बैराठ (विराटनगर) से प्राप्त **भाबरू शिलालेख** तथा **लघु शिलालेख** यह प्रमाणित करते हैं कि राजस्थान अशोक के साम्राज्य का अंग था।\n2. **चित्तौड़गढ़ दुर्ग का निर्माण (चित्रांगद मोरी):**\n   - जनश्रुति एवं वीर विनोद के अनुसार, चित्तौड़गढ़ के सुदृढ़ गिरि दुर्ग का निर्माण 7वीं-8वीं सदी में **मौर्य राजा चित्रांगद मोरी (Chitrangada Mori)** ने करवाया था।\n3. **मान मोरी शिलालेख (713 ई.):**\n   - चित्तौड़ के मानसरोवर झील तट से प्राप्त। इसमें चित्तौड़ के मौर्य राजा **मान मोरी (Man Mori)** एवं अमृत मंथन का उल्लेख था।\n4. **बप्पा रावल द्वारा चित्तौड़ विजय (734 ई.):**\n   - 734 ई. में मेवाड़ के संस्थापक **बप्पा रावल** (कालभोज) ने हरित ऋषि के आशीर्वाद से मौर्य राजा **मान मोरी को पराजित कर** चित्तौड़गढ़ दुर्ग पर गुहिल वंश का ध्वज फहराया।\n5. **कंसुआ का शिलालेख (738 ई., कोटा):**\n   - कोटा के कंसुआ (कंसवा) मन्दिर से प्राप्त इस शिलालेख में राजस्थान के **अंतिम मौर्य राजा 'धवल' (Dhavala)** का उल्लेख मिलता है।",
-        "en": "During the Mauryan Empire (322-185 BC), major portions of Rajasthan were integrated under Magadhan imperial rule.\n\n### Key Evidences:\n1. **Ashoka's Bhabru Edict at Bairath:** Demonstrates direct Mauryan administrative and Buddhist ecclesiastical jurisdiction.\n2. **Chitrangada Mori:** Traditional founder and builder of the majestic **Chittorgarh Fort**.\n3. **Man Mori Inscription (713 AD):** Sourced from Mansarovar Lake (Chittor), recording the lineage of Raja Man Mori.\n4. **Guhila Conquest (734 AD):** **Bappa Rawal** defeated the Mauryan ruler Man Mori with the blessings of sage Harit Rishi, capturing Chittorgarh.\n5. **Kansua Inscription (738 AD, Kota):** Documents **King Dhavala**, the last known Mauryan monarch in Rajasthan."
+        "hi": "मौर्य साम्राज्य (322-185 ई.पू.) के समय राजस्थान का अधिकांश भाग मगध साम्राज्य के सीधे नियंत्रण में था।\n\n### प्रमुख साक्ष्य एवं शासक:\n1. **सम्राट अशोक के अभिलेख (बैराठ):**\n   - बैराठ (विराटनगर) से प्राप्त **==भाबरू शिलालेख==** तथा लघु शिलालेख प्रमाणित करते हैं कि राजस्थान मौर्य साम्राज्य का अंग था।\n2. **चित्तौड़गढ़ दुर्ग का निर्माण (चित्रांगद मोरी):**\n   - जनश्रुति एवं वीर विनोद के अनुसार, चित्तौड़गढ़ के गिरि दुर्ग का निर्माण 7वीं-8वीं सदी में मौर्य राजा **==चित्रांगद मोरी (Chitrangada Mori)==** ने करवाया था।\n3. **मान मोरी शिलालेख (713 ई.):**\n   - चित्तौड़ के मानसरोवर झील तट से प्राप्त। इसमें चित्तौड़ के मौर्य राजा **==मान मोरी (Man Mori)==** एवं अमृत मंथन का उल्लेख।\n4. **बप्पा रावल द्वारा चित्तौड़ विजय (734 ई.):**\n   - 734 ई. में मेवाड़ के संस्थापक **==बप्पा रावल==** (कालभोज) ने हरित ऋषि के आशीर्वाद से मौर्य राजा **==मान मोरी को पराजित कर==** चित्तौड़गढ़ दुर्ग पर अधिकार किया।\n5. **कंसुआ का शिलालेख (738 ई., कोटा):**\n   - कोटा के कंसुआ मन्दिर से प्राप्त इस शिलालेख में राजस्थान के अंतिम मौर्य राजा **'==धवल==' (Dhavala)** का उल्लेख मिलता है।",
+        "en": "During the Mauryan Empire (322-185 BC), Rajasthan was integrated under imperial rule.\n\n### Key Evidences:\n1. **==Ashoka's Bhabru Edict== at Bairath:** Demonstrates Mauryan administrative jurisdiction.\n2. **==Chitrangada Mori==:** Traditional founder and builder of **==Chittorgarh Fort==**.\n3. **==Man Mori Inscription (713 AD)==:** Sourced from Mansarovar Lake (Chittor), recording Raja Man Mori.\n4. **Guhila Conquest (734 AD):** **==Bappa Rawal defeated Man Mori==** to establish Guhila rule.\n5. **==Kansua Inscription (738 AD, Kota)==:** Documents **==King Dhavala==**, the last known Mauryan monarch in Rajasthan."
       }
     },
     {
@@ -34,8 +121,8 @@
         "en": "2. Western Kshatrapas (Sakas) & Kushana Era"
       },
       "content_markdown": {
-        "hi": "मौर्य साम्राज्य के पतन के बाद उत्तर-पश्चिम भारत में विदेशी शकों (Western Kshatrapas) तथा कुषाणों का प्रभाव राजस्थान तक फैला।\n\n### 1. शक महाक्षत्रप रुद्रदामन प्रथम (130-150 ई.):\n- रुद्रदामन के प्रसिद्ध **जूनागढ़ अभिलेख (150 ई., संस्कृत)** के अनुसार उसका साम्राज्य **'मरु' (मारवाड़/राजस्थान)**, कच्छ, सौराष्ट्र और अवन्ति तक फैला हुआ था।\n\n### 2. कुषाण कालीन साक्ष्य:\n- कुषाण सम्राट **कनिष्क एवं हुविष्क** के तांबे और सोने के सिक्के बैराठ, रैढ़, सांभर, नलियासर (जयपुर) तथा शेखावाटी क्षेत्र से प्राप्त हुए हैं।\n- रंगमहल (हनुमानगढ़) से कुषाण कालीन विशिष्ट लाल मृद्भाण्ड एवं मिट्टी की मूर्तियाँ (गांधार शैली प्रभाव) मिली हैं।",
-        "en": "Following the Mauryan decline, the Western Saka Kshatrapas and Kushanas extended sovereignty into Rajasthan.\n\n1. **Rudradaman I (130-150 AD):** His Junagarh Rock Inscription records sovereign rule over **Maru (Western Rajasthan)** and Malwa.\n2. **Kushana Remains:** Coins of Kanishka and Huvishka found across Bairath, Rairh, Sambhar, and Naliasar. Rangmahal (Hanumangarh) preserves distinct Kushan terracotta sculptures."
+        "hi": "मौर्य साम्राज्य के पतन के बाद उत्तर-पश्चिम भारत में विदेशी शकों तथा कुषाणों का प्रभाव राजस्थान तक फैला।\n\n### 1. शक महाक्षत्रप रुद्रदामन प्रथम (130-150 ई.):\n- रुद्रदामन के प्रसिद्ध **==जूनागढ़ अभिलेख (150 ई., संस्कृत)==** के अनुसार उसका साम्राज्य **'==मरु==' (मारवाड़/राजस्थान)**, कच्छ, सौराष्ट्र और अवन्ति तक फैला हुआ था।\n\n### 2. कुषाण कालीन साक्ष्य:\n- कुषाण सम्राट **==कनिष्क एवं हुविष्क==** के सिक्के बैराठ, रैढ़, सांभर, नलियासर (जयपुर) से प्राप्त हुए।\n- **==रंगमहल (हनुमानगढ़)==** से कुषाण कालीन विशिष्ट लाल मृद्भाण्ड एवं गांधार शैली की मिट्टी की मूर्तियाँ मिली हैं।",
+        "en": "Following Mauryan decline, the Western Saka Kshatrapas and Kushanas extended sovereignty into Rajasthan.\n\n1. **==Rudradaman I (130-150 AD)==:** His Junagarh Rock Inscription records sovereign rule over **==Maru (Western Rajasthan)==**.\n2. **Kushana Remains:** Coins of **==Kanishka and Huvishka==** found across Bairath, Rairh, Sambhar, and Naliasar. **==Rangmahal (Hanumangarh)==** preserves distinct Kushan terracotta sculptures."
       }
     },
     {
@@ -44,8 +131,8 @@
         "en": "3. Gupta Golden Era, Bayana Hoard & Eminent Scholars"
       },
       "content_markdown": {
-        "hi": "गुप्त काल (4थी से 6ठी शताब्दी) भारतीय कला, विज्ञान एवं साहित्य का स्वर्ण युग था। राजस्थान गुप्त साम्राज्य के अंतर्गत एक अत्यंत समृद्ध सांस्कृतिक केंद्र बना।\n\n### 1. समुद्रगुप्त की प्रयाग प्रशस्ति:\n- हरिषेण द्वारा रचित प्रयाग प्रशस्ति में राजस्थान के **मालव, यौधेय, अर्जुनायन एवं आभीर** गणराज्यों द्वारा समुद्रगुप्त की अधीनता स्वीकार करने तथा कर देने (*सर्वकरदान*) का स्पष्ट उल्लेख है।\n\n### 2. बयाना स्वर्ण सिक्का निधि (भरतपुर):\n- भारत में **गुप्तकालीन स्वर्ण सिक्कों (दीनार) का सबसे बड़ा भंडार (1,821 स्वर्ण सिक्के)** 1946 में बयाना से प्राप्त हुआ (सर्वाधिक सिक्के **कुमारगुप्त प्रथम** के)।\n\n### 3. गुप्तकालीन स्थापत्य एवं मन्दिर:\n- **चारचौमा का शिव मन्दिर (कोटा):** 5वीं शताब्दी गुप्त काल का राजस्थान का **सबसे प्राचीन विद्यमान देवालय** (चतुर्मुखी शिवलिंग)।\n- **मुकुंदरा (दर्रा, कोटा) का गुप्त मन्दिर:** गुप्त शैली के पाषाण स्तम्भ व गर्भगृह।\n- **मण्डोर (जोधपुर) के तोरण स्तम्भ:** 5वीं सदी के गुप्त युगीन स्तम्भ जिन पर भगवान श्रीकृष्ण की बाल-लीलाओं (गोवर्धन धारण, कालिया दमन) का मनोहारी अंकन है।\n\n### 4. राजस्थान के अमर विद्वान:\n1. **गणितज्ञ एवं खगोलशास्त्री ब्रह्मगुप्त (598-668 ई.):**\n   - **जन्म:** भीनमाल (जालौर)।\n   - **अमर रचनाएँ:** **'ब्रह्मस्फुट सिद्धांत' (628 ई.)** तथा **'खण्डखाद्यक'**।\n   - **वैज्ञानिक देन:** न्यूटन से सदियों पूर्व **गुरुत्वाकर्षण के नियम (Law of Gravitation)** का प्रतिपादन किया (*'पृथ्वी स्वभाव से ही वस्तुओं को अपनी ओर खींचती है'* ) तथा **शून्य (Zero) के गणितीय नियमों** की व्याख्या की।\n2. **महाकवि माघ (Mahakavi Magha):**\n   - **स्थान:** भीनमाल (जालौर) — महाराजा वर्तलात के दरबारी कवि।\n   - **अमर महाकाव्य:** **'शिशुपाल वधम्' (Shishupala Vadha)** — संस्कृत साहित्य के वृहत्त्रयी का अंग।\n   - **प्रशस्ति:** *'उपमा कालिदासस्य, भारवेरर्थगौरवम्। दण्डिनः पदलालित्यं, माघे सन्ति त्रयो गुणाः॥'* (माघ में तीनों कवियों के गुण विद्यमान थे)।",
-        "en": "During the Gupta Golden Age (4th-6th Century AD), Rajasthan flourished as a hub of classical arts, architecture, and scientific innovation.\n\n### Key Developments:\n1. **Samudragupta's Subjugation:** Allahabad Pillar Edict records tribute from Malavas, Yaudheyas, and Arjunayanas.\n2. **Bayana Gold Hoard:** 1,821 gold coins, primarily of **Kumaragupta I**.\n3. **Gupta Temples:** **CharChoma Shiva Temple** (Kota, 5th century - oldest standing temple in Rajasthan) and Mukundara Temple.\n4. **Mandore Krishna-Leela Pillars:** 5th-century Gupta carvings depicting Krishna lifting Govardhan.\n\n### World-Renowned Scholars of Rajasthan:\n1. **Brahmagupta (Bhinmal, 598-668 AD):** Authored *Brahmasphutasiddhanta* (628 AD). Formulated gravitational principles and zero algebra centuries before western scientists.\n2. **Mahakavi Magha (Bhinmal):** Celebrated Sanskrit poet who composed the master epic *Shishupala Vadha*."
+        "hi": "गुप्त काल (4थी से 6ठी शताब्दी) भारतीय कला, विज्ञान एवं साहित्य का स्वर्ण युग था।\n\n### 1. समुद्रगुप्त की प्रयाग प्रशस्ति:\n- हरिषेण कृत प्रयाग प्रशस्ति में राजस्थान के **==मालव, यौधेय, अर्जुनायन एवं आभीर==** गणराज्यों द्वारा अधीनता स्वीकार करने तथा कर देने (*सर्वकरदान*) का उल्लेख।\n\n### 2. बयाना स्वर्ण सिक्का निधि (भरतपुर):\n- भारत में गुप्तकालीन स्वर्ण सिक्कों (दीनार) का सबसे बड़ा भंडार (**==1,821 स्वर्ण सिक्के==**) 1946 में बयाना से प्राप्त हुआ (सर्वाधिक सिक्के **==कुमारगुप्त प्रथम==** के)।\n\n### 3. गुप्तकालीन स्थापत्य एवं मन्दिर:\n- **==चारचौमा का शिव मन्दिर (कोटा)==:** 5वीं शताब्दी गुप्त काल का राजस्थान का **==सबसे प्राचीन विद्यमान देवालय==** (चतुर्मुखी शिवलिंग)।\n- **मुकुंदरा (दर्रा, कोटा) का गुप्त मन्दिर:** गुप्त शैली के पाषाण स्तम्भ व गर्भगृह।\n- **==मण्डोर (जोधपुर) के तोरण स्तम्भ==:** 5वीं सदी के गुप्त स्तम्भ जिन पर भगवान श्रीकृष्ण की बाल-लीलाओं (**==गोवर्धन धारण==**, कालिया दमन) का अंकन।\n\n### 4. राजस्थान के अमर विद्वान:\n1. **गणितज्ञ एवं खगोलशास्त्री ब्रह्मगुप्त (598-668 ई.):**\n   - **जन्म:** **==भीनमाल (जालौर)==**।\n   - **अमर रचनाएँ:** **'==ब्रह्मस्फुट सिद्धांत==' (628 ई.)** तथा **'खण्डखाद्यक'**।\n   - **वैज्ञानिक देन:** न्यूटन से सदियों पूर्व **==गुरुत्वाकर्षण सिद्धांत (Law of Gravitation)==** का प्रतिपादन किया (*'पृथ्वी स्वभाव से ही वस्तुओं को अपनी ओर खींचती है'*) तथा **शून्य (Zero)** के गणितीय नियमों की व्याख्या की।\n2. **महाकवि माघ (Mahakavi Magha):**\n   - **स्थान:** **==भीनमाल (जालौर)==** — महाराजा वर्तलात के दरबारी कवि।\n   - **अमर महाकाव्य:** **'==शिशुपाल वधम्==' (Shishupala Vadha)** — संस्कृत साहित्य के वृहत्त्रयी का अंग।\n   - **प्रशस्ति:** *'उपमा कालिदासस्य, भारवेरर्थगौरवम्। दण्डिनः पदलालित्यं, ==माघे सन्ति त्रयो गुणाः==॥'*",
+        "en": "During the Gupta Golden Age (4th-6th Century AD), Rajasthan flourished as a hub of sciences and architecture.\n\n### Key Developments:\n1. **Samudragupta's Subjugation:** Allahabad Pillar Edict records tribute from Malavas, Yaudheyas, and Arjunayanas.\n2. **==Bayana Gold Hoard (Bharatpur)==:** **==1,821 gold coins==**, primarily of **==Kumaragupta I==**.\n3. **Gupta Temples:** **==CharChoma Shiva Temple (Kota, 5th century)==** — oldest standing temple in Rajasthan.\n4. **==Mandore Krishna-Leela Pillars (Jodhpur)==:** 5th-century Gupta carvings depicting Krishna lifting Mount Govardhan.\n\n### World-Renowned Scholars:\n1. **==Brahmagupta (Bhinmal, 598-668 AD)==:** Authored **==Brahmasphutasiddhanta (628 AD)==**. Formulated gravitational principles and zero algebra centuries before Western scientists.\n2. **==Mahakavi Magha (Bhinmal)==:** Composed the Sanskrit master epic **==Shishupala Vadha==**."
       }
     },
     {
@@ -54,8 +141,8 @@
         "en": "4. Huna Invasions & Post-Gupta Synthesis"
       },
       "content_markdown": {
-        "hi": "5वीं सदी के उत्तरार्ध में मध्य एशिया से आए बर्बर **हूणों (Hunas)** ने गुप्त साम्राज्य को ध्वस्त कर उत्तर-पश्चिम भारत पर अधिकार कर लिया।\n\n### 1. तोरमाण एवं मिहिरकुल:\n- हूण शासक **तोरमाण** ने राजस्थान व मालवा पर प्रभुत्व स्थापित किया।\n- उसका पुत्र **मिहिरकुल (Mihirakula - 510-542 ई.)** अत्यंत क्रूर शासक था। वह कट्टर **शैव (भगवान शिव का उपासक)** था तथा उसने बौद्ध मन्दिरों व स्तूपों (बैराठ) का भारी विनाश किया।\n\n### 2. बाड़ोली के शिव मन्दिर (Baroli Temples, रावतभाटा, चित्तौड़गढ़):\n- चम्बल एवं बामनी नदी के संगम के निकट स्थित बाड़ोली के भव्य **घटेश्वर शिव मन्दिर** का निर्माण हूण शासक **मिहिरकुल** द्वारा करवाया गया माना जाता है (कर्नल टॉड ने इन मन्दिरों की स्थापत्य कला की मुक्तकंठ से प्रशंसा की)।\n\n### 3. हूणों की पराजय (यशोधर्मन):\n- मालवा के शासक **यशोधर्मन (Yashodharman)** ने 528 ई. में मिहिरकुल को पराजित कर हूण शक्ति को कुचल दिया (मन्दसौर एवं रिष्ठल अभिलेख)।\n\n### 4. राजपूत समाज में हूणों का समावेशन:\n- समय के साथ हूण भारतीय समाज में घुल-मिल गए और 36 राजपूत कुलों में एक शाखा के रूप में मान्य हुए।\n- **ऐतिहासिक प्रमाण:** मेवाड़ के गुहिल शासक **अल्लट (आलू रावल)** ने 10वीं सदी में हूण राजकुमारी **हरियादेवी (Hariyadevi)** से विवाह किया था (आहड़/आटपुर शिलालेख 977 ई.)।",
-        "en": "In the late 5th century, Central Asian **Huna** incursions shattered the Gupta empire.\n\n### Key Events:\n1. **Toramana & Mihirakula:** Toramana and his fanatic Shaivite son Mihirakula conquered northwestern India, razing Buddhist shrines.\n2. **Baroli Shiva Temples (Rawatbhata, Chittorgarh):** The iconic Ghateshwara Mahadeva temple at Baroli was erected under Mihirakula's patronage.\n3. **Defeat by Yashodharman (528 AD):** King Yashodharman of Malwa defeated Mihirakula as recorded in the Mandsaur inscriptions.\n4. **Social Assimilation:** Hunas integrated into Rajput lineages; Mewar King **Allata** married Huna princess **Hariyadevi** (recorded in Atpur Inscription 977 AD)."
+        "hi": "5वीं सदी के उत्तरार्ध में मध्य एशिया से आए **हूणों (Hunas)** ने उत्तर-पश्चिम भारत पर अधिकार कर लिया।\n\n### 1. तोरमाण एवं मिहिरकुल:\n- हूण शासक **तोरमाण** के पुत्र **==मिहिरकुल (510-542 ई.)==** ने शासन किया। वह कट्टर **शैव** था तथा उसने बौद्ध मन्दिरों व स्तूपों (**बैराठ**) का भारी विनाश किया।\n\n### 2. बाड़ोली के शिव मन्दिर (रावतभाटा, चित्तौड़गढ़):\n- चम्बल-बामनी संगम पर स्थित बाड़ोली के भव्य **==घटेश्वर शिव मन्दिर==** का निर्माण हूण शासक **==मिहिरकुल==** द्वारा करवाया गया माना जाता है।\n\n### 3. हूणों की पराजय (यशोधर्मन):\n- मालवा के शासक **==यशोधर्मन (528 ई.)==** ने मिहिरकुल को पराजित कर हूण शक्ति को कुचल दिया (मन्दसौर एवं रिष्ठल अभिलेख)।\n\n### 4. राजपूत समाज में हूणों का समावेशन:\n- मेवाड़ के गुहिल शासक **==अल्लट (आलू रावल)==** ने 10वीं सदी में हूण राजकुमारी **==हरियादेवी (Hariyadevi)==** से विवाह किया था (आहड़/आटपुर शिलालेख 977 ई.)।",
+        "en": "In the late 5th century, Central Asian **Hunas** entered northwestern India.\n\n### Key Events:\n1. **==Toramana & Mihirakula==:** Toramana and his Shaivite son Mihirakula conquered northwestern India, razing Buddhist shrines.\n2. **==Baroli Shiva Temples (Rawatbhata, Chittorgarh)==:** The iconic Ghateshwara Mahadeva temple was erected under **==Mihirakula's==** patronage.\n3. **==Defeat by Yashodharman (528 AD)==:** King Yashodharman of Malwa defeated Mihirakula (Mandsaur & Rishtal inscriptions).\n4. **Social Assimilation:** Mewar King **==Allata==** married Huna princess **==Hariyadevi==** (Atpur Inscription 977 AD)."
       }
     }
   ],
@@ -98,50 +185,43 @@
     },
     {
       "hi": "शक महाक्षत्रप रुद्रदामन के जूनागढ़ अभिलेख (150 ई.) में राजस्थान के 'मरु' प्रदेश पर शासन का उल्लेख है।",
-      "en": "Saka Mahakshatrapa Rudradaman's Junagarh Inscription (150 AD) records jurisdiction over Maru."
+      "en": "Western Kshatrapa Rudradaman's Junagarh Inscription (150 AD) records governance over 'Maru'."
     }
   ],
   "timeline": [
     {
       "year_or_era": "3rd Century BC",
       "event": {
-        "hi": "सम्राट अशोक द्वारा बैराठ में भाबरू शिलालेख एवं बौद्ध स्तूपों का निर्माण।",
-        "en": "Emperor Ashoka issues Bhabru Edict and erects Buddhist stupas at Bairath."
+        "hi": "मौर्य सम्राट अशोक के भाबरू शिलालेख की विराटनगर (बैराठ) में स्थापना।",
+        "en": "Erection of Ashoka's Bhabru Edict at Viratnagar (Bairath)."
       }
     },
     {
       "year_or_era": "150 AD",
       "event": {
-        "hi": "शक महाक्षत्रप रुद्रदामन का जूनागढ़ अभिलेख — मरु (राजस्थान) पर क्षत्रप शासन।",
-        "en": "Junagarh Edict of Rudradaman I confirms Saka sway over Maru territory."
+        "hi": "शक महाक्षत्रप रुद्रदामन प्रथम का जूनागढ़ अभिलेख (मरु प्रदेश पर शासन)।",
+        "en": "Rudradaman's Junagarh Edict documenting Saka hegemony over Maru."
       }
     },
     {
       "year_or_era": "5th Century AD",
       "event": {
-        "hi": "कोटा में चारचौमा शिव मन्दिर का निर्माण एवं बयाना में गुप्त स्वर्ण सिक्कों का संचयन।",
-        "en": "Construction of CharChoma Temple and accumulation of Bayana gold coin hoard."
+        "hi": "गुप्त स्वर्ण युग — चारचौमा शिव मन्दिर (कोटा) व मण्डोर स्तम्भों का निर्माण।",
+        "en": "Gupta era construction of CharChoma Temple (Kota) and Mandore pillars."
       }
     },
     {
       "year_or_era": "528 AD",
       "event": {
-        "hi": "मालवा नरेश यशोधर्मन द्वारा क्रूर हूण शासक मिहिरकुल की ऐतिहासिक पराजय।",
-        "en": "Yashodharman of Malwa decisively defeats Huna conqueror Mihirakula."
-      }
-    },
-    {
-      "year_or_era": "628 AD",
-      "event": {
-        "hi": "भीनमाल में गणितज्ञ ब्रह्मगुप्त द्वारा 'ब्रह्मस्फुट सिद्धांत' की अमर रचना।",
-        "en": "Brahmagupta composes 'Brahmasphutasiddhanta' at Bhinmal."
+        "hi": "यशोधर्मन द्वारा हूण आक्रांता मिहिरकुल की ऐतिहासिक पराजय।",
+        "en": "Defeat of Huna conqueror Mihirakula by King Yashodharman of Malwa."
       }
     },
     {
       "year_or_era": "734 AD",
       "event": {
-        "hi": "बप्पा रावल द्वारा मौर्य राजा मान मोरी को पराजित कर चित्तौड़ पर अधिकार।",
-        "en": "Bappa Rawal defeats Mauryan King Man Mori to capture Chittorgarh."
+        "hi": "बप्पा रावल द्वारा मौर्य राजा मान मोरी को हराकर चित्तौड़गढ़ पर गुहिल वंश की स्थापना।",
+        "en": "Bappa Rawal captures Chittorgarh from Mauryan ruler Man Mori."
       }
     }
   ],

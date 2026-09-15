@@ -14,9 +14,131 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "16 महाजनपद साहित्यिक स्रोत", "en": "16 Mahajanapadas Source" },
+      "value": { "hi": "अंगुत्तर निकाय (बौद्ध ग्रंथ) एवं भगवती सूत्र (जैन ग्रंथ)", "en": "Anguttara Nikaya (Buddhist) & Bhagavati Sutra (Jain)" },
+      "category": "साहित्यिक स्रोत (Literary Sources)"
+    },
+    {
+      "label": { "hi": "मत्स्य जनपद भौगोलिक क्षेत्र", "en": "Matsya Region" },
+      "value": { "hi": "जयपुर, कोटपूतली-बहरोड़, अलवर, दौसा एवं पश्चिमी भरतपुर", "en": "Jaipur, Kotputli-Behror, Alwar, Dausa, Western Bharatpur" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "मत्स्य जनपद राजधानी", "en": "Matsya Capital" },
+      "value": { "hi": "विराटनगर (बैराठ) — संस्थापक: राजा विराट", "en": "Viratnagar (Bairath) — Founder: King Virat" },
+      "category": "राजधानी (Capital)"
+    },
+    {
+      "label": { "hi": "पाण्डवों का अज्ञातवास", "en": "Pandavas' Exile" },
+      "value": { "hi": "13वाँ वर्ष विराटनगर में (अर्जुन: बृहन्नला, युधिष्ठिर: कंक, भीम: वल्लभ)", "en": "13th year in Viratnagar (Arjuna: Brihannala, Yudhishthira: Kanka)" },
+      "category": "पौराणिक सन्दर्भ (Epic Reference)"
+    },
+    {
+      "label": { "hi": "राजकुमारी उत्तरा विवाह", "en": "Princess Uttara Marriage" },
+      "value": { "hi": "राजा विराट की पुत्री उत्तरा का विवाह अर्जुन-पुत्र अभिमन्यु से (पुत्र: परीक्षित)", "en": "King Virat's daughter Uttara married Abhimanyu (Son: Parikshit)" },
+      "category": "पौराणिक सन्दर्भ (Epic Reference)"
+    },
+    {
+      "label": { "hi": "शूरसेन जनपद क्षेत्र", "en": "Shoorsena Region" },
+      "value": { "hi": "पूर्वी राजस्थान (भरतपुर, धौलपुर, करौली) एवं मथुरा", "en": "Eastern Rajasthan (Bharatpur, Dholpur, Karauli) & Mathura" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "शूरसेन जनपद राजधानी व वंश", "en": "Shoorsena Capital & Clan" },
+      "value": { "hi": "मथुरा (मेगस्थनीज: मेथोरा / सौरसेनोई) — यदुवंशी/वृष्णि वंश (श्रीकृष्ण)", "en": "Mathura (Megasthenes: Methora) — Yaduvanshi / Vrishni clan" },
+      "category": "राजधानी (Capital)"
+    },
+    {
+      "label": { "hi": "शिवि जनपद भौगोलिक क्षेत्र", "en": "Sibi Region" },
+      "value": { "hi": "मेवाड़ (चित्तौड़गढ़, उदयपुर, भीलवाड़ा)", "en": "Mewar (Chittorgarh, Udaipur, Bhilwara)" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "शिवि जनपद राजधानी", "en": "Sibi Capital" },
+      "value": { "hi": "मध्यमिका / मझमिका (वर्तमान: नगरी, चित्तौड़गढ़)", "en": "Madhyamika / Majhamika (Modern: Nagari, Chittorgarh)" },
+      "category": "राजधानी (Capital)"
+    },
+    {
+      "label": { "hi": "नगरी (मध्यमिका) उत्खनन", "en": "Nagari Excavation" },
+      "value": { "hi": "डॉ. डी.आर. भण्डारकर (1904)", "en": "Dr. D.R. Bhandarkar (1904)" },
+      "category": "उत्खनन (Excavation)"
+    },
+    {
+      "label": { "hi": "शिवि सिक्के मुद्रालेख", "en": "Sibi Coin Inscription" },
+      "value": { "hi": "'मझमिकाया शिबि जनपदस' (ब्राह्मी लिपि)", "en": "'Majhamikaya Sibi Janapadas' (Brahmi script)" },
+      "category": "मुद्राएँ (Coinage)"
+    },
+    {
+      "label": { "hi": "मध्यमिका पर यूनानी घेराबंदी", "en": "Greek Siege on Madhyamika" },
+      "value": { "hi": "पतंजलि के महाभाष्य में उल्लेख ('अरुणद्यवनः साकेतं, अरुणद्यवनो माध्यमिकाम्')", "en": "Documented in Patanjali's Mahabhashya ('Arunad Yavanah Madhyamikam')" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    },
+    {
+      "label": { "hi": "मालव जनपद भौगोलिक क्षेत्र", "en": "Malava Region" },
+      "value": { "hi": "टोंक, जयपुर ग्रामीण, सवाई माधोपुर, अजमेर", "en": "Tonk, Jaipur Rural, Sawai Madhopur, Ajmer" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "मालव जनपद राजधानी", "en": "Malava Capital" },
+      "value": { "hi": "मालवनगर / नगर (कारकोट नगर, उनियारा, टोंक)", "en": "Malavanagar / Nagar (Karkotnagar, Uniyara, Tonk)" },
+      "category": "राजधानी (Capital)"
+    },
+    {
+      "label": { "hi": "मालव सिक्के मुद्रालेख", "en": "Malava Coin Inscription" },
+      "value": { "hi": "'मालवानां जयः' (नगर/टोंक से हजारों तांबे के सिक्के प्राप्त)", "en": "'Malavanam Jayah' (Thousands of copper coins from Nagar/Tonk)" },
+      "category": "मुद्राएँ (Coinage)"
+    },
+    {
+      "label": { "hi": "मालव संवत् / विक्रम संवत्", "en": "Malava / Vikram Samvat" },
+      "value": { "hi": "57 ई.पू. — शकों पर विजय के उपलक्ष्य में कृत/मालव संवत् की शुरुआत", "en": "57 BC — Inception of Krita / Malava Era celebrating victory over Sakas" },
+      "category": "कालक्रम (Chronology)"
+    },
+    {
+      "label": { "hi": "नांदसा यूप स्तम्भ अभिलेख", "en": "Nandsa Yupa Inscription" },
+      "value": { "hi": "225 ई. (भीलवाड़ा) — मालव प्रधान सोम द्वारा षोडश यज्ञ का उल्लेख", "en": "225 AD (Bhilwara) — Sacrificial rites by Malava leader Soma" },
+      "category": "अभिलेख (Inscriptions)"
+    },
+    {
+      "label": { "hi": "यौधेय जनपद भौगोलिक क्षेत्र", "en": "Yaudheya Region" },
+      "value": { "hi": "उत्तरी राजस्थान (श्रीगंगानगर, हनुमानगढ़) व संलग्न पंजाब", "en": "Northern Rajasthan (Ganganagar, Hanumangarh) & Punjab" },
+      "category": "स्थान (Location)"
+    },
+    {
+      "label": { "hi": "यौधेयों की उपाधि (पाणिनी)", "en": "Yaudheya Title by Panini" },
+      "value": { "hi": "'आयुधजीवी संघ' (शस्त्रों के बल पर जीने वाला अजेय गण)", "en": "'Ayudhajivi Sangha' (Martial warrior republic)" },
+      "category": "उपनाम (Nomenclature)"
+    },
+    {
+      "label": { "hi": "यौधेय सिक्के मुद्रालेख व देवता", "en": "Yaudheya Coins & Deity" },
+      "value": { "hi": "'यौधेय गणस्य जयः' — युद्ध के देवता कार्तिकेय (षडानन) व मयूर का अंकन", "en": "'Yaudheya Ganasya Jayah' — Depicts God Kartikeya & Peacock" },
+      "category": "मुद्राएँ (Coinage)"
+    },
+    {
+      "label": { "hi": "यौधेयों की ऐतिहासिक विजय", "en": "Yaudheya Historic Feat" },
+      "value": { "hi": "उत्तर भारत से कुषाण शक्ति का विनाश (जूनागढ़ अभिलेख में अजेय वीर)", "en": "Crushed Kushana supremacy in North India (Junagarh Edict)" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    },
+    {
+      "label": { "hi": "अर्जुनायन जनपद", "en": "Arjunayana Janapada" },
+      "value": { "hi": "अलवर-भरतपुर क्षेत्र (सिक्के: 'अर्जुनायनानां जयः')", "en": "Alwar-Bharatpur region (Coins: 'Arjunayananam Jayah')" },
+      "category": "प्रमुख स्थल (Key Sites)"
+    },
+    {
+      "label": { "hi": "राजन्य जनपद", "en": "Rajanya Janapada" },
+      "value": { "hi": "भरतपुर क्षेत्र (सिक्के: 'राजन्य जनपदस')", "en": "Bharatpur region (Coins: 'Rajanya Janapadas')" },
+      "category": "प्रमुख स्थल (Key Sites)"
+    },
+    {
+      "label": { "hi": "शाल्व जनपद", "en": "Salva Janapada" },
+      "value": { "hi": "अलवर क्षेत्र (मत्स्य जनपद का समकालीन)", "en": "Alwar region (Contemporary of Matsya Janapada)" },
+      "category": "प्रमुख स्थल (Key Sites)"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +146,8 @@
         "en": "1. Matsya & Shoorsena Janapadas"
       },
       "content_markdown": {
-        "hi": "बौद्ध ग्रंथ **'अंगुत्तर निकाय' (Anguttara Nikaya)** तथा जैन ग्रंथ **'भगवती सूत्र'** में वर्णित 16 महाजनपदों में से **मत्स्य एवं शूरसेन** का विस्तार प्रत्यक्ष रूप से राजस्थान के भूभाग पर था।\n\n### 1. मत्स्य जनपद (Matsya Janapada):\n- **भौगोलिक विस्तार:** जयपुर, कोटपूतली-बहरोड़, अलवर, दौसा एवं भरतपुर का पश्चिमी भाग।\n- **राजधानी:** **विराटनगर (बैराठ)**।\n- **संस्थापक:** राजा **विराट** (महाभारत काल)।\n- **महाभारत कालीन महत्व:**\n  - पाण्डवों ने अपने 13वें वर्ष का **अज्ञातवास** राजा विराट के दरबार में छद्म वेश में बिताया (अर्जुन 'बृहन्नला', युधिष्ठिर 'कंक', भीम 'वल्लभ' बने)।\n  - राजा विराट की पुत्री **उत्तरा (Uttara)** का विवाह अर्जुन-पुत्र **अभिमन्यु** के साथ हुआ। उत्तरा के पुत्र **परीक्षित** आगे चलकर हस्तिनापुर के चक्रवर्ती सम्राट बने।\n- **राजनीतिक विलय:** महाभारत युद्ध में राजा विराट के मारे जाने के बाद मत्स्य राज्य कमजोर हुआ और अंततः **मगध साम्राज्य (चेदि एवं मौर्यों)** में विलीन हो गया।\n\n### 2. शूरसेन जनपद (Shoorsena Janapada):\n- **भौगोलिक विस्तार:** ब्रज क्षेत्र — पूर्वी राजस्थान के **भरतपुर, धौलपुर, करौली** तथा उत्तर प्रदेश का मथुरा क्षेत्र।\n- **राजधानी:** **मथुरा (Mathura)**; यूनानी लेखक मेगस्थनीज ने इसे *'मेथोरा'* तथा शूरसेन को *'सौरसेनोई'* कहा।\n- **शासक वंश:** यदुवंशी / वृष्णि वंश (भगवान श्रीकृष्ण से संबंधित)।",
-        "en": "Of the 16 Mahajanapadas documented in the Buddhist **Anguttara Nikaya** and Jain **Bhagavati Sutra**, Matsya and Shoorsena encompassed territory in eastern Rajasthan.\n\n### 1. Matsya Janapada:\n- **Territory:** Jaipur, Kotputli-Behror, Alwar, Dausa, and western Bharatpur.\n- **Capital:** **Viratnagar (Bairath)**, founded by King **Virat**.\n- **Epic Context:** The Pandavas spent their 13th year of incognito exile at Virat's court. Princess **Uttara** was married to **Abhimanyu**, whose son **Parikshit** inherited the throne of Hastinapur.\n- **Annexation:** Later absorbed into the expanding **Magadha Empire** under the Nandas and Mauryas.\n\n### 2. Shoorsena Janapada:\n- **Territory:** Eastern Rajasthan (Bharatpur, Dholpur, Karauli) and the Braj area.\n- **Capital:** **Mathura** (termed *Methora* by Greek historian Megasthenes).\n- **Dynasty:** Yaduvanshi / Vrishni clan associated with Lord Krishna."
+        "hi": "बौद्ध ग्रंथ **==अंगुत्तर निकाय==** तथा जैन ग्रंथ **==भगवती सूत्र==** में वर्णित 16 महाजनपदों में से **मत्स्य एवं शूरसेन** का विस्तार राजस्थान के भूभाग पर था।\n\n### 1. मत्स्य जनपद (Matsya Janapada):\n- **भौगोलिक विस्तार:** जयपुर, कोटपूतली-बहरोड़, अलवर, दौसा एवं भरतपुर का पश्चिमी भाग।\n- **राजधानी:** **==विराटनगर (बैराठ)==**।\n- **संस्थापक:** राजा **==विराट==** (महाभारत काल)।\n- **महाभारत कालीन महत्व:**\n  - पाण्डवों ने अपने 13वें वर्ष का **==अज्ञातवास==** राजा विराट के दरबार में छद्म वेश में बिताया (अर्जुन 'बृहन्नला', युधिष्ठिर 'कंक', भीम 'वल्लभ' बने)।\n  - राजा विराट की पुत्री **==उत्तरा (Uttara)==** का विवाह अर्जुन-पुत्र **==अभिमन्यु==** के साथ हुआ। उत्तरा के पुत्र **==परीक्षित==** आगे चलकर हस्तिनापुर के चक्रवर्ती सम्राट बने।\n- **राजनीतिक विलय:** महाभारत युद्ध के बाद मत्स्य राज्य अंततः **मगध साम्राज्य (चेदि एवं मौर्यों)** में विलीन हो गया।\n\n### 2. शूरसेन जनपद (Shoorsena Janapada):\n- **भौगोलिक विस्तार:** ब्रज क्षेत्र — पूर्वी राजस्थान के **==भरतपुर, धौलपुर, करौली==** तथा उत्तर प्रदेश का मथुरा क्षेत्र।\n- **राजधानी:** **==मथुरा (Mathura)==**; यूनानी लेखक मेगस्थनीज ने इसे *'मेथोरा'* तथा शूरसेन को *'सौरसेनोई'* कहा।\n- **शासक वंश:** **==यदुवंशी / वृष्णि वंश==** (भगवान श्रीकृष्ण से संबंधित)।",
+        "en": "Of the 16 Mahajanapadas documented in Buddhist **==Anguttara Nikaya==** and Jain **==Bhagavati Sutra==**, Matsya and Shoorsena encompassed eastern Rajasthan.\n\n### 1. Matsya Janapada:\n- **Territory:** Jaipur, Kotputli-Behror, Alwar, Dausa, and western Bharatpur.\n- **Capital:** **==Viratnagar (Bairath)==**, founded by King **==Virat==**.\n- **Epic Context:** Pandavas spent their 13th year of incognito exile at Virat's court. Princess **==Uttara==** married **==Abhimanyu==**, whose son **==Parikshit==** inherited Hastinapur.\n- **Annexation:** Later absorbed into **Magadha Empire** under Mauryas.\n\n### 2. Shoorsena Janapada:\n- **Territory:** Eastern Rajasthan (**==Bharatpur, Dholpur, Karauli==**) and Braj.\n- **Capital:** **==Mathura==** (termed *Methora* by Megasthenes).\n- **Dynasty:** **==Yaduvanshi / Vrishni clan==** (Lord Krishna)."
       }
     },
     {
@@ -34,8 +156,8 @@
         "en": "2. Sibi Janapada — Madhyamika (Nagari, Chittorgarh)"
       },
       "content_markdown": {
-        "hi": "सिकंदर के 326 ई.पू. के भारत आक्रमण के समय पंजाब की रावी-व्यास नदियों के तट पर रहने वाली **शिवि जाति** ने दक्षिण की ओर प्रवास किया और मेवाड़ में एक शक्तिशाली गणतंत्र की स्थापना की।\n\n### आधारभूत तथ्य:\n- **भौगोलिक क्षेत्र:** मेवाड़ (चित्तौड़गढ़, उदयपुर, भीलवाड़ा क्षेत्र)।\n- **राजधानी:** **मध्यमिका (Madhyamika / मझमिका)** — आधुनिक **नगरी (Nagari, चित्तौड़गढ़)**।\n- **उत्खननकर्ता:** 1904 ई. में प्रसिद्ध इतिहासकार **डॉ. डी.आर. भण्डारकर (D.R. Bhandarkar)** द्वारा नगरी का उत्खनन।\n\n### मुद्राएँ एवं अभिलेखीय साक्ष्य:\n1. **सिक्के:** नगरी से प्राप्त तांबे के सिक्कों पर ब्राह्मी लिपि में **'मझमिकाया शिबि जनपदस' (Majhamikaya Sibi Janapadas - मध्यमिका के शिवि जनपद का सिक्का)** उत्कीर्ण है।\n2. **घोसुण्डी शिलालेख (2nd Century BC):** नगरी के पास घोसुण्डी से प्राप्त अभिलेख में शिवि क्षेत्र में भागवत धर्म व अश्वमेध यज्ञ का वर्णन मिलता है।\n3. **पतंजलि का महाभाष्य:** पतंजलि ने अपने 'महाभाष्य' में लिखा कि *'यवनों (यूनानियों) ने मध्यमिका को घेरा था'* (*अरुणद्यवनः साकेतं, अरुणद्यवनो माध्यमिकाम्*) — यूनानी राजा डिमेट्रियस/मिनाण्डर के आक्रमण का प्रमाण।",
-        "en": "Following Alexander's invasion of the Punjab (326 BC), the martial **Sibi tribe** migrated southward to settle in the Mewar region of Rajasthan.\n\n### Key Facts:\n- **Territory:** Mewar (Chittorgarh, Udaipur, Bhilwara).\n- **Capital:** **Madhyamika** (Modern **Nagari**, near Chittorgarh).\n- **Excavator:** First excavated in 1904 by **Dr. D.R. Bhandarkar**.\n\n### Numismatic & Epigraphic Evidence:\n1. **Coins:** Copper coins bearing the Brahmi legend **'Majhamikaya Sibi Janapadas'** (Coin of the Sibi Republic of Madhyamika).\n2. **Ghosundi Inscription:** Documents Ashvamedha sacrifice in the Sibi region.\n3. **Patanjali's Mahabhashya:** Records that the Indo-Greeks under Demetrius/Menander laid siege to Madhyamika (*Arunad Yavanah Madhyamikam*)."
+        "hi": "सिकंदर के 326 ई.पू. के भारत आक्रमण के समय पंजाब की रावी-व्यास नदियों के तट पर रहने वाली **शिवि जाति** ने दक्षिण की ओर प्रवास कर मेवाड़ में गणतंत्र स्थापित किया।\n\n### आधारभूत तथ्य:\n- **भौगोलिक क्षेत्र:** मेवाड़ (**==चित्तौड़गढ़, उदयपुर, भीलवाड़ा==**)।\n- **राजधानी:** **==मध्यमिका (Madhyamika / मझमिका)==** — आधुनिक **==नगरी (Nagari, चित्तौड़गढ़)==**।\n- **उत्खनन:** 1904 ई. में **==डॉ. डी.आर. भण्डारकर (D.R. Bhandarkar)==** द्वारा।\n\n### मुद्राएँ एवं अभिलेखीय साक्ष्य:\n1. **सिक्के:** नगरी से प्राप्त तांबे के सिक्कों पर ब्राह्मी लिपि में **'==मझमिकाया शिबि जनपदस=='** (मध्यमिका के शिवि जनपद का सिक्का) उत्कीर्ण है।\n2. **घोसुण्डी शिलालेख (2nd Century BC):** नगरी के पास घोसुण्डी से प्राप्त अभिलेख में शिवि क्षेत्र में भागवत धर्म व **अश्वमेध यज्ञ** का वर्णन।\n3. **पतंजलि का महाभाष्य:** पतंजलि ने लिखा कि *'यवनों (यूनानियों) ने मध्यमिका को घेरा था'* (**==अरुणद्यवनः साकेतं, अरुणद्यवनो माध्यमिकाम्==**) — यूनानी राजा डिमेट्रियस/मिनाण्डर के आक्रमण का प्रमाण।",
+        "en": "Following Alexander's invasion (326 BC), the martial **Sibi tribe** migrated to settle in Mewar.\n\n### Key Facts:\n- **Territory:** Mewar (**==Chittorgarh, Udaipur, Bhilwara==**).\n- **Capital:** **==Madhyamika==** (Modern **==Nagari==**, Chittorgarh).\n- **Excavator:** Excavated in 1904 by **==Dr. D.R. Bhandarkar==**.\n\n### Numismatic & Epigraphic Evidence:\n1. **Coins:** Inscribed with **'==Majhamikaya Sibi Janapadas=='** in Brahmi.\n2. **Ghosundi Inscription:** Documents early Bhagavatism and Ashvamedha sacrifice.\n3. **Patanjali's Mahabhashya:** Records Greek siege of Madhyamika (**==Arunad Yavanah Madhyamikam==**)."
       }
     },
     {
@@ -44,8 +166,8 @@
         "en": "3. Malava Janapada — Initiators of the Malava/Vikrama Era"
       },
       "content_markdown": {
-        "hi": "मालव भारत का एक अत्यंत पराक्रमी गणतांत्रिक समुदाय था, जिसने विदेशी शकों को पराजित कर भारतीय इतिहास में अमर कीर्ति अर्जित की।\n\n### आधारभूत तथ्य:\n- **भौगोलिक क्षेत्र:** टोंक, जयपुर ग्रामीण, सवाई माधोपुर एवं अजमेर का पूर्वी भाग।\n- **राजधानी:** **मालवनगर / नगर (Karkotnagar - उनियारा तहसील, टोंक)**।\n- **उत्खनन:** कार्लाइल एवं डॉ. ए.एस. अल्तेकर द्वारा।\n\n### ऐतिहासिक योगदान व साक्ष्य:\n1. **सिक्कों की बहुतायत:**\n   - नगर (टोंक) से मालव गण के **हजारों तांबे के सिक्के** मिले हैं, जिन पर ब्राह्मी लिपि में **'मालवानां जयः' (मालवों की विजय हो)** अंकित है।\n2. **मालव संवत् / विक्रम संवत् (57 ई.पू.):**\n   - मालवों ने विदेशी शक-क्षत्रपों पर अपनी ऐतिहासिक विजय के उपलक्ष्य में **57 ई.पू. में 'कृत संवत् / मालव संवत्'** प्रारम्भ किया, जिसे आगे चलकर **'विक्रम संवत्' (Vikram Samvat)** कहा गया।\n3. **नांदसा यूप स्तम्भ (225 ई., भीलवाड़ा):**\n   - मालव गण के प्रधान 'सोम' द्वारा वैदिक षोडश यज्ञ कराने तथा मालवों की स्वतंत्रता की पुनर्स्थापना का उल्लेख।\n4. **समुद्रगुप्त की प्रयाग प्रशस्ति:**\n   - चौथी शताब्दी में गुप्त सम्राट समुद्रगुप्त ने मालवों को अपनी अधीनता स्वीकार करने (कर देने) के लिए बाध्य किया।",
-        "en": "The **Malavas** were a fiercely independent republican clan that migrated from the Ravi-Chenab basin after Alexander's invasion to establish a republic in eastern Rajasthan.\n\n### Key Facts:\n- **Territory:** Tonk, Jaipur, Sawai Madhopur, and eastern Ajmer.\n- **Capital:** **Malavanagar** (Modern **Nagar / Karkotnagar**, Uniyara, Tonk).\n\n### Historic Achievements:\n1. **Coinage:** Thousands of square and round copper coins minted with the legend **'Malavanam Jayah'** (Victory to the Malavas).\n2. **Founders of the Malava / Vikrama Era (57 BC):** Celebrated their victory over Saka invaders by instituting the **Krita/Malava Samvat (57 BC)**, later renamed **Vikram Samvat**.\n3. **Nandsa Yupa Pillar (225 AD):** Commemorates sacrificial rituals performed by Malava leader Soma.\n4. **Gupta Era:** Subdued by Samudragupta as documented in the Allahabad Pillar Edict."
+        "hi": "मालव भारत का अत्यंत पराक्रमी गणतांत्रिक समुदाय था, जिसने विदेशी शकों को पराजित किया।\n\n### आधारभूत तथ्य:\n- **भौगोलिक क्षेत्र:** **==टोंक, जयपुर ग्रामीण, सवाई माधोपुर एवं अजमेर==**।\n- **राजधानी:** **==मालवनगर / नगर (Karkotnagar - उनियारा तहसील, टोंक)==**।\n- **उत्खनन:** कार्लाइल एवं डॉ. ए.एस. अल्तेकर द्वारा।\n\n### ऐतिहासिक योगदान व साक्ष्य:\n1. **सिक्कों की बहुतायत:**\n   - नगर (टोंक) से मालव गण के हजारों तांबे के सिक्के मिले, जिन पर **'==मालवानां जयः==' (मालवों की विजय हो)** अंकित है।\n2. **मालव संवत् / विक्रम संवत् (57 ई.पू.):**\n   - मालवों ने विदेशी शक-क्षत्रपों पर विजय के उपलक्ष्य में **==57 ई.पू. में 'कृत संवत् / मालव संवत्'==** प्रारम्भ किया, जिसे आगे चलकर **==विक्रम संवत् (Vikram Samvat)==** कहा गया।\n3. **नांदसा यूप स्तम्भ (225 ई., भीलवाड़ा):**\n   - मालव गण के प्रधान **सोम** द्वारा वैदिक षोडश यज्ञ कराने तथा मालवों की स्वतंत्रता की पुनर्स्थापना का उल्लेख।\n4. **समुद्रगुप्त की प्रयाग प्रशस्ति:**\n   - चौथी शताब्दी में गुप्त सम्राट समुद्रगुप्त ने मालवों को कर देने के लिए बाध्य किया।",
+        "en": "The **Malavas** were a fiercely independent republican clan.\n\n### Key Facts:\n- **Territory:** **==Tonk, Jaipur Rural, Sawai Madhopur, and Ajmer==**.\n- **Capital:** **==Malavanagar / Nagar (Karkotnagar, Uniyara, Tonk)==**.\n\n### Historic Achievements:\n1. **Coinage:** Thousands of copper coins minted with **'==Malavanam Jayah=='** (Victory to the Malavas).\n2. **Founders of Malava / Vikrama Era (57 BC):** Instituted the **==Krita/Malava Samvat (57 BC)==**, later called **==Vikram Samvat==**.\n3. **Nandsa Yupa Pillar (225 AD, Bhilwara):** Commemorates sacrificial rites by Malava leader Soma.\n4. **Gupta Era:** Subdued by Samudragupta (Prayag Prashasti)."
       }
     },
     {
@@ -54,8 +176,8 @@
         "en": "4. Yaudheya, Rajanya & Salva Republics"
       },
       "content_markdown": {
-        "hi": "### 1. यौधेय जनपद (Yaudheya Janapada):\n- **भौगोलिक क्षेत्र:** उत्तरी राजस्थान (**श्रीगंगानगर, हनुमानगढ़**) तथा संलग्न पंजाब-हरियाणा का भूभाग।\n- **विशेषता:**\n  - पाणिनी की 'अष्टाध्यायी' में इन्हें **'आयुधजीवी संघ' (हथियारों के बल पर जीने वाले योद्धा)** कहा गया है।\n  - यौधेयों के सिक्कों पर **'यौधेय गणस्य जयः'** अंकित है तथा युद्ध के देवता **कार्तिकेय (षडानन)** एवं मयूर का अंकन है।\n  - इन्होंने उत्तर भारत से शक्तिशाली **कुषाणों की शक्ति को समाप्त करने** में महत्वपूर्ण भूमिका निभाई।\n  - रुद्रदामन के जूनागढ़ अभिलेख (150 ई.) में यौधेयों को 'अजेय वीर' बताया गया है।\n\n### 2. राजन्य जनपद (Rajanya Janapada):\n- **भौगोलिक क्षेत्र:** भरतपुर एवं अलवर क्षेत्र।\n- **सिक्के:** यहाँ से प्राप्त सिक्कों पर ब्राह्मी लिपि में **'राजन्य जनपदस'** अंकित है।\n\n### 3. शाल्व जनपद (Salva Janapada):\n- **भौगोलिक क्षेत्र:** अलवर जिले का भूभाग। मत्स्य जनपद के समकालीन।\n\n### 4. कुरु जनपद:\n- उत्तरी अलवर का कुछ भाग (मण्डलावर क्षेत्र) कुरु महाजनपद (राजधानी: इन्द्रप्रस्थ) के अंतर्गत आता था।",
-        "en": "### 1. Yaudheya Republic:\n- **Territory:** Northern Rajasthan (Ganganagar, Hanumangarh) and adjacent Punjab/Haryana.\n- **Martial Prowess:** Described in Panini's *Ashtadhyayi* as an *Ayudhajivi Sangha* (a republic thriving by arms).\n- **Coins:** Inscribed with **'Yaudheya Ganasya Jayah'** featuring **Lord Kartikeya (God of War)** and the peacock.\n- **Historic Feat:** Credited with breaking the imperial power of the Kushanas in Northern India.\n\n### 2. Rajanya Republic:\n- Covered the Bharatpur region; issued coins with the legend **'Rajanya Janapadas'**.\n\n### 3. Salva Republic:\n- Encompassed the Alwar border region adjoining the Kuru and Matsya territories."
+        "hi": "### 1. यौधेय जनपद (Yaudheya Janapada):\n- **भौगोलिक क्षेत्र:** उत्तरी राजस्थान (**==श्रीगंगानगर, हनुमानगढ़==**) तथा संलग्न पंजाब-हरियाणा।\n- **विशेषता:**\n  - पाणिनी की 'अष्टाध्यायी' में इन्हें **'==आयुधजीवी संघ==' (शस्त्रों के बल पर जीने वाले योद्धा)** कहा गया।\n  - यौधेयों के सिक्कों पर **'==यौधेय गणस्य जयः=='** अंकित है तथा युद्ध के देवता **==कार्तिकेय (षडानन)==** एवं मयूर का अंकन है।\n  - इन्होंने उत्तर भारत से शक्तिशाली **==कुषाणों की शक्ति को समाप्त करने==** में महत्वपूर्ण भूमिका निभाई।\n  - रुद्रदामन के **जूनागढ़ अभिलेख (150 ई.)** में यौधेयों को 'अजेय वीर' बताया गया।\n\n### 2. अर्जुनायन व राजन्य जनपद:\n- **अर्जुनायन:** **==अलवर एवं भरतपुर==** क्षेत्र (सिक्के: *'अर्जुनायनानां जयः'*).\n- **राजन्य जनपद:** **==भरतपुर क्षेत्र==** (सिक्के: *'राजन्य जनपदस'*).\n\n### 3. शाल्व एवं कुरु जनपद:\n- **शाल्व:** **==अलवर जिले का भूभाग==**।\n- **कुरु जनपद:** उत्तरी अलवर का मण्डलावर क्षेत्र (राजधानी: **इन्द्रप्रस्थ**)।",
+        "en": "### 1. Yaudheya Republic:\n- **Territory:** Northern Rajasthan (**==Ganganagar, Hanumangarh==**) & Punjab.\n- **Martial Prowess:** Categorized by Panini as **==Ayudhajivi Sangha==**.\n- **Coins:** Inscribed with **'==Yaudheya Ganasya Jayah=='** featuring **==Lord Kartikeya==** and the peacock.\n- **Historic Feat:** **==Crushed Kushana supremacy==** in Northern India; noted in Junagarh Edict.\n\n### 2. Arjunayana & Rajanya Republics:\n- **Arjunayana:** Alwar & Bharatpur (Coins: *Arjunayananam Jayah*).\n- **Rajanya:** Bharatpur (Coins: *Rajanya Janapadas*).\n\n### 3. Salva & Kuru Janapadas:\n- **Salva:** Alwar region.\n- **Kuru:** Northern Alwar (Capital: Indraprastha)."
       }
     }
   ],
@@ -98,51 +220,58 @@
     },
     {
       "hi": "राजन्य जनपद के सिक्के भरतपुर-अलवर क्षेत्र से प्राप्त हुए हैं ('राजन्य जनपदस')।",
-      "en": "Coins of the Rajanya Janapada were recovered from Bharatpur-Alwar ('Rajanya Janapadas')."
+      "en": "Coins of Rajanya Janapada were recovered from Bharatpur-Alwar ('Rajanya Janapadas')."
     }
   ],
   "timeline": [
     {
       "year_or_era": "6th Century BC",
       "event": {
-        "hi": "16 महाजनपदों के युग में राजस्थान में मत्स्य एवं शूरसेन जनपदों का अभ्युदय।",
-        "en": "Flourishing of Matsya and Shoorsena Janapadas during the 16 Mahajanapadas era."
+        "hi": "16 महाजनपदों के काल में मत्स्य (विराटनगर) एवं शूरसेन (मथुरा) का चरमोत्कर्ष।",
+        "en": "Peak of Matsya (Viratnagar) and Shoorsena (Mathura) during 16 Mahajanapadas era."
       }
     },
     {
       "year_or_era": "326 BC",
       "event": {
-        "hi": "सिकंदर के आक्रमण के पश्चात शिवि, मालव एवं अर्जुनायन जातियों का राजस्थान में प्रवास।",
-        "en": "Migration of Sibi, Malava, and Arjunayana tribes to Rajasthan following Alexander's invasion."
+        "hi": "सिकंदर के आक्रमण के बाद शिवि एवं मालव जातियों का पंजाब से राजस्थान में प्रवास।",
+        "en": "Migration of Sibi and Malava tribes from Punjab into Rajasthan post-Alexander."
       }
     },
     {
       "year_or_era": "57 BC",
       "event": {
-        "hi": "मालव गण द्वारा शकों पर विजय के उपलक्ष्य में मालव संवत् (विक्रम संवत्) का प्रवर्तन।",
-        "en": "Inception of the Malava / Vikram Era (57 BC) commemorating victory over Saka Kshatrapas."
+        "hi": "मालव गण द्वारा शकों पर विजय के उपलक्ष्य में मालव संवत् (विक्रम संवत्) का प्रारम्भ।",
+        "en": "Establishment of Malava/Vikram Samvat (57 BC) by Malavas to mark victory over Sakas."
       }
     },
     {
       "year_or_era": "2nd Century AD",
       "event": {
-        "hi": "यौधेय गण द्वारा कुषाण शासकों के विरुद्ध सफल सैन्य संघर्ष।",
-        "en": "Yaudheya Republic successfully subdues the expansionist Kushanas."
+        "hi": "यौधेय गण द्वारा कुषाण साम्राज्य की प्रभुसत्ता को समाप्त करना।",
+        "en": "Yaudheya Republic overthrows Kushana supremacy in Northern Rajasthan."
+      }
+    },
+    {
+      "year_or_era": "1904 AD",
+      "event": {
+        "hi": "डॉ. डी.आर. भण्डारकर द्वारा शिवि जनपद की राजधानी मध्यमिका (नगरी) का उत्खनन।",
+        "en": "Scientific excavation of Madhyamika (Nagari) by Dr. D.R. Bhandarkar."
       }
     }
   ],
   "exam_traps_and_tricks": [
     {
-      "hi": "परीक्षा जाल: 'शिवि जनपद' की राजधानी मध्यमिका (नगरी - चित्तौड़गढ़) थी, जबकि 'मालव जनपद' की राजधानी मालवनगर (नगर - टोंक) थी। दोनों की राजधानियों और सिक्कों में कभी भ्रमित न हों!",
-      "en": "TRAP: Sibi capital = Madhyamika (Nagari, Chittor); Malava capital = Malavanagar (Nagar, Tonk)."
+      "hi": "परीक्षा जाल: 'नगर' (कारकोट नगर) टोंक जिले में मालव जनपद की राजधानी था, जबकि 'नगरी' (मध्यमिका) चित्तौड़गढ़ जिले में शिवि जनपद की राजधानी था। 'नगर' और 'नगरी' में कभी भ्रमित न हों!",
+      "en": "TRAP: 'Nagar' (Tonk) = Malava Capital; 'Nagari' (Chittorgarh) = Sibi Capital."
     },
     {
-      "hi": "परीक्षा जाल: मत्स्य जनपद की राजधानी 'विराटनगर' थी, जबकि मत्स्य संघ (एकीकरण का प्रथम चरण 1948) की राजधानी 'अलवर' बनाई गई थी।",
-      "en": "TRAP: Ancient Matsya Janapada capital was Viratnagar, whereas Modern Matsya Union (1948 integration) capital was Alwar."
+      "hi": "परीक्षा जाल: 'मालवानां जयः' सिक्के नगर (टोंक) से मिले हैं, जबकि 'मझमिकाया शिबि जनपदस' सिक्के नगरी (चित्तौड़गढ़) से मिले हैं।",
+      "en": "TRAP: 'Malavanam Jayah' coins = Nagar (Tonk); 'Majhamikaya Sibi Janapadas' coins = Nagari (Chittorgarh)."
     },
     {
-      "hi": "परीक्षा जाल: 'यौधेय' क्षेत्र उत्तरी राजस्थान (गंगानगर-हनुमानगढ़) था, जबकि 'जांगल' क्षेत्र बीकानेर-जोधपुर का भूभाग था।",
-      "en": "TRAP: Yaudheya region covered northern Ganganagar-Hanumangarh, while Jangala Desh covered Bikaner-Jodhpur."
+      "hi": "परीक्षा जाल: यौधेय जनपद 'श्रीगंगानगर एवं हनुमानगढ़' में था, और पाणिनी ने इन्हें 'आयुधजीवी संघ' कहा था।",
+      "en": "TRAP: Yaudheya Janapada was in Ganganagar-Hanumangarh, termed 'Ayudhajivi Sangha' by Panini."
     }
   ],
   "mcqs": [
