@@ -4,123 +4,135 @@
   "unit_id": "D.01",
   "slug": "governor-powers-position",
   "title": {
-    "en": "The Governor: Constitutional Powers & Facts",
-    "hi": "राज्यपाल: संवैधानिक स्थिति, शक्तियाँ एवं परीक्षा तथ्य"
+    "hi": "राज्यपाल: संवैधानिक स्थिति, शक्तियाँ एवं परीक्षा तथ्य",
+    "en": "The Governor: Constitutional Powers, Position & Exam Facts"
   },
   "short_summary": {
-    "en": "In-depth polity study notes and MCQs on the Governor of Rajasthan: Articles 153-162, powers, Rajpramukh transition, historical list of Governors, and President's rule episodes.",
-    "hi": "राजस्थान के राज्यपाल: संवैधानिक अनुच्छेद (153-162), कार्यपालिका/विधायी शक्तियाँ, राजप्रमुख से राज्यपाल का संक्रमण, अब तक के सभी राज्यपालों के महत्वपूर्ण परीक्षा तथ्य एवं राष्ट्रपति शासन।"
+    "hi": "राजस्थान के राज्यपाल: संवैधानिक अनुच्छेद (153-162), कार्यपालिका/विधायी शक्तियाँ, अध्यादेश (अनुच्छेद 213), राजप्रमुख से राज्यपाल का संक्रमण, अब तक के सभी राज्यपालों के महत्वपूर्ण परीक्षा तथ्य, पद पर दिवंगत होने वाले राज्यपाल (4), महिला राज्यपाल (3) एवं राज्य में 4 बार लगा राष्ट्रपति शासन (1967, 1977, 1980, 1992)।",
+    "en": "In-depth polity study notes and MCQs on the Governor of Rajasthan: Articles 153-162, Ordinance power (Art 213), Rajpramukh transition, historical list of Governors, 4 Governors who died in office, 3 women Governors, and 4 President's rule episodes."
   },
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    { "label": { "hi": "संवैधानिक भाग व अनुच्छेद", "en": "Constitutional Articles" }, "value": { "hi": "भाग VI — अनुच्छेद 153 से 162 (राज्य की कार्यपालिका का संवैधानिक प्रमुख)", "en": "Part VI — Articles 153 to 162" }, "category": "संविधान" },
+    { "label": { "hi": "नियुक्ति व न्यूनतम आयु", "en": "Appointment & Age" }, "value": { "hi": "राष्ट्रपति द्वारा (अनुच्छेद 155) — न्यूनतम आयु: 35 वर्ष", "en": "By President (Art 155) — Min: 35 yrs" }, "category": "संवैधानिक" },
+    { "label": { "hi": "शपथ (Oath)", "en": "Oath of Office" }, "value": { "hi": "संबंधित राज्य के उच्च न्यायालय के मुख्य न्यायाधीश द्वारा (अनुच्छेद 159)", "en": "By Chief Justice of High Court (Art 159)" }, "category": "संवैधानिक" },
+    { "label": { "hi": "अध्यादेश जारी करने की शक्ति", "en": "Ordinance Power" }, "value": { "hi": "अनुच्छेद 213 (विधानसभा सत्र न चलने पर)", "en": "Article 213 (During recess of Assembly)" }, "category": "शक्तियाँ" },
+    { "label": { "hi": "प्रथम राज्यपाल", "en": "First Governor" }, "value": { "hi": "सरदार गुरुमुख निहाल सिंह (1 नवंबर 1956 — सर्वाधिक कार्यकाल)", "en": "Sardar Gurumukh Nihal Singh (1 Nov 1956)" }, "category": "पदाधिकारी" },
+    { "label": { "hi": "एकमात्र राजप्रमुख काल", "en": "Sole Rajpramukh" }, "value": { "hi": "महाराजा सवाई मानसिंह द्वितीय (30 मार्च 1949 से 31 अक्टूबर 1956)", "en": "Sawai Man Singh II (1949–1956)" }, "category": "पदाधिकारी" },
+    { "label": { "hi": "पद पर रहते दिवंगत (4 राज्यपाल)", "en": "Died in Office (4)" }, "value": { "hi": "दरबारा सिंह (1998, न्यूनतम कार्यकाल), निर्मल चंद जैन (2003), एस.के. सिंह (2009), प्रभा राव (2010)", "en": "Darbara Singh, N.C. Jain, S.K. Singh, Prabha Rau" }, "category": "राज्यपाल_तथ्य" },
+    { "label": { "hi": "महिला राज्यपाल (3 महिलाएँ)", "en": "Women Governors (3)" }, "value": { "hi": "प्रतिभा देवीसिंह पाटिल (2004–07 — प्रथम), प्रभा राव (2010), मार्गरेट अल्वा (2012–14)", "en": "Pratibha Patil (1st), Prabha Rau, Margaret Alva" }, "category": "महिला_गौरव" },
+    { "label": { "hi": "RPSC सदस्य जो राज्यपाल बने", "en": "RPSC Member to Governor" }, "value": { "hi": "श्री रघुकुल तिलक (RPSC सदस्य रहे, बाद में राज्यपाल बने)", "en": "Raghukul Tilak (RPSC member & Governor)" }, "category": "परीक्षा_जाल" },
+    { "label": { "hi": "राष्ट्रपति शासन (कुल 4 बार)", "en": "President's Rule (4 times)" }, "value": { "hi": "1967 (सम्पूर्णानन्द), 1977 (वेदपाल त्यागी), 1980 (रघुकुल तिलक), 1992 (चेन्ना रेड्डी)", "en": "1967, 1977, 1980, 1992" }, "category": "राष्ट्रपति_शासन" }
+  ],
   "notes_sections": [
     {
       "section_title": {
-        "en": "1. Constitutional Provisions (Articles 153 to 162)",
-        "hi": "1. संवैधानिक प्रावधान (अनुच्छेद 153 से 162)"
+        "hi": "1. संवैधानिक प्रावधान (अनुच्छेद 153 से 162 एवं 213)",
+        "en": "1. Constitutional Provisions (Articles 153 to 162 & 213)"
       },
       "content_markdown": {
-        "en": "- **Article 153:** There shall be a Governor for each State (7th Constitutional Amendment Act 1956 enabled appointment of the same person as Governor for two or more States).\n- **Article 154:** The executive power of the State shall be vested in the Governor and exercised either directly or through subordinate officers.\n- **Article 155:** Appointment of Governor by the **President of India** by warrant under his hand and seal.\n- **Article 156:** Term of Office: Holds office during the **pleasure of the President** (सामान्यतः 5 वर्ष).\n- **Article 157:** Qualifications: (1) Must be a citizen of India, (2) Must have completed **35 years of age**.\n- **Article 159:** Oath of Affirmation before the **Chief Justice of the High Court** of the concerned State.\n- **Article 161:** Power to grant pardons, reprieves, respites or remissions of punishment (except death sentence and court martial).\n- **Article 163:** Council of Ministers with the Chief Minister at the head to aid and advise the Governor (Governor has discretionary powers).\n- **Article 174:** Power to summon, prorogue the State Legislature, and dissolve the Legislative Assembly.\n- **Article 213:** Power of Governor to **promulgate Ordinances** during recess of Legislature.",
-        "hi": "- **अनुच्छेद 153:** प्रत्येक राज्य के लिए एक राज्यपाल होगा (7वें संविधान संशोधन 1956 द्वारा एक ही व्यक्ति को दो या अधिक राज्यों का राज्यपाल नियुक्त किया जा सकता है)।\n- **अनुच्छेद 154:** राज्य की कार्यपालिका शक्ति राज्यपाल में निहित होगी।\n- **अनुच्छेद 155:** राज्यपाल की नियुक्ति **राष्ट्रपति** द्वारा अपने हस्ताक्षर एवं मुद्रा सहित अधिपत्र द्वारा की जाती है।\n- **अनुच्छेद 156:** पदावधि — राष्ट्रपति के **प्रसादपर्यंत** पद धारण करता है (सामान्यतः 5 वर्ष)।\n- **अनुच्छेद 157:** योग्यताएँ — (1) भारत का नागरिक हो, (2) न्यूनतम **35 वर्ष की आयु** पूर्ण कर चुका हो।\n- **अनुच्छेद 159:** शपथ — संबंधित राज्य के **उच्च न्यायालय के मुख्य न्यायाधीश** द्वारा शपथ दिलाई जाती है।\n- **अनुच्छेद 161:** क्षमादान की शक्ति (मृत्युदंड एवं सैन्य अदालत के दंडादेश को छोड़कर)।\n- **अनुच्छेद 163:** राज्यपाल को सहायता एवं सलाह देने हेतु मुख्यमंत्री के नेतृत्व में एक मंत्रिपरिषद् होगी (विवेकाधीन शक्तियों को छोड़कर)।\n- **अनुच्छेद 174:** विधानसभा का सत्र आहूत करना, सत्रावसान करना एवं विधानसभा भंग करने की शक्ति।\n- **अनुच्छेद 213:** विधानमण्डल के विश्रांतिकाल में **अध्यादेश (Ordinance)** जारी करने की राज्यपाल की शक्ति।"
+        "hi": "* **अनुच्छेद 153:** प्रत्येक राज्य के लिए एक राज्यपाल होगा (==7वें संविधान संशोधन 1956== द्वारा एक ही व्यक्ति को दो या अधिक राज्यों का राज्यपाल नियुक्त किया जा सकता है)।\n* **अनुच्छेद 154:** राज्य की कार्यपालिका शक्ति राज्यपाल में निहित होगी।\n* **अनुच्छेद 155:** राज्यपाल की नियुक्ति ==भारत के राष्ट्रपति== द्वारा अपने हस्ताक्षर एवं मुद्रा सहित अधिपत्र द्वारा की जाती है।\n* **अनुच्छेद 156:** पदावधि — राष्ट्रपति के ==प्रसादपर्यंत (Pleasure of President)== पद धारण करता है (सामान्यतः 5 वर्ष)।\n* **अनुच्छेद 157:** योग्यताएँ — (1) भारत का नागरिक हो, (2) न्यूनतम ==35 वर्ष की आयु== पूर्ण कर चुका हो।\n* **अनुच्छेद 159:** शपथ — संबंधित राज्य के ==उच्च न्यायालय के मुख्य न्यायाधीश== (Chief Justice) द्वारा शपथ दिलाई जाती है।\n* **अनुच्छेद 161:** क्षमादान की शक्ति (मृत्युदंड एवं सैन्य कोर्ट मार्शल के दंडादेश को छोड़कर)।\n* **अनुच्छेद 163:** राज्यपाल को सहायता एवं सलाह देने हेतु मुख्यमंत्री के नेतृत्व में मंत्रिपरिषद् होगी (विवेकाधीन शक्तियों को छोड़कर)।\n* **अनुच्छेद 174:** विधानसभा का सत्र आहूत करना, सत्रावसान करना एवं विधानसभा भंग करने की शक्ति।\n* **अनुच्छेद 213:** विधानमण्डल के विश्रांतिकाल में ==अध्यादेश (Ordinance) जारी करने की राज्यपाल की शक्ति== (विधानसभा सत्र शुरू होने पर 6 सप्ताह में अनुमोदन अनिवार्य)।",
+        "en": "* **Article 153:** There shall be a Governor for each State (==7th Amendment 1956== enabled same person as Governor for 2+ states).\n* **Article 154:** Executive power of the State is vested in the Governor.\n* **Article 155:** Appointment of Governor by the ==President of India==.\n* **Article 156:** Term: Holds office during the ==pleasure of the President== (typically 5 years).\n* **Article 157:** Qualifications: (1) Citizen of India, (2) Minimum ==35 years of age==.\n* **Article 159:** Oath before the ==Chief Justice of the State High Court==.\n* **Article 161:** Pardoning power (except death penalty and court martial).\n* **Article 163:** Council of Ministers with CM to aid and advise Governor.\n* **Article 213:** Power to ==promulgate Ordinances== during legislative recess."
       }
     },
     {
       "section_title": {
-        "en": "2. Evolution in Rajasthan & Famous Superlatives",
-        "hi": "2. राजस्थान में राज्यपाल पद का विकास एवं प्रमुख परीक्षा तथ्य"
+        "hi": "2. राजस्थान में राज्यपाल पद का विकास एवं प्रमुख परीक्षा तथ्य",
+        "en": "2. Evolution in Rajasthan & Key Exam Superlatives"
       },
       "content_markdown": {
-        "en": "- **Rajpramukh Era (1949–1956):** Before 1956, the head of state in Rajasthan was designated as **Rajpramukh**. Maharaja Sawai Man Singh II of Jaipur was the sole permanent Rajpramukh (30 March 1949 to 31 October 1956).\n- **1st Governor of Rajasthan:** **Sardar Gurumukh Nihal Singh** (appointed on 1 November 1956 by 7th Constitutional Amendment, served longest continuous tenure).\n- **Governors Who Died in Office (4 Governors):**\n  1. **Darbara Singh** (May 1998 — shortest tenure as Governor)\n  2. **Nirmal Chandra Jain** (2003)\n  3. **S.K. Singh** (2009)\n  4. **Prabha Rau** (2010)\n- **Women Governors of Rajasthan (3 Women):**\n  1. **Pratibha Devisingh Patil** (2004–2007 — 1st woman Governor; resigned to become 1st Woman President of India)\n  2. **Prabha Rau** (2010 — died in office)\n  3. **Margaret Alva** (2012–2014)\n- **Governors Who Resigned:** Madan Lal Khurana (2004) and Pratibha Patil (2007).",
-        "hi": "- **राजप्रमुख काल (1949-1956):** 1956 से पूर्व राज्य के संवैधानिक प्रमुख को **राजप्रमुख** कहा जाता था। जयपुर के महाराजा सवाई मानसिंह द्वितीय राजस्थान के एकमात्र आजीवन राजप्रमुख रहे (30 मार्च 1949 से 31 अक्टूबर 1956 तक)।\n- **प्रथम राज्यपाल:** **सरदार गुरुमुख निहाल सिंह** (1 नवम्बर 1956 को पदभार ग्रहण किया; सबसे लम्बा कार्यकाल)।\n- **पद पर रहते हुए दिवंगत होने वाले राज्यपाल (4 राज्यपाल):**\n  1. **दरबारा सिंह** (मई 1998 — सबसे छोटा कार्यकाल)\n  2. **निर्मल चंद जैन** (2003)\n  3. **एस.के. सिंह (शैलेन्द्र कुमार सिंह)** (2009)\n  4. **प्रभा राव** (2010)\n- **राजस्थान की महिला राज्यपाल (3 महिलाएँ):**\n  1. **प्रतिभा देवीसिंह पाटिल** (2004-2007 — प्रथम महिला राज्यपाल; देश की प्रथम महिला राष्ट्रपति बनने हेतु त्यागपत्र दिया)\n  2. **प्रभा राव** (2010 — पद पर रहते निधन)\n  3. **मार्गरेट अल्वा** (2012-2014)\n- **त्यागपत्र देने वाले राज्यपाल:** मदन लाल खुराना (2004) एवं प्रतिभा पाटिल (2007)।"
+        "hi": "* **राजप्रमुख काल (1949–1956):** 1956 से पूर्व राज्य के संवैधानिक प्रमुख को =='राजप्रमुख'== कहा जाता था। जयपुर के महाराजा ==सवाई मानसिंह द्वितीय== राजस्थान के एकमात्र आजीवन राजप्रमुख रहे (30 मार्च 1949 से 31 अक्टूबर 1956 तक)।\n* **प्रथम राज्यपाल:** ==सरदार गुरुमुख निहाल सिंह== (==1 नवम्बर 1956== को 7वें संविधान संशोधन द्वारा पदभार ग्रहण; सबसे लम्बा कार्यकाल)।\n* **पद पर रहते हुए दिवंगत होने वाले 4 राज्यपाल:**\n  1. ==दरबारा सिंह== (मई 1998 — सबसे छोटा कार्यकाल, मात्र 23 दिन)\n  2. ==निर्मल चंद जैन== (2003)\n  3. ==एस.के. सिंह (शैलेन्द्र कुमार सिंह)== (2009)\n  4. ==प्रभा राव== (2010)\n* **राजस्थान की 3 महिला राज्यपाल:**\n  1. ==श्रीमती प्रतिभा देवीसिंह पाटिल== (2004–2007 — प्रथम महिला राज्यपाल; देश की प्रथम महिला राष्ट्रपति बनने हेतु त्यागपत्र दिया)\n  2. ==श्रीमती प्रभा राव== (2010 — पद पर रहते निधन)\n  3. ==श्रीमती मार्गरेट अल्वा== (2012–2014)\n* **त्यागपत्र देने वाले राज्यपाल:** मदन लाल खुराना (2004) एवं प्रतिभा पाटिल (2007)।\n* **RPSC सदस्य जो राज्यपाल बने:** ==श्री रघुकुल तिलक== राजस्थान लोक सेवा आयोग (RPSC) के सदस्य रहे थे और बाद में राजस्थान के राज्यपाल बने।",
+        "en": "* **Rajpramukh Era (1949–1956):** ==Sawai Man Singh II== served as sole Rajpramukh.\n* **1st Governor:** ==Sardar Gurumukh Nihal Singh== sworn in on ==Nov 1, 1956== (longest continuous tenure).\n* **4 Governors Who Died in Office:**\n  1. ==Darbara Singh== (May 1998 — shortest tenure: 23 days)\n  2. ==Nirmal Chandra Jain== (2003)\n  3. ==S.K. Singh== (2009)\n  4. ==Prabha Rau== (2010)\n* **3 Women Governors:**\n  1. ==Pratibha Devisingh Patil== (2004–2007 — 1st woman Governor; became 1st Woman President of India)\n  2. ==Prabha Rau== (2010 — died in office)\n  3. ==Margaret Alva== (2012–2014)\n* **RPSC Member to Governor:** ==Raghukul Tilak== served as RPSC member before becoming Governor."
       }
     },
     {
       "section_title": {
-        "en": "3. President's Rule in Rajasthan (Article 356)",
-        "hi": "3. राजस्थान में राष्ट्रपति शासन (अनुच्छेद 356 — 4 बार)"
+        "hi": "3. राजस्थान में राष्ट्रपति शासन (अनुच्छेद 356 — 4 बार)",
+        "en": "3. President's Rule in Rajasthan (Article 356 — 4 Times)"
       },
       "content_markdown": {
-        "en": "| Spell | Duration | Governor | Chief Minister | Reason / Significance |\n| :---: | :--- | :--- | :--- | :--- |\n| **1st** | **13 March 1967 – 26 April 1967 (44 days)** | Dr. Sampurnanand | Mohan Lal Sukhadia | Hung Assembly; shortest President's rule in Rajasthan. |\n| **2nd** | **29 April 1977 – 22 June 1977** | Vedpal Tyagi | Hari Deo Joshi | Dissolution of State Assemblies by Janata Govt at Centre. |\n| **3rd** | **16 Feb 1980 – 6 June 1980** | Raghukul Tilak | Bhairon Singh Shekhawat | Indira Gandhi dismisses non-Congress State Govts. |\n| **4th** | **15 Dec 1992 – 3 Dec 1993 (~1 year)** | Dr. M. Chenna Reddy / Bali Ram Bhagat | Bhairon Singh Shekhawat | Post-Babri Masjid demolition dismissal; longest spell. |",
-        "hi": "| क्रम | अवधि | तत्कालीन राज्यपाल | तत्कालीन मुख्यमंत्री | विशेष विवरण |\n| :---: | :--- | :--- | :--- | :--- |\n| **प्रथम** | **13 मार्च 1967 – 26 अप्रैल 1967 (44 दिन)** | डॉ. सम्पूर्णानन्द | मोहन लाल सुखाड़िया | अस्पष्ट बहुमत (त्रिशंकु विधानसभा); सबसे कम अवधि का राष्ट्रपति शासन। |\n| **द्वितीय** | **29 अप्रैल 1977 – 22 जून 1977** | वेदपाल त्यागी | हरिदेव जोशी | केन्द्र में जनता पार्टी सरकार द्वारा विधानसभा भंग। |\n| **तृतीय** | **16 फरवरी 1980 – 6 जून 1980** | रघुकुल तिलक | भैरों सिंह शेखावत | केन्द्र में कांग्रेस सरकार द्वारा राज्य सरकार की बर्खास्तगी। |\n| **चतुर्थ** | **15 दिसम्बर 1992 – 3 दिसम्बर 1993 (~1 वर्ष)** | डॉ. एम. चेन्ना रेड्डी / बलिराम भगत | भैरों सिंह शेखावत | बाबरी मस्जिद विध्वंस के बाद बर्खास्तगी; सबसे लम्बा राष्ट्रपति शासन। |"
+        "hi": "| क्रम | अवधि | तत्कालीन राज्यपाल | तत्कालीन मुख्यमंत्री | विशेष विवरण |\n| :---: | :--- | :--- | :--- | :--- |\n| **प्रथम** | ==13 मार्च 1967 – 26 अप्रैल 1967 (44 दिन)== | ==डॉ. सम्पूर्णानन्द== | ==मोहन लाल सुखाड़िया== | अस्पष्ट बहुमत (त्रिशंकु विधानसभा); सबसे कम अवधि का राष्ट्रपति शासन। |\n| **द्वितीय** | ==29 अप्रैल 1977 – 22 जून 1977== | ==वेदपाल त्यागी== | ==हरिदेव जोशी== | केन्द्र में जनता पार्टी सरकार द्वारा विधानसभा भंग। |\n| **तृतीय** | ==16 फरवरी 1980 – 6 जून 1980== | ==रघुकुल तिलक== | ==भैरों सिंह शेखावत== | केन्द्र में कांग्रेस सरकार द्वारा राज्य सरकार की बर्खास्तगी। |\n| **चतुर्थ** | ==15 दिसम्बर 1992 – 3 दिसम्बर 1993 (~1 वर्ष)== | ==डॉ. एम. चेन्ना रेड्डी / बलिराम भगत== | ==भैरों सिंह शेखावत== | बाबरी विध्वंस के बाद बर्खास्तगी; सर्वाधिक लम्बी अवधि का राष्ट्रपति शासन। |",
+        "en": "| Spell | Duration | Governor | Chief Minister | Significance |\n| :---: | :--- | :--- | :--- | :--- |\n| **1st** | ==13 March 1967 – 26 April 1967 (44 days)== | ==Dr. Sampurnanand== | ==Mohan Lal Sukhadia== | Hung Assembly; shortest President's rule spell. |\n| **2nd** | ==29 April 1977 – 22 June 1977== | ==Vedpal Tyagi== | ==Hari Deo Joshi== | Janata Party central govt dissolves State Assembly. |\n| **3rd** | ==16 Feb 1980 – 6 June 1980== | ==Raghukul Tilak== | ==Bhairon Singh Shekhawat== | Congress central govt dismisses non-Congress govt. |\n| **4th** | ==15 Dec 1992 – 3 Dec 1993 (~1 year)== | ==Dr. M. Chenna Reddy / Bali Ram Bhagat== | ==Bhairon Singh Shekhawat== | Post-Babri demolition dismissal; longest spell. |"
       }
     }
   ],
   "key_facts_rapid_revision": [
     {
-      "en": "First Governor of Rajasthan: Sardar Gurumukh Nihal Singh (1 Nov 1956).",
-      "hi": "राजस्थान के प्रथम राज्यपाल: सरदार गुरुमुख निहाल सिंह (1 नवम्बर 1956)।"
+      "hi": "राजस्थान के प्रथम राज्यपाल: सरदार गुरुमुख निहाल सिंह (1 नवम्बर 1956)।",
+      "en": "First Governor of Rajasthan: Sardar Gurumukh Nihal Singh (1 Nov 1956)."
     },
     {
-      "en": "President's Rule has been imposed 4 times in Rajasthan: 1967, 1977, 1980, 1992.",
-      "hi": "राजस्थान में अब तक 4 बार राष्ट्रपति शासन लगा: 1967, 1977, 1980 एवं 1992।"
+      "hi": "राजस्थान में अब तक 4 बार राष्ट्रपति शासन लगा: 1967, 1977, 1980 एवं 1992।",
+      "en": "President's Rule has been imposed 4 times in Rajasthan: 1967, 1977, 1980, 1992."
     },
     {
-      "en": "4 Governors died in office: Darbara Singh, Nirmal Chandra Jain, S.K. Singh, Prabha Rau.",
-      "hi": "पद पर रहते हुए दिवंगत होने वाले 4 राज्यपाल: दरबारा सिंह, निर्मल चंद जैन, एस.के. सिंह, प्रभा राव।"
+      "hi": "पद पर रहते हुए दिवंगत होने वाले 4 राज्यपाल: दरबारा सिंह, निर्मल चंद जैन, एस.के. सिंह, प्रभा राव।",
+      "en": "4 Governors died in office: Darbara Singh, Nirmal Chandra Jain, S.K. Singh, Prabha Rau."
     },
     {
-      "en": "Pratibha Patil was the first woman Governor of Rajasthan (2004–2007).",
-      "hi": "श्रीमती प्रतिभा पाटिल राजस्थान की प्रथम महिला राज्यपाल थीं (2004-2007)।"
+      "hi": "श्रीमती प्रतिभा पाटिल राजस्थान की प्रथम महिला राज्यपाल थीं (2004-2007)।",
+      "en": "Pratibha Patil was the first woman Governor of Rajasthan (2004–2007)."
     },
     {
-      "en": "Under Article 213, Governor has power to issue ordinances when State Assembly is in recess.",
-      "hi": "अनुच्छेद 213 के तहत राज्यपाल को विधानसभा सत्र न चलने पर अध्यादेश जारी करने की शक्ति प्राप्त है।"
+      "hi": "अनुच्छेद 213 के तहत राज्यपाल को विधानसभा सत्र न चलने पर अध्यादेश जारी करने की शक्ति प्राप्त है।",
+      "en": "Under Article 213, Governor has power to issue ordinances when State Assembly is in recess."
     }
   ],
   "timeline": [
     {
       "year_or_era": "30 March 1949",
       "event": {
-        "en": "Sawai Man Singh II appointed as the sole Rajpramukh of Rajasthan.",
-        "hi": "महाराजा सवाई मानसिंह द्वितीय राजस्थान के राजप्रमुख नियुक्त हुए।"
+        "hi": "महाराजा सवाई मानसिंह द्वितीय राजस्थान के राजप्रमुख नियुक्त हुए।",
+        "en": "Sawai Man Singh II appointed as the sole Rajpramukh of Rajasthan."
       }
     },
     {
       "year_or_era": "1 November 1956",
       "event": {
-        "en": "7th Amendment abolishes Rajpramukh post; Sardar Gurumukh Nihal Singh sworn in as 1st Governor.",
-        "hi": "7वें संविधान संशोधन द्वारा राजप्रमुख पद समाप्त; सरदार गुरुमुख निहाल सिंह प्रथम राज्यपाल बने।"
+        "hi": "7वें संविधान संशोधन द्वारा राजप्रमुख पद समाप्त; सरदार गुरुमुख निहाल सिंह प्रथम राज्यपाल बने।",
+        "en": "7th Amendment abolishes Rajpramukh post; Sardar Gurumukh Nihal Singh sworn in as 1st Governor."
       }
     },
     {
       "year_or_era": "March 1967",
       "event": {
-        "en": "First episode of President's Rule in Rajasthan under Governor Dr. Sampurnanand.",
-        "hi": "राज्यपाल डॉ. सम्पूर्णानन्द के समय राजस्थान में पहली बार राष्ट्रपति शासन लागू।"
+        "hi": "राज्यपाल डॉ. सम्पूर्णानन्द के समय राजस्थान में पहली बार राष्ट्रपति शासन लागू।",
+        "en": "First episode of President's Rule in Rajasthan under Governor Dr. Sampurnanand."
       }
     }
   ],
   "exam_traps_and_tricks": [
     {
-      "en": "TRAP: Governor is appointed by the President of India, but sworn in by the Chief Justice of the State High Court.",
-      "hi": "परीक्षा जाल: राज्यपाल की नियुक्ति राष्ट्रपति करता है, किन्तु शपथ संबंधित राज्य उच्च न्यायालय के मुख्य न्यायाधीश दिलाते हैं।"
+      "hi": "परीक्षा जाल: राज्यपाल की नियुक्ति राष्ट्रपति करता है, किन्तु शपथ संबंधित राज्य उच्च न्यायालय के मुख्य न्यायाधीश दिलाते हैं।",
+      "en": "TRAP: Governor is appointed by the President of India, but sworn in by the Chief Justice of the State High Court."
     },
     {
-      "en": "TRAP: Raghukul Tilak was a member of RPSC who later became Governor of Rajasthan (a favorite RPSC trick question).",
-      "hi": "परीक्षा जाल: रघुकुल तिलक RPSC के सदस्य रहे थे जो बाद में राजस्थान के राज्यपाल बने।"
+      "hi": "परीक्षा जाल: रघुकुल तिलक RPSC के सदस्य रहे थे जो बाद में राजस्थान के राज्यपाल बने।",
+      "en": "TRAP: Raghukul Tilak was a member of RPSC who later became Governor of Rajasthan (a favorite RPSC trick question)."
     }
   ],
   "mcqs": [
     {
       "id": "MCQ-D.01.01-01",
       "question": {
-        "en": "Under which Constitutional Amendment was the post of 'Rajpramukh' abolished and replaced by 'Governor' in Rajasthan on 1 November 1956?",
-        "hi": "किस संविधान संशोधन द्वारा 1 नवम्बर 1956 को राजस्थान में 'राजप्रमुख' का पद समाप्त कर 'राज्यपाल' का पद सृजित किया गया?"
+        "hi": "किस संविधान संशोधन द्वारा 1 नवम्बर 1956 को राजस्थान में 'राजप्रमुख' का पद समाप्त कर 'राज्यपाल' का पद सृजित किया गया?",
+        "en": "Under which Constitutional Amendment was the post of 'Rajpramukh' abolished and replaced by 'Governor' in Rajasthan on 1 November 1956?"
       },
       "options": [
-        { "id": "A", "text": { "en": "1st Constitutional Amendment", "hi": "पहला संविधान संशोधन" } },
-        { "id": "B", "text": { "en": "7th Constitutional Amendment (1956)", "hi": "7वाँ संविधान संशोधन (1956)" } },
-        { "id": "C", "text": { "en": "42nd Constitutional Amendment", "hi": "42वाँ संविधान संशोधन" } },
-        { "id": "D", "text": { "en": "44th Constitutional Amendment", "hi": "44वाँ संविधान संशोधन" } }
+        { "id": "A", "text": { "hi": "पहला संविधान संशोधन", "en": "1st Constitutional Amendment" } },
+        { "id": "B", "text": { "hi": "7वाँ संविधान संशोधन (1956)", "en": "7th Constitutional Amendment (1956)" } },
+        { "id": "C", "text": { "hi": "42वाँ संविधान संशोधन", "en": "42nd Constitutional Amendment" } },
+        { "id": "D", "text": { "hi": "44वाँ संविधान संशोधन", "en": "44th Constitutional Amendment" } }
       ],
       "correct_option": "B",
       "explanation": {
-        "en": "The 7th Constitutional Amendment Act 1956 abolished the classification of States and the post of Rajpramukh, introducing the office of Governor in Rajasthan.",
-        "hi": "7वें संविधान संशोधन अधिनियम 1956 द्वारा राजप्रमुख पद को समाप्त कर राज्यपाल पद सृजित किया गया।"
+        "hi": "7वें संविधान संशोधन अधिनियम 1956 द्वारा राजप्रमुख पद को समाप्त कर राज्यपाल पद सृजित किया गया।",
+        "en": "The 7th Constitutional Amendment Act 1956 abolished the classification of States and the post of Rajpramukh, introducing the office of Governor in Rajasthan."
       },
       "pyq_source": "RPSC RAS Pre 2021 / RSSB CET 2023",
       "difficulty": "medium"
@@ -128,19 +140,19 @@
     {
       "id": "MCQ-D.01.01-02",
       "question": {
-        "en": "Who among the following was the first Governor of Rajasthan to die while holding office?",
-        "hi": "निम्नलिखित में से राजस्थान के कौन-से राज्यपाल पद पर रहते हुए दिवंगत होने वाले प्रथम राज्यपाल थे?"
+        "hi": "निम्नलिखित में से राजस्थान के कौन-से राज्यपाल पद पर रहते हुए दिवंगत होने वाले प्रथम राज्यपाल थे?",
+        "en": "Who among the following was the first Governor of Rajasthan to die while holding office?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Sardar Darbara Singh (1998)", "hi": "सरदार दरबारा सिंह (1998)" } },
-        { "id": "B", "text": { "en": "Nirmal Chandra Jain", "hi": "निर्मल चंद जैन" } },
-        { "id": "C", "text": { "en": "S.K. Singh", "hi": "एस.के. सिंह" } },
-        { "id": "D", "text": { "en": "Prabha Rau", "hi": "प्रभा राव" } }
+        { "id": "A", "text": { "hi": "सरदार दरबारा सिंह (1998)", "en": "Sardar Darbara Singh (1998)" } },
+        { "id": "B", "text": { "hi": "निर्मल चंद जैन", "en": "Nirmal Chandra Jain" } },
+        { "id": "C", "text": { "hi": "एस.के. सिंह", "en": "S.K. Singh" } },
+        { "id": "D", "text": { "hi": "प्रभा राव", "en": "Prabha Rau" } }
       ],
       "correct_option": "A",
       "explanation": {
-        "en": "Sardar Darbara Singh in May 1998 was the first Governor of Rajasthan to pass away while in office. His tenure was also the shortest.",
-        "hi": "सरदार दरबारा सिंह (मई 1998) पद पर रहते हुए दिवंगत होने वाले प्रथम राज्यपाल थे तथा उनका कार्यकाल सबसे कम रहा।"
+        "hi": "सरदार दरबारा सिंह (मई 1998) पद पर रहते हुए दिवंगत होने वाले प्रथम राज्यपाल थे तथा उनका कार्यकाल सबसे कम रहा।",
+        "en": "Sardar Darbara Singh in May 1998 was the first Governor of Rajasthan to pass away while in office. His tenure was also the shortest."
       },
       "pyq_source": "RPSC RAS Pre 2018",
       "difficulty": "medium"
@@ -148,19 +160,19 @@
     {
       "id": "MCQ-D.01.01-03",
       "question": {
-        "en": "Who was the Governor of Rajasthan when President's Rule was imposed for the first time in March 1967?",
-        "hi": "मार्च 1967 में राजस्थान में प्रथम बार राष्ट्रपति शासन लगाए जाने के समय राज्य के राज्यपाल कौन थे?"
+        "hi": "मार्च 1967 में राजस्थान में प्रथम बार राष्ट्रपति शासन लगाए जाने के समय राज्य के राज्यपाल कौन थे?",
+        "en": "Who was the Governor of Rajasthan when President's Rule was imposed for the first time in March 1967?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Hukam Singh", "hi": "हुकम सिंह" } },
-        { "id": "B", "text": { "en": "Dr. Sampurnanand", "hi": "डॉ. सम्पूर्णानन्द" } },
-        { "id": "C", "text": { "en": "Vedpal Tyagi", "hi": "वेदपाल त्यागी" } },
-        { "id": "D", "text": { "en": "Raghukul Tilak", "hi": "रघुकुल तिलक" } }
+        { "id": "A", "text": { "hi": "हुकम सिंह", "en": "Hukam Singh" } },
+        { "id": "B", "text": { "hi": "डॉ. सम्पूर्णानन्द", "en": "Dr. Sampurnanand" } },
+        { "id": "C", "text": { "hi": "वेदपाल त्यागी", "en": "Vedpal Tyagi" } },
+        { "id": "D", "text": { "hi": "रघुकुल तिलक", "en": "Raghukul Tilak" } }
       ],
       "correct_option": "B",
       "explanation": {
-        "en": "Dr. Sampurnanand was the Governor when President's rule was first imposed on 13 March 1967 due to a hung assembly.",
-        "hi": "13 मार्च 1967 को जब पहली बार राष्ट्रपति शासन लगा, तब राज्यपाल डॉ. सम्पूर्णानन्द एवं मुख्यमंत्री मोहन लाल सुखाड़िया थे।"
+        "hi": "13 मार्च 1967 को जब पहली बार राष्ट्रपति शासन लगा, तब राज्यपाल डॉ. सम्पूर्णानन्द एवं मुख्यमंत्री मोहन लाल सुखाड़िया थे।",
+        "en": "Dr. Sampurnanand was the Governor when President's rule was first imposed on 13 March 1967 due to a hung assembly."
       },
       "pyq_source": "RPSC Assistant Professor 2021",
       "difficulty": "hard"

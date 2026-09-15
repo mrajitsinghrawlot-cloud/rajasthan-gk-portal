@@ -14,9 +14,101 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "लाटा पद्धति", "en": "Lata Method" },
+      "value": { "hi": "खलिहान में अनाज का ढेर (रास) बनाकर तौल के आधार पर लगान तय करना", "en": "Assessing tax by weighing threshed grain piles in yard" },
+      "category": "revenue_method"
+    },
+    {
+      "label": { "hi": "कूंता पद्धति", "en": "Kunta Method" },
+      "value": { "hi": "खेत में खड़ी फसल को देखकर अनुमान के आधार पर लगान तय करना", "en": "Estimating revenue visually by inspecting standing crops" },
+      "category": "revenue_method"
+    },
+    {
+      "label": { "hi": "बटाई के 3 रूप", "en": "3 Forms of Batai" },
+      "value": { "hi": "खेत बटाई (खेत में), लंक बटाई (पूलों में), रास बटाई (खलिहान में दाना निकाल कर)", "en": "Khet Batai (in field), Lank Batai (sheaves), Ras Batai (grain heap)" },
+      "category": "revenue_method"
+    },
+    {
+      "label": { "hi": "मुकाता / बिगोड़ी", "en": "Mukata / Bigodi" },
+      "value": { "hi": "प्रति बीघा भूमि पर नकद रूप में निर्धारित निश्चित लगान दर", "en": "Fixed cash revenue rate assessed per bigha" },
+      "category": "revenue_method"
+    },
+    {
+      "label": { "hi": "चाही भूमि", "en": "Chahi Land" },
+      "value": { "hi": "कुओं द्वारा सींची जाने वाली अत्यंत उपजाऊ कृषि भूमि", "en": "Well-irrigated highly fertile agricultural land" },
+      "category": "land_type"
+    },
+    {
+      "label": { "hi": "बारानी भूमि", "en": "Barani Land" },
+      "value": { "hi": "पूर्णतः वर्षा के जल पर निर्भर असिंचित भूमि", "en": "Rain-fed dry un-irrigated farmland" },
+      "category": "land_type"
+    },
+    {
+      "label": { "hi": "पीवल भूमि", "en": "Peewal Land" },
+      "value": { "hi": "नियमित रूप से सिंचित की जाने वाली भूमि (असिंचित: अपीवल)", "en": "Regularly irrigated farmland (un-irrigated: Apeewal)" },
+      "category": "land_type"
+    },
+    {
+      "label": { "hi": "गोयरा / गोरमा भूमि", "en": "Goyra / Gorma Land" },
+      "value": { "hi": "गाँव की आबादी के समीप स्थित सर्वाधिक खादयुक्त उर्वर भूमि", "en": "Settlement-adjacent high-fertility compost soil" },
+      "category": "land_type"
+    },
+    {
+      "label": { "hi": "माल / मगरा", "en": "Mal / Magra Land" },
+      "value": { "hi": "पठारी या पहाड़ी असिंचित बंजर भूमि", "en": "Plateau or hilly un-irrigated terrain" },
+      "category": "land_type"
+    },
+    {
+      "label": { "hi": "स्यालू / सावणी (खरीफ)", "en": "Syalu / Sawani (Kharif)" },
+      "value": { "hi": "वर्षा ऋतु फसलें (बाजरा, मक्का, ज्वार, मोठ, ग्वार)", "en": "Monsoon crops (Pearl millet, Maize, Sorghum, Guar)" },
+      "category": "crop_season"
+    },
+    {
+      "label": { "hi": "उन्हालू / बैसाखी (रबी)", "en": "Unhalu / Baisakhi (Rabi)" },
+      "value": { "hi": "शीतकालीन फसलें (गेहूं, जौ, चना, सरसों)", "en": "Winter crops (Wheat, Barley, Gram, Mustard)" },
+      "category": "crop_season"
+    },
+    {
+      "label": { "hi": "चंवरी कर", "en": "Chauri Tax" },
+      "value": { "hi": "1903 ई. — बिजोलिया राव कृष्णसिंह (पुत्री के विवाह पर ₹5 कर)", "en": "1903 AD — Rao Krishnasingh of Bijolia (Rs 5 per daughter marriage)" },
+      "category": "feudal_cess"
+    },
+    {
+      "label": { "hi": "तलवार बंधाई कर (किसानों पर)", "en": "Talwar Bandhai on Peasants" },
+      "value": { "hi": "1906 ई. — बिजोलिया राव पृथ्वीसिंह (जनता पर थोपा)", "en": "1906 AD — Imposed on Bijolia peasants by Rao Prithvisingh" },
+      "category": "feudal_cess"
+    },
+    {
+      "label": { "hi": "खर-लाखड़", "en": "Khar-Lakhar Cess" },
+      "value": { "hi": "सामंती अस्तबल के पशुओं हेतु मुफ्त चारा, घास व लकड़ी वसूली", "en": "Free extraction of wood and fodder for feudal stables" },
+      "category": "feudal_cess"
+    },
+    {
+      "label": { "hi": "धूंआ कर (घर-गिनती)", "en": "Dhuwan Kar (Hearth Tax)" },
+      "value": { "hi": "प्रत्येक परिवार से चूल्हा जलने (घर) के आधार पर कर", "en": "Tax charged on every household hearth" },
+      "category": "feudal_cess"
+    },
+    {
+      "label": { "hi": "गनीम-बराड़", "en": "Ganim-Barar" },
+      "value": { "hi": "युद्ध अथवा मराठों को चौथ देने हेतु जनता से वसूला गया युद्ध-कर", "en": "Emergency war cess collected to pay off Maratha demands" },
+      "category": "feudal_cess"
+    },
+    {
+      "label": { "hi": "खिचड़ी लाग", "en": "Khichdi Lag" },
+      "value": { "hi": "सामंती सेना के पड़ाव के समय सैनिकों के भोजन हेतु कर", "en": "Food levy charged on villagers during army encampment" },
+      "category": "feudal_cess"
+    },
+    {
+      "label": { "hi": "बैठ-बेगार प्रथा", "en": "Baith-Begar (Forced Labor)" },
+      "value": { "hi": "बिना पारिश्रमिक दिए किसानों व कारीगरों से जबरन श्रम कराना", "en": "Unpaid forced labor extracted from peasants and artisans" },
+      "category": "feudal_cess"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,7 +116,7 @@
         "en": "1. Land Revenue Assessment & Collection Methods"
       },
       "content_markdown": {
-        "hi": "### मध्यकालीन राजस्थान में लगान निर्धारण की प्रणालियाँ\n\n| पद्धति | स्वरूप एवं निर्धारण विधि |\n|---|---|\n| **1. लाटा (Lata)** | फसल कटने के बाद खलिहान में अनाज का ढेर (रास) बनाकर तौल के आधार पर राज्य का हिस्सा निर्धारित करना। |\n| **2. कूंता (Kunta)** | खेत में **खड़ी फसल को देखकर** अनुमान के आधार पर राज्य के राजस्व का निर्धारण करना। |\n| **3. बटाई (Batai)** | पैदावार का राज्य और किसान के मध्य प्रत्यक्ष विभाजन। इसके तीन मुख्य रूप थे:<br>- **खेत बटाई:** फसल पकने पर खेत में खड़ी फसल का बंटवारा।<br>- **लंक बटाई:** फसल काटकर बिना दाने निकाले (पूलों में) बंटवारा।<br>- **रास बटाई:** दाना निकालने के बाद खलिहान में ढेर लगाकर बंटवारा। |\n| **4. मुकाता / मुकाती (Mukata)** | नकदी के रूप में एकमुश्त निश्चित लगान प्रति बीघा वसूलने की व्यवस्था। |\n| **5. घूघरी (Ghughari)** | प्रति हल अथवा प्रति बीघा के हिसाब से कुछ सेर अनाज निश्चित कर लेना। |\n| **6. बिगोड़ी (Bigodi)** | प्रति बीघा भूमि पर नकद रूप में निर्धारित राजस्व दर। |",
+        "hi": "### मध्यकालीन राजस्थान में लगान निर्धारण की प्रणालियाँ\n\n| पद्धति | स्वरूप एवं निर्धारण विधि |\n|---|---|\n| ==**1. लाटा (Lata)**== | फसल कटने के बाद खलिहान में अनाज का ==**ढेर (रास) बनाकर तौल के आधार पर**== राज्य का हिस्सा निर्धारित करना। |\n| ==**2. कूंता (Kunta)**== | खेत में ==**खड़ी फसल को देखकर अनुमान के आधार पर**== राज्य के राजस्व का निर्धारण करना। |\n| ==**3. बटाई (Batai)**== | पैदावार का राज्य और किसान के मध्य प्रत्यक्ष विभाजन:<br>- ==**खेत बटाई:**== फसल पकने पर खेत में खड़ी फसल का बंटवारा।<br>- ==**लंक बटाई:**== फसल काटकर बिना दाने निकाले (पूलों में) बंटवारा।<br>- ==**रास बटाई:**== दाना निकालने के बाद खलिहान में ढेर लगाकर बंटवारा। |\n| ==**4. मुकाता / मुकाती (Mukata)**== | नकदी के रूप में ==**एकमुश्त निश्चित लगान**== प्रति बीघा वसूलने की व्यवस्था। |\n| ==**5. बिगोड़ी (Bigodi)**== | प्रति बीघा भूमि पर ==**नकद रूप में निर्धारित राजस्व दर**==। |\n| ==**6. घूघरी (Ghughari)**== | प्रति हल या प्रति बीघा के हिसाब से कुछ सेर अनाज निश्चित करना। |",
         "en": "### Revenue Assessment Systems\n* **Lata:** Division of harvested grain after threshing and piling in the threshing yard.\n* **Kunta:** Visual estimation of yield based on standing crop in the field.\n* **Batai (Crop Sharing):** Direct produce sharing:\n  - **Khet Batai:** Division in the field before harvesting.\n  - **Lank Batai:** Division of harvested sheaves before threshing.\n  - **Ras Batai:** Division of clean grain after winnowing.\n* **Mukata:** Fixed cash rate per unit of land.\n* **Bigodi:** Cash assessment calculated per bigha."
       }
     },
@@ -34,7 +126,7 @@
         "en": "2. Classification of Agricultural Land by Irrigation"
       },
       "content_markdown": {
-        "hi": "### सिंचाई व उर्वरता के आधार पर भूमि के प्रकार\n* **चाही (Chahi):** कुओं द्वारा सींची जाने वाली अत्यंत उपजाऊ भूमि।\n* **नहरी (Nehri):** नहरों व नालों के जल से सींची जाने वाली भूमि।\n* **तालाबी (Talabi):** तालाबों या पोखरों के जल से सिंचित भूमि।\n* **बारानी (Barani):** पूर्णतः वर्षा के जल पर निर्भर असिंचित भूमि।\n* **पीवल (Peewal):** नियमित रूप से सिंचित की जाने वाली भूमि (असिंचित को 'गोरमा/अपीवल' भी कहते थे)।\n* **गोरवा / गोरमा / गोयरा (Goyra):** गाँव की आबादी के बिल्कुल निकट स्थित भूमि, जहाँ घरेलू खाद-कचरा मिलने से उर्वरता सर्वाधिक होती थी।\n* **माल / मगरा (Mal / Magra):** पठारी या पहाड़ी असिंचित भूमि।\n\n### प्रमुख कृषि मौसम\n* **स्यालू / सावणी (Kharif):** वर्षा ऋतु की फसलें (बाजरा, मक्का, ज्वार, मोठ, ग्वार)।\n* **उन्हालू / बैसाखी (Rabi):** शीतकालीन फसलें (गेहूं, जौ, चना, सरसों)।",
+        "hi": "### सिंचाई व उर्वरता के आधार पर भूमि के प्रकार\n* ==**चाही (Chahi):**== कुओं द्वारा सींची जाने वाली अत्यंत उपजाऊ भूमि।\n* ==**नहरी (Nehri):**== नहरों व नालों के जल से सींची जाने वाली भूमि।\n* ==**तालाबी (Talabi):**== तालाबों या पोखरों के जल से सिंचित भूमि।\n* ==**बारानी (Barani):**== पूर्णतः ==**वर्षा के जल पर निर्भर**== असिंचित भूमि।\n* ==**पीवल (Peewal):**== नियमित रूप से सिंचित की जाने वाली भूमि (असिंचित = अपीवल)।\n* ==**गोरवा / गोरमा / गोयरा (Goyra):**== गाँव की आबादी के बिल्कुल निकट स्थित भूमि, जहाँ घरेलू खाद-कचरा मिलने से ==**उर्वरता सर्वाधिक**== होती थी।\n* ==**माल / मगरा (Mal / Magra):**== पठारी या पहाड़ी असिंचित भूमि।\n\n### प्रमुख कृषि मौसम\n* ==**स्यालू / सावणी (Kharif):**== वर्षा ऋतु की फसलें (बाजरा, मक्का, ज्वार, मोठ, ग्वार)।\n* ==**उन्हालू / बैसाखी (Rabi):**== शीतकालीन फसलें (गेहूं, जौ, चना, सरसों)।",
         "en": "### Land Classification\n* **Chahi:** Well-irrigated fertile land.\n* **Nehri:** Canal-irrigated land.\n* **Talabi:** Tank/pond irrigated land.\n* **Barani:** Rain-dependent un-irrigated dry land.\n* **Peewal:** Regularly irrigated land.\n* **Goyra / Gorma:** Farmland adjacent to the village settlement, naturally fertilized by organic manure.\n\n### Agricultural Seasons\n* **Syalu / Sawani (Kharif):** Monsoon crops (Millet, Maize, Sorghum, Pulses).\n* **Unhalu / Baisakhi (Rabi):** Winter crops (Wheat, Barley, Gram, Mustard)."
       }
     },
@@ -44,7 +136,7 @@
         "en": "3. Feudal Cesses (Lag-Bag) & Forced Labor (Baith-Begar)"
       },
       "content_markdown": {
-        "hi": "### कुख्यात सामंती लाग-बाग (Bijolia & Marwar Cesses)\nरियासतों में मूल लगान के अतिरिक्त किसानों से 84 से अधिक प्रकार की 'लाग-बाग' (अवैध उपकर) वसूली जाती थी:\n\n1. **चंवरी कर (Chauri Kar):** किसान द्वारा अपनी पुत्री के विवाह के अवसर पर जागीरदार को दिया जाने वाला कर (1903 ई. में बिजोलिया के राव कृष्णसिंह द्वारा 5 रुपये प्रति विवाह लगाया गया)।\n2. **तलवार बंधाई (Talwar Bandhai):** 1906 ई. में बिजोलिया के राव पृथ्वीसिंह ने गद्दी पर बैठने पर यह कर किसानों पर थोप दिया।\n3. **खर-लाखड़ (Khar-Lakhar):** राजा या सामंत के घोड़ों, ऊँटों व हाथियों हेतु चारा, घास व लकड़ी मुफ्त में किसानों से वसूलना।\n4. **धूंआ कर / घर-गिनती (Dhuwan Kar):** प्रत्येक परिवार से चूल्हा जलने (घर के आधार पर) लिया जाने वाला कर।\n5. **गनीम-बराड़ (Ganim-Barar):** युद्ध के समय अथवा मराठा आक्रमणकारियों को चौथ देने हेतु प्रजा से वसूला जाने वाला युद्ध-कर।\n6. **खिचड़ी लाग:** सामंती सेना के पड़ाव के समय सैनिकों के भोजन हेतु गाँव वालों से वसूला जाने वाला कर।\n7. **डाण / जकात (Dan / Zakat):** राज्य की सीमा में व्यापारिक माल के आयात-निर्यात पर लिया जाने वाला चुंगी कर।\n\n### बैठ-बेगार प्रथा (Forced Unpaid Labor)\n* किसानों, कारीगरों, चर्मकारों व दलित जातियों से बिना कोई पारिश्रमिक दिए जबरन घरेलू, सामंती व कृषि कार्य करवाने की अमानवीय प्रथा 'बैठ-बेगार' कहलाती थी।",
+        "hi": "### कुख्यात सामंती लाग-बाग (Bijolia & Marwar Cesses)\nरियासतों में मूल लगान के अतिरिक्त किसानों से 84 से अधिक प्रकार की 'लाग-बाग' (अवैध उपकर) वसूली जाती थी:\n\n1. ==**चंवरी कर (Chauri Kar):**== किसान द्वारा अपनी पुत्री के विवाह के अवसर पर जागीरदार को दिया जाने वाला कर (==**1903 ई.**== में बिजोलिया के ==**राव कृष्णसिंह द्वारा ₹5 प्रति विवाह**== लगाया गया)।\n2. ==**तलवार बंधाई (Talwar Bandhai):**== ==**1906 ई.**== में बिजोलिया के ==**राव पृथ्वीसिंह**== ने गद्दी पर बैठने पर यह कर किसानों पर थोप दिया।\n3. ==**खर-लाखड़ (Khar-Lakhar):**== सामंत के पशुओं (घोड़ों, ऊँटों, हाथियों) हेतु चारा, घास व लकड़ी मुफ्त में किसानों से वसूलना।\n4. ==**धूंआ कर / घर-गिनती (Dhuwan Kar):**== प्रत्येक परिवार से चूल्हा जलने (घर के आधार पर) लिया जाने वाला कर।\n5. ==**गनीम-बराड़ (Ganim-Barar):**== युद्ध के समय अथवा मराठा आक्रमणकारियों को चौथ देने हेतु प्रजा से वसूला जाने वाला युद्ध-कर।\n6. ==**खिचड़ी लाग:**== सामंती सेना के पड़ाव के समय सैनिकों के भोजन हेतु गाँव वालों से वसूला जाने वाला कर।\n7. ==**डाण / जकात (Dan / Zakat):**== राज्य की सीमा में व्यापारिक माल के आयात-निर्यात पर लिया जाने वाला चुंगी कर।\n\n### बैठ-बेगार प्रथा (Forced Unpaid Labor)\n* किसानों, कारीगरों, चर्मकारों व वंचित जातियों से ==**बिना कोई पारिश्रमिक दिए जबरन घरेलू, सामंती व कृषि कार्य करवाने**== की अमानवीय प्रथा 'बैठ-बेगार' कहलाती थी।",
         "en": "### Oppressive Feudal Cesses (Lag-Bag)\nPeasants were burdened with over 84 varieties of exactions over and above land rent:\n1. **Chauri Kar:** Fee levied on the marriage of a peasant's daughter (Imposed in 1903 at Rs 5 by Rao Krishnasingh of Bijolia).\n2. **Talwar Bandhai:** Succession tax shifted onto peasants by Rao Prithvisingh of Bijolia in 1906.\n3. **Khar-Lakhar:** Free supply of wood, grass, and fodder for royal stables.\n4. **Dhuwan Kar:** Hearth tax imposed on every household.\n5. **Ganim-Barar:** Wartime cess levied to pay off Maratha tributes.\n6. **Khichdi Lag:** Food levy charged on villagers when the state army encamped.\n7. **Dan (Transit Duty):** Customs and toll duty on goods.\n\n### Baith-Begar (Forced Labor)\n* Coerced, unpaid labor extracted from peasants, artisans, and underprivileged castes."
       }
     }

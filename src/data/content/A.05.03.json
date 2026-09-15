@@ -14,9 +14,86 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "बख्शी / फौज बख्शी", "en": "Bakhshi / Fauj Bakhshi" },
+      "value": { "hi": "सैन्य विभाग प्रमुख (भर्ती, वेतन, हुलिया व दाग व्यवस्था, रसद प्रबंधन)", "en": "Head of military administration (payroll, muster roll, supplies)" },
+      "category": "military_post"
+    },
+    {
+      "label": { "hi": "हरावल (Harawal)", "en": "Harawal (Vanguard)" },
+      "value": { "hi": "सेना की सबसे अग्रिम लड़ाकू पंक्ति (प्रथम प्रहारक दस्ता)", "en": "Foremost frontline combat offensive unit" },
+      "category": "battle_formation"
+    },
+    {
+      "label": { "hi": "चंद्रावल (Chandawal)", "en": "Chandawal (Rearguard)" },
+      "value": { "hi": "सेना की सबसे पिछली रक्षात्मक पंक्ति (रसद रक्षा व फ्लैंक सुरक्षा)", "en": "Rearmost defensive wing protecting baggage and flank attacks" },
+      "category": "battle_formation"
+    },
+    {
+      "label": { "hi": "हरावल विशेषाधिकार", "en": "Hereditary Vanguard Privilege" },
+      "value": { "hi": "मेवाड़: सलूँबर चूँडावत | मारवाड़: चम्पावत राठौड़", "en": "Mewar: Salumbar Chundawats | Marwar: Champawat Rathores" },
+      "category": "battle_formation"
+    },
+    {
+      "label": { "hi": "साबात (Sabat)", "en": "Sabat (Covered Assault Trench)" },
+      "value": { "hi": "किले की दीवार तक पहुँचने हेतु चमड़े व लकड़ी से ढका हुआ सुरक्षित गलियारा", "en": "Covered leather-roofed corridor leading to fort ramparts" },
+      "category": "siege_machinery"
+    },
+    {
+      "label": { "hi": "पाशीब (Pasheb)", "en": "Pasheb (Siege Ramp)" },
+      "value": { "hi": "दुर्ग दीवार की ऊँचाई के बराबर तोपें लगाने हेतु मिट्टी-पत्थर का ऊँचा चबूतरा/रैंप", "en": "Elevated mound/ramp constructed to match battlements height" },
+      "category": "siege_machinery"
+    },
+    {
+      "label": { "hi": "अर्रादा / मगरबी / मंजनीक", "en": "Arrada / Magrabi / Manjaniq" },
+      "value": { "hi": "दुर्ग पर भारी पत्थर व आग के गोले फेंकने वाला यांत्रिक प्रक्षेपास्त्र (Catapult)", "en": "Mechanical siege catapult engines for hurling boulders" },
+      "category": "siege_machinery"
+    },
+    {
+      "label": { "hi": "गरगच (Gargach)", "en": "Gargach (Movable Siege Tower)" },
+      "value": { "hi": "पहियों पर चलने वाला लकड़ी का सुरक्षा कवच/चल बुर्ज", "en": "Wheeled wooden tower protecting advancing assault troops" },
+      "category": "siege_machinery"
+    },
+    {
+      "label": { "hi": "गजनाल", "en": "Gajnal" },
+      "value": { "hi": "हाथी की पीठ पर रखकर दागी जाने वाली हल्की तोप", "en": "Light cannon mounted on elephant back" },
+      "category": "artillery_type"
+    },
+    {
+      "label": { "hi": "शुतरनाल (रेहकला/जंबूरक)", "en": "Shutarnal (Swivel Gun)" },
+      "value": { "hi": "ऊँट की पीठ पर रखकर दागी जाने वाली हल्की गतिशील तोप", "en": "Portable swivel cannon mounted on camel back" },
+      "category": "artillery_type"
+    },
+    {
+      "label": { "hi": "नरनाल", "en": "Narnal" },
+      "value": { "hi": "पैदल सैनिकों द्वारा ढोई जाने वाली हल्की तोप", "en": "Man-portable light field piece" },
+      "category": "artillery_type"
+    },
+    {
+      "label": { "hi": "जयबाण तोप", "en": "Jaivana Cannon" },
+      "value": { "hi": "जयगढ़ दुर्ग (जयपुर) — एशिया की सबसे बड़ी पहियों पर तोप (सवाई जयसिंह 1720)", "en": "Jaigarh Fort (Jaipur) — Asia's largest cannon on wheels (1720 AD)" },
+      "category": "historic_cannon"
+    },
+    {
+      "label": { "hi": "गर्भ गुंजन तोप", "en": "Garbh Gunjam Cannon" },
+      "value": { "hi": "तारागढ़ दुर्ग (बूंदी) — कान फाडू भीषण गर्जना वाली तोप", "en": "Taragarh Fort (Bundi) — known for thunderous acoustic roar" },
+      "category": "historic_cannon"
+    },
+    {
+      "label": { "hi": "मेहरानगढ़ तोपखाना (जोधपुर)", "en": "Mehrangarh Artillery (Jodhpur)" },
+      "value": { "hi": "किलकिला, शंभूबाण, गजनी खां, कड़क बिजली, नुसरत, धूड़धानी", "en": "Kilkila, Shambhuban, Gajni Khan, Kadak Bijli, Nusrat" },
+      "category": "historic_cannon"
+    },
+    {
+      "label": { "hi": "हुंहुंकार तोप", "en": "Hunhunkar Cannon" },
+      "value": { "hi": "शेरगढ़ दुर्ग (धौलपुर) — राजा कीरत सिंह द्वारा स्थापित भारी तोप", "en": "Shergarh Fort (Dholpur) — historic heavy battery piece" },
+      "category": "historic_cannon"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +101,8 @@
         "en": "1. Rajput Battlefield Formations & Military Structure"
       },
       "content_markdown": {
-        "hi": "### सैन्य पद एवं कमान संरचना\n* **सेनापति / फौजदार / बख्शी:** राजा के बाद सेना का सर्वोच्च प्रशासनिक व परिचालन अधिकारी, जो सैनिकों की भर्ती, रसद, अस्त्र-शस्त्र एवं वेतन (हुलिया व दाग प्रथा) का प्रबंधन करता था।\n\n### प्रमुख युद्ध व्यूहरचना (Battle Formations)\n\n| व्यूह अंग | राजस्थानी / सैन्य नाम | कार्य एवं सामरिक महत्व |\n|---|---|---|\n| **1. अग्रिम दस्ता** | **हरावल (Harawal)** | सेना की सबसे आगे रहने वाली लड़ाकू पंक्ति, जिसका कार्य शत्रु पर प्रथम घातक प्रहार करना होता था। (मेवाड़ में सलूँबर के चूँडावत तथा मारवाड़ में चम्पावत हरावल का नेतृत्व करते थे)। |\n| **2. पश्च दस्ता** | **चंद्रावल (Chandawal)** | सेना की सबसे पिछली रक्षात्मक पंक्ति, जो रसद की रक्षा तथा पीछे से होने वाले हमलों को रोकती थी। |\n| **3. दायाँ पार्श्व** | **दक्षिण पार्श्व (Right Wing)** | सेना के दाहिने हिस्से की कमान। |\n| **4. बायाँ पार्श्व** | **वाम पार्श्व (Left Wing)** | सेना के बाएँ हिस्से की कमान। |\n| **5. मध्य दस्ता** | **वस्त (Centre / Qalb)** | राजा अथवा मुख्य सेनापति का स्थान, जहाँ राज्य का मुख्य शाही ध्वज (निशान) फहराता था। |",
-        "en": "### Command Structure & Battlefield Divisions\n* **Bakhshi / Faujdar:** Supreme administrative officer managing recruitment, logistics, inspections, and payroll.\n\n### Formations (Vyuha)\n* **Harawal (Vanguard):** Foremost frontline unit tasked with the initial offensive charge (Held hereditarily by Salumbar Chundawats in Mewar and Champawats in Marwar).\n* **Chandawal (Rearguard):** The rearmost defensive wing securing supply lines and repelling flank ambushes.\n* **Right Wing & Left Wing:** Flanking divisions.\n* **Centre (Qalb / Vast):** Station of the King or Supreme Commander flying the state royal banner."
+        "hi": "### सैन्य पद एवं कमान संरचना\n* ==**सेनापति / फौजदार / बख्शी:**== राजा के बाद सेना का सर्वोच्च प्रशासनिक व परिचालन अधिकारी, जो सैनिकों की भर्ती, रसद, अस्त्र-शस्त्र एवं वेतन (हुलिया व दाग प्रथा) का प्रबंधन करता था।\n\n### प्रमुख युद्ध व्यूहरचना (Battle Formations)\n\n| व्यूह अंग | राजस्थानी / सैन्य नाम | कार्य एवं सामरिक महत्व |\n|---|---|---|\n| **1. अग्रिम दस्ता** | ==**हरावल (Harawal)**== | सेना की सबसे आगे रहने वाली लड़ाकू पंक्ति, जिसका कार्य शत्रु पर प्रथम प्रहार करना होता था। (मेवाड़ में ==**सलूँबर के चूँडावत**== तथा मारवाड़ में ==**चम्पावत**== हरावल का नेतृत्व करते थे)। |\n| **2. पश्च दस्ता** | ==**चंद्रावल (Chandawal)**== | सेना की सबसे पिछली रक्षात्मक पंक्ति, जो रसद की रक्षा तथा पीछे से होने वाले हमलों को रोकती थी। |\n| **3. दायाँ पार्श्व** | **दक्षिण पार्श्व (Right Wing)** | सेना के दाहिने हिस्से की कमान। |\n| **4. बायाँ पार्श्व** | **वाम पार्श्व (Left Wing)** | सेना के बाएँ हिस्से की कमान। |\n| **5. मध्य दस्ता** | ==**वस्त (Centre / Qalb)**== | राजा अथवा मुख्य सेनापति का स्थान, जहाँ राज्य का मुख्य शाही ध्वज (निशान) फहराता था। |",
+        "en": "### Command Structure & Battlefield Divisions\n* **Bakhshi / Faujdar:** Supreme administrative officer managing recruitment, logistics, inspections, and payroll.\n\n### Formations (Vyuha)\n* **Harawal (Vanguard):** Foremost frontline unit tasked with initial offensive charge (Salumbar Chundawats in Mewar; Champawats in Marwar).\n* **Chandawal (Rearguard):** The rearmost defensive wing securing supply lines and repelling flank ambushes.\n* **Centre (Qalb / Vast):** Station of King or Supreme Commander flying the state royal banner."
       }
     },
     {
@@ -34,8 +111,8 @@
         "en": "2. Siegecraft & Fort Defense Technology"
       },
       "content_markdown": {
-        "hi": "### दुर्ग घेराबंदी के प्रमुख यंत्र व प्रणालियाँ (Exam Hotspot)\n\n1. **साबात (Sabat):**\n   - किले की दीवार तक सुरक्षित पहुँचने के लिए बनाया गया **चमड़े व मजबूत लकड़ी से ढका हुआ सुरक्षित गलियारा / सुरंग मार्ग**। इसके भीतर सैनिक बिना तीर-गोली लगे दुर्ग की नींव में बारूद की सुरंग (सुरंग खोदी) बिछाने पहुँचते थे। (उदा. 1567 ई. में चित्तौड़गढ़ के घेरे में अकबर द्वारा निर्मित साबात)।\n2. **पाशीब (Pasheb):**\n   - दुर्ग की ऊँची प्राचीरों (दीवारों) के बराबर पहुँचने और तोपों को ऊँचाई पर स्थापित करने हेतु पत्थरों, लकड़ी व मिट्टी से बनाया गया **विशाल कृत्रिम चबूतरा / रैंप**।\n3. **अर्रादा (Arrada) / मगरबी (Magrabi) / मंजनीक (Manjaniq):**\n   - दुर्ग की दीवारों को तोड़ने हेतु भारी पत्थरों, जलती हुई आग के गोलों अथवा गर्म तेल को फेंकने वाला **विशाल यांत्रिक प्रक्षेपास्त्र (Catapult/Trebuchet)**।\n4. **ढुकन / ढेकुली (Dhekuli):**\n   - पत्थरों को उछालकर किले की प्राचीर पर स्थित रक्षकों पर मारने वाला यंत्र।\n5. **गरगच (Gargach):**\n   - पहियों पर चलने वाला लकड़ी का सुरक्षा कवच/बुर्ज जिसके पीछे सैनिक छिपकर दुर्ग पर हमला करते थे।",
-        "en": "### Historic Siege Engines & Tactics\n1. **Sabat:** A covered, leather-roofed corridor built during a siege to allow soldiers to approach fort ramparts safely and dig subterranean mines (e.g. Akbar's Sabat at Chittor in 1567).\n2. **Pasheb:** An elevated artificial ramp/mound constructed out of earth and sandbags to match the height of fort battlements for cannons.\n3. **Arrada / Magrabi / Manjaniq:** Giant mechanical catapults designed to heave massive boulders and burning resin onto fortifications.\n4. **Gargach:** Movable wheeled siege tower shielding troops from defensive projectile fire."
+        "hi": "### दुर्ग घेराबंदी के प्रमुख यंत्र व प्रणालियाँ (Exam Hotspot)\n\n1. ==**साबात (Sabat):**==\n   - किले की दीवार तक सुरक्षित पहुँचने के लिए बनाया गया ==**चमड़े व मजबूत लकड़ी से ढका हुआ सुरक्षित गलियारा / सुरंग मार्ग**==। इसके भीतर सैनिक बिना तीर-गोली लगे दुर्ग की नींव में बारूद की सुरंग बिछाने पहुँचते थे (उदा. 1567 ई. में चित्तौड़गढ़ के घेरे में ==**अकबर द्वारा निर्मित साबात**==)।\n2. ==**पाशीब (Pasheb):**==\n   - दुर्ग की ऊँची प्राचीरों के बराबर पहुँचने और तोपों को ऊँचाई पर स्थापित करने हेतु पत्थरों व मिट्टी से बनाया गया ==**विशाल कृत्रिम चबूतरा / रैंप**==।\n3. ==**अर्रादा (Arrada) / मगरबी (Magrabi) / मंजनीक (Manjaniq):**==\n   - दुर्ग की दीवारों को तोड़ने हेतु भारी पत्थरों, जलती हुई आग के गोलों अथवा गर्म तेल को फेंकने वाला ==**विशाल यांत्रिक प्रक्षेपास्त्र (Catapult/Trebuchet)**==।\n4. ==**ढुकन / ढेकुली (Dhekuli):**==\n   - पत्थरों को उछालकर किले की प्राचीर पर स्थित रक्षकों पर मारने वाला यंत्र।\n5. ==**गरगच (Gargach):**==\n   - पहियों पर चलने वाला लकड़ी का सुरक्षा कवच/बुर्ज जिसके पीछे सैनिक छिपकर दुर्ग पर हमला करते थे।",
+        "en": "### Historic Siege Engines & Tactics\n1. **Sabat:** A covered, leather-roofed corridor built during a siege to approach fort ramparts safely and plant mines (e.g. Akbar's Sabat at Chittor in 1567).\n2. **Pasheb:** An elevated artificial ramp/mound constructed to match the height of fort battlements for artillery.\n3. **Arrada / Magrabi / Manjaniq:** Giant mechanical catapults designed to fling boulders and burning resin.\n4. **Gargach:** Movable wheeled siege tower shielding troops."
       }
     },
     {
@@ -44,8 +121,8 @@
         "en": "3. Artillery Classification & Famous Historic Cannons"
       },
       "content_markdown": {
-        "hi": "### तोपों का वर्गीकरण (Classification of Artillery)\n* **गजनाल (Gajnal):** हाथी की पीठ पर रखकर दागी जाने वाली हल्की तोप।\n* **शुतरनाल (Shutarnal):** ऊँट की पीठ पर रखकर दागी जाने वाली हल्की तोप (रेहकला)।\n* **नरनाल (Narnal):** एक या दो व्यक्तियों (पैदल सैनिकों) द्वारा ढोई जाने वाली हल्की तोप।\n\n### राजस्थान के दुर्गों की प्रसिद्ध ऐतिहासिक तोपें\n\n| तोप का नाम | दुर्ग / स्थान | ऐतिहासिक विशेषता |\n|---|---|---|\n| **जयबाण तोप** | **जयगढ़ दुर्ग (जयपुर)** | एशिया की सबसे बड़ी पहियों पर रखी तोप; निर्माता: सवाई जयसिंह द्वितीय (1720 ई.)। एक बार परीक्षण में गोला 22 मील दूर चाकसू में गिरा जहाँ **'गोलेलाव तालाब'** बना। |\n| **गर्भ गुंजन तोप** | **तारागढ़ दुर्ग (बूंदी)** | अत्यंत भीषण व कान फाडू गर्जना करने वाली तोप। |\n| **किलकिला, शंभूबाण, गजनी खां** | **मेहरानगढ़ दुर्ग (जोधपुर)** | जोधपुर दुर्ग की प्राचीर पर स्थित ऐतिहासिक भारी तोपें (नुसरत, कड़क बिजली, धूड़धानी, बिच्छू बाण)। |\n| **हुंहुंकार तोप** | **शेरगढ़ दुर्ग (धौलपुर)** | धौलपुर के शेरगढ़ किले में स्थित प्रसिद्ध भारी तोप। |\n| **कड़क बिजली तोप** | **मेहरानगढ़ (जोधपुर)** | महाराजा मानसिंह के समय निर्मित तोप। |",
-        "en": "### Artillery Classification\n* **Gajnal:** Light cannon mounted and fired from elephant back.\n* **Shutarnal:** Portable cannon carried on camel back (Zamburak).\n* **Narnal:** Man-portable light field piece.\n\n### Iconic Historic Cannons of Rajasthan\n* **Jaivana Cannon (Jaigarh Fort, Jaipur):** World's largest cannon on wheels; built by Sawai Jai Singh II in 1720. Test shot landed 22 miles away in Chaksu, creating the Golelao pond.\n* **Garbh Gunjam (Taragarh, Bundi):** Known for its thunderous concussion.\n* **Kilkila, Shambhuban, Gajni Khan, Kadak Bijli (Mehrangarh, Jodhpur):** Famous battery guarding Jodhpur citadel.\n* **Hunhunkar Cannon (Shergarh Fort, Dholpur):** Renowned fortress artillery piece."
+        "hi": "### तोपों का वर्गीकरण (Classification of Artillery)\n* ==**गजनाल (Gajnal):**== हाथी की पीठ पर रखकर दागी जाने वाली हल्की तोप।\n* ==**शुतरनाल (Shutarnal):**== ऊँट की पीठ पर रखकर दागी जाने वाली हल्की तोप (रेहकला/जंबूरक)।\n* ==**नरनाल (Narnal):**== पैदल सैनिकों द्वारा ढोई जाने वाली हल्की तोप।\n\n### राजस्थान के दुर्गों की प्रसिद्ध ऐतिहासिक तोपें\n\n| तोप का नाम | दुर्ग / स्थान | ऐतिहासिक विशेषता |\n|---|---|---|\n| ==**जयबाण तोप**== | ==**जयगढ़ दुर्ग (जयपुर)**== | एशिया की सबसे बड़ी पहियों पर रखी तोप; निर्माता: ==**सवाई जयसिंह द्वितीय (1720 ई.)**==। एक बार परीक्षण में गोला 22 मील दूर चाकसू में गिरा जहाँ ==**'गोलेलाव तालाब'**== बना। |\n| ==**गर्भ गुंजन तोप**== | ==**तारागढ़ दुर्ग (बूंदी)**== | अत्यंत भीषण व कान फाडू गर्जना करने वाली तोप। |\n| ==**किलकिला, शंभूबाण, गजनी खां**== | ==**मेहरानगढ़ दुर्ग (जोधपुर)**== | जोधपुर दुर्ग की प्राचीर पर स्थित ऐतिहासिक भारी तोपें (नुसरत, कड़क बिजली, धूड़धानी, बिच्छू बाण)। |\n| ==**हुंहुंकार तोप**== | ==**शेरगढ़ दुर्ग (धौलपुर)**== | धौलपुर के शेरगढ़ किले में स्थित प्रसिद्ध भारी तोप (निर्माता: राजा कीरत सिंह)। |",
+        "en": "### Artillery Classification\n* **Gajnal:** Light cannon mounted on elephant back.\n* **Shutarnal:** Portable cannon carried on camel back (Zamburak).\n* **Narnal:** Man-portable light field piece.\n\n### Iconic Historic Cannons of Rajasthan\n* **Jaivana Cannon (Jaigarh Fort, Jaipur):** World's largest cannon on wheels; built by Sawai Jai Singh II in 1720. Created Golelao pond in Chaksu.\n* **Garbh Gunjam (Taragarh, Bundi):** Known for its thunderous roar.\n* **Kilkila, Shambhuban, Gajni Khan, Kadak Bijli (Mehrangarh, Jodhpur):** Historic battery guarding Jodhpur citadel.\n* **Hunhunkar Cannon (Shergarh Fort, Dholpur):** Renowned fortress artillery piece."
       }
     }
   ],

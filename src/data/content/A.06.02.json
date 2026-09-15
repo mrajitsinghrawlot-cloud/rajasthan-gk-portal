@@ -14,9 +14,71 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "आउवा क्रांति नायक", "en": "Hero of Auwa Resistance" },
+      "value": { "hi": "ठाकुर कुशाल सिंह चम्पावत (पाली — मारवाड़ में क्रांति का केंद्र)", "en": "Thakur Kushal Singh Champawat (Auwa, Pali)" },
+      "category": "revolt_leader"
+    },
+    {
+      "label": { "hi": "सहयोगी जागीरदार", "en": "Allied Rebel Jagirdars" },
+      "value": { "hi": "आसोप (ठाकुर शिवनाथ सिंह), गूलर (बिशनसिंह), आलणियावास (अजीत सिंह)", "en": "Asop (Shivnath Singh), Guler (Bishan Singh), Alaniyawas (Ajit Singh)" },
+      "category": "revolt_leader"
+    },
+    {
+      "label": { "hi": "अमर नारा (एरिनपुरा)", "en": "Historic Erinpura War Cry" },
+      "value": { "hi": "'चलो दिल्ली, मारो फिरंगी' (सूबेदार शीतल प्रसाद, मोती खां, तिलकराम)", "en": "'Chalo Delhi, Maro Firangi' (Subedar Sheetal Prasad, Moti Khan)" },
+      "category": "rebel_slogan"
+    },
+    {
+      "label": { "hi": "1857 की क्रांति की देवी", "en": "Deity of 1857 Revolt" },
+      "value": { "hi": "सुगाली माता (आउवा कुलदेवी — 10 सिर व 54 हाथ, काले पाषाण मूर्ति)", "en": "Sugali Mata (10 heads, 54 arms black marble idol)" },
+      "category": "spiritual_symbol"
+    },
+    {
+      "label": { "hi": "सुगाली माता प्रतिमा वर्तमान स्थान", "en": "Sugali Mata Current Location" },
+      "value": { "hi": "बांगर राजकीय संग्रहालय, पाली (कर्नल होम्स द्वारा अजमेर ले जाई गई थी)", "en": "Bangar Government Museum, Pali (taken to Ajmer by Col. Holmes)" },
+      "category": "spiritual_symbol"
+    },
+    {
+      "label": { "hi": "बिथोड़ा का युद्ध (8 सितं 1857)", "en": "Battle of Bithoda (Sep 8, 1857)" },
+      "value": { "hi": "कुशाल सिंह विजयी; जोधपुर सेनापति ओनाड़सिंह पंवार मारा गया, कैप्टन हीथकोट भागा", "en": "Kushal Singh won; Jodhpur general Onar Singh killed, Capt. Heathcote fled" },
+      "category": "historic_battle"
+    },
+    {
+      "label": { "hi": "चेलावास / गोरे-काले का युद्ध (18 सितं)", "en": "Battle of Chelawas / Gore-Kale (Sep 18)" },
+      "value": { "hi": "AGG जॉर्ज लॉरेंस परास्त; मारवाड़ P.A. मॉक मेसन मारा गया", "en": "AGG George Lawrence routed; Jodhpur P.A. Mock Meson slain" },
+      "category": "historic_battle"
+    },
+    {
+      "label": { "hi": "मॉक मेसन का सिर", "en": "Mock Meson's Decapitation" },
+      "value": { "hi": "सिर काटकर आउवा दुर्ग के मुख्य दरवाजे (पोल) पर लटकाया गया", "en": "Severed head hung on main gate of Auwa Fort" },
+      "category": "historic_event"
+    },
+    {
+      "label": { "hi": "कुशाल सिंह के शरणदाता", "en": "Sanctuary Providers to Kushal Singh" },
+      "value": { "hi": "कोठारिया (रावत जोधसिंह) एवं सलूँबर (रावत केसरी सिंह) — मेवाड़", "en": "Kothariya (Rawat Jodh Singh) & Salumbar (Rawat Kesari Singh)" },
+      "category": "rebel_support"
+    },
+    {
+      "label": { "hi": "आउवा दुर्ग पतन (24 जन 1858)", "en": "Fall of Auwa Fort (Jan 24, 1858)" },
+      "value": { "hi": "कर्नल होम्स द्वारा तोपखाने से कब्जा व दुर्ग विध्वंस", "en": "Colonel Holmes captured and razed the fort with artillery" },
+      "category": "british_siege"
+    },
+    {
+      "label": { "hi": "मेजर टेलर आयोग (1860 ई.)", "en": "Major Taylor Commission (1860)" },
+      "value": { "hi": "कुशाल सिंह की जाँच; 10 नवंबर 1860 को ससम्मान दोषमुक्त", "en": "Investigated Kushal Singh; fully exonerated on Nov 10, 1860" },
+      "category": "inquiry_commission"
+    },
+    {
+      "label": { "hi": "कुशाल सिंह आत्मसमर्पण", "en": "Surrender of Kushal Singh" },
+      "value": { "hi": "8 अगस्त 1860 (नीमच में); देहावसान: 1864 ई. (उदयपुर)", "en": "Aug 8, 1860 (at Neemuch); died in Udaipur (1864)" },
+      "category": "revolt_leader"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +86,8 @@
         "en": "1. Outbreak at Erinpura Cantonment (Aug 21, 1857) & March to Delhi"
       },
       "content_markdown": {
-        "hi": "### एरिनपुरा छावनी (पाली) में क्रांति\n* **रेजिमेंट:** **जोधपुर लीजियन (Jodhpur Legion)** के 'पूर्विया' सैनिकों द्वारा विद्रोह।\n* **आरंभ:** आबू में तैनात जोधपुर लीजियन के सैनिकों ने 21 अगस्त 1857 को विद्रोह किया और फिर एरिनपुरा छावनी पहुंचे।\n* **प्रमुख विद्रोही नेता:** सूबेदार **मोती खां**, सूबेदार **शीतल प्रसाद** एवं तिलकराम।\n* **क्रांति का अमर नारा:** सूबेदार शीतल प्रसाद व मोती खां के नेतृत्व में सैनिकों ने छावनी को लूटा और नारा दिया: > **\"चलो दिल्ली, मारो फिरंगी!\"**\n\n### आउवा में ठाकुर कुशाल सिंह से मिलन\n* एरिनपुरा से दिल्ली की ओर बढ़ते हुए सैनिकों का खेरवा नामक स्थान पर **आउवा के ठाकुर कुशाल सिंह चम्पावत** से संपर्क हुआ।\n* कुशाल सिंह ने इन विद्रोही सैनिकों का नेतृत्व अपने हाथ में ले लिया। आसोप के ठाकुर शिवनाथ सिंह, गूलर के ठाकुर बिशनसिंह, आलणियावास के ठाकुर अजीत सिंह भी क्रांति में शामिल हो गए।\n* **1857 की क्रांति की देवी (सुगाली माता):** आउवा के चम्पावत राठौड़ों की कुलदेवी **सुगाली माता** थीं (काले संगमरमर की मूर्ति, जिसके **10 सिर और 54 हाथ** हैं)। क्रांतिकारी सुगाली माता से प्रेरणा व आशीर्वाद लेकर युद्ध में उतरते थे।",
-        "en": "### Erinpura Outbreak (Aug 21, 1857)\n* **Regiment:** Eastern Purbiya soldiers of the **Jodhpur Legion** revolted at Abu on Aug 21, 1857 and marched to Erinpura.\n* **Leaders:** Subedar **Moti Khan**, Subedar **Sheetal Prasad**, and Tilak Ram.\n* **Historic Slogan:** Coined the legendary rallying cry: > **\"Chalo Delhi, Maro Firangi!\"** (March to Delhi, Kill the Foreigners!)\n\n### Alliance with Thakur Kushal Singh of Auwa\n* Mutineers met **Thakur Kushal Singh Champawat of Auwa** at Kherwa.\n* Kushal Singh assumed overall leadership of the Marwar rebellion, joined by jagirdars of Asop (Shivnath Singh), Guler (Bishan Singh), and Alaniyawas.\n* **Goddess of the 1857 Revolt (Sugali Mata):** The Kuldevi of Auwa's Champawats, featuring **10 heads and 54 arms** sculpted in black marble, inspiring freedom fighters."
+        "hi": "### एरिनपुरा छावनी (पाली) में क्रांति\n* **रेजिमेंट:** ==**जोधपुर लीजियन (Jodhpur Legion)**== के 'पूर्विया' सैनिकों द्वारा विद्रोह।\n* **आरंभ:** आबू में तैनात जोधपुर लीजियन के सैनिकों ने ==**21 अगस्त 1857**== को विद्रोह किया और फिर एरिनपुरा छावनी पहुंचे।\n* **प्रमुख विद्रोही नेता:** सूबेदार ==**मोती खां**==, सूबेदार ==**शीतल प्रसाद**== एवं तिलकराम।\n* **क्रांति का अमर नारा:** सूबेदार शीतल प्रसाद व मोती खां के नेतृत्व में सैनिकों ने नारा दिया: > ==**\"चलो दिल्ली, मारो फिरंगी!\"**==\n\n### आउवा में ठाकुर कुशाल सिंह से मिलन\n* एरिनपुरा से दिल्ली की ओर बढ़ते सैनिकों का खेरवा में ==**आउवा के ठाकुर कुशाल सिंह चम्पावत**== से संपर्क हुआ।\n* कुशाल सिंह ने विद्रोही सेना का नेतृत्व संभाला। आसोप के ठाकुर शिवनाथ सिंह, गूलर के ठाकुर बिशनसिंह, आलणियावास के ठाकुर अजीत सिंह भी शामिल हुए।\n* **1857 की क्रांति की देवी (सुगाली माता):** आउवा के चम्पावत राठौड़ों की कुलदेवी ==**सुगाली माता (10 सिर और 54 हाथ वाली काले पाषाण की प्रतिमा)**== क्रांतिकारियों की परम आराध्य थीं।",
+        "en": "### Erinpura Outbreak (Aug 21, 1857)\n* **Regiment:** Eastern Purbiya soldiers of the **Jodhpur Legion** revolted on Aug 21, 1857.\n* **Leaders:** Subedar **Moti Khan**, Subedar **Sheetal Prasad**, and Tilak Ram.\n* **Historic Slogan:** Coined the rallying cry: > **\"Chalo Delhi, Maro Firangi!\"**\n\n### Alliance with Thakur Kushal Singh of Auwa\n* Mutineers joined **Thakur Kushal Singh Champawat of Auwa**, who assumed overall command.\n* **Goddess of 1857 Revolt (Sugali Mata):** Kuldevi of Auwa Champawats with **10 heads and 54 arms** in black marble."
       }
     },
     {
@@ -34,8 +96,8 @@
         "en": "2. Battles of Bithoda (Sep 8, 1857) & Chelawas / Gore-Kale (Sep 18, 1857)"
       },
       "content_markdown": {
-        "hi": "### 1. बिथोड़ा का युद्ध (8 सितंबर 1857 ई. — पाली)\n* **पक्ष:** ठाकुर कुशाल सिंह + विद्रोही सेना बनाम **जोधपुर राज्य की सेना (सेनापति ओनाड़सिंह पंवार) + अंग्रेज कैप्टन हीथकोट**।\n* **परिणाम:** कुशाल सिंह की प्रचंड विजय। जोधपुर का सेनापति **ओनाड़सिंह पंवार मारा गया** तथा कैप्टन हीथकोट जान बचाकर भाग निकला।\n* क्रांतिकारियों के हाथ भारी तोपखाना और गोला-बारूद लगा।\n\n### 2. चेलावास का युद्ध / गोरे-काले का युद्ध (18 सितंबर 1857 ई.)\n* **पक्ष:** ठाकुर कुशाल सिंह की क्रांतिकारी सेना बनाम **ए.जी.जी. जॉर्ज पैट्रिक लॉरेंस + जोधपुर का पॉलिटिकल एजेंट मॉक मेसन (Mock Meson)**।\n* **'गोरे-काले का युद्ध':** अंग्रेज गोरे थे और क्रांतिकारी भारतीय काले, अतः इसे लोक-परंपरा में 'गोरे-काले का युद्ध' कहा गया।\n* **परिणाम:** क्रांतिकारियों ने अंग्रेजों को बुरी तरह परास्त किया।\n  - जोधपुर का पॉलिटिकल एजेंट **मॉक मेसन मारा गया**।\n  - क्रांतिकारियों ने मॉक मेसन का सिर काटकर **आउवा दुर्ग के मुख्य दरवाजे पर लटका दिया**।\n  - ए.जी.जी. जॉर्ज लॉरेंस अजमेर की ओर भाग गया।\n* **लोकगीत:** > *\"ढोल बाजे, चंग बाजे, भलो बाजे बांकियो। एजेंट को मार कर आउवा के दरवाजे पर टांकियो॥\"*",
-        "en": "### 1. Battle of Bithoda (September 8, 1857 AD — Pali)\n* **Combatants:** Thakur Kushal Singh & rebels vs **Jodhpur Royal Army (General Onar Singh Panwar) + British Captain Heathcote**.\n* **Result:** Decisive victory for Kushal Singh. Onar Singh was slain on the field; Captain Heathcote fled for his life.\n\n### 2. Battle of Chelawas / 'Battle of Black & White' (September 18, 1857 AD)\n* **Combatants:** Thakur Kushal Singh vs **AGG George Patrick Lawrence + Jodhpur Political Agent Mock Meson**.\n* **Result:** Crushing defeat for British forces.\n  - Political Agent **Mock Meson was killed**.\n  - Revolutionaries decapitated Mock Meson and hung his severed head on the main gateway of Auwa Fort.\n  - AGG George Lawrence fled back to Ajmer.\n* **Folk Ballad:** > *\"Dhol baje, chang baje, bhalo baje bankiyo... Agent ko maar kar Auwa ke darwaje par tankiyo!\"*"
+        "hi": "### 1. बिथोड़ा का युद्ध (8 सितंबर 1857 ई. — पाली)\n* **पक्ष:** ठाकुर कुशाल सिंह + विद्रोही सेना बनाम ==**जोधपुर सेना (सेनापति ओनाड़सिंह पंवार) + कैप्टन हीथकोट**==।\n* **परिणाम:** कुशाल सिंह की प्रचंड विजय। जोधपुर का सेनापति ==**ओनाड़सिंह पंवार मारा गया**== तथा कैप्टन हीथकोट जान बचाकर भागा।\n\n### 2. चेलावास का युद्ध / गोरे-काले का युद्ध (18 सितंबर 1857 ई.)\n* **पक्ष:** ठाकुर कुशाल सिंह बनाम ==**ए.जी.जी. जॉर्ज पैट्रिक लॉरेंस + जोधपुर P.A. मॉक मेसन**==।\n* **'गोरे-काले का युद्ध':** अंग्रेज गोरे और क्रांतिकारी भारतीय काले थे, अतः इसे लोक-परंपरा में 'गोरे-काले का युद्ध' कहा गया।\n* **परिणाम:** क्रांतिकारियों ने अंग्रेजों को बुरी तरह परास्त किया:\n  - जोधपुर का पॉलिटिकल एजेंट ==**मॉक मेसन मारा गया**==।\n  - क्रांतिकारियों ने मॉक मेसन का सिर काटकर ==**आउवा दुर्ग के मुख्य दरवाजे (पोल) पर लटका दिया**==।\n  - ए.जी.जी. जॉर्ज लॉरेंस अजमेर भाग गया।\n* **लोकगीत:** > *\"ढोल बाजे, चंग बाजे, भलो बाजे बांकियो। एजेंट को मार कर आउवा के दरवाजे पर टांकियो॥\"*",
+        "en": "### 1. Battle of Bithoda (Sep 8, 1857 AD — Pali)\n* **Combatants:** Thakur Kushal Singh vs **Jodhpur Army (General Onar Singh Panwar) + British Captain Heathcote**.\n* **Result:** Kushal Singh won. Onar Singh was killed; Captain Heathcote fled.\n\n### 2. Battle of Chelawas / 'Battle of Black & White' (Sep 18, 1857 AD)\n* **Combatants:** Thakur Kushal Singh vs **AGG George Lawrence + Political Agent Mock Meson**.\n* **Result:** Total British defeat. Political Agent **Mock Meson was slain and his severed head was hung on Auwa Fort gate**."
       }
     },
     {
@@ -44,8 +106,8 @@
         "en": "3. Col. Holmes' Siege of Auwa, Sugali Mata Idol & Major Taylor Commission"
       },
       "content_markdown": {
-        "hi": "### कर्नल होम्स का आउवा पर आक्रमण (जनवरी 1858 ई.)\n* 20 जनवरी 1858 को कर्नल होम्स और कैप्टन हंसिकोट के नेतृत्व में भारी अंग्रेजी तोपखाने ने आउवा दुर्ग को घेर लिया।\n* ठाकुर कुशाल सिंह दुर्ग का भार अपने छोटे भाई **पृथ्वीसिंह (लांबिया के ठाकुर)** को सौंपकर सलूँबर (मेवाड़) के रावत केसरी सिंह तथा कोठारिया के रावत जोधसिंह के पास चले गए, जहाँ उन्हें शरण मिली।\n* 24 जनवरी 1858 को अंग्रेजों ने आउवा दुर्ग पर अधिकार कर लिया और किले को बारूद से उड़ा दिया।\n\n### सुगाली माता की मूर्ति ले जाना\n* कर्नल होम्स **सुगाली माता की चमत्कारी 10 सिर व 54 हाथ वाली प्रतिमा** को आउवा से उखाड़कर अजमेर ले गया।\n* वर्तमान में यह ऐतिहासिक मूर्ति पाली के **बांगर संग्रहालय** में सुरक्षित रखी गई है।\n\n### आत्मसमर्पण एवं मेजर टेलर कमीशन (1860 ई.)\n* 8 अगस्त 1860 ई. को ठाकुर कुशाल सिंह ने नीमच में अंग्रेजों के समक्ष आत्मसमर्पण किया।\n* अंग्रेजों ने कुशाल सिंह के आचरण व विद्रोह की जाँच हेतु **'मेजर टेलर कमीशन' (Major Taylor Commission)** का गठन किया।\n* टेलर कमीशन ने पाया कि कुशाल सिंह का विद्रोह अंग्रेजों के विरुद्ध नहीं बल्कि जोधपुर महाराजा तख्तसिंह के व्यक्तिगत अत्याचारों के विरुद्ध था, अतः उन्हें **10 नवंबर 1860 को ससम्मान बरी (दोषमुक्त)** कर दिया गया।\n* 1864 ई. में उदयपुर में ठाकुर कुशाल सिंह का स्वर्गवास हुआ।",
-        "en": "### Colonel Holmes' Siege of Auwa (January 1858 AD)\n* On Jan 20, 1858, Colonel Holmes besieged Auwa with heavy artillery.\n* Thakur Kushal Singh handed over defense to brother Prithvi Singh and took asylum with Rawat Kesari Singh of Salumbar and Rawat Jodh Singh of Kothariya.\n* The British seized and blasted Auwa Fort on Jan 24, 1858.\n\n### Sugali Mata Idol\n* Col. Holmes confiscated the 10-headed, 54-armed idol of Sugali Mata and took it to Ajmer (now preserved in the **Bangar Museum, Pali**).\n\n### Major Taylor Commission (1860 AD)\n* Thakur Kushal Singh surrendered at Neemuch on Aug 8, 1860.\n* The British instituted the **Major Taylor Commission** to investigate his rebellion.\n* The commission exonerated him on Nov 10, 1860, concluding his fight was primarily against the internal tyranny of Maharaja Takht Singh of Jodhpur.\n* Kushal Singh passed away in Udaipur in 1864."
+        "hi": "### कर्नल होम्स का आउवा पर आक्रमण (जनवरी 1858 ई.)\n* 20 जनवरी 1858 को ==**कर्नल होम्स**== ने भारी तोपखाने से आउवा दुर्ग को घेरा।\n* ठाकुर कुशाल सिंह दुर्ग का भार अपने छोटे भाई पृथ्वीसिंह को सौंपकर मेवाड़ के ==**कोठारिया (रावत जोधसिंह)**== एवं ==**सलूँबर (रावत केसरी सिंह)**== के पास चले गए, जहाँ उन्हें शरण मिली।\n* ==**24 जनवरी 1858 को अंग्रेजों ने आउवा दुर्ग पर कब्जा कर लिया**== और किले को बारूद से उड़ा दिया।\n\n### सुगाली माता की मूर्ति\n* कर्नल होम्स सुगाली माता की 10 सिर व 54 हाथ वाली प्रतिमा को उखाड़कर अजमेर ले गया।\n* वर्तमान में यह ऐतिहासिक मूर्ति पाली के ==**बांगर राजकीय संग्रहालय**== में सुरक्षित रखी गई है।\n\n### आत्मसमर्पण एवं मेजर टेलर कमीशन (1860 ई.)\n* 8 अगस्त 1860 को ठाकुर कुशाल सिंह ने नीमच में आत्मसमर्पण किया।\n* विद्रोह की जाँच हेतु अंग्रेजों ने ==**'मेजर टेलर कमीशन' (Major Taylor Commission)**== गठित किया।\n* टेलर कमीशन ने कुशाल सिंह को ==**10 नवंबर 1860 को ससम्मान बरी (दोषमुक्त)**== कर दिया, क्योंकि उनका संघर्ष अंग्रेजों के विरुद्ध न होकर जोधपुर महाराजा के विरुद्ध था।\n* 1864 ई. में उदयपुर में ठाकुर कुशाल सिंह का निधन हुआ।",
+        "en": "### Colonel Holmes' Siege of Auwa (Jan 1858)\n* Col. Holmes captured and razed Auwa Fort on Jan 24, 1858.\n* Thakur Kushal Singh was sheltered by Rawat Jodh Singh of Kothariya and Rawat Kesari Singh of Salumbar.\n\n### Sugali Mata Idol\n* Taken to Ajmer by Col. Holmes; now preserved in **Bangar Museum, Pali**.\n\n### Major Taylor Commission (1860)\n* Investigated Kushal Singh after his surrender at Neemuch (Aug 8, 1860) and fully exonerated him on Nov 10, 1860."
       }
     }
   ],

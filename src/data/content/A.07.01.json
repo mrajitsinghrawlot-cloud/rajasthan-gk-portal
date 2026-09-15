@@ -14,9 +14,91 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "बिजोलिया आंदोलन अवधि", "en": "Movement Duration" },
+      "value": { "hi": "1897–1941 ई. (44 वर्ष — भारत का सबसे लंबा पूर्णतः अहिंसक किसान आंदोलन)", "en": "1897–1941 AD (44 years — India's longest peaceful peasant struggle)" },
+      "category": "movement_duration"
+    },
+    {
+      "label": { "hi": "जागीर व कृषक जाति", "en": "Estate & Peasant Caste" },
+      "value": { "hi": "मेवाड़ का प्रथम श्रेणी ठिकाना (भीलवाड़ा); 60% कृषक 'धाकड़' जाति के", "en": "First-class Mewar thikana; 60% farmers of Dhakar caste" },
+      "category": "movement_profile"
+    },
+    {
+      "label": { "hi": "ऊपरमाल जागीर संस्थापक", "en": "Founder of Uparmal Jagir" },
+      "value": { "hi": "अशोक पंवार (राणा सांगा द्वारा खानवा युद्ध 1527 में वीरता पर प्रदत्त)", "en": "Ashok Panwar (awarded by Rana Sanga for Khanwa bravery 1527)" },
+      "category": "feudal_founder"
+    },
+    {
+      "label": { "hi": "आंदोलन का आरंभ (1897 ई.)", "en": "Outbreak of Movement (1897)" },
+      "value": { "hi": "गिरधरपुरा गाँव (गंगाराम धाकड़ के पिता के मौसर/मृत्यु भोज पर)", "en": "Girdharpura village (at death feast of Gangaram Dhakar's father)" },
+      "category": "revolt_trigger"
+    },
+    {
+      "label": { "hi": "महाराणा को अर्जी भेजने वाले", "en": "Deputed to Petition Maharana" },
+      "value": { "hi": "नानजी पटेल व ठाकरी पटेल (साधु सीताराम दास के परामर्श पर)", "en": "Nanji Patel and Thakari Patel (on Sadhu Sitaram Das's advice)" },
+      "category": "revolt_pioneer"
+    },
+    {
+      "label": { "hi": "प्रथम जाँच अधिकारी (1897)", "en": "First Inquiry Officer (1897)" },
+      "value": { "hi": "हामिद हुसैन (सहायक राजस्व अधिकारी — महाराणा फतेहसिंह द्वारा)", "en": "Hamid Hussain (deputed by Maharana Fateh Singh)" },
+      "category": "inquiry_officer"
+    },
+    {
+      "label": { "hi": "चंवरी कर (1903 ई.)", "en": "Chauri Tax (1903)" },
+      "value": { "hi": "राव कृष्णसिंह द्वारा ₹5 प्रति विवाह (किसानों का 2 वर्ष विवाह बहिष्कार)", "en": "Rao Krishnasingh levied Rs 5 per daughter marriage" },
+      "category": "feudal_tax"
+    },
+    {
+      "label": { "hi": "तलवार बंधाई कर (1906 ई.)", "en": "Talwar Bandhai Tax (1906)" },
+      "value": { "hi": "राव पृथ्वीसिंह द्वारा किसानों पर अधिरोपित (विरोध: साधु सीताराम दास, ब्रह्मदेव)", "en": "Imposed by Rao Prithvisingh; opposed by Sadhu Sitaram Das" },
+      "category": "feudal_tax"
+    },
+    {
+      "label": { "hi": "ऊपरमाल पंच बोर्ड (1917 ई.)", "en": "Uparmal Panch Board (1917)" },
+      "value": { "hi": "बेरीसाल गाँव (हरियाली अमावस्या); संस्थापक: विजय सिंह पथिक, प्रथम सरपंच: मन्ना पटेल", "en": "Berisal village; Founder: Vijay Singh Pathik, 1st Sarpanch: Manna Patel" },
+      "category": "peasant_organization"
+    },
+    {
+      "label": { "hi": "पंछीड़ा गीत", "en": "Panchhida Song" },
+      "value": { "hi": "रचयिता: माणिक्यलाल वर्मा (किसानों में चेतना व ऊर्जा जगाने हेतु)", "en": "Composed by Manikya Lal Verma to inspire peasant satyagrahis" },
+      "category": "patriotic_song"
+    },
+    {
+      "label": { "hi": "प्रताप समाचार पत्र (कानपुर)", "en": "Pratap Daily (Kanpur)" },
+      "value": { "hi": "संपादक: गणेश शंकर विद्यार्थी (बिजोलिया को राष्ट्रीय ख्याति दिलाई)", "en": "Editor: Ganesh Shankar Vidyarthi (nationalized the cause)" },
+      "category": "freedom_press"
+    },
+    {
+      "label": { "hi": "हस्तलिखित बुलेटिन", "en": "Handwritten Bulletin" },
+      "value": { "hi": "'ऊपरमाल का डंका' (विजय सिंह पथिक द्वारा प्रकाशित)", "en": "'Uparmal ka Danka' (published by Vijay Singh Pathik)" },
+      "category": "freedom_press"
+    },
+    {
+      "label": { "hi": "रॉबर्ट हॉलैंड समझौता (1922)", "en": "Robert Holland Accord (1922)" },
+      "value": { "hi": "84 में से 35 लाग-बाग समाप्त करने पर सहमति बनी", "en": "Agreement to abolish 35 out of 84 feudal cesses" },
+      "category": "peasant_treaty"
+    },
+    {
+      "label": { "hi": "तृतीय चरण नेतृत्व (1927–1941)", "en": "Phase 3 Leaders (1927–1941)" },
+      "value": { "hi": "जमनालाल बजाज, हरिभाऊ उपाध्याय, माणिक्यलाल वर्मा", "en": "Jamnalal Bajaj, Haribhau Upadhyay, Manikya Lal Verma" },
+      "category": "phase_leaders"
+    },
+    {
+      "label": { "hi": "प्रथम गिरफ्तार महिला नेत्री", "en": "First Arrested Woman Leader" },
+      "value": { "hi": "अंजना देवी चौधरी (रामनारायण चौधरी की पत्नी), नारायणी देवी वर्मा, रमा देवी", "en": "Anjana Devi Chaudhary, Narayani Devi Verma, Rama Devi" },
+      "category": "women_satyagrahi"
+    },
+    {
+      "label": { "hi": "आंदोलन का सुखद पटाक्षेप (1941)", "en": "Victorious Conclusion (1941)" },
+      "value": { "hi": "मेवाड़ PM सर टी. विजयराघवाचार्य व राजस्व मंत्री डॉ. मोहन सिंह मेहता द्वारा समझौता", "en": "Mewar PM Sir T. Vijayaraghavachari & Dr. Mohan Singh Mehta" },
+      "category": "peasant_treaty"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +106,8 @@
         "en": "1. Background & First Phase of Bijolia Movement (1897–1915 AD)"
       },
       "content_markdown": {
-        "hi": "### बिजोलिया ठिकाने का परिचय\n* **भौगोलिक स्थिति:** मेवाड़ रियासत का प्रथम श्रेणी का ठिकाना (वर्तमान भीलवाड़ा जिला)।\n* **संस्थापक:** राणा सांगा ने खानवा युद्ध (1527) में वीरता दिखाने पर **अशोक पंवार** को **'ऊपरमाल' की जागीर** (बिजोलिया) प्रदान की थी।\n* **प्रमुख जाति:** बिजोलिया की लगभग 60% आबादी **धाकड़ जाति के मेहनती किसानों** की थी।\n* **कारण:** 84 प्रकार की भारी सामंती लाग-बाग, लाटा-कूंता और बैठ-बेगार का असहनीय बोझ।\n\n### प्रथम चरण का घटनाक्रम (1897–1915 ई.)\n* **विद्रोह की शुरुआत (1897 ई.):** गिरधरपुरा गाँव में गंगाराम धाकड़ के पिता के मृत्यु भोज (मौसर) पर किसान एकत्र हुए और साधु सीताराम दास के सुझाव पर **नानजी पटेल** और **ठाकरी पटेल** को महाराणा फतेहसिंह से शिकायत करने उदयपुर भेजा।\n* **जाँच:** महाराणा ने सहायक राजस्व अधिकारी **हामिद हुसैन** को जाँच हेतु भेजा, जिसने किसानों की शिकायतें सही पाईं, किंतु राव कृष्णसिंह के प्रभाव में कोई ठोस कार्रवाई नहीं हुई।\n* **चंवरी कर (1903 ई.):** राव कृष्णसिंह ने प्रत्येक किसान पर अपनी बेटी के विवाह पर **5 रुपये का 'चंवरी कर'** लगाया। किसानों ने दो साल तक पुत्रियों का विवाह नहीं किया और हल चलाना बंद कर दिया, जिससे राव को झुकना पड़ा।\n* **तलवार बंधाई कर (1906 ई.):** नए जागीरदार राव पृथ्वीसिंह ने तलवार बंधाई का संपूर्ण भार किसानों पर लाद दिया। **साधु सीताराम दास**, **फतेहकरण चारण** और **ब्रह्मदेव** ने इसके विरुद्ध आवाज उठाई।",
-        "en": "### Profile of Bijolia Thikana\n* **History:** A premier first-class estate of Mewar (modern Bhilwara district) awarded by Rana Sanga to **Ashok Panwar** for bravery in the Battle of Khanwa (1527).\n* **Peasantry:** Over 60% of peasants belonged to the **Dhakar community**.\n* **Triggers:** Crushing burden of 84 feudal cesses (Lag-Bag), Lata-Kunta, and forced labor.\n\n### First Phase (1897–1915 AD)\n* **Outbreak (1897):** Peasants assembled at Girdharpura village during a death feast. **Nanji Patel** and **Thakari Patel** were deputed to petition Maharana Fateh Singh at Udaipur.\n* **Hamid Hussain Inquiry:** The state revenue officer verified peasant grievances, but no relief was enacted.\n* **Chauri Tax (1903):** Imposed by Rao Krishnasingh at Rs 5 per daughter's wedding.\n* **Talwar Bandhai (1906):** Rao Prithvisingh shifted the succession cess onto peasants; resisted by **Sadhu Sitaram Das**, **Fateh Karan Charan**, and **Brahmadev**."
+        "hi": "### बिजोलिया ठिकाने का परिचय\n* **भौगोलिक स्थिति:** मेवाड़ रियासत का प्रथम श्रेणी का ठिकाना (वर्तमान भीलवाड़ा जिला)।\n* **संस्थापक:** राणा सांगा ने खानवा युद्ध (1527) में वीरता दिखाने पर ==**अशोक पंवार**== को ==**'ऊपरमाल' की जागीर (बिजोलिया)**== प्रदान की थी।\n* **प्रमुख जाति:** बिजोलिया की लगभग 60% आबादी ==**धाकड़ जाति के किसानों**== की थी।\n* **कारण:** 84 प्रकार की भारी सामंती लाग-बाग, लाटा-कूंता और बैठ-बेगार का असहनीय बोझ।\n\n### प्रथम चरण का घटनाक्रम (1897–1915 ई.)\n* **विद्रोह की शुरुआत (1897 ई.):** गिरधरपुरा गाँव में गंगाराम धाकड़ के पिता के ==**मृत्यु भोज (मौसर)**== पर किसान एकत्र हुए और साधु सीताराम दास के सुझाव पर ==**नानजी पटेल**== और ==**ठाकरी पटेल**== को महाराणा फतेहसिंह से शिकायत करने उदयपुर भेजा।\n* **जाँच:** महाराणा ने सहायक राजस्व अधिकारी ==**हामिद हुसैन**== को जाँच हेतु भेजा, जिसने किसानों की शिकायतें सही पाईं।\n* **चंवरी कर (1903 ई.):** राव कृष्णसिंह ने प्रत्येक किसान पर अपनी बेटी के विवाह पर ==**₹5 का 'चंवरी कर'**== लगाया। किसानों ने दो साल तक पुत्रियों का विवाह नहीं किया और हल चलाना बंद कर दिया।\n* **तलवार बंधाई कर (1906 ई.):** नए जागीरदार ==**राव पृथ्वीसिंह**== ने तलवार बंधाई का संपूर्ण भार किसानों पर लाद दिया। ==**साधु सीताराम दास**==, ==**फतेहकरण चारण**== और ==**ब्रह्मदेव**== ने इसके विरुद्ध आवाज उठाई।",
+        "en": "### Profile of Bijolia Thikana\n* **History:** A premier first-class estate of Mewar awarded to **Ashok Panwar** by Rana Sanga after the Battle of Khanwa (1527).\n* **Peasantry:** Over 60% of peasants belonged to the **Dhakar community** protesting 84 cesses.\n\n### First Phase (1897–1915 AD)\n* **Outbreak (1897):** Peasants assembled at Girdharpura during a death feast. **Nanji Patel** and **Thakari Patel** were sent to petition Maharana Fateh Singh.\n* **Hamid Hussain Inquiry:** Confirmed peasant grievances.\n* **Chauri Tax (1903):** Imposed by Rao Krishnasingh at Rs 5 per daughter's marriage.\n* **Talwar Bandhai (1906):** Rao Prithvisingh shifted succession cess onto peasants; resisted by **Sadhu Sitaram Das**, **Fateh Karan Charan**, and **Brahmadev**."
       }
     },
     {
@@ -34,8 +116,8 @@
         "en": "2. Second Phase (1916–1927 AD): Vijay Singh Pathik & National Recognition"
       },
       "content_markdown": {
-        "hi": "### विजय सिंह पथिक का आगमन (1916 ई.)\n* साधु सीताराम दास के विशेष आग्रह पर **भूपसिंह (विजय सिंह पथिक)** ने 1916 ई. में आंदोलन की बागडोर संभाली।\n* **ऊपरमाल पंच बोर्ड (1917 ई.):** पथिक जी ने हरियाली अमावस्या के दिन **बेरीसाल गाँव** में 'ऊपरमाल पंच बोर्ड' (किसान पंचायत) का गठन किया, जिसके प्रथम **सरपंच मन्ना पटेल** बनाए गए।\n* **ऊपरमाल सेवा समिति व ऊपरमाल का डंका:** किसानों में राजनीतिक जागृति हेतु 'ऊपरमाल सेवा समिति' बनाई तथा हस्तलिखित समाचार पत्र **'ऊपरमाल का डंका'** निकाला।\n* **पंछीड़ा गीत:** **माणिक्यलाल वर्मा** ने अपने ओजस्वी गीत **'पंछीड़ा'** द्वारा किसानों में अद्भुत जोश भरा।\n* **प्रताप समाचार पत्र:** कानपुर से प्रकाशित होने वाले **गणेश शंकर विद्यार्थी के समाचार पत्र 'प्रताप'** के माध्यम से बिजोलिया आंदोलन को राष्ट्रीय स्तर पर ख्याति दिलाई गई। (पथिक जी ने विद्यार्थी जी को चांदी की राखी भेजी थी)।\n* **महात्मा गांधी का समर्थन:** गांधी जी ने अपने निजी सचिव **महादेव देसाई** को बिजोलिया भेजा तथा पथिक जी को 'राष्ट्रीय किसान नेता' की संज्ञा दी। लोकमान्य तिलक ने अपने पत्र 'मराठा' में बिजोलिया का पक्ष रखा।\n* **रॉबर्ट हॉलैंड समझौता (फरवरी 1922 ई.):** ए.जी.जी. रॉबर्ट हॉलैंड की अध्यक्षता में हुए समझौते में जागीरदार ने **84 में से 35 लाग-बागें समाप्त करने** की सहमति दी, किंतु बाद में जागीरदार मुकर गया।",
-        "en": "### Leadership of Vijay Singh Pathik (1916 AD)\n* At the invitation of Sadhu Sitaram Das, **Bhoop Singh (Vijay Singh Pathik)** took command in 1916.\n* **Uparmal Panch Board (1917):** Established at Berisal village on Hariyali Amavasya; **Manna Patel** elected as the first Sarpanch.\n* **Uparmal ka Danka:** Handwritten bulletin published to mobilize peasants.\n* **Panchhida Song:** Composed and sung by **Manikya Lal Verma** to inspire resistance.\n* **National Coverage in 'Pratap':** **Ganesh Shankar Vidyarthi** published regular front-page reports on Bijolia in his Kanpur daily *Pratap*.\n* **Mahatma Gandhi's Emissary:** Gandhi sent his personal secretary **Mahadev Desai** to assess the movement.\n* **Robert Holland Settlement (1922):** AGG Robert Holland brokered an agreement abolishing **35 out of 84 cesses**, though the thikana later reneged."
+        "hi": "### विजय सिंह पथिक का आगमन (1916 ई.)\n* साधु सीताराम दास के विशेष आग्रह पर ==**भूपसिंह (विजय सिंह पथिक)**== ने 1916 ई. में आंदोलन की बागडोर संभाली।\n* **ऊपरमाल पंच बोर्ड (1917 ई.):** पथिक जी ने हरियाली अमावस्या के दिन ==**बेरीसाल गाँव में 'ऊपरमाल पंच बोर्ड'**== (किसान पंचायत) का गठन किया, जिसके प्रथम ==**सरपंच मन्ना पटेल**== बनाए गए।\n* **ऊपरमाल सेवा समिति व ऊपरमाल का डंका:** किसानों में राजनीतिक जागृति हेतु 'ऊपरमाल सेवा समिति' बनाई तथा हस्तलिखित समाचार पत्र ==**'ऊपरमाल का डंका'**== निकाला।\n* **पंछीड़ा गीत:** ==**माणिक्यलाल वर्मा**== ने अपने ओजस्वी गीत ==**'पंछीड़ा'**== द्वारा किसानों में अद्भुत जोश भरा।\n* **प्रताप समाचार पत्र:** कानपुर से प्रकाशित होने वाले ==**गणेश शंकर विद्यार्थी के समाचार पत्र 'प्रताप'**== के माध्यम से बिजोलिया आंदोलन को राष्ट्रीय स्तर पर ख्याति दिलाई गई (पथिक जी ने विद्यार्थी जी को चांदी की राखी भेजी थी)।\n* **महात्मा गांधी का समर्थन:** गांधी जी ने अपने निजी सचिव ==**महादेव देसाई**== को बिजोलिया भेजा तथा पथिक जी को 'राष्ट्रीय किसान नेता' की संज्ञा दी।\n* **रॉबर्ट हॉलैंड समझौता (फरवरी 1922 ई.):** ए.जी.जी. रॉबर्ट हॉलैंड की अध्यक्षता में हुए समझौते में जागीरदार ने ==**84 में से 35 लाग-बागें समाप्त करने**== की सहमति दी।",
+        "en": "### Leadership of Vijay Singh Pathik (1916 AD)\n* **Bhoop Singh (Vijay Singh Pathik)** took command in 1916 at Sadhu Sitaram Das's invitation.\n* **Uparmal Panch Board (1917):** Established at Berisal on Hariyali Amavasya; **Manna Patel** elected first Sarpanch.\n* **Uparmal ka Danka:** Handwritten bulletin published by Pathik.\n* **Panchhida Song:** Composed by **Manikya Lal Verma**.\n* **National Coverage in 'Pratap':** **Ganesh Shankar Vidyarthi** published front-page reports in Kanpur daily *Pratap*.\n* **Robert Holland Accord (1922):** Abolished **35 out of 84 cesses**."
       }
     },
     {
@@ -44,8 +126,8 @@
         "en": "3. Third Phase (1927–1941 AD) & Victorious Conclusion"
       },
       "content_markdown": {
-        "hi": "### नेतृत्व परिवर्तन एवं अंतिम संघर्ष (1927–1941 ई.)\n* 1927 ई. में नए बंदोबस्त अधिकारी ट्रेंच द्वारा लगान की दरें बढ़ाने पर पथिक जी की सलाह पर किसानों ने अपनी उपजाऊ सिंचित ज़मीनें (बारानी व माल) छोड़ दीं, जिसे जागीरदार ने जब्त कर नीलाम कर दिया। इससे पथिक जी और कार्यकर्ताओं में मतभेद हुए और पथिक जी अलग हो गए।\n* **नया नेतृत्व:** आंदोलन की बागडोर **जमनालाल बजाज**, **हरिभाऊ उपाध्याय** एवं **माणिक्यलाल वर्मा** ने संभाली।\n* **महिला सत्याग्रह:** **अंजना देवी चौधरी**, **नारायणी देवी वर्मा** (माणिक्यलाल वर्मा की पत्नी) एवं **रमा देवी** ने जेल यातनाएँ सहीं और महिलाओं का नेतृत्व किया।\n\n### आंदोलन का सुखद अंत (1941 ई.)\n* **1941 ई. में मेवाड़ के प्रधानमंत्री सर टी. विजयराघवाचार्य** एवं राजस्व मंत्री **डॉ. मोहन सिंह मेहता** ने बिजोलिया पहुंचकर माणिक्यलाल वर्मा व किसानों से ऐतिहासिक समझौता किया।\n* किसानों की जब्त की गई समस्त पैतृक ज़मीनें वापस लौटाई गईं, अनुचित लाग-बागें समाप्त हुईं और 44 वर्षों (1897–1941) तक चला यह भारत का सबसे बड़ा अहिंसक आंदोलन **पूर्ण विजय** के साथ समाप्त हुआ।",
-        "en": "### Third Phase (1927–1941 AD)\n* Following land revenue escalation by Settlement Officer Trench, peasants surrendered their lands on Pathik's advice, which the thikana auctioned off, leading to Pathik's withdrawal.\n* **Successor Leadership:** **Jamnalal Bajaj**, **Haribhau Upadhyay**, and **Manikya Lal Verma**.\n* **Women Satyagrahis:** Led by **Anjana Devi Chaudhary**, **Narayani Devi Verma**, and **Rama Devi**.\n\n### Victorious Conclusion (1941 AD)\n* In 1941, Mewar Prime Minister **Sir T. Vijayaraghavachari** and Revenue Minister **Dr. Mohan Singh Mehta** reached a historic settlement with Manikya Lal Verma.\n* Confiscated lands were restored, unfair cesses permanently abolished, bringing a glorious victory to this 44-year non-violent struggle."
+        "hi": "### नेतृत्व परिवर्तन एवं अंतिम संघर्ष (1927–1941 ई.)\n* 1927 ई. में नए बंदोबस्त अधिकारी ट्रेंच द्वारा लगान की दरें बढ़ाने पर पथिक जी की सलाह पर किसानों ने अपनी सिंचित ज़मीनें छोड़ दीं, जिसे जागीरदार ने जब्त कर नीलाम कर दिया। इससे पथिक जी अलग हो गए।\n* **नया नेतृत्व:** आंदोलन की बागडोर ==**जमनालाल बजाज**==, ==**हरिभाऊ उपाध्याय**== एवं ==**माणिक्यलाल वर्मा**== ने संभाली।\n* **महिला सत्याग्रह:** ==**अंजना देवी चौधरी**== (राजस्थान में गिरफ्तार होने वाली प्रथम महिला), ==**नारायणी देवी वर्मा**== एवं ==**रमा देवी**== ने जेल यातनाएँ सहीं।\n\n### आंदोलन का सुखद अंत (1941 ई.)\n* **1941 ई. में मेवाड़ के प्रधानमंत्री ==सर टी. विजयराघवाचार्य==** एवं राजस्व मंत्री ==**डॉ. मोहन सिंह मेहता**== ने बिजोलिया पहुंचकर माणिक्यलाल वर्मा व किसानों से ऐतिहासिक समझौता किया।\n* किसानों की जब्त की गई समस्त पैतृक ज़मीनें वापस लौटाई गईं, अनुचित लाग-बागें समाप्त हुईं और 44 वर्षों (1897–1941) तक चला यह आंदोलन **पूर्ण विजय** के साथ समाप्त हुआ।",
+        "en": "### Third Phase (1927–1941 AD)\n* **Successor Leadership:** **Jamnalal Bajaj**, **Haribhau Upadhyay**, and **Manikya Lal Verma**.\n* **Women Satyagrahis:** Led by **Anjana Devi Chaudhary** (first woman arrested in Rajasthan), **Narayani Devi Verma**, and **Rama Devi**.\n\n### Victorious Conclusion (1941 AD)\n* In 1941, Mewar Prime Minister **Sir T. Vijayaraghavachari** and Revenue Minister **Dr. Mohan Singh Mehta** reached a final settlement with Manikya Lal Verma, restoring all lands and abolishing cesses."
       }
     }
   ],

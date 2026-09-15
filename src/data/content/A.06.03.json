@@ -14,9 +14,71 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "कोटा जन-विद्रोह आरंभ", "en": "Kota Mass Uprising Start" },
+      "value": { "hi": "15 अक्टूबर 1857 (राजस्थान का सबसे सुनियोजित व व्यापक जन-विप्लव)", "en": "October 15, 1857 (Most organized popular rebellion in Rajasthan)" },
+      "category": "mass_uprising"
+    },
+    {
+      "label": { "hi": "मुख्य सूत्रधार / रणनीतिकार", "en": "Chief Strategist" },
+      "value": { "hi": "लाला जयदयाल भटनागर (कामां, भरतपुर निवासी / कोटा दरबार वकील)", "en": "Lala Jaidayal Bhatnagar (Advocate from Kaman, Bharatpur)" },
+      "category": "revolt_leader"
+    },
+    {
+      "label": { "hi": "सैन्य कमांडर", "en": "Military Commander" },
+      "value": { "hi": "रिसालदार मेहराब खां (करौली निवासी / तोपखाना व घुड़सवार प्रमुख)", "en": "Risaldar Mehrab Khan (from Karauli, artillery/cavalry chief)" },
+      "category": "revolt_leader"
+    },
+    {
+      "label": { "hi": "विद्रोही राजकीय सेना", "en": "Rebel State Army Regiments" },
+      "value": { "hi": "नारायण पल्टन एवं भवानी पल्टन", "en": "Narayan Regiment and Bhawani Regiment" },
+      "category": "military_unit"
+    },
+    {
+      "label": { "hi": "मेजर बर्टन वध", "en": "Assassination of Major Burton" },
+      "value": { "hi": "पॉलिटिकल एजेंट मेजर बर्टन, पुत्र (आर्थर व फ्रैंक), डॉ. सेडलर व डॉ. सेविली", "en": "Major Burton, sons Arthur & Frank, Dr. Sadlar, and Dr. Savil" },
+      "category": "british_casualties"
+    },
+    {
+      "label": { "hi": "मेजर बर्टन का सिर", "en": "Parading Major Burton's Head" },
+      "value": { "hi": "सिर काटकर तोप के साथ पूरे कोटा शहर में घुमाया गया", "en": "Severed head paraded across Kota city" },
+      "category": "historic_event"
+    },
+    {
+      "label": { "hi": "महाराव नजरबंदी (6 माह)", "en": "6 Months Palace Arrest of Maharao" },
+      "value": { "hi": "महाराव रामसिंह द्वितीय को राजमहल में कैद; जयदयाल-मेहराब का प्रशासन", "en": "Maharao Ram Singh II confined inside palace; rebel governance" },
+      "category": "rebel_governance"
+    },
+    {
+      "label": { "hi": "9-सूत्रीय परवाना", "en": "9-Point Agreement" },
+      "value": { "hi": "महाराव से जबरन हस्ताक्षर; बर्टन वध की जिम्मेदारी महाराव पर लिखवाई", "en": "Maharao forced to sign taking responsibility for Burton's murder" },
+      "category": "rebel_treaty"
+    },
+    {
+      "label": { "hi": "करौली सहायता", "en": "Karauli Relief Force" },
+      "value": { "hi": "महाराजा मदनपाल ने 2000 सैनिक व तोपखाना भेजकर घेरा तोड़ा", "en": "Maharaja Madanpal sent 2000 troops & guns to break the siege" },
+      "category": "state_intervention"
+    },
+    {
+      "label": { "hi": "कोटा मुक्ति (30 मार्च 1858)", "en": "Recapture of Kota (March 30, 1858)" },
+      "value": { "hi": "जनरल एच.जी. रॉबर्ट्स द्वारा विशाल सेना व तोपखाने से दमन", "en": "General H.G. Roberts liberated Kota with heavy artillery" },
+      "category": "british_suppression"
+    },
+    {
+      "label": { "hi": "क्रांतिकारियों की शहादत", "en": "Martyrdom of Leaders" },
+      "value": { "hi": "मेहराब खां व लाला जयदयाल को कोटा में सार्वजनिक फाँसी", "en": "Mehrab Khan and Lala Jaidayal were publicly hanged in Kota" },
+      "category": "martyrdom"
+    },
+    {
+      "label": { "hi": "तोपों की सलामी परिवर्तन", "en": "Gun Salute Revisions" },
+      "value": { "hi": "कोटा महाराव की सलामी 17 से घटाकर 11; करौली मदनपाल की 13 से बढ़ाकर 17", "en": "Kota demoted (17 to 11 guns); Karauli promoted (13 to 17 guns)" },
+      "category": "gun_salute_change"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +86,8 @@
         "en": "1. Nature of the Kota Mass Uprising & Key Leaders"
       },
       "content_markdown": {
-        "hi": "### राजस्थान का सर्वाधिक व्यापक एवं सुनियोजित विद्रोह\n* कोटा में कोई अंग्रेज सैनिक छावनी नहीं थी; यहाँ का विद्रोह **जनता और राजकीय सेना (नारायण व भवानी पल्टन) का संयुक्त जन-विप्लव** था।\n* **क्रांति की तिथि:** **15 अक्टूबर 1857 ई.**।\n\n### प्रमुख विद्रोही नेता\n1. **लाला जयदयाल भटनागर:** कामां (भरतपुर) के निवासी, कोटा रियासत के प्रमुख वकील/अदालती अधिकारी (क्रांति के मुख्य रणनीतिकार)।\n2. **रिसालदार मेहराब खां:** करौली के निवासी, कोटा सेना की तोपखाना व घुड़सवार टुकड़ी के वीर रिसालदार।\n3. **अन्य सहयोगी:** जियालाल, दयाल, अमरचंद, काजी फैजुल्ला।",
-        "en": "### Most Organized Mass Uprising in Rajasthan\n* Unlike other centres, Kota had no British cantonment; the revolt was a coordinated popular mass uprising of the citizenry and local army units (**Narayan & Bhawani Regiments**).\n* **Outbreak Date:** **October 15, 1857**.\n\n### Key Leaders\n* **Lala Jaidayal Bhatnagar:** Eminent advocate from Kaman (Bharatpur), serving as chief strategist.\n* **Risaldar Mehrab Khan:** Military commander from Karauli leading cavalry and artillery units.\n* **Associates:** Jiyalal, Dayal, Amar Chand."
+        "hi": "### राजस्थान का सर्वाधिक व्यापक एवं सुनियोजित विद्रोह\n* कोटा में कोई अंग्रेज सैनिक छावनी नहीं थी; यहाँ का विद्रोह **जनता और राजकीय सेना (==नारायण व भवानी पल्टन==) का संयुक्त जन-विप्लव** था।\n* **क्रांति की तिथि:** ==**15 अक्टूबर 1857 ई.**==।\n\n### प्रमुख विद्रोही नेता\n1. ==**लाला जयदयाल भटनागर:**== कामां (भरतपुर) के निवासी, कोटा दरबार के प्रमुख वकील (क्रांति के मुख्य रणनीतिकार)।\n2. ==**रिसालदार मेहराब खां:**== करौली के निवासी, कोटा सेना की तोपखाना व घुड़सवार टुकड़ी के वीर सेनापति।\n3. **अन्य सहयोगी:** जियालाल, दयाल, अमरचंद, काजी फैजुल्ला।",
+        "en": "### Most Organized Mass Uprising in Rajasthan\n* Kota had no British cantonment; the revolt was a popular mass uprising of citizens and local troops (**Narayan & Bhawani Regiments**).\n* **Outbreak Date:** **October 15, 1857**.\n\n### Key Leaders\n* **Lala Jaidayal Bhatnagar:** Eminent advocate from Kaman (Bharatpur).\n* **Risaldar Mehrab Khan:** Military commander from Karauli leading cavalry and artillery."
       }
     },
     {
@@ -34,8 +96,8 @@
         "en": "2. Slaying of Major Burton & 6 Months of Popular Rule"
       },
       "content_markdown": {
-        "hi": "### मेजर बर्टन का वध (15 अक्टूबर 1857)\n* पॉलिटिकल एजेंट **मेजर बर्टन** ने नीमच से कोटा लौटकर महाराव रामसिंह द्वितीय से कुछ विद्रोही अधिकारियों (जयदयाल व मेहराब खां) को दंडित करने की गुप्त सलाह दी।\n* यह वार्ता लीक होते ही 15 अक्टूबर को राजकीय सैनिकों व नागरिकों ने रेजीडेंसी (नयापुरा) को घेर लिया।\n* क्रांतिकारियों ने मेजर बर्टन, उसके दो पुत्रों (**आर्थर और फ्रैंक**), सर्जन **डॉ. सेडलर (Dr. Sadlar)** एवं **डॉ. सेविली (Dr. Savil)** को मौत के घाट उतार दिया।\n* क्रांतिकारियों ने **मेजर बर्टन की गर्दन काटकर तोप के गोले से पूरे कोटा शहर में घुमाया** और तोप के मुँह से उड़ा दिया।\n\n### महाराव की नजरबंदी एवं 9-सूत्रीय परवाना\n* क्रांतिकारियों ने महाराव रामसिंह द्वितीय को तोपों से घेरकर **राजमहल में 6 माह (अक्टूबर 1857 से मार्च 1858) तक नजरबंद (कैद)** कर दिया।\n* विद्रोही नेताओं ने महाराव से **9-सूत्रीय समझौते (परवाने)** पर जबरन हस्ताक्षर करवाए, जिसमें यह शर्त भी लिखवाई गई कि *'मेजर बर्टन की हत्या महाराव के आदेश से हुई है।'* (महाराव ने बाद में कहा कि यह हस्ताक्षर प्राण रक्षा हेतु दबाव में किए गए)।\n* 6 माह तक कोटा की संपूर्ण प्रशासनिक व्यवस्था पर लाला जयदयाल और मेहराब खां का नियंत्रण रहा।",
-        "en": "### Slaying of Major Burton (Oct 15, 1857)\n* Major Burton advised Maharao Ram Singh II to punish seditious officers. The conversation leaked, prompting an armed assault on the Residency.\n* Revolutionaries killed Major Burton, his sons **Arthur and Frank**, and regimental surgeons **Dr. Sadlar and Dr. Savil**.\n* Major Burton's severed head was paraded through Kota city before being blown from a cannon.\n\n### Confinement of Maharao & 6 Months of Citizen Rule\n* Maharao Ram Singh II was kept under house arrest inside his palace for 6 full months (Oct 1857 to March 1858).\n* Rebels forced the Maharao to sign a **9-point document** taking responsibility for Burton's murder.\n* Lala Jaidayal and Mehrab Khan ran the civil and revenue administration of Kota."
+        "hi": "### मेजर बर्टन का वध (15 अक्टूबर 1857)\n* पॉलिटिकल एजेंट ==**मेजर बर्टन**== ने नीमच से कोटा लौटकर महाराव रामसिंह द्वितीय से विद्रोही अधिकारियों (जयदयाल व मेहराब खां) को दंडित करने की गुप्त सलाह दी।\n* यह वार्ता लीक होते ही 15 अक्टूबर को राजकीय सैनिकों व नागरिकों ने रेजीडेंसी को घेर लिया।\n* क्रांतिकारियों ने मेजर बर्टन, उसके दो पुत्रों (==**आर्थर और फ्रैंक**==), सर्जन ==**डॉ. सेडलर (Dr. Sadlar)**== एवं ==**डॉ. सेविली (Dr. Savil)**== को मौत के घाट उतार दिया।\n* क्रांतिकारियों ने ==**मेजर बर्टन की गर्दन काटकर तोप के गोले से पूरे कोटा शहर में घुमाया**== और तोप से उड़ा दिया।\n\n### महाराव की नजरबंदी एवं 9-सूत्रीय परवाना\n* क्रांतिकारियों ने महाराव रामसिंह द्वितीय को ==**राजमहल में 6 माह (अक्टूबर 1857 से मार्च 1858) तक नजरबंद**== रखा।\n* विद्रोही नेताओं ने महाराव से ==**9-सूत्रीय समझौते (परवाने)**== पर हस्ताक्षर करवाए, जिसमें बर्टन की हत्या का दायित्व महाराव पर लिखवाया गया।\n* 6 माह तक कोटा की संपूर्ण प्रशासनिक व वित्तीय व्यवस्था पर लाला जयदयाल और मेहराब खां का नियंत्रण रहा।",
+        "en": "### Slaying of Major Burton (Oct 15, 1857)\n* Major Burton, sons Arthur & Frank, and surgeons Dr. Sadlar & Dr. Savil were killed.\n* Major Burton's severed head was paraded through Kota city.\n\n### Confinement of Maharao & 6 Months of Citizen Rule\n* Maharao Ram Singh II was kept under house arrest for 6 full months.\n* Rebels forced the Maharao to sign a **9-point document** taking responsibility for Burton's execution."
       }
     },
     {
@@ -44,8 +106,8 @@
         "en": "3. Karauli Support, General Roberts' Offensive & Martyrdom"
       },
       "content_markdown": {
-        "hi": "### करौली महाराजा मदनपाल का हस्तक्षेप\n* संकट में घिरे महाराव रामसिंह द्वितीय की सहायता हेतु **करौली के महाराजा मदनपाल** ने अपने सेनापति के साथ 2000 सैनिक व 4 तोपें कोटा भेजीं। करौली सेना ने घेरा तोड़कर महाराव को राहत पहुँचाई।\n\n### जनरल एच.जी. रॉबर्ट्स द्वारा कोटा मुक्ति (मार्च 1858)\n* 22 मार्च 1858 को ब्रिटिश सेनापति **जनरल एच.जी. रॉबर्ट्स (General H.G. Roberts)** ने विशाल अंग्रेजी सेना व करौली सैनिकों के साथ कोटा पर भीषण तोपखाने से हमला किया।\n* **30 मार्च 1858 को कोटा दुर्ग को क्रांतिकारियों से मुक्त कराया गया**।\n\n### परिणाम एवं दंड\n* **जयदयाल एवं मेहराब खां की शहादत:**\n  - मेहराब खां को पकड़कर **कोटा में उसी स्थान (रेजीडेंसी) पर फाँसी दी गई** जहाँ बर्टन मारा गया था।\n  - लाला जयदयाल को 1860 ई. में गिरफ्तार कर कोटा में मृत्युदंड (फाँसी) दिया गया।\n* **महाराव की तोपों की सलामी में कटौती:**\n  - जाँच आयोग (लॉर्ड रॉबर्ट्स आयोग) ने बर्टन हत्या में महाराव को प्रत्यक्ष दोषी नहीं माना, किंतु ढिलाई बरतने के दंड स्वरूप **महाराव की तोपों की सलामी 17 से घटाकर 11 कर दी गई**।\n  - अंग्रेजों की सहायता करने पर **करौली के मदनपाल की सलामी 13 से बढ़ाकर 17** कर दी गई।",
-        "en": "### Intervention by Karauli Maharaja Madanpal\n* Maharaja Madanpal of Karauli dispatched 2000 troops and artillery to relieve the siege of Maharao Ram Singh II.\n\n### Recapture by General H.G. Roberts (March 1858)\n* General H.G. Roberts launched a full-scale artillery offensive on March 22, 1858, liberating Kota on **March 30, 1858**.\n\n### Trials & Sentences\n* **Martyrdom:** Risaldar Mehrab Khan and Lala Jaidayal were captured and publicly hanged in Kota.\n* **Gun Salute Adjustments:**\n  - Maharao Ram Singh II's gun salute was **demoted from 17 to 11 guns** for administrative negligence.\n  - Maharaja Madanpal of Karauli's gun salute was **elevated from 13 to 17 guns** and he was awarded the 'GCSI' honor."
+        "hi": "### करौली महाराजा मदनपाल का हस्तक्षेप\n* संकट में घिरे महाराव रामसिंह द्वितीय की सहायता हेतु ==**करौली के महाराजा मदनपाल**== ने 2000 सैनिक व 4 तोपें कोटा भेजीं और घेरा तोड़ा।\n\n### जनरल एच.जी. रॉबर्ट्स द्वारा कोटा मुक्ति (मार्च 1858)\n* 22 मार्च 1858 को ब्रिटिश सेनापति ==**जनरल एच.जी. रॉबर्ट्स (General H.G. Roberts)**== ने कोटा पर तोपखाने से हमला किया।\n* ==**30 मार्च 1858 को कोटा दुर्ग को क्रांतिकारियों से मुक्त कराया गया**==।\n\n### परिणाम एवं दंड\n* **जयदयाल एवं मेहराब खां की शहादत:**\n  - ==**रिसालदार मेहराब खां**== को कोटा रेजीडेंसी पर सार्वजनिक फाँसी दी गई।\n  - ==**लाला जयदयाल**== को 1860 ई. में गिरफ्तार कर कोटा में फाँसी दी गई।\n* **सलामी में परिवर्तन:**\n  - महाराव रामसिंह द्वितीय की तोपों की सलामी ==**17 से घटाकर 11**== कर दी गई।\n  - करौली के महाराजा मदनपाल की तोपों की सलामी ==**13 से बढ़ाकर 17**== कर दी गई और उन्हें 'GCSI' की उपाधि मिली।",
+        "en": "### Intervention by Karauli Maharaja Madanpal\n* Maharaja Madanpal dispatched 2000 troops to relieve Maharao Ram Singh II.\n\n### Recapture by General H.G. Roberts (March 30, 1858)\n* General H.G. Roberts liberated Kota on March 30, 1858.\n\n### Trials & Sentences\n* Risaldar Mehrab Khan and Lala Jaidayal were publicly executed by hanging in Kota.\n* Maharao Ram Singh II's gun salute was **reduced from 17 to 11**; Maharaja Madanpal's was **increased from 13 to 17**."
       }
     }
   ],
