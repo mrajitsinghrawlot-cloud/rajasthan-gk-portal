@@ -14,9 +14,111 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "कछवाहा वंश संस्थापक (1137 ई.)", "en": "Kachhwaha Dynasty Founder (1137 AD)" },
+      "value": { "hi": "दूल्हा राय / तेजकरण (दौसा प्रथम राजधानी, जमवाय माता मंदिर)", "en": "Dulherai / Tejkaran (Dausa 1st capital, Jamway Mata temple)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "आमेर को राजधानी बनाया (1207 ई.)", "en": "Amer Made Capital (1207 AD)" },
+      "value": { "hi": "कोकिलदेव (सुसावत मीणों को हराकर)", "en": "Kakildev (by defeating Susawat Meenas)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "कछवाहा कुलदेवी व इष्टदेवी", "en": "Kachhwaha Kuldevi & Ishtadevi" },
+      "value": { "hi": "कुलदेवी: जमवाय माता (जमवारामगढ़); आराध्यदेवी: शीला देवी (आमेर दुर्ग)", "en": "Kuldevi: Jamway Mata; Ishtadevi: Shila Devi (Amer Fort)" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "कछवाहा राजवाक्य", "en": "Kachhwaha State Motto" },
+      "value": { "hi": "'यतो धर्मस्ततो जयः' (जहाँ धर्म है, वहाँ विजय है)", "en": "'Yato Dharmastato Jayah'" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "बारह कोटड़ी व्यवस्था", "en": "Barah Kothri System" },
+      "value": { "hi": "पृथ्वीराज कछवाहा द्वारा आमेर राज्य को 12 भागों में विभाजन", "en": "Administrative division into 12 estates by Prithviraj" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "मुगलों से संधि व विवाह करने वाला प्रथम शासक", "en": "First to Ally & Marry with Mughals" },
+      "value": { "hi": "राजा भारमल (1562 सांभर में पुत्री हरखा बाई / मरियम-उज़-ज़मानी का अकबर से विवाह)", "en": "Raja Bharmal (married Harkha Bai to Akbar in 1562 at Sambhar)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "मानसिंह प्रथम की उपाधि व मनसब", "en": "Man Singh I Title & Mansab" },
+      "value": { "hi": "उपाधि: 'फ़रज़ंद' (बेटा) व 'मिर्ज़ा राजा'; सर्वोच्च मनसब: 7000 जात / 6000 सवार", "en": "Title: 'Farzand' & 'Mirza Raja'; Rank: 7000/6000 Mansab" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "शीला देवी की प्रतिमा", "en": "Shila Devi Idol" },
+      "value": { "hi": "मानसिंह प्रथम बंगाल (जसोर) के राजा केदार को हराकर आमेर लाए", "en": "Brought from Jessore (Bengal) by Man Singh I" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "जगत शिरोमणि मंदिर (आमेर)", "en": "Jagat Shiromani Temple (Amer)" },
+      "value": { "hi": "रानी कनकावती द्वारा पुत्र जगतसिंह की स्मृति में (मीराबाई द्वारा पूजित कृष्ण मूर्ति)", "en": "Built by Queen Kankawati (houses Mirabai's Krishna idol)" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "पुंडरीक विट्ठल (दरबारी संगीतज्ञ)", "en": "Pundarik Vitthal (Music Scholar)" },
+      "value": { "hi": "राग मंजरी, राग माला, नर्तक निर्णय के रचयिता (मानसिंह के आश्रित)", "en": "Author of Raga Manjari, Raga Mala under Man Singh I" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "पुरंदर की संधि (11 जून 1665)", "en": "Treaty of Purandar (11 June 1665)" },
+      "value": { "hi": "मिर्ज़ा राजा जयसिंह व छत्रपति शिवाजी महाराज के मध्य (23 दुर्ग मुगलों को सौंपे)", "en": "Mirza Raja Jai Singh & Shivaji (23 forts surrendered)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "महाकवि बिहारी एवं बिहारी सतसई", "en": "Mahakavi Bihari & Bihari Satsai" },
+      "value": { "hi": "मिर्ज़ा राजा जयसिंह के दरबारी (713 दोहे; प्रत्येक दोहे पर 1 स्वर्ण अशर्फी)", "en": "Court poet of Mirza Raja (713 couplets; 1 gold coin each)" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "सवाई जयसिंह द्वितीय की उपाधि", "en": "Sawai Jai Singh II Title" },
+      "value": { "hi": "'सवाई' (औरंगज़ेब द्वारा कुशाग्र बुद्धि हेतु प्रदत्त; 7 मुग़ल बादशाहों का काल देखा)", "en": "'Sawai' (given by Aurangzeb; witnessed 7 Mughal reigns)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "जयपुर नगर स्थापना (18 नवंबर 1727)", "en": "Founding of Jaipur (18 Nov 1727)" },
+      "value": { "hi": "वास्तुकार: पंडित विद्याधर भट्टाचार्य (शिल्प शास्त्र ग्रिड पद्धति)", "en": "Architect: Pandit Vidhyadhar Bhattacharya (Grid system)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "जयपुर को गुलाबी रंग (Pink City)", "en": "Jaipur Painted Pink" },
+      "value": { "hi": "1876 ई. में महाराजा सवाई रामसिंह द्वितीय द्वारा प्रिंस ऑफ वेल्स के आगमन पर", "en": "By Sawai Ram Singh II in 1876 for Prince of Wales" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "5 खगोलीय वेधशालाएँ (जंतर-मंतर)", "en": "5 Jantar Mantar Observatories" },
+      "value": { "hi": "दिल्ली (1724 प्रथम), जयपुर (1728 सबसे बड़ी - UNESCO 2010), उज्जैन, मथुरा, वाराणसी", "en": "Delhi (1724), Jaipur (1728 - UNESCO 2010), Ujjain, Mathura, Varanasi" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "सम्राट यंत्र (जयपुर जंतर-मंतर)", "en": "Samrat Yantra (Jaipur)" },
+      "value": { "hi": "विश्व की सबसे बड़ी पाषाण धूपघड़ी (Stone Sundial)", "en": "World's largest stone sundial" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "सवाई जयसिंह के खगोलीय ग्रंथ", "en": "Sawai Jai Singh Scientific Works" },
+      "value": { "hi": "जीज-ए-मुहम्मदशाही (खगोलीय सारणी) एवं जयसिंह कारिका (ज्योतिष)", "en": "Zij-i-Muhammad Shahi & Jai Singh Karika" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "अंतिम अश्वमेध यज्ञ (1740 ई.)", "en": "Last Ashwamedha Yajna (1740 AD)" },
+      "value": { "hi": "सवाई जयसिंह द्वितीय द्वारा (प्रधान पुरोहित: पुंडरीक रत्नाकर)", "en": "By Sawai Jai Singh II (Head Priest: Pundarik Ratnakar)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "हुरड़ा सम्मेलन (17 जुलाई 1734)", "en": "Hurda Conference (17 July 1734)" },
+      "value": { "hi": "मराठा आक्रमणों विरुद्ध राजपूत सम्मेलन (आयोजक: सवाई जयसिंह, अध्यक्ष: महाराणा जगतसिंह II)", "en": "Anti-Maratha pact (Organizer: Sawai Jai Singh, Chair: Jagat Singh II)" },
+      "category": "battle_event"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +126,8 @@
         "en": "1. Origin, Lineage & Early Rulers of Kachhwaha Dynasty"
       },
       "content_markdown": {
-        "hi": "### उत्पत्ति एवं कुल परंपरा\n* **उत्पत्ति सिद्धांत:** कछवाहा शासक स्वयं को भगवान श्रीराम के ज्येष्ठ पुत्र **'कुश'** के वंशज (कुशवाहा से कछवाहा) तथा सूर्यवंशी मानते हैं।\n* **राजवाक्य एवं ध्वज:** \n  - राजवाक्य: **'यतो धर्मस्ततो जयः'** (जहाँ धर्म है, वहाँ विजय है)।\n  - ध्वज: आमेर का पंचरंगा झंडा (नीला, पीला, लाल, हरा, सफेद) मानसिंह प्रथम द्वारा काबुल विजय के बाद अपनाया गया।\n* **कुलदेवी व आराध्य देवी:**\n  - **कुलदेवी:** **जमवाय माता** (जमवारामगढ़, जयपुर — मंदिर निर्माता: दूल्हा राय)।\n  - **आराध्य/इष्टदेवी:** **शीला देवी** (आमेर दुर्ग — मूर्ति बंगाल के राजा केदार को हराकर मानसिंह प्रथम लाए)।\n  - **आराध्य देव:** **गोविंद देव जी** (जयपुर)।\n\n### प्रमुख आरंभिक संस्थापक शासक\n| शासक | वर्ष | ऐतिहासिक उपलब्धियाँ व मुख्य बिंदु |\n|---|---|---|\n| **दूल्हा राय (तेजकरण)** | 1137 ई. | कछवाहा वंश के **संस्थापक/मूल पुरुष**। बड़गूजरों को हराकर दौसा को पहली राजधानी बनाया। मीणों को हराकर मांची (जमवारामगढ़) जीता व जमवाय माता मंदिर बनवाया। |\n| **कोकिलदेव** | 1207 ई. | सुसावत मीणों को पराजित कर **आमेर को कछवाहों की राजधानी** बनाया (जो 1727 ई. तक राजधानी रही)। |\n| **पृथ्वीराज कछवाहा** | 16वीं सदी | खानवा के युद्ध (1527 ई.) में महाराणा सांगा की ओर से लड़े। इन्होंने आमेर को अपने 12 पुत्रों में बाँटा, जिसे **'बारह कोटड़ी'** व्यवस्था कहा गया। |",
-        "en": "### Origin & Traditions\n* **Lineage:** Claim descent from Lord Rama's elder son **Kush** (Kushwaha -> Kachhwaha) and Suryavanshi lineage.\n* **State Motto & Flag:**\n  - Motto: **'Yato Dharmastato Jayah'** (Where there is righteousness, there is victory).\n  - Flag: Five-colored flag (Panchranga: blue, yellow, red, green, white) adopted by Man Singh I after Kabul campaign.\n* **Kuldevi & Ishtadevi:**\n  - Kuldevi: **Jamway Mata** (Jamwa Ramgarh, temple built by Dulherai).\n  - Ishtadevi: **Shila Devi** (Amer Fort, idol brought from Jessore, Bengal by Man Singh I).\n  - Presiding Deity: **Govind Devji** (Jaipur).\n\n### Early Founders\n* **Dulherai (Tejkaran, 1137 AD):** Founding ancestor; captured Dausa and Jamwa Ramgarh.\n* **Kakildev (1207 AD):** Conquered Amer from Susawat Meenas and made it the historic capital.\n* **Prithviraj Kachhwaha:** Fought in Battle of Khanwa (1527) under Rana Sanga; established the **'Barah Kothri'** administrative system in Amer."
+        "hi": "### उत्पत्ति एवं कुल परंपरा:\n- **उत्पत्ति सिद्धांत:** कछवाहा शासक स्वयं को भगवान श्रीराम के ज्येष्ठ पुत्र ==**'कुश'**== के वंशज (कुशवाहा से कछवाहा) तथा सूर्यवंशी मानते हैं।\n- **राजवाक्य:** ==**'यतो धर्मस्ततो जयः'**== (जहाँ धर्म है, वहाँ विजय है)।\n- **ध्वज:** आमेर का ==पंचरंगा झंडा== (नीला, पीला, लाल, हरा, सफेद) मानसिंह प्रथम द्वारा काबुल विजय के बाद अपनाया गया।\n- **कुलदेवी:** ==**जमवाय माता**== (जमवारामगढ़, जयपुर — निर्माता: दूल्हा राय)।\n- **आराध्यदेवी:** ==**शीला देवी**== (आमेर दुर्ग — मूर्ति बंगाल के राजा केदार को हराकर मानसिंह प्रथम लाए)।\n- **आराध्य देव:** ==गोविंद देव जी== (जयपुर)।\n\n### प्रमुख आरंभिक संस्थापक शासक:\n- ==**दूल्हा राय (तेजकरण — 1137 ई.)**==: कछवाहा वंश के **संस्थापक/मूल पुरुष**। बड़गूजरों को हराकर दौसा को पहली राजधानी बनाया। मांची (जमवारामगढ़) में जमवाय माता मंदिर बनवाया।\n- ==**कोकिलदेव (1207 ई.)**==: सुसावत मीणों को पराजित कर ==**आमेर को कछवाहों की स्थायी राजधानी**== बनाया (1727 ई. तक राजधानी रही)।\n- ==**पृथ्वीराज कछवाहा**==: खानवा के युद्ध (1527 ई.) में राणा सांगा की ओर से लड़े। आमेर को 12 पुत्रों में बाँटकर ==**'बारह कोटड़ी'**== प्रशासनिक व्यवस्था स्थापित की।",
+        "en": "### Origin & Traditions:\n- Descended from Lord Rama's elder son ==**Kush**== (Suryavanshi).\n- Motto: ==**'Yato Dharmastato Jayah'**==.\n- Kuldevi: ==**Jamway Mata**== (Jamwa Ramgarh); Ishtadevi: ==**Shila Devi**== (Amer Fort).\n\n### Early Founders:\n- ==**Dulherai (1137 AD)**==: Dynastic founder; Dausa first capital.\n- ==**Kakildev (1207 AD)**==: Captured Amer from Susawat Meenas, making it the capital.\n- ==**Prithviraj Kachhwaha**==: Fought at Khanwa (1527); instituted ==**'Barah Kothri'**== system."
       }
     },
     {
@@ -34,8 +136,8 @@
         "en": "2. Raja Bharmal & Bhagwant Das: Mughal Alliance & Marital Ties"
       },
       "content_markdown": {
-        "hi": "### राजा भारमल (बिहारीमल, 1547–1574 ई.)\n* **मुग़ल अधीनता स्वीकार करने वाले प्रथम राजपूत शासक:** \n  - जनवरी 1562 ई. में सांगानेर में चगताई खां के सहयोग से अकबर से मिले।\n  - **फरवरी 1562 ई. में सांभर** में अपनी ज्येष्ठ पुत्री **हरखा बाई (शाही नाम: मरियम-उज़-ज़मानी / इतिहास में जोधा बाई)** का विवाह अकबर से किया।\n  - हरखा बाई से 1569 ई. में राजकुमार सलीम (जहाँगीर) का जन्म हुआ।\n* **अकबर द्वारा उपाधियाँ:** भारमल को **'अमीर-उल-उमरा'** एवं **'राजा'** की पदवी तथा 5000 का मनसब प्रदान किया गया।\n\n### राजा भगवंत दास (1574–1589 ई.)\n* भारमल के पुत्र; अकबर के नवरत्नों व प्रमुख सेनापतियों में शामिल।\n* रणथम्भौर (1569), गुजरात (1572) व कश्मीर (1586) अभियानों में निर्णायक भूमिका निभाई।\n* अपनी पुत्री **मानभावती (मानी बाई / सुल्तान-उन-निस्सा)** का विवाह 1585 ई. में सलीम (जहाँगीर) से किया, जिससे शहजादा खुसरो का जन्म हुआ।\n* दादू दयाल को फतेहपुर सीकरी में अकबर से मिलवाने का श्रेय भगवंत दास को है।",
-        "en": "### Raja Bharmal (1547–1574 AD)\n* **First Rajput ruler to accept Mughal suzerainty:** Met Akbar in Jan 1562 at Sanganer, and solemnised the marriage of his daughter **Harkha Bai (Mariam-uz-Zamani)** to Akbar in **Feb 1562 at Sambhar**.\n* Harkha Bai gave birth to Prince Salim (Jahangir) in 1569.\n* Akbar conferred the titles **'Amir-ul-Umra'** and **'Raja'** with a 5000 mansab.\n\n### Raja Bhagwant Das (1574–1589 AD)\n* Son of Bharmal; led crucial campaigns in Gujarat (1572) and Kashmir (1586).\n* Married daughter **Manbhavati (Mani Bai)** to Salim in 1585; she gave birth to Prince Khusrau.\n* Introduced saint Dadu Dayal to Emperor Akbar at Fatehpur Sikri."
+        "hi": "### 1. राजा भारमल (बिहारीमल, 1547–1574 ई.):\n- **मुग़ल अधीनता स्वीकार करने वाले प्रथम राजपूत शासक:**\n  - जनवरी 1562 ई. में सांगानेर में चगताई खां के सहयोग से अकबर से मिले।\n  - ==**फरवरी 1562 ई. में सांभर**== में अपनी ज्येष्ठ पुत्री ==**हरखा बाई (शाही नाम: मरियम-उज़-ज़मानी / इतिहास में जोधा बाई)**== का विवाह अकबर से किया (1569 में जहाँगीर का जन्म हुआ)।\n  - अकबर ने भारमल को ==**'अमीर-उल-उमरा'**== एवं ==**'राजा'**== की पदवी तथा 5000 का मनसब दिया।\n\n### 2. राजा भगवंत दास (1574–1589 ई.):\n- भारमल के पुत्र; गुजरात (1572) व कश्मीर (1586) अभियानों में निर्णायक भूमिका निभाई।\n- अपनी पुत्री ==मानभावती (मानी बाई / सुल्तान-उन-निस्सा)== का विवाह 1585 ई. में सलीम (जहाँगीर) से किया (खुसरो की माता)।\n- संत दादू दयाल को फतेहपुर सीकरी में अकबर से मिलवाया।",
+        "en": "### 1. Raja Bharmal (1547–1574 AD):\n- First Rajput ruler to accept Mughal alliance; married daughter ==**Harkha Bai (Mariam-uz-Zamani)**== to Akbar in ==**Feb 1562 at Sambhar**==.\n- Conferred title ==**'Amir-ul-Umra'**== with 5000 mansab.\n\n### 2. Raja Bhagwant Das (1574–1589 AD):\n- Married daughter ==Manbhavati== to Jahangir in 1585 (mother of Khusrau); introduced saint Dadu Dayal to Akbar."
       }
     },
     {
@@ -44,8 +146,8 @@
         "en": "3. Mirza Raja Man Singh I (1589–1614 AD)"
       },
       "content_markdown": {
-        "hi": "### मानसिंह प्रथम की उपाधियाँ व मनसब\n* **उपाधियाँ:** अकबर ने इन्हें **'फ़रज़ंद' (दत्तक पुत्र/बेटा)** तथा **'मिर्ज़ा राजा'** की उपाधि दी।\n* **सर्वोच्च मनसब:** अकबर के दरबार में किसी भी हिंदू सेनापति को मिला सर्वोच्च मनसब **7000 जात व 6000 सवार** था।\n\n### प्रमुख सैन्य अभियान व सूबेदारियाँ\n1. **हल्दीघाटी का युद्ध (18 जून 1576 ई.):** अकबर की मुग़ल सेना के मुख्य सेनापति के रूप में महाराणा प्रताप के विरुद्ध युद्ध का नेतृत्व किया।\n2. **काबुल सूबेदारी (1585 ई.):** मिर्ज़ा हकीम के विद्रोह को दबाया और रोशनी संप्रदाय का दमन कर काबुल पर नियंत्रण स्थापित किया।\n3. **बिहार सूबेदारी (1587–1594 ई.):** बिहार में रोहतासगढ़ को अपना केंद्र बनाया, मानपुर नगर बसाया और बैकुंठपुर में भवानी मंदिर बनवाया।\n4. **बंगाल व ओडिशा विजय (1594–1606 ई.):** बंगाल के शासक केदार को हराकर प्रसिद्ध **शीला देवी की अष्टधातु प्रतिमा** आमेर लाए और दुर्ग में स्थापित की। अकबरनगर (राजमहल) की स्थापना की।\n\n### सांस्कृतिक व स्थापत्य निर्माण\n* **आमेर महल:** आमेर के भव्य राजमहलों (दीवान-ए-आम, दीवान-ए-खास) का निर्माण कार्य आरंभ करवाया।\n* **जगत शिरोमणि मंदिर (आमेर):** मानसिंह की रानी **कनकावती** ने अपने दिवंगत पुत्र जगतसिंह की स्मृति में बनवाया। इसमें भगवान कृष्ण की वही काले पत्थर की मूर्ति है जिसकी पूजा मीराबाई चित्तौड़ में करती थीं।\n* **गोविंद देव जी मंदिर (वृंदावन):** लाल पत्थरों से 7 मंजिला विशाल मंदिर बनवाया।\n* **दरबारी साहित्यकार:**\n  - **पुंडरीक विट्ठल:** *राग मंजरी*, *राग माला*, *रागमंजरी*, *नर्तक निर्णय*।\n  - **कवि जगन्नाथ:** *मानसिंह कीर्ति मुक्तावली*।\n  - **मुरारीदान:** *मानप्रकाश*।\n* **निधन:** 1614 ई. में दक्षिण भारत के **एलिचपुर (महाराष्ट्र)** में देहांत हुआ।",
-        "en": "### Man Singh I: Titles & Mansab\n* **Titles:** Akbar bestowed the titles **'Farzand' (Son)** and **'Mirza Raja'** upon him.\n* **Highest Imperial Mansab:** Granted the highest rank of **7000 Zat / 6000 Sawar**, unprecedented for any Hindu noble.\n\n### Major Military Campaigns\n1. **Battle of Haldighati (1576 AD):** Supreme commander of the Mughal imperial army against Maharana Pratap.\n2. **Governorship of Kabul (1585 AD):** Crushed Roshaniyya tribal rebellion.\n3. **Governorship of Bihar (1587–1594 AD):** Established Rohtasgarh fortress, Manpur city, and Baikunthpur temple.\n4. **Bengal & Odisha (1594–1606 AD):** Defeated Raja Kedar of Jessore and brought the sacred idol of **Shila Devi** to Amer Fort.\n\n### Architectural & Cultural Marvels\n* **Amer Fort Palaces:** Commissioned Diwan-i-Aam and royal palaces.\n* **Jagat Shiromani Temple (Amer):** Built by Queen Kankawati in memory of son Jagat Singh; houses the Krishna idol worshipped by Mirabai.\n* **Govind Devji Temple (Vrindavan):** Built iconic 7-storey red sandstone temple.\n* **Court Scholars:** Pundarik Vitthal (*Raga Manjari*, *Raga Mala*), Muraridan (*Man Prakash*).\n* **Demise:** Passed away at Elichpur (Maharashtra) in 1614 AD."
+        "hi": "### मानसिंह प्रथम की उपाधियाँ व मनसब:\n- **उपाधियाँ:** अकबर ने इन्हें ==**'फ़रज़ंद' (दत्तक पुत्र/बेटा)**== तथा ==**'मिर्ज़ा राजा'**== की उपाधि दी।\n- **सर्वोच्च मनसब:** मुग़ल दरबार में किसी भी हिंदू सेनापति को मिला सर्वोच्च मनसब ==**7000 जात व 6000 सवार**== था।\n\n### प्रमुख सैन्य अभियान:\n1. ==**हल्दीघाटी का युद्ध (18 जून 1576 ई.)**==: मुग़ल सेना के प्रधान सेनापति के रूप में नेतृत्व।\n2. ==**काबुल सूबेदारी (1585 ई.)**==: रोशनी संप्रदाय व मिर्ज़ा हकीम के विद्रोह का दमन।\n3. ==**बिहार सूबेदारी (1587–1594 ई.)**==: रोहतासगढ़ को केंद्र बनाया, मानपुर नगर बसाया।\n4. ==**बंगाल व ओडिशा विजय (1594–1606 ई.)**==: जसोर (बंगाल) के राजा केदार को हराकर प्रसिद्ध ==**शीला देवी की अष्टधातु प्रतिमा**== आमेर लाए।\n\n### सांस्कृतिक व स्थापत्य निर्माण:\n- **आमेर महल:** दीवान-ए-आम, दीवान-ए-खास का निर्माण।\n- ==**जगत शिरोमणि मंदिर (आमेर)**==: रानी ==**कनकावती**== ने अपने दिवंगत पुत्र जगतसिंह की स्मृति में बनवाया (मीराबाई द्वारा पूजित श्रीकृष्ण की काली पाषाण प्रतिमा स्थापित)।\n- **गोविंद देव जी मंदिर (वृंदावन):** 7 मंजिला लाल पाषाण मंदिर बनवाया।\n- **दरबारी विद्वान:** ==पुंडरीक विट्ठल== (*राग मंजरी*, *राग माला*, *नर्तक निर्णय*), कवि जगन्नाथ (*मानसिंह कीर्ति मुक्तावली*), मुरारीदान (*मानप्रकाश*)।\n- **निधन:** 1614 ई. में एलिचपुर (महाराष्ट्र) में।",
+        "en": "### Man Singh I (1589–1614 AD):\n- Bestowed title ==**'Farzand' (Son)**== and highest rank of ==**7000/6000 Mansab**== by Akbar.\n- Supreme commander in ==Battle of Haldighati (1576 AD)==; governed Kabul, Bihar, Bengal.\n- Defeated Raja Kedar and brought ==**Shila Devi idol**== to Amer.\n- Queen ==Kankawati== built ==**Jagat Shiromani Temple**== in memory of son Jagat Singh (Mirabai's Krishna idol).\n- Patronized ==Pundarik Vitthal== (*Raga Manjari*, *Raga Mala*)."
       }
     },
     {
@@ -54,8 +156,8 @@
         "en": "4. Mirza Raja Jai Singh (1621–1667 AD) & Treaty of Purandar (1665)"
       },
       "content_markdown": {
-        "hi": "### मिर्ज़ा राजा जयसिंह (46 वर्षों का दीर्घ शासन)\n* **तीन मुग़ल बादशाहों की सेवा:** जहाँगीर, शाहजहाँ एवं औरंगज़ेब के समकालीन।\n* **'मिर्ज़ा राजा' की उपाधि:** 1637 ई. में शुजा के विरुद्ध कंधार/मध्य एशिया अभियान में वीरता पर शाहजहाँ द्वारा दी गई।\n\n### ऐतिहासिक पुरंदर की संधि (11 जून 1665 ई.)\n* **पक्षकार:** मिर्ज़ा राजा जयसिंह (औरंगज़ेब की ओर से) एवं **छत्रपति शिवाजी महाराज**।\n* **प्रमुख शर्तें:** \n  1. शिवाजी महाराज ने अपने 35 में से **23 दुर्ग मुगलों को सौंपे** (जिनकी वार्षिक आय 4 लाख हूण थी)।\n  2. शिवाजी ने अपने पुत्र शंभाजी को 5000 के मनसबदार के रूप में मुग़ल दरबार में भेजना स्वीकार किया।\n  3. शिवाजी ने मुग़ल दरबार में स्वयं उपस्थित होने की सहमति दी।\n* **जयसिंह का प्रसिद्ध कथन:** > *\"हम शिवाजी को एक वृत्त के केंद्र की तरह घेर लेंगे।\"*\n\n### साहित्य व निर्माण\n* **दरबारी कवि बिहारी:** जयपुर दरबार के प्रसिद्ध कवि, जिन्हें प्रत्येक दोहे पर एक स्वर्ण अशर्फी मिलती थी। इन्होंने अमर कृति ***बिहारी सतसई*** (713 दोहे) की रचना की।\n* **रामकवि:** *जयसिंह चरित्र* की रचना की।\n* **जयगढ़ दुर्ग (आमेर):** आमेर की सुरक्षा हेतु जयगढ़ (चील का टीला) का निर्माण करवाया।\n* **निधन:** 1667 ई. में बुरहानपुर (मध्य प्रदेश) में निधन हुआ।",
-        "en": "### Mirza Raja Jai Singh (1621–1667 AD)\n* **Served 3 Mughal Emperors:** Jahangir, Shah Jahan, and Aurangzeb during his 46-year reign.\n* **Title 'Mirza Raja':** Conferred by Shah Jahan in 1637 during the Kandahar expedition.\n\n### Historic Treaty of Purandar (June 11, 1665 AD)\n* **Between:** Mirza Raja Jai Singh (for Aurangzeb) and **Chhatrapati Shivaji Maharaj**.\n* **Key Terms:**\n  1. Shivaji ceded **23 out of 35 forts** (yielding 4 lakh huns annually) to Mughals.\n  2. Prince Sambhaji enrolled as a 5000 mansabdar in Mughal service.\n  3. Shivaji agreed to visit the imperial court at Agra.\n\n### Literary Patronage & Architecture\n* **Court Poet Bihari:** Composed the celebrated ***Bihari Satsai*** (713 verses); rewarded with a gold coin for every couplet.\n* **Jaigarh Fort:** Strengthened Jaigarh (Cheel ka Teela) as the defensive citadel of Amer.\n* **Demise:** Passed away at Burhanpur (MP) in 1667 AD."
+        "hi": "### मिर्ज़ा राजा जयसिंह (46 वर्षों का दीर्घ शासन):\n- **तीन मुग़ल बादशाहों की सेवा:** जहाँगीर, शाहजहाँ एवं औरंगज़ेब।\n- **उपाधि:** 1637 ई. में शुजा के विरुद्ध कंधार अभियान पर शाहजहाँ द्वारा =='मिर्ज़ा राजा'== की उपाधि।\n\n### ऐतिहासिक पुरंदर की संधि (11 जून 1665 ई.):\n- **हस्ताक्षरकर्ता:** मिर्ज़ा राजा जयसिंह (औरंगज़ेब की ओर से) एवं ==**छत्रपति शिवाजी महाराज**==।\n- **शर्तें:**\n  1. शिवाजी महाराज ने अपने 35 में से ==**23 दुर्ग मुगलों को सौंपे**== (वार्षिक आय 4 लाख हूण)।\n  2. पुत्र शंभाजी को 5000 का मनसबदार बनाकर मुग़ल दरबार में भेजना स्वीकार किया।\n  3. शिवाजी स्वयं आगरा मुग़ल दरबार में उपस्थित होंगे।\n\n### साहित्य व निर्माण:\n- **दरबारी कवि बिहारी:** अमर कृति ==*बिहारी सतसई*== (713 दोहे; प्रत्येक दोहे पर 1 स्वर्ण अशर्फी प्राप्त)।\n- **रामकवि:** *जयसिंह चरित्र* की रचना।\n- **जयगढ़ दुर्ग (आमेर):** चील का टीला पर रक्षा दुर्ग का सुदृढ़ीकरण।\n- **निधन:** 1667 ई. में बुरहानपुर (मध्य प्रदेश) में।",
+        "en": "### Mirza Raja Jai Singh (1621–1667 AD):\n- Served 3 Mughal Emperors (Jahangir, Shah Jahan, Aurangzeb).\n- Concluded ==**Treaty of Purandar (11 June 1665 AD)**== with ==**Chhatrapati Shivaji Maharaj**== (surrendered 23 out of 35 forts).\n- Patronized ==Bihari== (*Bihari Satsai* — 713 couplets rewarded with gold coins); fortified ==Jaigarh Fort==."
       }
     },
     {
@@ -64,8 +166,8 @@
         "en": "5. Sawai Jai Singh II (1700–1743 AD): Founding of Jaipur & Jantar Mantar"
       },
       "content_markdown": {
-        "hi": "### सवाई जयसिंह द्वितीय (राजराजेश्वर / सवाई)\n* **उपाधि:** औरंगज़ेब ने इनकी कुशाग्र बुद्धि से प्रभावित होकर इन्हें **'सवाई'** की उपाधि दी (जो पूर्वजों से सवा गुना योग्य होने का प्रतीक थी)।\n* **सात मुग़ल बादशाहों का कार्यकाल:** औरंगज़ेब से लेकर मुहम्मद शाह 'रंगीला' तक 7 बादशाहों का काल देखा।\n\n### जयपुर नगर की स्थापना (18 नवंबर 1727 ई.)\n* **स्थापना तिथि:** **18 नवंबर 1727 ई.** (मार्गशीर्ष शुक्ल द्वितीया, वि.सं. 1784)।\n* **वास्तुकार/नगर नियोजक:** बंगाली ब्राह्मण **पंडित विद्याधर भट्टाचार्य**।\n* **योजना सिद्धांत:** वैदिक नगर निर्माण ग्रंथ *शिल्प शास्त्र* तथा 9 वर्गों (ग्रिड पद्धति/चेकरबोर्ड) के आधार पर विश्व का पहला सुनियोजित नगर बसाया।\n* **गुलाबी रंग (Pink City):** 1876 ई. में प्रिंस ऑफ वेल्स (एडवर्ड सप्तम) के आगमन पर **महाराजा सवाई रामसिंह द्वितीय** ने समूचे जयपुर को गेरुआ/गुलाबी रंग से रंगवाया था।\n\n### खगोलीय वेधशालाएँ (जंतर-मंतर)\nसवाई जयसिंह ने भारत में 5 स्थानों पर खगोलीय वेधशालाओं का निर्माण करवाया:\n1. **दिल्ली (1724 ई.):** सबसे पहली वेधशाला।\n2. **जयपुर (1728 ई.):** सबसे बड़ी वेधशाला (2010 में UNESCO विश्व धरोहर सूची में शामिल; इसमें विश्व की सबसे बड़ी धूपघड़ी **सम्राट यंत्र** स्थित है)।\n3. **उज्जैन**\n4. **मथुरा** (वर्तमान में नष्टप्राय)\n5. **वाराणसी (बनारस)**\n\n### अन्य महत्वपूर्ण कार्य व घटनाएँ\n* **खगोलीय ग्रंथ:** *जीज-ए-मुहम्मदशाही* (खगोलीय सारणी) एवं *जयसिंह कारिका* (ज्योतिष ग्रंथ)।\n* **अंतिम अश्वमेध यज्ञ (1740 ई.):** अश्वमेध यज्ञ करने वाले भारत के **अंतिम हिंदू नरेश**। यज्ञ के प्रधान पुरोहित **पुंडरीक रत्नाकर** (*जयसिंह कल्पद्रुम* के रचयिता) थे।\n* **हुरड़ा सम्मेलन (17 जुलाई 1734 ई.):** मराठा आक्रमणों के विरुद्ध राजस्थान के राजपूत शासकों को एकजुट करने हेतु भीलवाड़ा के हुरड़ा में सम्मेलन बुलाया (अध्यक्षता: मेवाड़ महाराणा जगतसिंह द्वितीय)।\n* **सामाजिक सुधार:** सती प्रथा, कन्या वध पर रोक लगाने के प्रयास किए तथा साधु-संतों के गृहस्थ जीवन अपनाने की व्यवस्था की।",
-        "en": "### Sawai Jai Singh II (1700–1743 AD)\n* **Title 'Sawai':** Bestowed by Aurangzeb, recognizing him as 'one and a quarter times' sharper than his ancestor Mirza Raja.\n* **Served 7 Mughal Emperors:** From Aurangzeb through Muhammad Shah 'Rangeela'.\n\n### Founding of Jaipur City (November 18, 1727 AD)\n* **Date:** Founded on **November 18, 1727**.\n* **Architect & Town Planner:** Bengali scholar **Pandit Vidhyadhar Bhattacharya** based on Shilpa Shastra grid planning.\n* **Pink City Heritage:** Painted terracotta pink in 1876 by **Maharaja Sawai Ram Singh II** for the visit of the Prince of Wales.\n\n### 5 Astronomical Observatories (Jantar Mantar)\n1. **Delhi (1724 AD):** Oldest observatory.\n2. **Jaipur (1728 AD):** Largest observatory; declared UNESCO World Heritage Site in 2010 (houses world's largest stone sundial, *Samrat Yantra*).\n3. **Ujjain**\n4. **Mathura**\n5. **Varanasi**\n\n### Ashwamedha Yajna & Hurda Conference\n* **Last Hindu King to perform Ashwamedha Yajna (1740 AD):** Head priest was Pundarik Ratnakar.\n* **Hurda Conference (July 17, 1734 AD):** Spearheaded the Rajput anti-Maratha confederacy at Hurda (Bhilwara).\n* **Scientific Treatises:** *Zij-i-Muhammad Shahi* and *Jai Singh Karika*."
+        "hi": "### सवाई जयसिंह द्वितीय (1700–1743 ई.):\n- **उपाधि:** औरंगज़ेब ने कुशाग्र बुद्धि से प्रभावित होकर ==**'सवाई'**== की उपाधि दी (7 मुग़ल बादशाहों का कार्यकाल देखा)।\n\n### जयपुर नगर की स्थापना (18 नवंबर 1727 ई.):\n- **तिथि:** ==**18 नवंबर 1727 ई.**== (वि.सं. 1784)।\n- **वास्तुकार:** बंगाली विद्वान ==**पंडित विद्याधर भट्टाचार्य**== (शिल्प शास्त्र व 9 वर्गों की ग्रिड पद्धति पर आधारित सुनियोजित नगर)।\n- **गुलाबी रंग (Pink City):** 1876 ई. में प्रिंस ऑफ वेल्स के स्वागत में ==महाराजा सवाई रामसिंह द्वितीय== ने शहर को गुलाबी/गेरुआ रंगवाया।\n\n### 5 खगोलीय वेधशालाएँ (जंतर-मंतर):\n1. ==**दिल्ली (1724 ई.)**==: सबसे पहली वेधशाला।\n2. ==**जयपुर (1728 ई.)**==: सबसे बड़ी वेधशाला (2010 में ==UNESCO विश्व धरोहर== सूची में शामिल; विश्व की सबसे बड़ी पाषाण धूपघड़ी ==**सम्राट यंत्र**== स्थित)।\n3. ==**उज्जैन**==\n4. ==**मथुरा**==\n5. ==**वाराणसी (बनारस)**==\n*(सूत्र: DJ MUM — Delhi, Jaipur, Mathura, Ujjain, Mahadev city/Varanasi)*\n\n### अन्य ऐतिहासिक कार्य:\n- **वैज्ञानिक ग्रन्थ:** ==*जीज-ए-मुहम्मदशाही*== (खगोलीय सारणी) एवं ==*जयसिंह कारिका*== (ज्योतिष)।\n- ==**अंतिम अश्वमेध यज्ञ (1740 ई.)**==: अश्वमेध यज्ञ करने वाले भारत के **अंतिम हिंदू नरेश** (प्रधान पुरोहित: ==पुंडरीक रत्नाकर== - *जयसिंह कल्पद्रुम*)।\n- ==**हुरड़ा सम्मेलन (17 जुलाई 1734 ई.)**==: मराठा आक्रमणों के विरुद्ध भीलवाड़ा के हुरड़ा में राजपूत सम्मेलन बुलाया (अध्यक्षता: मेवाड़ महाराणा जगतसिंह द्वितीय)।",
+        "en": "### Sawai Jai Singh II (1700–1743 AD):\n- Conferred title ==**'Sawai'**== by Aurangzeb; served 7 Mughal Emperors.\n- Founded ==**Jaipur City on 18 Nov 1727**== designed by architect ==**Pandit Vidhyadhar Bhattacharya**== (Grid layout).\n- Built ==**5 Jantar Mantar Observatories**==: Delhi (1724), Jaipur (1728 - UNESCO 2010, Samrat Yantra sundial), Ujjain, Mathura, Varanasi.\n- Authored ==*Zij-i-Muhammad Shahi*==; performed ==Last Ashwamedha Yajna (1740 AD)== with priest Pundarik Ratnakar; spearheaded ==Hurda Conference (1734 AD)==."
       }
     }
   ],
@@ -99,111 +201,16 @@
       "en": "The historic Treaty of Purandar was signed on June 11, 1665 between Mirza Raja Jai Singh and Shivaji."
     },
     {
-      "hi": "कवि बिहारी मिर्ज़ा राजा जयसिंह के दरबारी थे, जिन्होंने 713 दोहों वाली 'बिहारी सतसई' की रचना की।",
-      "en": "Court poet Bihari composed the 713-verse masterpiece 'Bihari Satsai' under Mirza Raja Jai Singh."
+      "hi": "सवाई जयसिंह द्वितीय ने 18 नवंबर 1727 को विद्याधर भट्टाचार्य के नक्शे पर जयपुर नगर की स्थापना की।",
+      "en": "Sawai Jai Singh II founded Jaipur on Nov 18, 1727 based on Vidhyadhar Bhattacharya's town plan."
     },
     {
-      "hi": "सवाई जयसिंह द्वितीय ने 18 नवंबर 1727 को वास्तुकार विद्याधर भट्टाचार्य के नक्शे पर जयपुर नगर बसाया।",
-      "en": "Sawai Jai Singh II founded Jaipur on Nov 18, 1727 designed by architect Vidhyadhar Bhattacharya."
+      "hi": "सवाई जयसिंह ने 5 स्थानों (दिल्ली, जयपुर, उज्जैन, मथुरा, वाराणसी) पर जंतर-मंतर वेधशालाएँ बनवाईं।",
+      "en": "Sawai Jai Singh built 5 observatories (Delhi, Jaipur, Ujjain, Mathura, Varanasi)."
     },
     {
-      "hi": "सवाई जयसिंह ने दिल्ली, जयपुर, उज्जैन, मथुरा और वाराणसी में 5 खगोलीय वेधशालाएँ (जंतर-मंतर) बनवाईं।",
-      "en": "Sawai Jai Singh built 5 astronomical observatories (Jantar Mantar) at Delhi, Jaipur, Ujjain, Mathura, and Varanasi."
-    }
-  ],
-  "timeline": [
-    {
-      "year": "1137 ई.",
-      "event": {
-        "hi": "दूल्हा राय द्वारा दौसा में कछवाहा वंश की स्थापना एवं जमवाय माता मंदिर का निर्माण।",
-        "en": "Dulherai establishes Kachhwaha rule at Dausa and builds Jamway Mata temple."
-      }
-    },
-    {
-      "year": "1207 ई.",
-      "event": {
-        "hi": "कोकिलदेव द्वारा आमेर विजय एवं आमेर को कछवाहों की स्थायी राजधानी बनाना।",
-        "en": "Kakildev captures Amer from Susawat Meenas, making it the lasting capital."
-      }
-    },
-    {
-      "year": "1562 ई. (फरवरी)",
-      "event": {
-        "hi": "सांभर में राजा भारमल की पुत्री हरखा बाई (मरियम-उज़-ज़मानी) का अकबर से ऐतिहासिक विवाह।",
-        "en": "Historic wedding of Bharmal's daughter Harkha Bai to Emperor Akbar at Sambhar."
-      }
-    },
-    {
-      "year": "1576 ई. (18 जून)",
-      "event": {
-        "hi": "मानसिंह प्रथम के नेतृत्व में मुग़ल सेना का महाराणा प्रताप के विरुद्ध हल्दीघाटी का युद्ध।",
-        "en": "Battle of Haldighati — Man Singh I commands the imperial Mughal army against Maharana Pratap."
-      }
-    },
-    {
-      "year": "1665 ई. (11 जून)",
-      "event": {
-        "hi": "मिर्ज़ा राजा जयसिंह एवं छत्रपति शिवाजी महाराज के मध्य ऐतिहासिक 'पुरंदर की संधि'।",
-        "en": "Mirza Raja Jai Singh concludes the landmark 'Treaty of Purandar' with Chhatrapati Shivaji."
-      }
-    },
-    {
-      "year": "1727 ई. (18 नवंबर)",
-      "event": {
-        "hi": "सवाई जयसिंह द्वितीय द्वारा विद्याधर भट्टाचार्य के नगर नियोजन पर जयपुर की स्थापना।",
-        "en": "Founding of Jaipur city by Sawai Jai Singh II planned by Vidhyadhar Bhattacharya."
-      }
-    },
-    {
-      "year": "1734 ई. (17 जुलाई)",
-      "event": {
-        "hi": "मराठा आक्रमणों के विरुद्ध भीलवाड़ा में ऐतिहासिक 'हुरड़ा सम्मेलन' का आयोजन।",
-        "en": "Convening of the historic Hurda Conference in Bhilwara against Maratha incursions."
-      }
-    }
-  ],
-  "exam_traps_and_tricks": [
-    {
-      "concept": {
-        "hi": "मिर्ज़ा राजा जयसिंह vs सवाई जयसिंह द्वितीय",
-        "en": "Mirza Raja Jai Singh vs Sawai Jai Singh II"
-      },
-      "trap": {
-        "hi": "परीक्षार्थी अक्सर पुरंदर की संधि (1665) और जयपुर नगर स्थापना (1727) / जंतर-मंतर वेधशालाओं में दोनों जयसिंहों में भ्रमित हो जाते हैं।",
-        "en": "Students confuse Mirza Raja Jai Singh (Treaty of Purandar 1665) with Sawai Jai Singh II (Jaipur 1727, Jantar Mantar)."
-      },
-      "trick": {
-        "hi": "मिर्ज़ा राजा = शाहजहाँ/औरंगज़ेब काल (शिवाजी, बिहारी सतसई, जयगढ़); सवाई जयसिंह = जयपुर शहर, 5 जंतर-मंतर, अश्वमेध यज्ञ, हुरड़ा सम्मेलन।",
-        "en": "Mirza Raja = Purandar Treaty, Bihari Satsai, 3 Mughal kings; Sawai Jai Singh = Jaipur City, 5 Observatories, Ashwamedha, 7 Mughal kings."
-      }
-    },
-    {
-      "concept": {
-        "hi": "कुलदेवी vs इष्टदेवी (कछवाहा वंश)",
-        "en": "Kuldevi vs Ishtadevi of Kachhwaha Dynasty"
-      },
-      "trap": {
-        "hi": "कछवाहा वंश की कुलदेवी जमवाय माता (जमवारामगढ़) हैं, जबकि आराध्य/इष्टदेवी शीला देवी (आमेर दुर्ग) हैं।",
-        "en": "Kuldevi is Jamway Mata (Jamwa Ramgarh) whereas Ishtadevi is Shila Devi (Amer Fort)."
-      },
-      "trick": {
-        "hi": "कुलदेवी = जमवाय माता (दूल्हा राय); इष्टदेवी = शीला माता (मानसिंह प्रथम बंगाल से लाए)।",
-        "en": "Kuldevi = Jamway Mata (Dulherai); Ishtadevi = Shila Devi (brought by Man Singh I from Bengal)."
-      }
-    },
-    {
-      "concept": {
-        "hi": "जंतर-मंतर की 5 वेधशालाएँ (कहाँ है और कहाँ नहीं)",
-        "en": "5 Jantar Mantar Observatories (Locations)"
-      },
-      "trap": {
-        "hi": "परीक्षा में विकल्प आता है: 'इनमें से कहाँ वेधशाला नहीं है?' — अक्सर आगरा, अजमेर, उदयपुर या लखनऊ गलत विकल्प दिए जाते हैं।",
-        "en": "Exams test negative options: 'Where was an observatory NOT built?' — Agra, Ajmer, Udaipur, or Lucknow are typical distractors."
-      },
-      "trick": {
-        "hi": "सूत्र: DJ MUM -> D (Delhi), J (Jaipur), M (Mathura), U (Ujjain), M/V (Varanasi)।",
-        "en": "Formula: DJ MUM -> Delhi, Jaipur, Mathura, Ujjain, Varanasi (Mahadev city)."
-      }
+      "hi": "1740 ई. में अश्वमेध यज्ञ संपन्न कराने वाले भारत के अंतिम हिंदू नरेश सवाई जयसिंह द्वितीय थे।",
+      "en": "Sawai Jai Singh II was the last Hindu king to perform the Ashwamedha Yajna in 1740 AD."
     }
   ],
   "mcqs": [

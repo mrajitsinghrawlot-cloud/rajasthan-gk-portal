@@ -14,9 +14,111 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "बीकानेर राठौड़ वंश संस्थापक", "en": "Bikaner Rathore Dynastic Founder" },
+      "value": { "hi": "राव बीका (1465 ई. में जांगल प्रदेश में सत्ता; करणी माता का आशीर्वाद)", "en": "Rao Bika (1465 AD in Jangladesh; blessed by Karni Mata)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "बीकानेर नगर स्थापना", "en": "Founding of Bikaner City" },
+      "value": { "hi": "1488 ई. (आखा तीज / वैशाख शुक्ल तृतीया) — राती घाटी पर", "en": "1488 AD (Akha Teej) at Rati Ghati" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "बीकानेर राठौड़ों की आराध्य देवी", "en": "Bikaner Ishtadevi" },
+      "value": { "hi": "करणी माता (देशनोक); कुलदेवी: नागणेची माता", "en": "Karni Mata (Deshnoke); Kuldevi: Nagnechi Mata" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "'कलयुग का कर्ण' (Kalyug Ka Karna)", "en": "'Kalyug Ka Karna'" },
+      "value": { "hi": "राव लूणकरण (बिठू सूजा कृत 'छंद राव जैतसी रो' में उल्लिखित)", "en": "Rao Lunkaran (in Bithu Suja's 'Chhand Rao Jaitsi Ro')" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "राती घाटी का युद्ध (1534 ई.)", "en": "Battle of Rati Ghati (1534 AD)" },
+      "value": { "hi": "राव जैतसी ने बाबर के पुत्र कामरान को पराजित किया", "en": "Rao Jaitsi defeated Prince Kamran (Babur's son)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "'राजपूताने का कर्ण' (Karna of Rajputana)", "en": "'Karna of Rajputana'" },
+      "value": { "hi": "महाराजा राय सिंह (इतिहासकार मुंशी देवी प्रसाद द्वारा प्रदत्त)", "en": "Maharaja Rai Singh (titled by Munshi Devi Prasad)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "जूनागढ़ दुर्ग निर्माण (1589-1594)", "en": "Junagarh Fort Construction" },
+      "value": { "hi": "महाराजा राय सिंह द्वारा (प्रधानमंत्री कर्मचंद बच्छावत की देखरेख में, 'जमीन का ज़ेवर')", "en": "By Rai Singh under PM Karamchand Bacchawat ('Zameen ka Zewar')" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "जयमल-पत्ता की गजारूढ़ प्रतिमाएँ", "en": "Jaimal-Patta Elephant Statues" },
+      "value": { "hi": "जूनागढ़ दुर्ग के सूरज पोल पर राय सिंह द्वारा स्थापित", "en": "Installed at Suraj Pol of Junagarh Fort by Rai Singh" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "रायसिंह प्रशस्ति (जूनागढ़)", "en": "Rai Singh Prashasti" },
+      "value": { "hi": "रचयिता: जैन मुनि जयता", "en": "Author: Jain monk Jaita" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "पृथ्वीराज राठौड़ (पीथल)", "en": "Prithviraj Rathore (Pithal)" },
+      "value": { "hi": "राय सिंह के छोटे भाई, अकबर के दरबारी कवि, 'डिंगल का हेरोस' (तेस्सीतोरी द्वारा)", "en": "Brother of Rai Singh; 'Heros of Dingal' (by L.P. Tessitori)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "वेलि क्रिसन रुकमणी री", "en": "Veli Krishan Rukmani Ri" },
+      "value": { "hi": "पृथ्वीराज राठौड़ कृत ('5वाँ वेद और 19वाँ पुराण' — कवि दुरसा आढ़ा)", "en": "By Prithviraj Rathore ('5th Veda & 19th Purana' — Dursa Adha)" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "महाराजा अनूप सिंह की उपाधि", "en": "Anup Singh Title" },
+      "value": { "hi": "'माही मरातिब' (औरंगज़ेब द्वारा दक्षिण अभियानों में वीरता पर प्रदत्त)", "en": "'Mahi Maratib' (awarded by Aurangzeb for Deccan triumphs)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "बीकानेर कला व उस्ता कला का स्वर्णकाल", "en": "Golden Age of Bikaner Art & Usta Kala" },
+      "value": { "hi": "महाराजा अनूप सिंह का शासनकाल (1669-1698 ई.)", "en": "Reign of Maharaja Anup Singh (1669-1698 AD)" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "अनूप संस्कृत पुस्तकालय (बीकानेर)", "en": "Anup Sanskrit Library" },
+      "value": { "hi": "दक्षिण से दुर्लभ पाण्डुलिपियों व कुम्भा के संगीत ग्रंथों का संग्रह", "en": "Preserved rare manuscripts & Kumbha's music treatises" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "संगीतज्ञ भावभट्ट के ग्रन्थ", "en": "Musicologist Bhavbhatt Works" },
+      "value": { "hi": "अनूप संगीत विलास, अनूप संगीत रत्नाकर, अनूप संगीत अंकुश", "en": "Anup Sangeet Vilas, Anup Sangeet Ratnakar" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "'आधुनिक भारत/राजस्थान का भगीरथ'", "en": "'Bhagirath of Modern Rajasthan'" },
+      "value": { "hi": "महाराजा गंगा सिंह (गंग नहर के निर्माता)", "en": "Maharaja Ganga Singh (Builder of Gang Canal)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "गंग नहर (Gang Canal) — 1927", "en": "Gang Canal (1927 AD)" },
+      "value": { "hi": "उद्घाटन: 26 अक्टूबर 1927 को लॉर्ड इरविन द्वारा (इंजीनियर: कंवर सेन)", "en": "Inaugurated 26 Oct 1927 by Lord Irwin (Planner: Kanwar Sain)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "गंगा रिसाला (Ganga Risala)", "en": "Ganga Risala (Camel Corps)" },
+      "value": { "hi": "महाराजा गंगा सिंह की प्रसिद्ध ऊँट सेना (चीन बॉक्सर विद्रोह व दोनों विश्व युद्ध)", "en": "Camel corps active in China Boxer rebellion & World Wars" },
+      "category": "military_siege"
+    },
+    {
+      "label": { "hi": "तीनों गोलमेज सम्मेलनों में भाग लेने वाले शासक", "en": "Ruler in 3 Round Table Conferences" },
+      "value": { "hi": "महाराजा गंगा सिंह (लंदन: 1930, 1931, 1932; वर्साय सन्धि 1919 हस्ताक्षरकर्ता)", "en": "Maharaja Ganga Singh (London 1930-32; Versailles Treaty 1919)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "नरेंद्र मंडल (Chamber of Princes 1921)", "en": "Narendra Mandal (1921)" },
+      "value": { "hi": "प्रथम चांसलर: महाराजा गंगा सिंह", "en": "First Chancellor: Maharaja Ganga Singh" },
+      "category": "ruler_person"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +126,8 @@
         "en": "1. Foundation of Bikaner: Rao Bika & Early Rulers"
       },
       "content_markdown": {
-        "hi": "### राव बीका (शासनकाल: 1465–1504 ई.)\n* **स्थापना:** राव जोधा के पाँचवें पुत्र राव बीका ने अपने चाचा कांधल, नापा सांखला एवं **करणी माता** के आशीर्वाद से जांगल प्रदेश (बीकानेर) में राठौड़ वंश की स्वतंत्र सत्ता स्थापित की।\n* **आरंभिक केंद्र:** सर्वप्रथम 1465 ई. में **कोडमदेसर** को केंद्र बनाया और भैरव मंदिर बनवाया।\n* **बीकानेर नगर की स्थापना:** **वैशाख शुक्ल तृतीया (आखा तीज), 1488 ई.** को राती घाटी नामक स्थान पर 'बीका' एवं नेहरा जाट के नाम पर **बीकानेर** नगर बसाया और 'बीकाजी की टेकरी' (किला) बनवाया।\n* **करणी माता का संबंध:** बीकानेर राठौड़ों की आराध्य देवी करणी माता (देशनोक) हैं, जबकि कुलदेवी नागणेची माता हैं।\n\n### राव लूणकरण (1505–1526 ई.)\n* **उपाधि:** बिठू सूजा ने अपने ग्रंथ *छंद राव जैतसी रो* में लूणकरण की दानशीलता के कारण इन्हें **'कलयुग का कर्ण'** कहा।\n* **लूणकरणसर झील:** खारे पानी की लूणकरणसर झील व कस्बे की स्थापना की।\n* **ढोसी का युद्ध (1526 ई.):** नारनौल के नवाब मीर मीरू के विरुद्ध लड़ते हुए वीरगति को प्राप्त हुए।\n\n### राव जैतसी (1526–1541 ई.)\n* **कामरान को पराजित करना (1534 ई.):** मुगल बादशाह बाबर के पुत्र और हुमायूँ के भाई **कामरान** ने भटनेर जीतकर बीकानेर पर आक्रमण किया। राव जैतसी ने 26 अक्टूबर 1534 ई. को राती घाटी के युद्ध में कामरान को बुरी तरह पराजित कर खदेड़ दिया।\n* **साहित्यिक साक्ष्य:** इस विजय का वर्णन बिठू सूजा कृत ग्रंथ ***छंद राव जैतसी रो पाघड़ौ सिरोमणि राघौ*** में मिलता है।\n* **पाहेबा/साहेबा का युद्ध (1541–42 ई.):** जोधपुर के राव मालदेव के विरुद्ध लड़ते हुए जैतसी वीरगति को प्राप्त हुए।",
-        "en": "### Rao Bika (1465–1504 AD)\n* **Foundation:** Fifth son of Rao Jodha; founded the independent Rathore dynasty in Jangladesh (Bikaner) in 1465 with the blessings of **Karni Mata** and uncle Kandhal.\n* **Initial Center:** Kodamdesar (1465 AD), where he built a Bhairav temple.\n* **Founding of Bikaner City:** On **Akshaya Tritiya (Akha Teej), 1488 AD**, he founded Bikaner at Rati Ghati.\n* **Kuldevi & Ishtadevi:** Kuldevi is Nagnechi Mata and Ishtadevi is Karni Mata (Deshnoke).\n\n### Rao Lunkaran (1505–1526 AD)\n* **Title:** Bithu Suja termed him **'Kalyug Ka Karna'** in *Chhand Rao Jaitsi Ro* due to his philanthropy.\n* **Lunkaransar Lake:** Built the saltwater lake and township of Lunkaransar.\n* **Battle of Dhosi (1526 AD):** Died fighting against Nawab Mir Miru of Narnaul.\n\n### Rao Jaitsi (1526–1541 AD)\n* **Defeat of Kamran (1534 AD):** Defeated Babur's son Prince Kamran at the Battle of Rati Ghati.\n* **Historical Chronicle:** Documented in Bithu Suja's celebrated work *Chhand Rao Jaitsi Ro*.\n* **Battle of Paheba (1541–42 AD):** Fell fighting against Rao Maldeo of Marwar."
+        "hi": "### 1. राव बीका (1465–1504 ई.):\n- **स्थापना:** राव जोधा के पाँचवें पुत्र राव बीका ने अपने चाचा कांधल, नापा सांखला एवं ==**करणी माता**== के आशीर्वाद से 1465 ई. में जांगल प्रदेश में राठौड़ वंश की स्वतंत्र सत्ता स्थापित की।\n- **आरंभिक केंद्र:** सर्वप्रथम 1465 ई. में ==कोडमदेसर== को केंद्र बनाया।\n- **बीकानेर नगर स्थापना:** ==**वैशाख शुक्ल तृतीया (आखा तीज), 1488 ई.**== को राती घाटी पर नेहरा जाट व बीका के नाम पर ==**बीकानेर**== नगर बसाया और 'बीकाजी की टेकरी' बनवाई।\n- **देवी संबंध:** कुलदेवी ==नागणेची माता==, आराध्य देवी ==करणी माता (देशनोक)==।\n\n### 2. राव लूणकरण (1505–1526 ई.):\n- **उपाधि:** बिठू सूजा ने *'छंद राव जैतसी रो'* में इनकी दानशीलता के कारण इन्हें ==**'कलयुग का कर्ण'**== कहा।\n- खारे पानी की ==लूणकरणसर झील== व कस्बे की स्थापना की।\n- 1526 ई. में नारनौल के नवाब मीर मीरू के विरुद्ध ==ढोसी के युद्ध== में वीरगति पाई।\n\n### 3. राव जैतसी (1526–1541 ई.):\n- ==**राती घाटी का युद्ध (1534 ई.)**==: बाबर के पुत्र ==कामरान== को 26 अक्टूबर 1534 को बुरी तरह पराजित कर खदेड़ा (बिठू सूजा कृत *छंद राव जैतसी रो* में उल्लेख)।\n- ==**पाहेबा/साहेबा का युद्ध (1541-42 ई.)**==: मालदेव के विरुद्ध लड़ते हुए वीरगति पाई।",
+        "en": "### 1. Rao Bika (1465–1504 AD):\n- Founded dynasty in 1465 AD with blessings of ==**Karni Mata**==.\n- Founded Bikaner City on ==**Akha Teej, 1488 AD**== at Rati Ghati.\n\n### 2. Rao Lunkaran (1505–1526 AD):\n- Styled ==**'Kalyug Ka Karna'**== by Bithu Suja (*Chhand Rao Jaitsi Ro*).\n- Built Lunkaransar lake; died in Battle of Dhosi (1526).\n\n### 3. Rao Jaitsi (1526–1541 AD):\n- Defeated Babur's son ==Prince Kamran== at ==Battle of Rati Ghati (1534 AD)==.\n- Fell in ==Battle of Paheba (1541-42 AD)== against Maldeo."
       }
     },
     {
@@ -34,8 +136,8 @@
         "en": "2. Maharaja Rai Singh ('Karna of Rajputana') & Junagarh Fort"
       },
       "content_markdown": {
-        "hi": "### महाराजा राय सिंह (शासनकाल: 1574–1612 ई.)\n* **उपाधियाँ:** \n  - मुंशी देवी प्रसाद ने इन्हें **'राजपूताने का कर्ण'** कहा।\n  - अकबर व जहाँगीर दोनों के विश्वासपात्र सेनापति (4000 से 5000 का मनसबदार)।\n* **जोधपुर का प्रशासक (1572–1574 ई.):** अकबर ने राव चन्द्रसेन के विरुद्ध जोधपुर का प्रशासक राय सिंह को नियुक्त किया था।\n* **जूनागढ़ दुर्ग का निर्माण (1589–1594 ई.):** \n  - अपने दूरदर्शी प्रधानमंत्री **कर्मचंद बच्छावत** की देखरेख में राती घाटी के प्राचीन दुर्ग के स्थान पर भव्य **जूनागढ़ दुर्ग (जमीन का ज़ेवर)** का निर्माण करवाया।\n  - दुर्ग के मुख्य द्वार (सूरज पोल) पर चित्तौड़ के तीसरे साके (1567-68) के अमर वीर **जयमल मेड़तिया और फत्ता सिसोदिया** की गजारूढ़ पाषाण प्रतिमाएँ स्थापित करवाईं।\n  - दुर्ग में **'रायसिंह प्रशस्ति'** (रचयिता: जयता मुनि) उत्कीर्ण करवाई।\n* **साहित्यिक रचनाएँ:** *रायसिंह महोत्सव*, *ज्योतिष रत्नमाला*, *बाल बोधिनी* (टीका)।\n* **कर्मचंद वंशोत्कीर्तनकं काव्यम्:** जयसोम द्वारा रचित ग्रंथ, जिसमें रायसिंह को 'राजेंद्र' कहा गया है।\n\n### पृथ्वीराज राठौड़ (पीथल)\n* राय सिंह के छोटे भाई, अकबर के नवरत्नों/दरबारी कवियों में शामिल।\n* इतालवी विद्वान डॉ. एल.पी. तेस्सीतोरी ने इन्हें **'डिंगल का हेरोस'** (Hero of Dingal) कहा।\n* **प्रसिद्ध ग्रंथ:** ***वेलि क्रिसन रुकमणी री*** — जिसे कवि दुरसा आढ़ा ने **'5वाँ वेद और 19वाँ पुराण'** की संज्ञा दी।\n* अन्य रचनाएँ: *गंगा लहरी*, *दशम भागवत रा दूहा*।",
-        "en": "### Maharaja Rai Singh (1574–1612 AD)\n* **Titles:** Munshi Devi Prasad titled him **'Karna of Rajputana'** for his unmatched charity.\n* **Administrator of Jodhpur (1572–1574 AD):** Appointed by Akbar to govern Jodhpur against Rao Chandrasen.\n* **Junagarh Fort Construction (1589–1594 AD):**\n  - Built under Prime Minister Karamchand Bacchawat; known as *Zameen ka Zewar*.\n  - Installed stone equestrian elephant statues of legendary heroes **Jaimal and Patta** at Suraj Pol.\n  - Inscribed the **Rai Singh Prashasti** (composed by Jain monk Jaita).\n* **Literary Contributions:** Authored *Rai Singh Mahotsav*, *Jyotish Ratnamala*.\n\n### Prithviraj Rathore (Pithal)\n* Younger brother of Rai Singh; Dingal poet in Akbar's court.\n* Italian scholar Dr. L.P. Tessitori termed him **'The Heros of Dingal'**.\n* **Masterpiece:** ***Veli Krishan Rukmani Ri*** — styled as the **'5th Veda and 19th Purana'** by poet Dursa Adha."
+        "hi": "### 1. महाराजा राय सिंह (1574–1612 ई.):\n- **उपाधि:** मुंशी देवी प्रसाद ने इन्हें ==**'राजपूताने का कर्ण'**== कहा।\n- अकबर व जहाँगीर दोनों के विश्वासपात्र सेनापति (5000 का मनसबदार)। 1572-74 में अकबर द्वारा ==जोधपुर का प्रशासक== नियुक्त।\n- ==**जूनागढ़ दुर्ग निर्माण (1589–1594 ई.)**==:\n  - प्रधानमंत्री ==**कर्मचंद बच्छावत**== की देखरेख में निर्माण ('जमीन का ज़ेवर')।\n  - मुख्य द्वार (सूरज पोल) पर चित्तौड़ के तीसरे साके के वीर ==**जयमल और फत्ता की गजारूढ़ पाषाण प्रतिमाएँ**== स्थापित करवाईं।\n  - दुर्ग में ==**'रायसिंह प्रशस्ति'**== (रचयिता: जैन मुनि जयता) उत्कीर्ण करवाई।\n- **साहित्यिक कृतियाँ:** *रायसिंह महोत्सव*, *ज्योतिष रत्नमाला*, *बाल बोधिनी* टीका।\n- जयसोम कृत *कर्मचंद वंशोत्कीर्तनकं काव्यम्* में रायसिंह को 'राजेंद्र' कहा गया।\n\n### 2. पृथ्वीराज राठौड़ (पीथल):\n- राय सिंह के छोटे भाई, अकबर के दरबारी कवि।\n- डॉ. एल.पी. तेस्सीतोरी ने इन्हें ==**'डिंगल का हेरोस' (Hero of Dingal)**== कहा।\n- **प्रसिद्ध ग्रन्थ:** ==*वेलि क्रिसन रुकमणी री*== (गागरोन दुर्ग में रचित) — कवि दुरसा आढ़ा ने इसे ==**'5वाँ वेद और 19वाँ पुराण'**== कहा।\n- अन्य रचनाएँ: *गंगा लहरी*, *दशम भागवत रा दूहा*।",
+        "en": "### 1. Maharaja Rai Singh (1574–1612 AD):\n- Titled ==**'Karna of Rajputana'**== by Munshi Devi Prasad.\n- Built ==**Junagarh Fort ('Zameen ka Zewar')**== (1589-94) via PM ==Karamchand Bacchawat==.\n- Installed stone elephant statues of ==**Jaimal and Patta**== at Suraj Pol.\n- Inscribed ==**Rai Singh Prashasti**== (by Jain monk Jaita).\n\n### 2. Prithviraj Rathore (Pithal):\n- Termed ==**'Heros of Dingal'**== by Italian linguist Dr. L.P. Tessitori.\n- Composed ==*Veli Krishan Rukmani Ri*== (hailed as ==**'5th Veda & 19th Purana'**== by Dursa Adha)."
       }
     },
     {
@@ -44,8 +146,8 @@
         "en": "3. Maharaja Anup Singh: Golden Era of Bikaner Art & Literature"
       },
       "content_markdown": {
-        "hi": "### महाराजा अनूप सिंह (शासनकाल: 1669–1698 ई.)\n* **उपाधि:** औरंगज़ेब ने दक्षिण अभियानों (मराठों व बीजापुर-गोलकुंडा विजय) में वीरता पर इन्हें **'माही मरातिब'** की सर्वोच्च उपाधि दी।\n* **बीकानेर चित्रशैली का स्वर्णकाल:** अनूप सिंह का काल बीकानेर चित्रशैली और 'उस्ता कला' (ऊँट की खाल पर स्वर्ण मीनाकारी) व मथेरण कला का स्वर्णकाल कहलाता है।\n* **अनूप संस्कृत पुस्तकालय (Anup Sanskrit Library):** \n  - दक्षिण भारत से सैकड़ों दुर्लभ संस्कृत एवं प्राकृत पाण्डुलिपियों और हिंदू मूर्तियों को नष्ट होने से बचाकर बीकानेर लाए।\n  - महाराणा कुंभा के संगीत ग्रंथों (*संगीतरत्न*, *संगीतरत्नाकर* टीका आदि) को इसी पुस्तकालय में सुरक्षित रखा गया।\n* **रचनाएँ व संरक्षण:** *अनूप विवेक*, *काम प्रबोध*, *श्राद्ध प्रयोग चिंतामणि*।\n* **दरबारी विद्वान:**\n  - **भावभट्ट:** महान संगीतज्ञ — *अनूप संगीत विलास*, *अनूप संगीत रत्नाकर*, *अनूप संगीत अंकुश*।\n  - **आनंदराम:** गीता का मारवाड़ी/डिंगल गद्य में अनुवाद किया।",
-        "en": "### Maharaja Anup Singh (1669–1698 AD)\n* **Title 'Mahi Maratib':** Conferred by Aurangzeb for exemplary military victories in the Deccan campaigns.\n* **Golden Age of Art:** His reign marks the zenith of the Bikaner Painting School, Usta Kala (camel hide gold embossing), and Matheran art.\n* **Anup Sanskrit Library:** Rescued hundreds of rare Sanskrit manuscripts and idols from Deccan, preserving Maharana Kumbha's classical treatises on music.\n* **Court Scholars:** Great musicologist **Bhavbhatt** composed *Anup Sangeet Vilas*, *Anup Sangeet Ratnakar*."
+        "hi": "### महाराजा अनूप सिंह (1669–1698 ई.):\n- **उपाधि:** औरंगज़ेब ने दक्षिण अभियानों (मराठों, बीजापुर व गोलकुंडा विजय) में वीरता पर ==**'माही मरातिब'**== की सर्वोच्च उपाधि दी।\n- **कला का स्वर्णकाल:** इनके काल को ==बीकानेर चित्रशैली==, ==उस्ता कला== (ऊँट की खाल पर स्वर्ण मीनाकारी) व ==मथेरण कला== का स्वर्णकाल कहा जाता है।\n- ==**अनूप संस्कृत पुस्तकालय (Anup Sanskrit Library)**==: दक्षिण भारत से सैकड़ों दुर्लभ संस्कृत व प्राकृत पाण्डुलिपियों और महाराणा कुंभा के संगीत ग्रंथों को सुरक्षित लाकर बीकानेर में स्थापित किया।\n- **रचनाएँ:** *अनूप विवेक*, *काम प्रबोध*, *श्राद्ध प्रयोग चिंतामणि*।\n- **दरबारी विद्वान:**\n  - ==**भावभट्ट (महान संगीतज्ञ)**==: *अनूप संगीत विलास*, *अनूप संगीत रत्नाकर*, *अनूप संगीत अंकुश*।\n  - ==आनंदराम==: श्रीमद्भगवद्गीता का मारवाड़ी गद्य में प्रथम अनुवाद।",
+        "en": "### Maharaja Anup Singh (1669–1698 AD):\n- Awarded title ==**'Mahi Maratib'**== by Aurangzeb for victories in the Deccan.\n- Golden Age of ==Bikaner Painting School==, ==Usta Kala==, and Matheran art.\n- Established ==**Anup Sanskrit Library**==, preserving rare manuscripts & Kumbha's music works.\n- Court musicologist ==**Bhavbhatt**== composed *Anup Sangeet Vilas* & *Anup Sangeet Ratnakar*."
       }
     },
     {
@@ -54,8 +156,8 @@
         "en": "4. Maharaja Ganga Singh: The Modern Bhagirath of Rajasthan"
       },
       "content_markdown": {
-        "hi": "### महाराजा गंगा सिंह (शासनकाल: 1887–1943 ई.)\n* **उपनाम:** **'आधुनिक भारत/राजस्थान का भगीरथ'** (मरुभूमि में पानी लाने के कारण)।\n* **गंग नहर (Gang Canal) का निर्माण:** \n  - सतलज नदी से फिरोजपुर (पंजाब) के हुसैनीवाला हेडवर्क्स से पानी लाकर मरुभूमि को उपजाऊ बनाया।\n  - इंजीनियर: **कंवर सेन** (योजनाकार) एवं **मिस्टर एफ.जी. लिस्टर**।\n  - उद्घाटन: **26 अक्टूबर 1927 ई.** को तत्कालीन वायसराय **लॉर्ड इरविन** द्वारा शिवपुर हेड पर किया गया।\n* **गंगा रिसाला (ऊँट सेना):** चीन के बॉक्सर विद्रोह (1900 ई.) तथा प्रथम व द्वितीय विश्व युद्ध में ब्रिटिश साम्राज्य की ओर से भाग लेकर ख्याति अर्जित की।\n* **अंतर्राष्ट्रीय प्रतिनिधित्व:**\n  - तीनों **गोलमेज सम्मेलनों (1930, 1931, 1932)** में भाग लेने वाले राजस्थान के एकमात्र नरेश।\n  - 1919 ई. में पेरिस शांति सम्मेलन में **वर्साय की संधि (Treaty of Versailles)** पर हस्ताक्षर करने वाले एकमात्र गैर-श्वेत/भारतीय शासक।\n  - नरेंद्र मंडल (Chamber of Princes, 1921) के प्रथम चांसलर बने।\n* **धार्मिक व सांस्कृतिक निर्माण:** \n  - रामदेवरा (रुणिचा), गोगामेड़ी (हनुमानगढ़) तथा देशनोक (करणी माता) के वर्तमान भव्य मंदिरों का आधुनिक स्वरूप में निर्माण करवाया।\n  - बनारस हिंदू विश्वविद्यालय (BHU) की स्थापना हेतु मदन मोहन मालवीय को सबसे बड़ा आर्थिक दान दिया।",
-        "en": "### Maharaja Ganga Singh (1887–1943 AD)\n* **Epithet:** **'Bhagirath of Modern Rajasthan'** for bringing canal waters to the Thar Desert.\n* **Gang Canal (1927 AD):** Built from Sutlej River at Hussainiwala Headworks (Ferozepur); inaugurated on **Oct 26, 1927** by Viceroy Lord Irwin.\n* **Ganga Risala (Camel Corps):** Renowned imperial camel corps deployed in the China Boxer Rebellion (1900) and both World Wars.\n* **International Statesman:**\n  - Only Rajasthan prince to attend all three **Round Table Conferences (1930-1932)** in London.\n  - Signed the historic **Treaty of Versailles (1919)** on behalf of India.\n  - First Chancellor of the **Chamber of Princes (Narendra Mandal, 1921)**.\n* **Temple Restorations:** Rebuilt Ramdevra (Runicha), Gogamedi, and Karni Mata (Deshnoke) temples."
+        "hi": "### महाराजा गंगा सिंह (1887–1943 ई.):\n- **उपनाम:** ==**'आधुनिक भारत / राजस्थान का भगीरथ'**== (मरुभूमि में जल क्रांति लाने के कारण)।\n- ==**गंग नहर (Gang Canal) का निर्माण**==:\n  - सतलज नदी (हुसैनीवाला हेडवर्क्स, फिरोजपुर) से पानी लाकर मरुभूमि को हरा-भरा किया।\n  - योजनाकार/इंजीनियर: ==कंवर सेन== व मिस्टर लिस्टर।\n  - उद्घाटन: ==**26 अक्टूबर 1927 ई.**== को तत्कालीन वायसराय ==**लॉर्ड इरविन**== द्वारा शिवपुर हेड पर।\n- ==**गंगा रिसाला (ऊँट सेना)**==: चीन के बॉक्सर विद्रोह (1900) तथा दोनों विश्व युद्धों में ब्रिटिश साम्राज्य की ओर से भाग लेकर अंतरराष्ट्रीय ख्याति प्राप्त की।\n- **अंतरराष्ट्रीय कूटनीति:**\n  - तीनों ==**गोलमेज सम्मेलनों (1930, 1931, 1932, लंदन)**== में भाग लेने वाले राजस्थान के एकमात्र नरेश।\n  - 1919 ई. में पेरिस शांति सम्मेलन में ==**वर्साय की संधि (Treaty of Versailles)**== पर हस्ताक्षर करने वाले एकमात्र भारतीय नरेश।\n  - 1921 में ==नरेंद्र मंडल (Chamber of Princes)== के प्रथम चांसलर बने।\n- **धार्मिक निर्माण:** रामदेवरा (रुणिचा), गोगामेड़ी (हनुमानगढ़) तथा करणी माता (देशनोक) के वर्तमान भव्य मंदिरों का निर्माण करवाया। बीएचयू (BHU) को विशाल आर्थिक दान दिया।",
+        "en": "### Maharaja Ganga Singh (1887–1943 AD):\n- Epithet: ==**'Bhagirath of Modern Rajasthan'**==.\n- Built ==**Gang Canal (1927 AD)**== from Sutlej River; opened by Viceroy ==**Lord Irwin**== on 26 Oct 1927 (Engineered by ==Kanwar Sain==).\n- Commanded the ==**Ganga Risala (Camel Corps)**== in China (1900) and World Wars.\n- Only Indian prince to attend all 3 ==**Round Table Conferences (1930-32)**== and sign the ==**Treaty of Versailles (1919)**==.\n- 1st Chancellor of ==Chamber of Princes (1921)==; rebuilt Ramdevra, Gogamedi & Deshnoke temples."
       }
     }
   ],
@@ -99,94 +201,6 @@
     {
       "hi": "महाराजा गंगा सिंह तीनों गोलमेज सम्मेलनों में भाग लेने वाले और वर्साय संधि (1919) पर हस्ताक्षर करने वाले शासक थे।",
       "en": "Maharaja Ganga Singh attended all three Round Table Conferences and signed the Treaty of Versailles (1919)."
-    }
-  ],
-  "timeline": [
-    {
-      "year": "1488 ई. (आखा तीज)",
-      "event": {
-        "hi": "राव बीका द्वारा बीकानेर नगर की विधिवत स्थापना एवं बीकाजी की टेकरी का निर्माण।",
-        "en": "Formal founding of Bikaner city on Akshaya Tritiya by Rao Bika."
-      }
-    },
-    {
-      "year": "1534 ई. (26 अक्टूबर)",
-      "event": {
-        "hi": "राती घाटी के युद्ध में राव जैतसी द्वारा कामरान की मुगल सेना को करारी शिकस्त।",
-        "en": "Rao Jaitsi decisively defeats Mughal Prince Kamran's army at the Battle of Rati Ghati."
-      }
-    },
-    {
-      "year": "1589–1594 ई.",
-      "event": {
-        "hi": "महाराजा राय सिंह द्वारा भव्य जूनागढ़ दुर्ग (बीकानेर) का निर्माण।",
-        "en": "Construction of the iconic Junagarh Fort in Bikaner by Maharaja Rai Singh."
-      }
-    },
-    {
-      "year": "1669–1698 ई.",
-      "event": {
-        "hi": "महाराजा अनूप सिंह का शासनकाल — बीकानेर चित्रकला, उस्ता कला व अनूप संस्कृत लाइब्रेरी की स्थापना।",
-        "en": "Reign of Maharaja Anup Singh — Golden era of Bikaner paintings & founding of Anup Sanskrit Library."
-      }
-    },
-    {
-      "year": "1919 ई.",
-      "event": {
-        "hi": "महाराजा गंगा सिंह द्वारा पेरिस शांति सम्मेलन में ऐतिहासिक 'वर्साय की संधि' पर हस्ताक्षर।",
-        "en": "Maharaja Ganga Singh signs the historic Treaty of Versailles at the Paris Peace Conference."
-      }
-    },
-    {
-      "year": "1927 ई. (26 अक्टूबर)",
-      "event": {
-        "hi": "वायसराय लॉर्ड इरविन द्वारा एशिया की पहली पक्की नहर 'गंग नहर' का विधिवत उद्घाटन।",
-        "en": "Viceroy Lord Irwin formally inaugurates the Gang Canal, transforming Rajasthan's desert."
-      }
-    }
-  ],
-  "exam_traps_and_tricks": [
-    {
-      "concept": {
-        "hi": "कलयुग का कर्ण vs राजपूताने का कर्ण",
-        "en": "Kalyug Ka Karna vs Rajputane Ka Karna"
-      },
-      "trap": {
-        "hi": "परीक्षार्थी अक्सर 'कलयुग का कर्ण' और 'राजपूताने का कर्ण' में भ्रमित हो जाते हैं।",
-        "en": "Candidates frequently mix up 'Kalyug Ka Karna' with 'Rajputane Ka Karna'."
-      },
-      "trick": {
-        "hi": "लूणकरण = कलयुग का कर्ण (बिठू सूजा कृत); राय सिंह = राजपूताने का कर्ण (मुंशी देवी प्रसाद कृत)।",
-        "en": "Rao Lunkaran = Kalyug Ka Karna (by Bithu Suja); Rai Singh = Rajputane Ka Karna (by Munshi Devi Prasad)."
-      }
-    },
-    {
-      "concept": {
-        "hi": "जयमल व फत्ता की गजारूढ़ मूर्तियाँ: आगरा vs जूनागढ़",
-        "en": "Elephant Statues of Jaimal & Patta: Agra vs Junagarh"
-      },
-      "trap": {
-        "hi": "आगरा किले के द्वार पर अकबर ने मूर्तियाँ लगवाई थीं (जिसे बाद में औरंगज़ेब ने तुड़वाया), जबकि जूनागढ़ (बीकानेर) के सूरज पोल पर राय सिंह ने मूर्तियाँ स्थापित करवाई थीं जो आज भी विद्यमान हैं।",
-        "en": "Akbar installed statues at Agra Fort (later removed by Aurangzeb), whereas Rai Singh installed them at Junagarh Fort's Suraj Pol."
-      },
-      "trick": {
-        "hi": "जूनागढ़ = राय सिंह द्वारा स्थापित मूर्तियाँ आज भी सुरक्षित हैं।",
-        "en": "Junagarh = Rai Singh's statues are intact to this day."
-      }
-    },
-    {
-      "concept": {
-        "hi": "डिंगल का हेरोस vs आधुनिक भगीरथ",
-        "en": "Heros of Dingal vs Modern Bhagirath"
-      },
-      "trap": {
-        "hi": "पृथ्वीराज राठौड़ (पीथल) को एल.पी. तेस्सीतोरी ने 'डिंगल का हेरोस' कहा, जबकि महाराजा गंगा सिंह को 'आधुनिक राजस्थान का भगीरथ' कहा जाता है।",
-        "en": "Prithviraj Rathore is the 'Heros of Dingal' (by L.P. Tessitori), while Maharaja Ganga Singh is the 'Bhagirath of Modern Rajasthan'."
-      },
-      "trick": {
-        "hi": "साहित्यिक उपलब्धि = पृथ्वीराज (पीथल); नहर/आधुनिकीकरण = गंगा सिंह।",
-        "en": "Literature = Prithviraj (Pithal); Canal/Infrastructure = Ganga Singh."
-      }
     }
   ],
   "mcqs": [

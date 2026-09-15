@@ -4,144 +4,227 @@
   "unit_id": "A.04",
   "slug": "mewar-guhilas-and-sisodias",
   "title": {
-    "en": "Guhilas & Sisodias of Mewar",
-    "hi": "मेवाड़ के गुहिल एवं सिसोदिया राजवंश"
+    "hi": "मेवाड़ के गुहिल एवं सिसोदिया राजवंश",
+    "en": "Guhilas & Sisodias of Mewar"
   },
   "short_summary": {
-    "en": "Comprehensive study notes on the glorious Mewar dynasty: Bappa Rawal, Rana Kumbha, Rana Sanga, Maharana Pratap, Haldighati 1576, and the Treaty of 1615.",
-    "hi": "मेवाड़ के गौरवशाली इतिहास: बप्पा रावल, राणा कुम्भा, राणा सांगा, महाराणा प्रताप, हल्दीघाटी युद्ध (1576) एवं 1615 की मुगल-मेवाड़ सन्धि पर सम्पूर्ण प्रामाणिक अध्ययन सामग्री।"
+    "hi": "मेवाड़ के गौरवशाली इतिहास: बप्पा रावल, राणा कुम्भा, राणा सांगा, महाराणा प्रताप, हल्दीघाटी युद्ध (1576) एवं 1615 की मुगल-मेवाड़ सन्धि पर सम्पूर्ण प्रामाणिक अध्ययन सामग्री।",
+    "en": "Comprehensive study notes on the glorious Mewar dynasty: Bappa Rawal, Rana Kumbha, Rana Sanga, Maharana Pratap, Haldighati 1576, and the Treaty of 1615."
   },
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "गुहिल वंश संस्थापक (566 ई.)", "en": "Guhila Dynasty Founder (566 AD)" },
+      "value": { "hi": "गुहादित्य (गुहिल)", "en": "Guhaditya (Guhil)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "बप्पा रावल (कालभोज) — 734 ई.", "en": "Bappa Rawal (Kalbhoj) — 734 AD" },
+      "value": { "hi": "मान मोरी को पराजित कर चित्तौड़ जीता (हरित ऋषि का आशीर्वाद)", "en": "Defeated Man Mori, won Chittorgarh (blessed by Harit Rishi)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "एकलिंगजी मन्दिर (कैलाशपुरी, नागदा)", "en": "Eklingji Temple (Nagda)" },
+      "value": { "hi": "निर्माता: बप्पा रावल (शासक स्वयं को एकलिंगजी का दीवान मानते हैं)", "en": "Built by Bappa Rawal (Mewar rulers rule as Diwans)" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "मेवाड़ में प्रथम स्वर्ण सिक्का (115 ग्रेन)", "en": "First Gold Coin in Mewar (115 Grains)" },
+      "value": { "hi": "बप्पा रावल द्वारा प्रचलित", "en": "Issued by Bappa Rawal" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "आहड़ को राजधानी एवं नौकरशाही", "en": "Ahar Capital & Bureaucracy Setup" },
+      "value": { "hi": "अल्लट (आलू रावल) — हूण राजकुमारी हरियादेवी से विवाह", "en": "Allata (Alu Rawal) — married Huna princess Hariyadevi" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "भूताला का युद्ध (1227 ई.)", "en": "Battle of Bhutala (1227 AD)" },
+      "value": { "hi": "रावल जैत्रसिंह ने इल्तुतमिश को हराया (हम्मीर मद मर्दन में उल्लेख)", "en": "Rawal Jaitra Singh defeated Iltutmish" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "चित्तौड़ को स्थायी राजधानी बनाया", "en": "Permanent Capital Chittorgarh" },
+      "value": { "hi": "रावल जैत्रसिंह (नागदा ध्वस्त होने के बाद)", "en": "Rawal Jaitra Singh (after destruction of Nagda)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "चित्तौड़ का प्रथम साका (1303 ई.)", "en": "1st Saka of Chittorgarh (1303 AD)" },
+      "value": { "hi": "रावल रतन सिंह का केसरिया, रानी पद्मिनी का अग्नि जौहर (खिज्राबाद नाम)", "en": "Ratan Singh Kesariya, Rani Padmini Agni Jauhar (renamed Khizrabad)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "सिसोदिया वंश का संस्थापक (1326 ई.)", "en": "Sisodia Dynasty Founder (1326 AD)" },
+      "value": { "hi": "राणा हम्मीर ('मेवाड़ का उद्धारक', 'विषम घाटी पंचानन')", "en": "Rana Hammir ('Saviour of Mewar', 'Visham Ghati Panchanan')" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "सिंगोली का युद्ध (बांसवाड़ा)", "en": "Battle of Singoli" },
+      "value": { "hi": "राणा हम्मीर ने दिल्ली सुल्तान मुहम्मद बिन तुगलक को हराया", "en": "Rana Hammir defeated Muhammad bin Tughlaq" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "राणा लाखा (लक्षसिंह) काल", "en": "Rana Lakha Reign Highlights" },
+      "value": { "hi": "जावर में चांदी की खान की खोज; पिछोला झील का निर्माण (छीतर बंजारा)", "en": "Silver mines discovered at Jawar; Pichhola lake built by Banjara" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "मेवाड़ का भीष्म पितामह", "en": "Bhishma of Mewar" },
+      "value": { "hi": "कुंवर चूंडा (हंसा बाई के विवाह पर राज्य त्याग की प्रतिज्ञा)", "en": "Kunwar Chunda (renounced Mewar throne for brother Mokal)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "सारंगपुर का युद्ध (1437 ई.)", "en": "Battle of Sarangpur (1437 AD)" },
+      "value": { "hi": "राणा कुम्भा ने मालवा सुल्तान महमूद खिलजी प्रथम को हराया", "en": "Rana Kumbha defeated Mahmud Khalji I of Malwa" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "विजय स्तम्भ (कीर्ति स्तम्भ)", "en": "Vijay Stambh (Kirti Stambh)" },
+      "value": { "hi": "9 मंजिला, 122 फीट; शिल्पी: जैता, नापा, पोमा, पूंजा (सारंगपुर विजय उपलक्ष्य)", "en": "9-storey, 122 ft; Architects: Jaita, Napa, Poma, Punja" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "कुम्भलगढ़ दुर्ग एवं शिल्पी", "en": "Kumbhalgarh Fort & Architect" },
+      "value": { "hi": "निर्माता: राणा कुम्भा; मुख्य शिल्पी: मण्डन (कटारगढ़ - मेवाड़ की आंख)", "en": "Built by Rana Kumbha; Architect: Mandan (Katargarh - Eye of Mewar)" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "कुम्भा के प्रमुख ग्रन्थ", "en": "Rana Kumbha's Literary Works" },
+      "value": { "hi": "संगीत राज (5 कोष), संगीत मीमांसा, सूड प्रबन्ध, रसिकप्रिया टीका", "en": "Sangeet Raj (5 parts), Sangeet Meemansa, Sood Prabandh, Rasikapriya" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "राणा सांगा के प्रमुख युद्ध", "en": "Rana Sanga Major Battles" },
+      "value": { "hi": "खातोली (1517), बाड़ी/धौलपुर (1518), गागरोन (1519), बयाना (1527), खानवा (1527)", "en": "Khatoli (1517), Dholpur (1518), Gagron (1519), Bayana (1527), Khanwa (1527)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "खानवा का युद्ध (17 मार्च 1527)", "en": "Battle of Khanwa (17 March 1527)" },
+      "value": { "hi": "सांगा vs बाबर (पाती पेरवण परम्परा; घायल होने पर झाला अज्जा ने छत्र संभाला)", "en": "Sanga vs Babur (Pati Perwana tradition; Jhala Ajja held royal canopy)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "चित्तौड़ का दूसरा साका (1534-35 ई.)", "en": "2nd Saka of Chittor (1534-35 AD)" },
+      "value": { "hi": "बहादुर शाह का आक्रमण; रावत बाघ सिंह का केसरिया, रानी कर्मावती का जौहर", "en": "Bahadur Shah invasion; Rawat Bagh Singh Kesariya, Rani Karnavati Jauhar" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "चित्तौड़ का तीसरा साका (1567-68 ई.)", "en": "3rd Saka of Chittor (1567-68 AD)" },
+      "value": { "hi": "अकबर का आक्रमण; जयमल-पत्ता व कल्लाजी का केसरिया, फूलकंवर का जौहर", "en": "Akbar invasion; Jaimal-Patta & Kallaji Kesariya, Phool Kanwar Jauhar" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "मुगल-मेवाड़ सन्धि (5 फरवरी 1615)", "en": "Mughal-Mewar Treaty (5 Feb 1615)" },
+      "value": { "hi": "महाराणा अमरसिंह प्रथम व जहांगीर के मध्य (युवराज कर्ण सिंह को 5000 मनसब)", "en": "Signed between Amar Singh I & Jahangir (Prince Karan Singh got 5000 Mansab)" },
+      "category": "battle_event"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
-        "en": "1. Origin, Bappa Rawal & Early Rulers",
-        "hi": "1. गुहिल वंश की उत्पत्ति, बप्पा रावल एवं प्रारंभिक शासक"
+        "hi": "1. गुहिल वंश की उत्पत्ति, बप्पा रावल एवं प्रारंभिक शासक",
+        "en": "1. Origin, Bappa Rawal & Early Rulers"
       },
       "content_markdown": {
-        "en": "- **Dynasty Origin:** Founded by **Guhaditya (Guhil)** in 566 AD.\n- **Bappa Rawal (Kalbhoj):**\n  - Disciple of **Harit Rishi** who blessed him to acquire the Kingdom of Mewar.\n  - Defeated Man Mori (Mori Rajput ruler) in **734 AD** and captured Chittorgarh.\n  - Built the famous **Eklingji Temple** at Nagda (Kailashpuri) and declared Eklingji as the true king of Mewar, with rulers acting as *Diwans*.\n  - Started gold coinage in Mewar (115-grain gold coin found).\n- **Jaitra Singh (1213–1253):**\n  - **Battle of Bhutala (1227 AD):** Defeated Delhi Sultan **Iltutmish**.\n  - Made **Chittorgarh** his permanent capital (Nagda destroyed during the battle).\n- **Rawal Ratan Singh & 1st Saka of Chittor (1303 AD):**\n  - Alauddin Khalji besieged Chittor on 28 January 1303 (8-month siege).\n  - **1st Saka of Chittorgarh (26 August 1303):** Kesariya led by Rawal Ratan Singh, Gora & Badal; Jauhar led by **Rani Padmini**.\n  - Alauddin renamed Chittor as **Khizrabad** after his son Khizr Khan.",
-        "hi": "- **संस्थापक:** गुहादित्य (गुहिल) ने 566 ई. में गुहिल वंश की नींव रखी।\n- **बप्पा रावल (कालभोज):**\n  - हरित ऋषि के शिष्य; उनके आशीर्वाद से **734 ई.** में मान मोरी को पराजित कर चित्तौड़ पर अधिकार किया।\n  - नागदा (कैलाशपुरी) में **एकलिंगजी मन्दिर** का निर्माण करवाया। मेवाड़ के महाराणा स्वयं को एकलिंगजी का 'दीवान' मानते हैं।\n  - मेवाड़ में सर्वप्रथम सोने के सिक्के (115 ग्रेन) चलाए।\n- **जैत्रसिंह (1213-1253 ई.):**\n  - **भूताला का युद्ध (1227 ई.):** दिल्ली के सुल्तान **इल्तुतमिश** को पराजित किया।\n  - नागदा ध्वस्त होने के कारण **चित्तौड़ को अपनी राजधानी** बनाया।\n- **रावल रतन सिंह एवं चित्तौड़ का प्रथम साका (1303 ई.):**\n  - अलाउद्दीन खिलजी ने 28 जनवरी 1303 को चित्तौड़ घेरा डाला।\n  - **प्रथम साका (26 अगस्त 1303):** रावल रतन सिंह, गोरा व बादल के नेतृत्व में केसरिया तथा **रानी पद्मिनी** के नेतृत्व में 1600 वीरांगनाओं का जौहर।\n  - अलाउद्दीन ने चित्तौड़ का नाम बदलकर अपने पुत्र के नाम पर **खिज्राबाद** रखा।"
+        "hi": "- **संस्थापक:** ==**गुहादित्य (गुहिल)**== ने ==**566 ई.**== में गुहिल वंश की नींव रखी।\n\n### 1. बप्पा रावल (कालभोज) — वास्तविक संस्थापक:\n- पाशुपत संप्रदाय के महर्षि ==**हरित ऋषि**== के आशीर्वाद से ==**734 ई.**== में मौर्य शासक ==**मान मोरी**== को पराजित कर चित्तौड़ पर अधिकार किया।\n- **धार्मिक निष्ठा:** नागदा (कैलाशपुरी) में ==**एकलिंगजी (लकुलीश) मन्दिर**== का निर्माण करवाया। मेवाड़ महाराणा स्वयं को एकलिंगजी का 'दीवान' मानकर शासन करते हैं।\n- **मुद्राशास्त्र:** मेवाड़ में सर्वप्रथम ==**115 ग्रेन का स्वर्ण सिक्का**== चलाया।\n- **सैन्य अभियान:** गजनी के शासक सलीम को पराजित कर अपने भतीजे को वहाँ का शासक बनाया (पाकिस्तान का रावलपिंडी शहर बप्पा रावल के सैन्य पड़ाव पर बसा)।\n\n### 2. अल्लट (आलू रावल):\n- नागदा के स्थान पर ==**आहड़ को दूसरी राजधानी**== बनाया।\n- आहड़ में ==**वराह मन्दिर**== का निर्माण करवाया।\n- राजस्थान में सर्वप्रथम ==**नौकरशाही (प्रशासनिक व्यवस्था)**== का गठन किया। हूण राजकुमारी ==**हरियादेवी**== से विवाह किया (हर्षपुर गाँव बसाया)।\n\n### 3. रावल जैत्रसिंह (1213–1253 ई.):\n- ==**भूताला का युद्ध (1227 ई.)**==: दिल्ली के सुल्तान ==**इल्तुतमिश**== की सेना को पराजित किया (जयसिंह सूरि के ग्रन्थ ==*'हम्मीर मद मर्दन'*== में उल्लेख)।\n- युद्ध में नागदा ध्वस्त होने के कारण ==**चित्तौड़ को अपनी स्थायी राजधानी**== बनाया।\n- इतिहासकार डॉ. दशरथ शर्मा ने जैत्रसिंह के काल को 'मध्यकालीन मेवाड़ का स्वर्णकाल' कहा।",
+        "en": "- **Founder:** ==**Guhaditya (Guhil)**== established the dynasty in ==**566 AD**==.\n\n### 1. Bappa Rawal (Kalbhoj) — Real Founder:\n- Defeated ==**Man Mori**== in ==**734 AD**== with blessings from ==**Harit Rishi**==.\n- Built ==**Eklingji Temple**== at Nagda; rulers reign as Diwans.\n- Issued the earliest ==**115-grain gold coin**== in Mewar.\n\n### 2. Allata (Alu Rawal):\n- Established ==**Ahar as second capital**== and built the Varaha temple.\n- Formed Rajasthan's first administrative ==**bureaucracy**==; married Huna princess ==**Hariyadevi**==.\n\n### 3. Rawal Jaitra Singh (1213–1253 AD):\n- Defeated Sultan ==**Iltutmish**== at the ==**Battle of Bhutala (1227 AD)**== (*Hammir Mada Mardana*).\n- Made ==**Chittorgarh the permanent capital**== after Nagda was destroyed."
       }
     },
     {
       "section_title": {
-        "en": "2. Maharana Kumbha (1433–1468) — Golden Era of Architecture",
-        "hi": "2. महाराणा कुम्भा (1433-1468 ई.) — स्थापत्य एवं विद्या का स्वर्णकाल"
+        "hi": "2. महाराणा हम्मीर, लाखा, मोकल एवं राणा कुम्भा",
+        "en": "2. Rana Hammir, Lakha, Mokal & Maharana Kumbha"
       },
       "content_markdown": {
-        "en": "- **Titles:** *Abhinav Bharatacharya*, *Hindu Suratan*, *Rano Raso*, *Chhap Guru*, *Dhaan Guru*, *Hall Guru*.\n- **Battle of Sarangpur (1437 AD):** Defeated Sultan Mahmud Khalji of Malwa.\n- **Vijay Stambh (Kirti Stambh):** Built to commemorate the Sarangpur victory (9 storeys, 122 feet high, 157 steps; architects: **Jaita, Napa, Poma, Punja**; inscribed with *Allah* in 3rd storey; Rajasthan Police & RBSE logo).\n- **Fort Builder:** Built **32 out of 84 forts** in Mewar (according to Kaviraj Shyamaldas's *Vir Vinod*), including **Kumbhalgarh Fort** (architect: Mandan).\n- **Literary Works:** *Sangeet Raj* (5 parts: Patha, Geeta, Vadya, Nritya, Rasa Ratnakar), *Sangeet Meemansa*, *Sood Prabandh*, commentary on *Rasikapriya*.",
-        "hi": "- **उपाधियाँ:** *अभिनव भरताचार्य*, *हिन्दू सुरताण*, *राणे राय*, *छाप गुरु*, *हाल गुरु*, *दान गुरु*।\n- **सारंगपुर का युद्ध (1437 ई.):** मालवा के सुल्तान महमूद खिलजी प्रथम को बुरी तरह पराजित किया।\n- **विजय स्तम्भ (कीर्ति स्तम्भ):** सारंगपुर विजय के उपलक्ष्य में निर्माण (9 मंजिला, 122 फीट ऊँचा, 157 सीढ़ियाँ; मुख्य वास्तुकार: **जैता, नापा, पोमा, पूंजा**; राजस्थान पुलिस एवं माध्यमिक शिक्षा बोर्ड का प्रतीक चिह्न)।\n- **दुर्ग निर्माता:** कविराज श्यामलदास के 'वीर विनोद' के अनुसार मेवाड़ के 84 दुर्गों में से **32 दुर्गों का निर्माण** कुम्भा ने करवाया, जिसमें **कुम्भलगढ़ दुर्ग** (शिल्पी: मंडन) प्रमुख है।\n- **साहित्यिक रचनाएँ:** *संगीत राज* (5 भाग: पाठ, गीत, वाद्य, नृत्य, रस रत्नकोश), *संगीत मीमांसा*, *सूड प्रबन्ध*, *रसिकप्रिया टीका*।"
+        "hi": "### 1. राणा हम्मीर (1326–1364 ई.) — सिसोदिया वंश की नींव:\n- 1326 ई. में मालदेव सोनगरा के पुत्र जैसा को पराजित कर चित्तौड़ पुनः जीतकर ==**सिसोदिया वंश**== की स्थापना की।\n- **उपाधियाँ:** ==*'मेवाड़ का उद्धारक'*==, कुम्भलगढ़ प्रशस्ति में ==*'विषम घाटी पंचानन'*== (विकट युद्धों में सिंह सदृश)।\n- ==**सिंगोली का युद्ध (बांसवाड़ा)**==: दिल्ली सुल्तान ==मुहम्मद बिन तुगलक== को पराजित किया। चित्तौड़ में अन्नपूर्णा माता का मन्दिर बनवाया।\n\n### 2. राणा लाखा (1382–1421 ई.):\n- इनके काल में ==**जावर (उदयपुर)**== में चांदी व सीसे की खान निकली।\n- छीतर/पिच्छू बंजारे ने ==**पिछोला झील**== का निर्माण करवाया।\n- पुत्र ==**कुंवर चूंडा**== ने मारवाड़ की राजकुमारी हंसा बाई के विवाह पर आजीवन राज्य त्यागने की प्रतिज्ञा की, अतः चूंडा को ==*'मेवाड़ का भीष्म पितामह'*== कहा जाता है।\n\n### 3. महाराणा कुम्भा (1433–1468 ई.) — स्थापत्य व विद्या का स्वर्णयुग:\n- **उपाधियाँ:** ==अभिनव भरताचार्य== (संगीत ज्ञान), ==हिन्दू सुरताण==, ==राणे राय==, ==छाप गुरु== (छापामार युद्ध), ==हाल गुरु== (पहाड़ी दुर्गों का स्वामी), ==दान गुरु==, ==शैल गुरु==।\n- ==**सारंगपुर का युद्ध (1437 ई.)**==: मालवा के सुल्तान ==महमूद खिलजी प्रथम== को बुरी तरह पराजित कर 6 माह बन्दी रखा।\n- ==**विजय स्तम्भ (कीर्ति स्तम्भ)**==: सारंगपुर विजय के उपलक्ष्य में चित्तौड़ में निर्मित (9 मंजिला, 122 फीट ऊँचा, 157 सीढ़ियाँ; मुख्य शिल्पी: ==जैता, नापा, पोमा, पूंजा==; 3री मंजिल पर 9 बार 'अल्लाह' अंकित; राजस्थान पुलिस व RBSE का प्रतीक)।\n- ==**चाम्पानेर की सन्धि (1456 ई.)**==: मालवा (महमूद खिलजी) व गुजरात (कुतुबुद्दीन) द्वारा कुम्भा के विरुद्ध संयुक्त मोर्चा, जिसे कुम्भा ने विफल कर दिया।\n- **दुर्ग निर्माता:** कविराज श्यामलदास के 'वीर विनोद' के अनुसार मेवाड़ के 84 में से ==**32 दुर्गों का निर्माता**== कुम्भा था (कुम्भलगढ़, अचलगढ़, बसंतगढ़, भोमट दुर्ग)।\n- ==**कुम्भलगढ़ दुर्ग**==: शिल्पी ==मंडन==; इसके भीतर सर्वोच्च दुर्ग =='कटारगढ़'== (मेवाड़ की आँख) कुम्भा का निवास था।\n- **साहित्यिक रचनाएँ:** ==*संगीत राज*== (5 कोष: पाठ, गीत, वाद्य, नृत्य, रस रत्नकोश), ==*संगीत मीमांसा*==, ==*सूड प्रबन्ध*==, जयदेव के गीत गोविन्द पर ==*रसिकप्रिया टीका*==, चण्डी शतक टीका।",
+        "en": "### 1. Rana Hammir (1326–1364 AD):\n- Recaptured Chittorgarh in 1326 AD, founding the ==Sisodia line==.\n- Titled ==*'Visham Ghati Panchanan'*== and *'Saviour of Mewar'*.\n- Defeated Sultan Muhammad bin Tughlaq in the ==Battle of Singoli==.\n\n### 2. Rana Lakha (1382–1421 AD):\n- Discovery of ==Jawar silver-lead mines==; construction of ==Pichhola Lake==.\n- Son ==Kunwar Chunda== renounced the throne, becoming the ==*'Bhishma of Mewar'*==.\n\n### 3. Maharana Kumbha (1433–1468 AD):\n- **Titles:** ==Abhinav Bharatacharya==, ==Hindu Suratan==, ==Hall Guru==, ==Chhap Guru==.\n- **Battle of Sarangpur (1437 AD):** Defeated Mahmud Khalji I of Malwa.\n- **Vijay Stambh:** 9 storeys, 122 ft; built by architects ==Jaita, Napa, Poma, Punja==.\n- **Fort Builder:** Built ==32 out of 84 forts== in Mewar (*Vir Vinod*); ==Kumbhalgarh== (Architect: Mandan; inner fort *Katargarh* - Eye of Mewar).\n- **Literary Works:** ==*Sangeet Raj*== (5 parts), ==*Sangeet Meemansa*==, ==*Sood Prabandh*==, ==*Rasikapriya commentary*==."
       }
     },
     {
       "section_title": {
-        "en": "3. Maharana Pratap (1572–1597) — Symbol of Rajput Valour",
-        "hi": "3. महाराणा प्रताप (1572-1597 ई.) — स्वाधीनता के अमर प्रतीक"
+        "hi": "3. राणा सांगा (1509–1528 ई.) — हिन्दू पथ एवं संग्राम सिंह प्रथम",
+        "en": "3. Rana Sanga (1509–1528 AD) — The Apex of Rajput Supremacy"
       },
       "content_markdown": {
-        "en": "- **Birth:** **9 May 1540** (Jyeshtha Shukla Tritiya, VS 1597) at Kumbhalgarh (Katargarh - Badal Mahal); Father: Udai Singh II, Mother: Rani Jaiwanta Bai.\n- **Coronation (Rajtilak):** First at Gogunda (28 Feb 1572), official ceremony at Kumbhalgarh.\n- **Akbar's 4 Diplomatic Missions (JMBT):**\n  1. **J**alal Khan Qurchi (Nov 1572)\n  2. **M**an Singh I of Amber (June 1573)\n  3. **B**hagwant Das (Oct 1573)\n  4. **T**odar Mal (Dec 1573)\n- **Battle of Haldighati (18 June 1576 / Gopinath Sharma: 21 June 1576):**\n  - Mughal Commander: **Kunwar Man Singh I** & Asaf Khan (Reserve force led by Mihtar Khan shouting Akbar had arrived).\n  - Pratap's Commander of Vanguard (*Harawal*): **Hakim Khan Sur Pathan** (only Muslim general of Pratap).\n  - Bhil Commander: **Rana Punja Bhil**.\n  - Elephants involved: Pratap's **Ramprasad** (renamed *Peerprasad* by Akbar) and **Lona**; Mughals' **Mardan** and **Gajmukta**.\n  - Royal umbrella shifted to **Jhala Bida (Jhala Manna)** when Pratap was wounded.\n  - Horse: **Chetak** (memorial cenotaph at Balicha village).\n- **Battle of Dewair (October 1582 — 'Marathon of Mewar' by James Tod):**\n  - Pratap's son Amar Singh killed Mughal Commander Sultan Khan; turning point of Mewar liberation.\n- **Emergency Capital:** **Chavand (1585)** — zenith of Chavand painting style under painter Nisarudin (*Ragamala 1605*).\n- **Death:** 19 January 1597 at Chavand (cenotaph with 8 pillars at Bandoli village).",
-        "hi": "- **जन्म:** **9 मई 1540** (ज्येष्ठ शुक्ल तृतीया, वि.सं. 1597) को कुम्भलगढ़ दुर्ग के कटारगढ़ (बादल महल) में। पिता: उदयसिंह, माता: जयवन्ता बाई।\n- **राज्याभिषेक:** प्रथम राज्याभिषेक गोगुन्दा में (28 फरवरी 1572), विधिवत समारोह कुम्भलगढ़ में।\n- **अकबर द्वारा भेजे गए 4 शिष्टमण्डल (सूत्र: J-M-B-T):**\n  1. **ज**लाल खां कोरची (नवम्बर 1572)\n  2. **मा**नसिंह (जून 1573)\n  3. **भ**गवंत दास (अक्टूबर 1573)\n  4. **टो**डरमल (दिसम्बर 1573)\n- **हल्दीघाटी का ऐतिहासिक युद्ध (18 जून 1576 / डॉ. गोपीनाथ शर्मा: 21 जून 1576):**\n  - मुगल सेनापति: **कुंवर मानसिंह प्रथम** एवं आसफ खां (मिहतर खां ने अकबर के आने की झूठी अफवाह फैलाकर सेना का हौसला बढ़ाया)।\n  - प्रताप की सेना के हरावल (अग्रिम) दस्ते का नेतृत्व: **हाकिम खां सूर** (एकमात्र मुस्लिम सेनापति)।\n  - भील सेना का नेतृत्व: **राणा पूंजा भील**।\n  - युद्ध के हाथी: प्रताप के **रामप्रसाद** (अकबर ने नाम बदलकर *पीरप्रसाद* रखा) व लूणा; मुगलों के मर्दाना व गजमुक्ता।\n  - प्रताप के घायल होने पर राजचिह्न **झाला बीदा (झाला मन्ना)** ने धारण किए।\n  - स्वामीभक्त घोड़ा: **चेतक** (समाधि: बलीचा गाँव में)।\n- **दिवेर का युद्ध (अक्टूबर 1582 — कर्नल टॉड ने 'मेवाड़ का मैराथन' कहा):**\n  - अमरसिंह ने मुगल थानेदार सुल्तान खां का वध किया; मेवाड़ की मुक्ति का स्वर्णिम प्रारम्भ।\n- **आपातकालीन राजधानी:** **चावण्ड (1585 ई.)** — यहीं चावण्ड चित्रकला शैली का विकास हुआ (चित्रकार निसारदीन की *रागमाला 1605*)।\n- **महाप्रयाण:** 19 जनवरी 1597 को चावण्ड में (अंतिम संस्कार / 8 खंभों की छतरी: बांडोली गाँव में)।"
+        "hi": "महाराणा संग्राम सिंह प्रथम (राणा सांगा) के शरीर पर 80 घाव थे, कर्नल टॉड ने इन्हें ==**'सैनिकों का भग्नावशेष' (Fragment of a Soldier)**== कहा।\n\n### राणा सांगा के प्रमुख युद्ध:\n1. ==**खातोली का युद्ध (1517 ई., कोटा-बूंदी सीमा)**==: दिल्ली सुल्तान ==इब्राहिम लोदी== को पराजित किया।\n2. ==**बाड़ी/धौलपुर का युद्ध (1518 ई.)**==: इब्राहिम लोदी के सेनापति मियां माखन व मियां हुसैन को पराजित किया।\n3. ==**गागरोन का युद्ध (1519 ई., झालावाड़)**==: मालवा के ==महमूद खिलजी द्वितीय== को पराजित कर बन्दी बनाया।\n4. ==**बयाना का युद्ध (16 फरवरी 1527, भरतपुर)**==: बाबर के सेनापति मेहंदी ख्वाजा को पराजित कर बयाना दुर्ग पर अधिकार किया।\n5. ==**खानवा का ऐतिहासिक युद्ध (17 मार्च 1527 ई., रूपवास, भरतपुर)**==:\n   - **पाती पेरवण परम्परा:** सांगा ने प्राचीन राजपूत परम्परा के तहत राजपूताना के सभी नरेशों को आमंत्रित कर संयुक्त मोर्चा बनाया (मारवाड़ के मालदेव, बीकानेर के कल्याणमल, आमेर के पृथ्वीराज कछवाहा, चंदेरी के मेदिनी राय, मेवात के हसन खाँ मेवाती, महमूद लोदी)।\n   - **बाबर की रणनीति:** ==तुलगुमा युद्ध पद्धति== एवं ==तोपखाना (तोपची: मुस्तफा व उस्ताद अली)==; 'जिहाद' का नारा दिया व 'तमगा कर' हटाया।\n   - **परिणाम:** युद्ध में सांगा तीर लगने से मूर्छित हुए। सादड़ी के ==**झाला अज्जा**== ने राजचिह्न व छत्र धारण किया। सांगा पराजित हुए।\n   - **समाधि:** सांगा को बसवा (दौसा) में होश आया, इरीच में विष दिया गया, कालपी में देहांत हुआ तथा ==**माण्डलगढ़ (भीलवाड़ा)**== में इनकी 8 खंभों की छतरी/समाधि बनी है।",
+        "en": "Rana Sanga bore 80 battlefield scars; Col. Tod termed him the ==**'Fragment of a Soldier'**==.\n\n### Major Battles of Rana Sanga:\n1. ==**Battle of Khatoli (1517 AD)**==: Defeated Delhi Sultan Ibrahim Lodi.\n2. ==**Battle of Dholpur / Bari (1518 AD)**==: Defeated Ibrahim Lodi's forces.\n3. ==**Battle of Gagron (1519 AD)**==: Defeated & captured Mahmud Khalji II of Malwa.\n4. ==**Battle of Bayana (16 Feb 1527)**==: Defeated Babur's advance commander Mehndi Khwaja.\n5. ==**Battle of Khanwa (17 March 1527)**==:\n   - Sanga revived the ==*Pati Perwana*== tradition to unite all Rajput rulers.\n   - Babur used the ==Tulghuma tactic== and artillery, declaring *Jihad*.\n   - Sanga was wounded; ==**Jhala Ajja of Sadri**== donned the royal canopy.\n   - Sanga passed away in 1528; his 8-pillar cenotaph stands at ==**Mandalgarh (Bhilwara)**==."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "4. चित्तौड़ के द्वितीय व तृतीय साके एवं मुगल-मेवाड़ सन्धि (1615 ई.)",
+        "en": "4. 2nd & 3rd Sakas of Chittor & Mughal-Mewar Treaty (1615 AD)"
+      },
+      "content_markdown": {
+        "hi": "### 1. चित्तौड़ का द्वितीय साका (1534–1535 ई.):\n- **आक्रमणकारी:** गुजरात का सुल्तान ==**बहादुर शाह**==।\n- **केसरिया:** देवलिया (प्रतापगढ़) के ==**रावत बाघ सिंह**== के नेतृत्व में।\n- **जौहर:** राजमाता ==**रानी कर्मावती**== (हुमायूं को राखी भेजी थी) के नेतृत्व में 13,000 वीरांगनाओं का जौहर।\n\n### 2. चित्तौड़ का तृतीय साका (1567–1568 ई.):\n- **आक्रमणकारी:** मुगल सम्राट ==**अकबर**== (उदयसिंह दुर्ग का भार सौंपकर गोगुन्दा की पहाड़ियों में चले गए)।\n- **केसरिया:** वीर सेनापति ==**जयमल राठौड़**==, ==**पत्ता सिसोदिया**== एवं चार हाथों वाले लोकदेवता ==**कल्लाजी राठौड़**==।\n- **जौहर:** पत्ता की पत्नी ==**रानी फूलकंवर**== के नेतृत्व में।\n- **नरसंहार:** दुर्ग जीतकर अकबर ने 30,000 निर्दोष नागरिकों के कत्लेआम का आदेश दिया (अकबर के जीवन पर अमिट कलंक)।\n- जयमल व पत्ता की वीरता से मुग्ध होकर अकबर ने आगरा दुर्ग के द्वार पर इनकी ==पाषाण मूर्तियाँ== लगवाईं।\n\n### 3. मुगल-मेवाड़ सन्धि (5 फरवरी 1615 ई.):\n- **हस्ताक्षरकर्ता:** महाराणा ==**अमरसिंह प्रथम**== एवं मुगल बादशाह ==**जहांगीर**== (शहजादा खुर्रम के प्रयासों से)।\n- **प्रमुख शर्तें:**\n  1. महाराणा स्वयं मुगल दरबार में उपस्थित नहीं होंगे, उनके स्थान पर युवराज ==**कुंवर कर्ण सिंह**== दरबार में उपस्थित होंगे।\n  2. युवराज कर्ण सिंह को ==**5,000 का मनसब**== प्रदान किया गया।\n  3. चित्तौड़गढ़ दुर्ग मेवाड़ को लौटा दिया जाएगा, किन्तु दुर्ग की ==मरम्मत व पुनर्निर्माण नहीं कराया जाएगा==।\n  4. मेवाड़ मुगलों के साथ वैवाहिक संबंध स्थापित करने के लिए बाध्य नहीं होगा।",
+        "en": "### 1. Second Saka of Chittor (1534–1535 AD):\n- Invader: Sultan ==Bahadur Shah of Gujarat==.\n- Kesariya led by ==Rawat Bagh Singh== of Deolia; Jauhar led by ==Rani Karnavati==.\n\n### 2. Third Saka of Chittor (1567–1568 AD):\n- Invader: ==Akbar==.\n- Kesariya led by ==Jaimal Rathore==, ==Patta Sisodia==, and four-armed hero ==Kallaji Rathore==.\n- Jauhar led by ==Rani Phool Kanwar==.\n- Akbar ordered a massacre of 30,000 civilians, but later installed stone elephant statues of Jaimal & Patta at Agra Fort.\n\n### 3. Mughal-Mewar Treaty (5 February 1615 AD):\n- Signed between ==Maharana Amar Singh I== and ==Emperor Jahangir== (negotiated by Prince Khurram).\n- **Terms:** Maharana exempted from court attendance; Prince ==Karan Singh granted a 5000 Mansab==; Chittorgarh returned but fort repairs strictly prohibited; no matrimonial alliance imposed."
       }
     }
   ],
   "key_facts_rapid_revision": [
     {
-      "en": "Mnemonic for Akbar's 4 emissaries to Pratap: J-M-B-T (Jalal Khan, Man Singh, Bhagwant Das, Todar Mal).",
-      "hi": "अकबर के 4 शिष्टमण्डल का सूत्र: J-M-B-T (जलाल खां, मानसिंह, भगवंत दास, टोडरमल)।"
+      "hi": "अकबर के 4 शिष्टमण्डल का सूत्र: J-M-B-T (जलाल खां, मानसिंह, भगवंत दास, टोडरमल)।",
+      "en": "Mnemonic for Akbar's 4 emissaries to Pratap: J-M-B-T (Jalal Khan, Man Singh, Bhagwant Das, Todar Mal)."
     },
     {
-      "en": "Battle of Dewair (1582) was described by James Tod as the 'Marathon of Mewar'.",
-      "hi": "कर्नल जेम्स टॉड ने दिवेर के युद्ध (1582) को 'मेवाड़ का मैराथन' कहा।"
+      "hi": "कर्नल जेम्स टॉड ने दिवेर के युद्ध (1582) को 'मेवाड़ का मैराथन' तथा हल्दीघाटी को 'मेवाड़ की थर्मोपल्ली' कहा।",
+      "en": "Battle of Dewair (1582) was hailed as 'Marathon of Mewar' and Haldighati as 'Thermopylae of Mewar' by James Tod."
     },
     {
-      "en": "Hakim Khan Sur was the commander of Maharana Pratap's Harawal (vanguard) contingent.",
-      "hi": "हल्दीघाटी में महाराणा प्रताप के हरावल दस्ते का नेतृत्व हाकिम खां सूर ने किया था।"
+      "hi": "हल्दीघाटी में महाराणा प्रताप के हरावल दस्ते का नेतृत्व हाकिम खां सूर ने किया था।",
+      "en": "Hakim Khan Sur was the commander of Maharana Pratap's Harawal (vanguard) contingent."
     },
     {
-      "en": "Rana Kumbha authored 32 out of 84 forts in Mewar according to Kaviraj Shyamaldas's Vir Vinod.",
-      "hi": "कविराज श्यामलदास के 'वीर विनोद' के अनुसार कुम्भा ने मेवाड़ के 84 में से 32 दुर्ग बनवाए।"
+      "hi": "कविराज श्यामलदास के 'वीर विनोद' के अनुसार कुम्भा ने मेवाड़ के 84 में से 32 दुर्ग बनवाए।",
+      "en": "Rana Kumbha authored 32 out of 84 forts in Mewar according to Kaviraj Shyamaldas's Vir Vinod."
     },
     {
-      "en": "Mughal-Mewar Treaty of 1615 was signed between Maharana Amar Singh I and Emperor Jahangir.",
-      "hi": "मुगल-मेवाड़ सन्धि (1615 ई.) महाराणा अमरसिंह प्रथम एवं जहांगीर के मध्य हुई थी।"
-    }
-  ],
-  "timeline": [
-    {
-      "year_or_era": "734 AD",
-      "event": {
-        "en": "Bappa Rawal defeats Man Mori and establishes Guhila supremacy over Chittorgarh.",
-        "hi": "बप्पा रावल ने मान मोरी को हराकर चित्तौड़ पर गुहिल सत्ता स्थापित की।"
-      }
+      "hi": "मुगल-मेवाड़ सन्धि (5 फरवरी 1615 ई.) महाराणा अमरसिंह प्रथम एवं जहांगीर के मध्य हुई थी (कर्ण सिंह को 5000 मनसब)।",
+      "en": "Mughal-Mewar Treaty of 1615 was signed between Maharana Amar Singh I and Jahangir (Prince Karan Singh got 5000 Mansab)."
     },
     {
-      "year_or_era": "1303 AD",
-      "event": {
-        "en": "1st Saka of Chittorgarh during Alauddin Khalji's siege; Rani Padmini performs Jauhar.",
-        "hi": "अलाउद्दीन खिलजी के आक्रमण के समय चित्तौड़ का प्रथम साका एवं रानी पद्मिनी का जौहर।"
-      }
+      "hi": "राणा सांगा को कर्नल टॉड ने 'सैनिकों का भग्नावशेष' कहा (शरीर पर 80 घाव थे)।",
+      "en": "Col. Tod called Rana Sanga 'Fragment of a Soldier' due to his 80 battle wounds."
     },
     {
-      "year_or_era": "1437 AD",
-      "event": {
-        "en": "Battle of Sarangpur; Rana Kumbha defeats Mahmud Khalji and constructs Vijay Stambh.",
-        "hi": "सारंगपुर का युद्ध; राणा कुम्भा ने महमूद खिलजी को हराकर विजय स्तम्भ बनवाया।"
-      }
+      "hi": "चित्तौड़ के तीन साके: प्रथम 1303 (रतन सिंह-पद्मिनी), द्वितीय 1535 (बाघ सिंह-कर्मावती), तृतीय 1568 (जयमल-पत्ता-फूलकंवर)।",
+      "en": "Three Sakas of Chittor: 1st in 1303, 2nd in 1535, 3rd in 1568."
     },
     {
-      "year_or_era": "1576 AD",
-      "event": {
-        "en": "Historic Battle of Haldighati between Maharana Pratap and Kunwar Man Singh I.",
-        "hi": "महाराणा प्रताप एवं कुंवर मानसिंह के मध्य ऐतिहासिक हल्दीघाटी का युद्ध।"
-      }
+      "hi": "कुंवर चूंडा को 'मेवाड़ का भीष्म पितामह' कहा जाता है जिन्होंने मोकल के लिए राजगद्दी का त्याग किया।",
+      "en": "Kunwar Chunda is called the 'Bhishma of Mewar' for relinquishing the throne for his brother Mokal."
     },
     {
-      "year_or_era": "1582 AD",
-      "event": {
-        "en": "Battle of Dewair ('Marathon of Mewar') initiates liberation of Mewar forts.",
-        "hi": "दिवेर का युद्ध ('मेवाड़ का मैराथन') मेवाड़ मुक्ति का निर्णायक मोड़ सिद्ध हुआ।"
-      }
+      "hi": "राणा कुम्भा द्वारा रचित 'संगीत राज' ग्रन्थ 5 कोषों (पाठ, गीत, वाद्य, नृत्य, रस रत्नकोश) में विभक्त है।",
+      "en": "Rana Kumbha's 'Sangeet Raj' treatise is divided into 5 Ratnakosas (Patha, Geeta, Vadya, Nritya, Rasa)."
     },
     {
-      "year_or_era": "1615 AD",
-      "event": {
-        "en": "Mughal-Mewar Treaty signed under Maharana Amar Singh I.",
-        "hi": "महाराणा अमरसिंह प्रथम के काल में ऐतिहासिक मुगल-मेवाड़ सन्धि संपन्न हुई।"
-      }
-    }
-  ],
-  "exam_traps_and_tricks": [
-    {
-      "en": "TRAP: Ramprasad was Pratap's loyal war elephant, NOT his horse. Chetak was the horse.",
-      "hi": "परीक्षा जाल: 'रामप्रसाद' महाराणा प्रताप का प्रसिद्ध युद्ध हाथी था, घोड़ा नहीं। घोड़े का नाम 'चेतक' था।"
-    },
-    {
-      "en": "TRAP: James Tod called Haldighati the 'Thermopylae of Mewar' and Dewair the 'Marathon of Mewar'. Do not interchange these two terms in match-the-following questions.",
-      "hi": "परीक्षा जाल: टॉड ने हल्दीघाटी को 'मेवाड़ की थर्मोपल्ली' तथा दिवेर को 'मेवाड़ का मैराथन' कहा। दोनों को आपस में न बदलें।"
+      "hi": "राणा हम्मीर को कुम्भलगढ़ प्रशस्ति में 'विषम घाटी पंचानन' तथा रसिकप्रिया में 'वीर राजा' कहा गया है।",
+      "en": "Rana Hammir is titled 'Visham Ghati Panchanan' in Kumbhalgarh Inscription."
     }
   ],
   "mcqs": [
     {
       "id": "MCQ-A.04.01-01",
       "question": {
-        "en": "Who led the Harawal (vanguard) division of Maharana Pratap's army in the Battle of Haldighati?",
-        "hi": "हल्दीघाटी के युद्ध में महाराणा प्रताप की सेना के हरावल (अग्रिम) दस्ते का नेतृत्व किसने किया था?"
+        "hi": "हल्दीघाटी के ऐतिहासिक युद्ध (18 जून 1576) में महाराणा प्रताप की सेना के हरावल (अग्रिम पंक्ति) दस्ते का नेतृत्व किस मुस्लिम सेनापति ने किया था?",
+        "en": "In the historic Battle of Haldighati (18 June 1576), which Muslim commander led the Harawal (vanguard) contingent of Maharana Pratap's army?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Jhala Bida", "hi": "झाला बीदा" } },
-        { "id": "B", "text": { "en": "Hakim Khan Sur", "hi": "हाकिम खां सूर" } },
-        { "id": "C", "text": { "en": "Rana Punja", "hi": "राणा पूंजा" } },
-        { "id": "D", "text": { "en": "Bhamashah", "hi": "भामाशाह" } }
+        { "id": "A", "text": { "hi": "झाला मान", "en": "Jhala Man" } },
+        { "id": "B", "text": { "hi": "हाकिम खां सूर", "en": "Hakim Khan Sur" } },
+        { "id": "C", "text": { "hi": "राणा पूंजा", "en": "Rana Punja" } },
+        { "id": "D", "text": { "hi": "भामाशाह", "en": "Bhamashah" } }
       ],
       "correct_option": "B",
       "explanation": {
-        "en": "Hakim Khan Sur Pathan commanded the Harawal (frontline) contingent of Maharana Pratap's army in Haldighati.",
-        "hi": "हल्दीघाटी युद्ध में महाराणा प्रताप के हरावल दस्ते का नेतृत्व अफगान सेनापति हाकिम खां सूर ने किया था।"
+        "hi": "हल्दीघाटी युद्ध में महाराणा प्रताप के हरावल दस्ते का नेतृत्व अफगान सेनापति हाकिम खां सूर ने किया था।",
+        "en": "Hakim Khan Sur Pathan commanded the Harawal (frontline) contingent of Maharana Pratap's army in Haldighati."
       },
       "pyq_source": "RPSC RAS Pre 2021 / College Lecturer 2021",
       "difficulty": "medium"
@@ -149,19 +232,19 @@
     {
       "id": "MCQ-A.04.01-02",
       "question": {
-        "en": "What was the correct chronological sequence of the four peace emissaries sent by Akbar to Maharana Pratap?",
-        "hi": "अकबर द्वारा महाराणा प्रताप के पास भेजे गए 4 शिष्टमण्डलों का सही कालानुक्रम क्या है?"
+        "hi": "अकबर द्वारा महाराणा प्रताप के पास भेजे गए 4 शिष्टमण्डलों का सही कालानुक्रम क्या है?",
+        "en": "What was the correct chronological sequence of the four peace emissaries sent by Akbar to Maharana Pratap?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Man Singh → Jalal Khan → Todar Mal → Bhagwant Das", "hi": "मानसिंह → जलाल खां → टोडरमल → भगवंत दास" } },
-        { "id": "B", "text": { "en": "Jalal Khan → Man Singh → Bhagwant Das → Todar Mal", "hi": "जलाल खां → मानसिंह → भगवंत दास → टोडरमल" } },
-        { "id": "C", "text": { "en": "Bhagwant Das → Jalal Khan → Man Singh → Todar Mal", "hi": "भगवंत दास → जलाल खां → मानसिंह → टोडरमल" } },
-        { "id": "D", "text": { "en": "Jalal Khan → Bhagwant Das → Man Singh → Todar Mal", "hi": "जलाल खां → भगवंत दास → मानसिंह → टोडरमल" } }
+        { "id": "A", "text": { "hi": "मानसिंह → जलाल खां → टोडरमल → भगवंत दास", "en": "Man Singh → Jalal Khan → Todar Mal → Bhagwant Das" } },
+        { "id": "B", "text": { "hi": "जलाल खां → मानसिंह → भगवंत दास → टोडरमल", "en": "Jalal Khan → Man Singh → Bhagwant Das → Todar Mal" } },
+        { "id": "C", "text": { "hi": "भगवंत दास → जलाल खां → मानसिंह → टोडरमल", "en": "Bhagwant Das → Jalal Khan → Man Singh → Todar Mal" } },
+        { "id": "D", "text": { "hi": "जलाल खां → भगवंत दास → मानसिंह → टोडरमल", "en": "Jalal Khan → Bhagwant Das → Man Singh → Todar Mal" } }
       ],
       "correct_option": "B",
       "explanation": {
-        "en": "The sequence is J-M-B-T: Jalal Khan (Nov 1572) → Kunwar Man Singh (June 1573) → Bhagwant Das (Oct 1573) → Todar Mal (Dec 1573).",
-        "hi": "सही क्रम J-M-B-T है: जलाल खां (1572) → मानसिंह (जून 1573) → भगवंत दास (अक्टूबर 1573) → टोडरमल (दिसम्बर 1573)।"
+        "hi": "सही क्रम J-M-B-T है: जलाल खां (1572) → मानसिंह (जून 1573) → भगवंत दास (अक्टूबर 1573) → टोडरमल (दिसम्बर 1573)।",
+        "en": "The sequence is J-M-B-T: Jalal Khan (Nov 1572) → Kunwar Man Singh (June 1573) → Bhagwant Das (Oct 1573) → Todar Mal (Dec 1573)."
       },
       "pyq_source": "RPSC 1st Grade 2020 / RSSB CET 2023",
       "difficulty": "medium"
@@ -169,19 +252,19 @@
     {
       "id": "MCQ-A.04.01-03",
       "question": {
-        "en": "Which Battle was hailed by Col. James Tod as the 'Marathon of Mewar'?",
-        "hi": "कर्नल जेम्स टॉड ने किस युद्ध को 'मेवाड़ का मैराथन' (Marathon of Mewar) कहा था?"
+        "hi": "कर्नल जेम्स टॉड ने किस युद्ध को 'मेवाड़ का मैराथन' (Marathon of Mewar) कहा था?",
+        "en": "Which Battle was hailed by Col. James Tod as the 'Marathon of Mewar'?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Battle of Haldighati", "hi": "हल्दीघाटी का युद्ध" } },
-        { "id": "B", "text": { "en": "Battle of Khanwa", "hi": "खानवा का युद्ध" } },
-        { "id": "C", "text": { "en": "Battle of Dewair (1582)", "hi": "दिवेर का युद्ध (1582)" } },
-        { "id": "D", "text": { "en": "Battle of Sarangpur", "hi": "सारंगपुर का युद्ध" } }
+        { "id": "A", "text": { "hi": "हल्दीघाटी का युद्ध", "en": "Battle of Haldighati" } },
+        { "id": "B", "text": { "hi": "खानवा का युद्ध", "en": "Battle of Khanwa" } },
+        { "id": "C", "text": { "hi": "दिवेर का युद्ध (1582)", "en": "Battle of Dewair (1582)" } },
+        { "id": "D", "text": { "hi": "सारंगपुर का युद्ध", "en": "Battle of Sarangpur" } }
       ],
       "correct_option": "C",
       "explanation": {
-        "en": "Col. James Tod called the Battle of Dewair (October 1582) the 'Marathon of Mewar', while Haldighati was called the 'Thermopylae of Mewar'.",
-        "hi": "कर्नल टॉड ने दिवेर के युद्ध (1582) को 'मेवाड़ का मैराथन' तथा हल्दीघाटी को 'मेवाड़ की थर्मोपल्ली' कहा था।"
+        "hi": "कर्नल टॉड ने दिवेर के युद्ध (1582) को 'मेवाड़ का मैराथन' तथा हल्दीघाटी को 'मेवाड़ की थर्मोपल्ली' कहा था।",
+        "en": "Col. James Tod called the Battle of Dewair (October 1582) the 'Marathon of Mewar', while Haldighati was called the 'Thermopylae of Mewar'."
       },
       "pyq_source": "RPSC RAS Pre 2018",
       "difficulty": "easy"
@@ -189,19 +272,19 @@
     {
       "id": "MCQ-A.04.01-04",
       "question": {
-        "en": "How many parts/divisions are there in Rana Kumbha's magnum opus treatise 'Sangeet Raj'?",
-        "hi": "महाराणा कुम्भा द्वारा रचित संगीत ग्रन्थ 'संगीत राज' कितने कोषों (भागों) में विभक्त है?"
+        "hi": "महाराणा कुम्भा द्वारा रचित संगीत ग्रन्थ 'संगीत राज' कितने कोषों (भागों) में विभक्त है?",
+        "en": "How many parts/divisions are there in Rana Kumbha's magnum opus treatise 'Sangeet Raj'?"
       },
       "options": [
-        { "id": "A", "text": { "en": "3 Parts", "hi": "3 भाग" } },
-        { "id": "B", "text": { "en": "5 Parts", "hi": "5 भाग" } },
-        { "id": "C", "text": { "en": "7 Parts", "hi": "7 भाग" } },
-        { "id": "D", "text": { "en": "9 Parts", "hi": "9 भाग" } }
+        { "id": "A", "text": { "hi": "3 भाग", "en": "3 Parts" } },
+        { "id": "B", "text": { "hi": "5 भाग", "en": "5 Parts" } },
+        { "id": "C", "text": { "hi": "7 भाग", "en": "7 Parts" } },
+        { "id": "D", "text": { "hi": "9 भाग", "en": "9 Parts" } }
       ],
       "correct_option": "B",
       "explanation": {
-        "en": "Sangeet Raj is divided into 5 Ratnakosas: Patha, Geeta, Vadya, Nritya, and Rasa Ratnakosa.",
-        "hi": "संगीत राज 5 कोषों में विभक्त है: पाठ्य रत्नकोष, गीत रत्नकोष, वाद्य रत्नकोष, नृत्य रत्नकोष एवं रस रत्नकोष।"
+        "hi": "संगीत राज 5 कोषों में विभक्त है: पाठ्य रत्नकोष, गीत रत्नकोष, वाद्य रत्नकोष, नृत्य रत्नकोष एवं रस रत्नकोष।",
+        "en": "Sangeet Raj is divided into 5 Ratnakosas: Patha, Geeta, Vadya, Nritya, and Rasa Ratnakosa."
       },
       "pyq_source": "RPSC College Lecturer 2021",
       "difficulty": "hard"
@@ -209,19 +292,19 @@
     {
       "id": "MCQ-A.04.01-05",
       "question": {
-        "en": "In 734 AD, with the blessings of which sage did Bappa Rawal defeat Man Mori and capture Chittorgarh?",
-        "hi": "734 ई. में किस ऋषि के आशीर्वाद से बप्पा रावल ने मान मोरी को पराजित कर चित्तौड़ पर अधिकार किया था?"
+        "hi": "734 ई. में किस ऋषि के आशीर्वाद से बप्पा रावल ने मान मोरी को पराजित कर चित्तौड़ पर अधिकार किया था?",
+        "en": "In 734 AD, with the blessings of which sage did Bappa Rawal defeat Man Mori and capture Chittorgarh?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Harit Rishi", "hi": "महर्षि हरित ऋषि" } },
-        { "id": "B", "text": { "en": "Vashistha Rishi", "hi": "महर्षि वशिष्ठ" } },
-        { "id": "C", "text": { "en": "Vishwamitra", "hi": "महर्षि विश्वामित्र" } },
-        { "id": "D", "text": { "en": "Gautam Rishi", "hi": "गौतम ऋषि" } }
+        { "id": "A", "text": { "hi": "महर्षि हरित ऋषि", "en": "Harit Rishi" } },
+        { "id": "B", "text": { "hi": "महर्षि वशिष्ठ", "en": "Vashistha Rishi" } },
+        { "id": "C", "text": { "hi": "महर्षि विश्वामित्र", "en": "Vishwamitra" } },
+        { "id": "D", "text": { "hi": "गौतम ऋषि", "en": "Gautam Rishi" } }
       ],
       "correct_option": "A",
       "explanation": {
-        "en": "Bappa Rawal received the boon and sword from Harit Rishi, the sage of the Pashupata sect, to establish Mewar's rule.",
-        "hi": "पाशुपत संप्रदाय के महर्षि हरित ऋषि के आशीर्वाद से बप्पा रावल ने 734 ई. में मान मोरी को हराकर चित्तौड़ जीता तथा नागदा में एकलिंगजी मंदिर बनवाया।"
+        "hi": "पाशुपत संप्रदाय के महर्षि हरित ऋषि के आशीर्वाद से बप्पा रावल ने 734 ई. में मान मोरी को हराकर चित्तौड़ जीता तथा नागदा में एकलिंगजी मंदिर बनवाया।",
+        "en": "Bappa Rawal received the boon and sword from Harit Rishi, the sage of the Pashupata sect, to establish Mewar's rule."
       },
       "pyq_source": "RPSC 2nd Grade 2018 / RSSB CET 2023",
       "difficulty": "easy"
@@ -229,19 +312,19 @@
     {
       "id": "MCQ-A.04.01-06",
       "question": {
-        "en": "Who among the following was the chief architect of the 9-storeyed Vijay Stambh (Kirti Stambh) built by Rana Kumbha?",
-        "hi": "राणा कुम्भा द्वारा निर्मित 9-मंजिला विजय स्तम्भ (कीर्ति स्तम्भ) का मुख्य वास्तुकार (शिल्पी) कौन था?"
+        "hi": "राणा कुम्भा द्वारा निर्मित 9-मंजिला विजय स्तम्भ (कीर्ति स्तम्भ) का मुख्य वास्तुकार (शिल्पी) कौन था?",
+        "en": "Who among the following was the chief architect of the 9-storeyed Vijay Stambh (Kirti Stambh) built by Rana Kumbha?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Jaita along with Napa, Poma, Punja", "hi": "जैता (साथ में नापा, पोमा, पूंजा)" } },
-        { "id": "B", "text": { "en": "Mandan", "hi": "मंडन" } },
-        { "id": "C", "text": { "en": "Deepak", "hi": "दीपक" } },
-        { "id": "D", "text": { "en": "Atrri and Mahesh", "hi": "अत्रि एवं महेश" } }
+        { "id": "A", "text": { "hi": "जैता (साथ में नापा, पोमा, पूंजा)", "en": "Jaita along with Napa, Poma, Punja" } },
+        { "id": "B", "text": { "hi": "मंडन", "en": "Mandan" } },
+        { "id": "C", "text": { "hi": "दीपक", "en": "Deepak" } },
+        { "id": "D", "text": { "hi": "अत्रि एवं महेश", "en": "Atrri and Mahesh" } }
       ],
       "correct_option": "A",
       "explanation": {
-        "en": "The main architects of Vijay Stambh were Jaita and his sons Napa, Poma, and Punja (Mandan was architect of Kumbhalgarh).",
-        "hi": "विजय स्तम्भ के मुख्य शिल्पी जैता व उसके पुत्र नापा, पोमा, पूंजा थे। जबकि कुम्भलगढ़ दुर्ग के मुख्य शिल्पी मंडन थे।"
+        "hi": "विजय स्तम्भ के मुख्य शिल्पी जैता व उसके पुत्र नापा, पोमा, पूंजा थे। जबकि कुम्भलगढ़ दुर्ग के मुख्य शिल्पी मंडन थे।",
+        "en": "The main architects of Vijay Stambh were Jaita and his sons Napa, Poma, and Punja (Mandan was architect of Kumbhalgarh)."
       },
       "pyq_source": "RPSC 1st Grade 2020 / RSSB Patwari 2021",
       "difficulty": "medium"
@@ -249,19 +332,19 @@
     {
       "id": "MCQ-A.04.01-07",
       "question": {
-        "en": "During the Battle of Haldighati, when Maharana Pratap was severely wounded, who donned the royal regalia and crown to save him?",
-        "hi": "हल्दीघाटी के युद्ध में महाराणा प्रताप के घायल होने पर किस वीर सेनानी ने राजमुकुट व राजचिह्न धारण कर युद्ध जारी रखा था?"
+        "hi": "हल्दीघाटी के युद्ध में महाराणा प्रताप के घायल होने पर किस वीर सेनानी ने राजमुकुट व राजचिह्न धारण कर युद्ध जारी रखा था?",
+        "en": "During the Battle of Haldighati, when Maharana Pratap was severely wounded, who donned the royal regalia and crown to save him?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Jhala Bida (Jhala Manna)", "hi": "झाला बीदा (झाला मन्ना)" } },
-        { "id": "B", "text": { "en": "Jhala Ajja", "hi": "झाला अज्जा" } },
-        { "id": "C", "text": { "en": "Rawat Krishna Das Chundawat", "hi": "रावत कृष्णदास चूंडावत" } },
-        { "id": "D", "text": { "en": "Ramdas Rathore", "hi": "रामदास राठौड़" } }
+        { "id": "A", "text": { "hi": "झाला बीदा (झाला मन्ना)", "en": "Jhala Bida (Jhala Manna)" } },
+        { "id": "B", "text": { "hi": "झाला अज्जा", "en": "Jhala Ajja" } },
+        { "id": "C", "text": { "hi": "रावत कृष्णदास चूंडावत", "en": "Rawat Krishna Das Chundawat" } },
+        { "id": "D", "text": { "hi": "रामदास राठौड़", "en": "Ramdas Rathore" } }
       ],
       "correct_option": "A",
       "explanation": {
-        "en": "Jhala Bida of Sadri took the royal insignia during Haldighati (Jhala Ajja took the insignia for Rana Sanga in Khanwa).",
-        "hi": "हल्दीघाटी में झाला बीदा (सादड़ी) ने छत्र धारण किया, जबकि खानवा के युद्ध में राणा सांगा के घायल होने पर झाला अज्जा ने राजचिह्न धारण किए थे।"
+        "hi": "हल्दीघाटी में झाला बीदा (सादड़ी) ने छत्र धारण किया, जबकि खानवा के युद्ध में राणा सांगा के घायल होने पर झाला अज्जा ने राजचिह्न धारण किए थे।",
+        "en": "Jhala Bida of Sadri took the royal insignia during Haldighati (Jhala Ajja took the insignia for Rana Sanga in Khanwa)."
       },
       "pyq_source": "RPSC RAS Pre 2016 / RSSB CET 2023",
       "difficulty": "medium"
@@ -269,19 +352,19 @@
     {
       "id": "MCQ-A.04.01-08",
       "question": {
-        "en": "In which battle in 1227 AD did Rawal Jaitra Singh of Mewar decisively defeat Delhi Sultan Iltutmish?",
-        "hi": "1227 ई. में मेवाड़ के रावल जैत्रसिंह ने दिल्ली के किस सुल्तान को 'भूताला के युद्ध' में पराजित किया था?"
+        "hi": "1227 ई. में मेवाड़ के रावल जैत्रसिंह ने दिल्ली के किस सुल्तान को 'भूताला के युद्ध' में पराजित किया था?",
+        "en": "In which battle in 1227 AD did Rawal Jaitra Singh of Mewar decisively defeat Delhi Sultan Iltutmish?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Iltutmish", "hi": "इल्तुतमिश" } },
-        { "id": "B", "text": { "en": "Balban", "hi": "बलबन" } },
-        { "id": "C", "text": { "en": "Alauddin Khalji", "hi": "अलाउद्दीन खिलजी" } },
-        { "id": "D", "text": { "en": "Qutbuddin Aibak", "hi": "कुतुबुद्दीन ऐबक" } }
+        { "id": "A", "text": { "hi": "इल्तुतमिश", "en": "Iltutmish" } },
+        { "id": "B", "text": { "hi": "बलबन", "en": "Balban" } },
+        { "id": "C", "text": { "hi": "अलाउद्दीन खिलजी", "en": "Alauddin Khalji" } },
+        { "id": "D", "text": { "hi": "कुतुबुद्दीन ऐबक", "en": "Qutbuddin Aibak" } }
       ],
       "correct_option": "A",
       "explanation": {
-        "en": "Rawal Jaitra Singh defeated Iltutmish in the Battle of Bhutala (1227 AD) as described in Jayasingh Suri's 'Hammir Mada Mardana'.",
-        "hi": "जयसिंह सूरि के ग्रन्थ 'हम्मीर मद मर्दन' के अनुसार रावल जैत्रसिंह ने 1227 ई. में भूताला के युद्ध में दिल्ली सुल्तान इल्तुतमिश की सेना को पराजित किया था।"
+        "hi": "जयसिंह सूरि के ग्रन्थ 'हम्मीर मद मर्दन' के अनुसार रावल जैत्रसिंह ने 1227 ई. में भूताला के युद्ध में दिल्ली सुल्तान इल्तुतमिश की सेना को पराजित किया था।",
+        "en": "Rawal Jaitra Singh defeated Iltutmish in the Battle of Bhutala (1227 AD) as described in Jayasingh Suri's 'Hammir Mada Mardana'."
       },
       "pyq_source": "RPSC Assistant Professor 2020 / RSSB CET 2023",
       "difficulty": "hard"
@@ -289,19 +372,19 @@
     {
       "id": "MCQ-A.04.01-09",
       "question": {
-        "en": "In 1585 AD, Maharana Pratap established his emergency capital at Chavand, where he died in 1597. In which village is his 8-pillared cenotaph located?",
-        "hi": "1585 ई. में महाराणा प्रताप ने अपनी आपातकालीन राजधानी चावण्ड बनाई। चावण्ड के निकट किस गाँव में महाराणा प्रताप की 8 खंभों की छतरी स्थित है?"
+        "hi": "1585 ई. में महाराणा प्रताप ने अपनी आपातकालीन राजधानी चावण्ड बनाई। चावण्ड के निकट किस गाँव में महाराणा प्रताप की 8 खंभों की छतरी स्थित है?",
+        "en": "In 1585 AD, Maharana Pratap established his emergency capital at Chavand, where he died in 1597. In which village is his 8-pillared cenotaph located?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Bandoli (Udaipur)", "hi": "बांडोली (उदयपुर)" } },
-        { "id": "B", "text": { "en": "Balicha", "hi": "बलीचा" } },
-        { "id": "C", "text": { "en": "Gogunda", "hi": "गोगुन्दा" } },
-        { "id": "D", "text": { "en": "Kumbhalgarh", "hi": "कुम्भलगढ़" } }
+        { "id": "A", "text": { "hi": "बांडोली (उदयपुर)", "en": "Bandoli (Udaipur)" } },
+        { "id": "B", "text": { "hi": "बलीचा", "en": "Balicha" } },
+        { "id": "C", "text": { "hi": "गोगुन्दा", "en": "Gogunda" } },
+        { "id": "D", "text": { "hi": "कुम्भलगढ़", "en": "Kumbhalgarh" } }
       ],
       "correct_option": "A",
       "explanation": {
-        "en": "Maharana Pratap passed away on 19 Jan 1597 at Chavand, and his 8-pillar cenotaph stands at Bandoli (Balicha has Chetak's memorial).",
-        "hi": "महाराणा प्रताप की 8 खंभों की प्रसिद्ध छतरी बांडोली गाँव (खेजड़ बाँध के किनारे) में स्थित है, जबकि चेतक का चबूतरा बलीचा गाँव में है।"
+        "hi": "महाराणा प्रताप की 8 खंभों की प्रसिद्ध छतरी बांडोली गाँव (खेजड़ बाँध के किनारे) में स्थित है, जबकि चेतक का चबूतरा बलीचा गाँव में है।",
+        "en": "Maharana Pratap passed away on 19 Jan 1597 at Chavand, and his 8-pillar cenotaph stands at Bandoli (Balicha has Chetak's memorial)."
       },
       "pyq_source": "RSSB CET 2023 / Police Constable 2020",
       "difficulty": "medium"
@@ -309,19 +392,19 @@
     {
       "id": "MCQ-A.04.01-10",
       "question": {
-        "en": "Under the historic Mughal-Mewar Treaty of 1615 AD, which Prince of Mewar was sent to the Mughal Court with a mansab of 5000?",
-        "hi": "5 फरवरी 1615 ई. को संपन्न मुगल-मेवाड़ सन्धि के तहत मेवाड़ के किस राजकुमार को 5000 के मनसब के साथ मुगल दरबार में भेजा गया था?"
+        "hi": "5 फरवरी 1615 ई. को संपन्न मुगल-मेवाड़ सन्धि के तहत मेवाड़ के किस राजकुमार को 5000 के मनसब के साथ मुगल दरबार में भेजा गया था?",
+        "en": "Under the historic Mughal-Mewar Treaty of 1615 AD, which Prince of Mewar was sent to the Mughal Court with a mansab of 5000?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Kunwar Karan Singh", "hi": "कुंवर कर्ण सिंह" } },
-        { "id": "B", "text": { "en": "Kunwar Amar Singh", "hi": "कुंवर अमर सिंह" } },
-        { "id": "C", "text": { "en": "Kunwar Jagat Singh", "hi": "कुंवर जगत सिंह" } },
-        { "id": "D", "text": { "en": "Kunwar Raj Singh", "hi": "कुंवर राज सिंह" } }
+        { "id": "A", "text": { "hi": "कुंवर कर्ण सिंह", "en": "Kunwar Karan Singh" } },
+        { "id": "B", "text": { "hi": "कुंवर अमर सिंह", "en": "Kunwar Amar Singh" } },
+        { "id": "C", "text": { "hi": "कुंवर जगत सिंह", "en": "Kunwar Jagat Singh" } },
+        { "id": "D", "text": { "hi": "कुंवर राज सिंह", "en": "Kunwar Raj Singh" } }
       ],
       "correct_option": "A",
       "explanation": {
-        "en": "Under the 1615 treaty between Amar Singh I and Jahangir, the Maharana was exempted from personal attendance, and Prince Karan Singh was given a 5000 Mansab.",
-        "hi": "1615 की संधि की शर्त के अनुसार महाराणा स्वयं मुगल दरबार में उपस्थित नहीं होंगे, उनके स्थान पर युवराज कर्ण सिंह को 5000 का मनसब देकर भेजा गया।"
+        "hi": "1615 की संधि की शर्त के अनुसार महाराणा स्वयं मुगल दरबार में उपस्थित नहीं होंगे, उनके स्थान पर युवराज कर्ण सिंह को 5000 का मनसब देकर भेजा गया।",
+        "en": "Under the 1615 treaty between Amar Singh I and Jahangir, the Maharana was exempted from personal attendance, and Prince Karan Singh was given a 5000 Mansab."
       },
       "pyq_source": "RPSC 1st Grade GK 2022 / RSSB Junior Accountant 2024",
       "difficulty": "medium"

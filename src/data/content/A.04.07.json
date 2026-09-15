@@ -14,9 +14,91 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "हाड़ा चौहान वंश संस्थापक (बूंदी)", "en": "Bundi Hada Dynasty Founder" },
+      "value": { "hi": "राव देवा / देवीसिंह (1241 ई. में बूंदा मीणा को हराकर)", "en": "Rao Deva (1241 AD by defeating Bunda Meena)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "हाड़ा चौहानों की कुलदेवी", "en": "Hada Chauhans' Kuldevi" },
+      "value": { "hi": "आशापुरा माता (नाडोल / मोदरा)", "en": "Ashapura Mata (Nadol/Modra)" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "तारागढ़ दुर्ग (बूंदी) निर्माण (1354 ई.)", "en": "Taragarh Fort (Bundi) 1354 AD" },
+      "value": { "hi": "राव बरसिंह द्वारा (किपलिंग: 'भूतों-प्रेतों द्वारा निर्मित तिलिस्मी किला')", "en": "By Rao Bar Singh (Kipling: 'built by goblins')" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "गर्भ गुंजन तोप", "en": "Garbh Gunjam Cannon" },
+      "value": { "hi": "तारागढ़ दुर्ग (बूंदी) की प्रसिद्ध महाविनाशक तोप", "en": "Famous heavy cannon of Taragarh Fort (Bundi)" },
+      "category": "military_siege"
+    },
+    {
+      "label": { "hi": "चित्रशाला (रंग महल) — तारागढ़", "en": "Chitrashala (Paradise of Murals)" },
+      "value": { "hi": "महाराव उम्मेद सिंह व शत्रुशाल द्वारा निर्मित ('भित्ति चित्रों का स्वर्ग')", "en": "Built by Maharao Ummed Singh ('Paradise of Murals')" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "84 खंभों की छतरी (बूंदी)", "en": "84-Pillared Cenotaph (Bundi)" },
+      "value": { "hi": "1683 ई. में राव राजा अनिरुद्ध सिंह द्वारा धाभाई देवा की स्मृति में (देवपुरा गाँव)", "en": "Built in 1683 by Aniruddh Singh for Dhabhai Deva" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "सुर्जन चरित्र एवं हम्मीर हठ", "en": "Surjan Charitra & Hammir Hath" },
+      "value": { "hi": "रचयिता: कवि चन्द्रशेखर (राव सुर्जन हाड़ा के दरबारी)", "en": "Author: Chandrashekhar (courtier of Rao Surjan Hada)" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "राजस्थान में मराठों का प्रथम प्रवेश (1734)", "en": "First Maratha Entry in Rajasthan (1734)" },
+      "value": { "hi": "बूंदी रानी अमर कुंवरी (बुध सिंह की पत्नी) द्वारा होलकर व सिंधिया को राखी भेजकर बुलाना", "en": "Queen Amar Kanwar invited Holkar & Scindia to Bundi" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "नेह तरंग (ग्रन्थ)", "en": "Neh Tarang (Treaty)" },
+      "value": { "hi": "रचयिता: बूंदी के राव राजा बुध सिंह", "en": "Author: Rao Raja Budh Singh of Bundi" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "महाकवि सूर्यमल मीसण (बूंदी दरबारी)", "en": "Mahakavi Suryamal Misran" },
+      "value": { "hi": "वंश भास्कर (पूर्ण: दत्तक पुत्र मुरारिदान), वीर सतसई, बलवंत विलास, छंदोमयूख", "en": "Vansh Bhaskar, Veer Satsai, Balwant Vilas" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "कोटा स्वतंत्र राज्य स्थापना (1631 ई.)", "en": "Kota Independent State (1631 AD)" },
+      "value": { "hi": "शाहजहाँ द्वारा बूंदी से अलग कर माधोसिंह हाड़ा को सौंपा गया", "en": "Carved from Bundi by Shah Jahan for Madho Singh Hada" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "अबली मीणी का महल (मुकुंदरा, कोटा)", "en": "Abli Meeni Palace (Kota)" },
+      "value": { "hi": "राव मुकुंद सिंह द्वारा निर्मित ('हाड़ौती का ताजमहल' / 'राजस्थान का दूसरा ताजमहल')", "en": "By Rao Mukund Singh ('Taj Mahal of Hadoti')" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "झाला जालिम सिंह", "en": "Zalim Singh Jhala" },
+      "value": { "hi": "कोटा के शक्तिशाली फौजदार/दीवान ('राजस्थान का मैकियावेली' — कर्नल टॉड)", "en": "Commander of Kota ('Machiavelli of Rajasthan' — Tod)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "भटवाड़ा का युद्ध (1761 ई., बारां)", "en": "Battle of Bhatwara (1761 AD)" },
+      "value": { "hi": "झाला जालिम सिंह ने जयपुर के सवाई माधोसिंह प्रथम की सेना को हराया", "en": "Zalim Singh defeated Sawai Madho Singh I of Jaipur" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "ज़ालिमकोट (गागरोन दुर्ग)", "en": "Zalimkot (Gagron Fort)" },
+      "value": { "hi": "गागरोन दुर्ग का विशाल बाहरी सुरक्षा परकोटा (झाला जालिम सिंह द्वारा निर्मित)", "en": "Massive outer rampart of Gagron Fort built by Zalim Singh" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "झालावाड़ राज्य की स्थापना (1838 ई.)", "en": "Founding of Jhalawar State (1838 AD)" },
+      "value": { "hi": "अंग्रेजों द्वारा कोटा से अलग कर मदनसिंह झाला हेतु (राजस्थान की 19वीं व सबसे नवीन रियासत)", "en": "Created in 1838 for Madan Singh (newest state of Rajasthan)" },
+      "category": "battle_event"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +106,8 @@
         "en": "1. Establishment of Bundi Hada Dynasty & Taragarh Fort"
       },
       "content_markdown": {
-        "hi": "### हाड़ा चौहानों की उत्पत्ति व कुल परंपरा\n* **उत्पत्ति:** हाड़ा चौहान नाडोल (पाली) के चौहान शासक **आसराज/माणिकराय** के वंशज **हरराज (हाड़ा)** के नाम पर 'हाड़ा' कहलाए।\n* **कुलदेवी:** **आशापुरा माता** (नाडोल/मोदरा)।\n\n### राव देवा (1241 ई.) — संस्थापक\n* राव देवा (देवीसिंह) ने 1241 ई. में 'बूंदा मीणा' को पराजित कर 'बूंदा का नाल' क्षेत्र पर अधिकार किया और **बूंदी** को हाड़ा राज्य की राजधानी बनाया।\n\n### राव बरसिंह (1354 ई.) — तारागढ़ दुर्ग\n* पहाड़ी पर तारे के समान आकृति होने के कारण दुर्ग का नाम **'तारागढ़'** पड़ा।\n* **तिलिस्मी किला:** रुडयार्ड किपलिंग ने लिखा: > *\"यह दुर्ग मानव द्वारा नहीं बल्कि प्रेतों/भूतों (Ghosts and Spirits) द्वारा बनाया गया प्रतीत होता है।\"*\n* **गर्भ गुंजन तोप:** दुर्ग की सबसे शक्तिशाली व भयंकर गर्जना करने वाली तोप।\n* **चित्रशाला (रंग महल):** बूंदी के तारागढ़ दुर्ग में महाराव उम्मेद सिंह व शत्रुशाल द्वारा निर्मित **चित्रशाला (भित्ति चित्रों का स्वर्ग / Painting Gallery)** विश्व विख्यात है।",
-        "en": "### Origin & Traditions\n* **Lineage:** Branch of Nadol Chauhans tracing descent from Harraj (Hada).\n* **Kuldevi:** **Ashapura Mata**.\n\n### Rao Deva (1241 AD) — Founder\n* Subdued Jaita Meena in 1241 AD and established Bundi as the capital of the Hada kingdom.\n\n### Rao Bar Singh (1354 AD) — Taragarh Fort\n* Constructed **Taragarh Fort** on a star-shaped hilltop in 1354 AD.\n* **Rudyard Kipling's Remark:** > *\"It seems built by spectres and goblins rather than by mortal men.\"*\n* **Garbh Gunjam Cannon:** Renowned heavy artillery housed on the bastions.\n* **Chitrashala (Rang Mahal):** Built by Maharao Ummed Singh, renowned worldwide as the 'Paradise of Murals'."
+        "hi": "### हाड़ा चौहानों की उत्पत्ति व कुल परंपरा:\n- **उत्पत्ति:** नाडोल (पाली) के चौहान शासक आसराज के वंशज ==हरराज (हाड़ा)== के नाम पर 'हाड़ा' कहलाए।\n- **कुलदेवी:** ==**आशापुरा माता**== (नाडोल/मोदरा)।\n\n### प्रमुख संस्थापक शासक:\n- ==**राव देवा (1241 ई.)**==: 'बूंदा मीणा' को पराजित कर ==**बूंदी**== को हाड़ा राज्य की राजधानी बनाया।\n- ==**राव बरसिंह (1354 ई.) — तारागढ़ दुर्ग**==:\n  - पहाड़ी पर तारे के समान आकृति होने से नाम =='तारागढ़'== पड़ा।\n  - **रुडयार्ड किपलिंग का कथन:** > ==*\"यह दुर्ग मानव द्वारा नहीं बल्कि प्रेतों/भूतों (Ghosts and Spirits) द्वारा बनाया गया प्रतीत होता है।\"*==\n  - ==**गर्भ गुंजन तोप**==: दुर्ग की सबसे शक्तिशाली व भयंकर गर्जना करने वाली तोप।\n  - ==**चित्रशाला (रंग महल)**==: महाराव उम्मेद सिंह व शत्रुशाल द्वारा निर्मित (=='भित्ति चित्रों का स्वर्ग'==)।",
+        "en": "### Origin & Early History:\n- Branch of Nadol Chauhans; Kuldevi is ==**Ashapura Mata**==.\n- ==**Rao Deva (1241 AD)**==: Defeated Bunda Meena to establish Bundi.\n- ==**Rao Bar Singh (1354 AD) — Taragarh Fort**==:\n  - Star-shaped citadel; Rudyard Kipling: > ==*\"Built by goblins and spectres.\"*==\n  - Houses the famous ==Garbh Gunjam cannon== and world-famous ==**Chitrashala ('Paradise of Murals')**==."
       }
     },
     {
@@ -34,8 +116,8 @@
         "en": "2. Major Hada Rulers of Bundi & First Maratha Incursion"
       },
       "content_markdown": {
-        "hi": "### राव सुर्जन हाड़ा (1554–1585 ई.)\n* रणथम्भौर दुर्ग के किलेदार; 1569 ई. में अकबर के घेरे के दौरान मानसिंह व भगवंत दास की मध्यस्थता से स्वाभिमानपूर्ण शर्तों पर रणथम्भौर मुगलों को सौंपा।\n* अकबर ने सुर्जन हाड़ा को बनारस व चुनार की जागीर दी। सुर्जन हाड़ा ने काशी (वाराणसी) में **'सुर्जन घाट'** व अनेक मंदिरों का निर्माण करवाया।\n* दरबारी कवि **चन्द्रशेखर** ने प्रसिद्ध ऐतिहासिक ग्रंथ ***सुर्जन चरित्र*** एवं ***हम्मीर हठ*** की रचना की।\n\n### राव राजा अनिरुद्ध सिंह (1681–1696 ई.)\n* **84 खंभों की छतरी (Bundi):** अनिरुद्ध सिंह ने अपने धाभाई (धाय भाई) **देवा** की स्मृति में 1683 ई. में देवपुरा गाँव (बूंदी) में भगवान शिव को समर्पित भव्य 84 खंभों की 3 मंजिला छतरी बनवाई।\n\n### राव राजा बुध सिंह (1696–1739 ई.) — राजस्थान में मराठों का आगमन\n* बुध सिंह स्वयं उच्च कोटि के विद्वान थे, जिन्होंने ***नेह तरंग*** ग्रंथ की रचना की।\n* बुध सिंह की रानी **अमर कुंवरी (आनंद कुंवरी)**, जो सवाई जयसिंह की बहन थीं, ने अपने पुत्र उम्मेद सिंह को गद्दी दिलाने हेतु **1734 ई. में मराठा सेनापतियों (मल्हारराव होलकर व राणोजी सिंधिया)** को राखी भेजकर आमंत्रित किया।\n* यह **राजस्थान की राजनीति में मराठों का प्रथम हस्तक्षेप (Entry of Marathas)** था।\n\n### महाकवि सूर्यमल मीसण (बूंदी दरबारी)\n* महाराव रामसिंह द्वितीय के राजकवि।\n* **अमर रचनाएँ:** ***वंश भास्कर*** (बूंदी का पद्यमय इतिहास; अपूर्ण रहने पर दत्तक पुत्र मुरारिदान ने पूर्ण किया), ***वीर सतसई*** (1857 क्रांति के स्वतंत्रता का शंखनाद), *बलवंत विलास*, *छंदोमयूख*।",
-        "en": "### Rao Surjan Hada (1554–1585 AD)\n* Commander of Ranthambore; negotiated terms with Akbar in 1569 via Man Singh and Bhagwant Das.\n* Built the **Surjan Ghat** in Varanasi. Court scholar **Chandrashekhar** authored ***Surjan Charitra*** and ***Hammir Hath***.\n\n### Rao Raja Aniruddh Singh (1681–1696 AD)\n* Commissioned the famous **84-Pillared Cenotaph (84 Khambhon ki Chhatri)** at Devpura in 1683 AD dedicated to Lord Shiva in memory of his foster brother Deva.\n\n### Rao Raja Budh Singh & First Maratha Incursion (1734 AD)\n* Authored the romantic poetry treatise ***Neh Tarang***.\n* His queen **Amar Kanwar** sent a Rakhi to Maratha generals **Malhar Rao Holkar and Ranoji Scindia** in 1734 AD, marking the **first historical Maratha intervention in Rajasthan politics**.\n\n### Mahakavi Suryamal Misran (State Poet of Bundi)\n* Court poet of Maharao Ram Singh II.\n* Masterpieces: ***Vansh Bhaskar*** (completed by adopted son Muraridan), ***Veer Satsai*** (inspiring patriotic fervour during the 1857 revolt), *Balwant Vilas*."
+        "hi": "### 1. राव सुर्जन हाड़ा (1554–1585 ई.):\n- 1569 ई. में अकबर के घेरे के दौरान मानसिंह व भगवंत दास की मध्यस्थता से रणथम्भौर मुगलों को सौंपा।\n- काशी (वाराणसी) में ==सुर्जन घाट== बनवाया।\n- दरबारी कवि ==**चन्द्रशेखर**== ने प्रसिद्ध ग्रन्थ ==*सुर्जन चरित्र*== एवं ==*हम्मीर हठ*== की रचना की।\n\n### 2. राव राजा अनिरुद्ध सिंह (1681–1696 ई.):\n- ==**84 खंभों की छतरी (बूंदी)**==: अपने धाभाई (धाय भाई) ==**देवा**== की स्मृति में 1683 ई. में देवपुरा गाँव में भगवान शिव को समर्पित 3 मंजिला छतरी बनवाई।\n\n### 3. राव राजा बुध सिंह एवं राजस्थान में मराठों का आगमन (1734 ई.):\n- बुध सिंह ने ==*नेह तरंग*== ग्रन्थ रचा।\n- बुध सिंह की रानी ==**अमर कुंवरी (आनंद कुंवरी)**== ने अपने पुत्र उम्मेद सिंह को गद्दी दिलाने हेतु 1734 ई. में मराठा सेनापतियों (मल्हारराव होलकर व राणोजी सिंधिया) को राखी भेजकर आमंत्रित किया।\n- यह ==**राजस्थान की राजनीति में मराठों का प्रथम हस्तक्षेप (Entry of Marathas)**== था।\n\n### 4. महाकवि सूर्यमल मीसण (बूंदी दरबारी):\n- महाराव रामसिंह द्वितीय के राजकवि।\n- **अमर रचनाएँ:** ==*वंश भास्कर*== (दत्तक पुत्र मुरारिदान द्वारा पूर्ण), ==*वीर सतसई*== (1857 क्रांति के स्वतंत्रता का शंखनाद), *बलवंत विलास*, *छंदोमयूख*।",
+        "en": "### 1. Rao Surjan Hada (1554–1585 AD):\n- Signed 1569 Ranthambore treaty with Akbar; built Surjan Ghat at Varanasi. Courtier ==Chandrashekhar== authored ==*Surjan Charitra*== & ==*Hammir Hath*==.\n\n### 2. Rao Raja Aniruddh Singh (1681–1696 AD):\n- Built the famous ==**84-Pillared Cenotaph**== in Bundi (1683 AD) for foster-brother Deva.\n\n### 3. Rao Raja Budh Singh & Maratha Entry (1734 AD):\n- Authored ==*Neh Tarang*==; his Queen ==Amar Kanwar== invited Marathas (Holkar & Scindia) in 1734 AD, marking ==**Rajasthan's first Maratha intervention**==.\n\n### 4. Mahakavi Suryamal Misran:\n- Court poet of Bundi; composed ==*Vansh Bhaskar*== and ==*Veer Satsai*==."
       }
     },
     {
@@ -44,8 +126,8 @@
         "en": "3. Foundation of Kota State: Rao Madho Singh to Mukund Singh"
       },
       "content_markdown": {
-        "hi": "### कोटा राज्य की स्वतंत्र स्थापना (1631 ई.)\n* **विभाजन:** मुग़ल बादशाह **शाहजहाँ** ने बूंदी के शासक राव रतन सिंह के द्वितीय पुत्र **माधोसिंह हाड़ा** की कंधार व दक्कन अभियानों में बहादुरी से प्रसन्न होकर **1631 ई. में बूंदी से अलग कर कोटा को स्वतंत्र रियासत** बनाया।\n* शाहजहाँ ने माधोसिंह को 2500 जात व 1500 सवार का मनसब और शाही निशान प्रदान किया।\n\n### राव मुकुंद सिंह हाड़ा (1648–1658 ई.)\n* 1658 ई. में उत्तराधिकार के धरमत के युद्ध में शाही सेना (दारा शिकोह) की ओर से औरंगज़ेब के विरुद्ध लड़ते हुए वीरगति को प्राप्त हुए।\n* **अबली मीणी का महल (Abli Meeni Palace):** \n  - मुकुंद सिंह ने अपनी पासवान (प्रेयसी) अबली मीणी के लिए मुकुंदरा की पहाड़ियों (दर्रा, कोटा) में इस नयनाभिराम महल का निर्माण करवाया।\n  - कर्नल जेम्स टॉड ने इसे **'राजस्थान का दूसरा ताजमहल'** एवं **'हाड़ौती का ताजमहल'** कहा है।\n\n### महाराव भीमसिंह प्रथम (1707–1720 ई.)\n* भगवान श्रीकृष्ण के परम भक्त; कोटा का नाम बदलकर **'नंदगांव'** तथा राज्य के अधिष्ठाता देवता **'बृजनाथ जी'** को घोषित किया।",
-        "en": "### Creation of Kota State (1631 AD)\n* Mughal Emperor **Shah Jahan** severed Kota from Bundi in **1631 AD**, granting it to **Rao Madho Singh Hada** (son of Rao Ratan Singh) as an independent principality with a 2500 mansab.\n\n### Rao Mukund Singh Hada (1648–1658 AD)\n* Martyred in the Battle of Dharmat (1658) fighting for Dara Shikoh against Aurangzeb.\n* **Abli Meeni Palace:** Built for his beloved queen Abli Meeni in Mukundara hills; styled as the **'Second Taj Mahal of Rajasthan / Taj Mahal of Hadoti'** by Col. Tod.\n\n### Maharao Bhim Singh I (1707–1720 AD)\n* Ardent Krishna devotee; renamed Kota as 'Nandgaon' and consecrated 'Brajnath Ji' as the divine sovereign."
+        "hi": "### 1. कोटा राज्य की स्वतंत्र स्थापना (1631 ई.):\n- मुग़ल बादशाह ==**शाहजहाँ**== ने बूंदी के राव रतन सिंह के पुत्र ==**माधोसिंह हाड़ा**== की वीरता से प्रसन्न होकर ==**1631 ई. में बूंदी से अलग कर कोटा को स्वतंत्र रियासत**== बनाया।\n\n### 2. राव मुकुंद सिंह हाड़ा (1648–1658 ई.):\n- 1658 ई. में धरमत के युद्ध में शाही सेना की ओर से लड़ते हुए वीरगति पाई।\n- ==**अबली मीणी का महल (Abli Meeni Palace)**==: अपनी प्रेयसी अबली मीणी हेतु मुकुंदरा की पहाड़ियों (दर्रा, कोटा) में निर्मित करवाया। कर्नल टॉड ने इसे ==**'हाड़ौती का ताजमहल'**== अथवा ==**'राजस्थान का दूसरा ताजमहल'**== कहा।\n\n### 3. महाराव भीमसिंह प्रथम (1707–1720 ई.):\n- कोटा का नाम बदलकर =='नंदगांव'== तथा राज्य के अधिष्ठाता देवता =='बृजनाथ जी'== को घोषित किया।",
+        "en": "### 1. Creation of Kota State (1631 AD):\n- ==**Shah Jahan**== severed Kota from Bundi in ==**1631 AD**== for ==**Rao Madho Singh Hada**==.\n\n### 2. Rao Mukund Singh Hada (1648–1658 AD):\n- Built ==**Abli Meeni Palace**== in Mukundara hills; styled as the ==**'Taj Mahal of Hadoti / 2nd Taj Mahal of Rajasthan'**== by Col. Tod.\n\n### 3. Maharao Bhim Singh I:\n- Renamed Kota to 'Nandgaon' and dedicated state to 'Brajnath Ji'."
       }
     },
     {
@@ -54,8 +136,8 @@
         "en": "4. Zalim Singh Jhala: Statesman of Hadoti (Machiavelli of Rajasthan)"
       },
       "content_markdown": {
-        "hi": "### झाला जालिम सिंह (1739–1823 ई.)\n* **पद व प्रभाव:** कोटा रियासत के **फौजदार एवं सर्वाधिकार संपन्न प्रधानमंत्री (दीवान)**; इन्होंने 50 से अधिक वर्षों तक कोटा की वास्तविक सत्ता संभाली।\n* **उपनाम:** कर्नल जेम्स टॉड ने इन्हें **'हाड़ौती का जालिम शासक'** तथा **'राजस्थान का मैकियावेली/कूटनीतिज्ञ'** कहा।\n* **भटवाड़ा का युद्ध (1761 ई.):** रणथम्भौर दुर्ग के अधिकार को लेकर जयपुर के महाराजा माधोसिंह प्रथम की विशाल सेना को जालिम सिंह ने पराजित कर खदेड़ दिया।\n* **गागरोन का ज़ालिमकोट:** जलदुर्ग गागरोन (झालावाड़) की सुरक्षा हेतु विशाल बाहरी परकोटा बनवाया, जिसे **'ज़ालिमकोट'** कहा जाता है।\n* **अंग्रेजों से संधि (1817–1818 ई.):**\n  - 26 दिसंबर 1817 को ईस्ट इंडिया कंपनी से सहायक संधि की।\n  - 1818 ई. में संधि में पूरक धारा जुड़वाई जिसके अनुसार: कोटा के राजा नाममात्र के छत्रपति रहेंगे, जबकि राज्य का वास्तविक शासन (दीवान पद) वंशानुगत रूप से जालिम सिंह के वंशजों के पास रहेगा।\n* **झालावाड़ राज्य का निर्माण (1838 ई.):** आगे चलकर कोटा में शासक व झाला वंशजों के विवाद को सुलझाने हेतु अंग्रेजों ने 1838 ई. में कोटा से अलग कर जालिम सिंह के पौत्र **मदनसिंह झाला** हेतु राजस्थान की सबसे नवीन रियासत **'झालावाड़'** की स्थापना की।",
-        "en": "### Faujdar Zalim Singh Jhala (1739–1823 AD)\n* **Role:** Commander-in-Chief (Faujdar) and Prime Minister of Kota; de facto ruler for over 50 years.\n* **Epithets:** Col. Tod termed him the **'Machiavelli of Rajasthan'** for his master diplomacy.\n* **Battle of Bhatwara (1761 AD):** Decisively routed the invading Jaipur army of Sawai Madho Singh I over Ranthambore.\n* **Zalimkot:** Built the massive outer defensive rampart of Gagron Fort.\n* **British Treaty (1817-1818 AD):** Concluded treaty with British; added a secret codicil making the Prime Ministership hereditary in his family.\n* **Creation of Jhalawar (1838 AD):** This administrative dual-power led the British in 1838 to carve out **Jhalawar** for Zalim Singh's grandson Madan Singh (the newest princely state of Rajasthan)."
+        "hi": "### झाला जालिम सिंह (1739–1823 ई.):\n- कोटा रियासत के फौजदार एवं सर्वाधिकार संपन्न प्रधानमंत्री (दीवान); 50 से अधिक वर्षों तक वास्तविक सत्ता संभाली।\n- **उपनाम:** कर्नल टॉड ने इन्हें ==**'राजस्थान का मैकियावेली' (Machiavelli of Rajasthan)**== कहा।\n- ==**भटवाड़ा का युद्ध (1761 ई., मांगरोल, बारां)**==: जयपुर महाराजा सवाई माधोसिंह प्रथम की सेना को पराजित किया।\n- ==**ज़ालिमकोट**==: जलदुर्ग गागरोन (झालावाड़) का विशाल बाहरी सुरक्षा परकोटा बनवाया।\n- **ईस्ट इंडिया कंपनी से संधि (1817-1818):** 1818 में पूरक धारा जुड़वाई जिसके तहत दीवान पद जालिम सिंह के वंशजों हेतु वंशानुगत किया गया।\n- ==**झालावाड़ राज्य का निर्माण (1838 ई.)**==: 1838 ई. में अंग्रेजों ने कोटा से 17 परगने अलग कर जालिम सिंह के पौत्र ==**मदनसिंह झाला**== हेतु राजस्थान की 19वीं एवं सबसे नवीन रियासत ==**'झालावाड़'**== की स्थापना की (राजधानी: पाटन)।",
+        "en": "### Faujdar Zalim Singh Jhala (1739–1823 AD):\n- De facto ruler of Kota for 50+ years; styled ==**'Machiavelli of Rajasthan'**== by Col. Tod.\n- Won ==Battle of Bhatwara (1761 AD)== against Jaipur; built ==Zalimkot== rampart at Gagron Fort.\n- His administrative legacy led the British in 1838 to carve out ==**Jhalawar**== (Rajasthan's newest state) for his grandson ==Madan Singh Jhala==."
       }
     }
   ],
@@ -98,102 +180,7 @@
     },
     {
       "hi": "झाला जालिम सिंह के वंशजों हेतु 1838 ई. में अंग्रेजों द्वारा राजस्थान की सबसे नवीन रियासत 'झालावाड़' बनी।",
-      "en": "Jhalawar, the youngest princely state of Rajasthan, was created by the British in 1838 for Zalim Singh's heirs."
-    }
-  ],
-  "timeline": [
-    {
-      "year": "1241 ई.",
-      "event": {
-        "hi": "राव देवा द्वारा बूंदा मीणा को पराजित कर बूंदी में हाड़ा राज्य की स्थापना।",
-        "en": "Rao Deva founds the Hada Chauhan kingdom at Bundi."
-      }
-    },
-    {
-      "year": "1354 ई.",
-      "event": {
-        "hi": "राव बरसिंह द्वारा पहाड़ी पर तारागढ़ दुर्ग (बूंदी) का निर्माण।",
-        "en": "Rao Bar Singh builds Taragarh Fort on the star-shaped hill in Bundi."
-      }
-    },
-    {
-      "year": "1569 ई.",
-      "event": {
-        "hi": "राव सुर्जन हाड़ा द्वारा अकबर से वार्ता कर रणथम्भौर मुगलों को सुपुर्द करना।",
-        "en": "Rao Surjan Hada concludes an honorable treaty with Akbar over Ranthambore."
-      }
-    },
-    {
-      "year": "1631 ई.",
-      "event": {
-        "hi": "शाहजहाँ के फरमान द्वारा राव माधोसिंह के नेतृत्व में स्वतंत्र 'कोटा राज्य' की स्थापना।",
-        "en": "Shah Jahan issues imperial decree establishing Kota as an independent state under Madho Singh."
-      }
-    },
-    {
-      "year": "1683 ई.",
-      "event": {
-        "hi": "बूंदी में धाभाई देवा की स्मृति में 84 खंभों की भव्य छतरी का निर्माण।",
-        "en": "Construction of the iconic 84-Pillared Cenotaph in Bundi in memory of Dhabhai Deva."
-      }
-    },
-    {
-      "year": "1734 ई.",
-      "event": {
-        "hi": "बूंदी उत्तराधिकार विवाद में रानी अमर कुंवरी द्वारा मराठों को बुलावा — राजस्थान में प्रथम मराठा प्रवेश।",
-        "en": "First Maratha entry into Rajasthan following Queen Amar Kanwar's invitation in Bundi succession."
-      }
-    },
-    {
-      "year": "1761 ई.",
-      "event": {
-        "hi": "भटवाड़ा का युद्ध — झाला जालिम सिंह द्वारा जयपुर की विशाल सेना की पराजय।",
-        "en": "Battle of Bhatwara — Zalim Singh Jhala crushes the invading army of Jaipur."
-      }
-    }
-  ],
-  "exam_traps_and_tricks": [
-    {
-      "concept": {
-        "hi": "तारागढ़ दुर्ग: अजमेर vs बूंदी",
-        "en": "Taragarh Fort: Ajmer vs Bundi"
-      },
-      "trap": {
-        "hi": "राजस्थान में दो तारागढ़ दुर्ग हैं: 1. तारागढ़ अजमेर (अजयमेरु / गढ़ बीठली — पृथ्वीराज सिसोदिया की पत्नी ताराबाई के नाम पर), 2. तारागढ़ बूंदी (तारे के समान आकृति — राव बरसिंह द्वारा निर्मित, तिलिस्मी किला)।",
-        "en": "1. Taragarh Ajmer (Garh Beetli / Ajaymeru - named after Tarabai); 2. Taragarh Bundi (Star-shaped, built by Rao Bar Singh in 1354)."
-      },
-      "trick": {
-        "hi": "अजमेर तारागढ़ = गढ़ बीठली / रूठी रानी; बूंदी तारागढ़ = तिलिस्मी किला / गर्भ गुंजन तोप / चित्रशाला।",
-        "en": "Ajmer Taragarh = Garh Beetli; Bundi Taragarh = Chitrashala & Garbh Gunjam cannon."
-      }
-    },
-    {
-      "concept": {
-        "hi": "84 खंभों की छतरी (बूंदी) vs 80 खंभों की छतरी (अलवर) vs 32 खंभों की छतरी (रणथम्भौर)",
-        "en": "84-Pillared (Bundi) vs 80-Pillared (Alwar) vs 32-Pillared (Ranthambore)"
-      },
-      "trap": {
-        "hi": "खंभों की संख्या में अक्सर भ्रम होता है: 84 खंभे = बूंदी (देवा धाभाई की छतरी); 80 खंभे = अलवर (मूसी महारानी की छतरी); 32 खंभे = रणथम्भौर (हम्मीर द्वारा जैत्रसिंह के 32 वर्षों के शासन हेतु)।",
-        "en": "84 pillars = Bundi (Dhabhai Deva); 80 pillars = Alwar (Moosi Maharani); 32 pillars = Ranthambore (Jaitra Singh) & Mandalgarh (Jagannath Kachhwaha)."
-      },
-      "trick": {
-        "hi": "84 = बूंदी, 80 = अलवर, 32 = रणथम्भौर/मांडलगढ़।",
-        "en": "84 = Bundi, 80 = Alwar, 32 = Ranthambore."
-      }
-    },
-    {
-      "concept": {
-        "hi": "राजस्थान का द्वितीय ताजमहल vs काठल का ताजमहल",
-        "en": "Second Taj Mahal vs Kanthal Ka Taj Mahal"
-      },
-      "trap": {
-        "hi": "अबली मीणी का महल (कोटा) = हाड़ौती का ताजमहल / राजस्थान का दूसरा ताजमहल; काकाजी की दरगाह (प्रतापगढ़) = काठल का ताजमहल; जसवंत थड़ा (जोधपुर) = राजस्थान का ताजमहल।",
-        "en": "Abli Meeni Palace (Kota) = Taj Mahal of Hadoti; Jaswant Thada (Jodhpur) = Taj Mahal of Rajasthan; Kakaji Dargah (Pratapgarh) = Taj Mahal of Kanthal."
-      },
-      "trick": {
-        "hi": "जोधपुर = राजस्थान का ताजमहल; कोटा = हाड़ौती का ताजमहल; प्रतापगढ़ = काठल का ताजमहल।",
-        "en": "Jodhpur = Rajasthan; Kota = Hadoti; Pratapgarh = Kanthal."
-      }
+      "en": "Jhalawar, Rajasthan's 19th and newest princely state, was created in 1838 AD for Madan Singh Jhala."
     }
   ],
   "mcqs": [

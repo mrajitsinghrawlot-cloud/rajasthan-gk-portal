@@ -14,9 +14,126 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "मारवाड़ राठौड़ वंश संस्थापक / आदिपुरुष", "en": "Marwar Rathore Dynastic Founder" },
+      "value": { "hi": "राव सीहा (निधन 1273 ई., स्मारक: बीठू गाँव, पाली)", "en": "Rao Siha (d. 1273 AD, Memorial: Bithu, Pali)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "राठौड़ों की कुलदेवी व इष्टदेवी", "en": "Rathore Kuldevi & Ishtadevi" },
+      "value": { "hi": "कुलदेवी: नागणेची माता (नगाणा, बाड़मेर); आराध्यदेवी: चामुण्डा माता (मेहरानगढ़)", "en": "Kuldevi: Nagnechi Mata; Ishtadevi: Chamunda Mata (Mehrangarh)" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "मण्डोर को राजधानी बनाया (दहेज में प्राप्त)", "en": "Mandore Capital (Dowry)" },
+      "value": { "hi": "राव चूँडा (इंदा प्रतिहारों द्वारा दहेज में भेंट)", "en": "Rao Chunda (gifted in dowry by Inda Pratiharas)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "आंवल-बांवल की सन्धि (1453 ई.)", "en": "Treaty of Anwal-Banwal (1453 AD)" },
+      "value": { "hi": "राव जोधा व महाराणा कुम्भा के मध्य (हंसाबाई की मध्यस्थता, सोजत सीमा)", "en": "Rao Jodha & Rana Kumbha (mediated by Hansa Bai; Sojat border)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "जोधपुर नगर स्थापना", "en": "Founding of Jodhpur" },
+      "value": { "hi": "12 मई 1459 ई. (राव जोधा द्वारा)", "en": "12 May 1459 AD (by Rao Jodha)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "मेहरानगढ़ दुर्ग (चिड़ियाटूँक पहाड़ी)", "en": "Mehrangarh Fort (Chidiyatunk)" },
+      "value": { "hi": "नींव: करणी माता (ऋद्धि बाई); राजा राम मेघवाल की जीवित समाधि/बलि", "en": "Foundation laid by Karni Mata; Raja Ram Meghwal sacrifice" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "राव मालदेव की उपाधियाँ", "en": "Rao Maldeo Titles" },
+      "value": { "hi": "'हशमत वाला राजा' (फारसी इतिहासकार) एवं '52 युद्धों का विजेता' (58 परगने)", "en": "'Hashmat Wala Raja' & 'Conqueror of 52 Battles'" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "पाहेबा/साहेबा का युद्ध (1541-42 ई.)", "en": "Battle of Paheba/Saheba" },
+      "value": { "hi": "मालदेव ने बीकानेर के राव जैतसी को हराया (जैतसी वीरगति, कूंपा प्रशासक)", "en": "Maldeo defeated Rao Jaitsi of Bikaner (Jaitsi fell)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "रूठी रानी (उमादे)", "en": "Ruthi Rani (Umade)" },
+      "value": { "hi": "जैसलमेर राव लूणकरण की पुत्री, मालदेव की पत्नी (तारागढ़ अजमेर में रहीं, पगड़ी संग सती)", "en": "Daughter of Lunkaran; lived at Taragarh; Sati with turban" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "गिरि-सुमेल का युद्ध (5 जनवरी 1544)", "en": "Battle of Giri-Sumel (5 Jan 1544)" },
+      "value": { "hi": "जैता व कूंपा vs शेरशाह सूरी (जैतारण, ब्यावर/पाली)", "en": "Jaita & Kumpa vs Sher Shah Suri (Jaitaran)" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "शेरशाह सूरी का ऐतिहासिक कथन", "en": "Sher Shah Suri Famous Quote" },
+      "value": { "hi": "'एक मुट्ठी बाजरे के लिए मैंने हिन्दुस्तान की बादशाहत खो दी होती' (तारीख-ए-दाऊदी)", "en": "'For a handful of pearl millet, I almost lost Hindustan's empire'" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "राव चन्द्रसेन के उपनाम", "en": "Rao Chandrasen Epithets" },
+      "value": { "hi": "'मारवाड़ का प्रताप', 'प्रताप का अग्रगामी/पथ-प्रदर्शक', 'भूला-बिसरा राजा'", "en": "'Pratap of Marwar', 'Forerunner of Pratap', 'Forgotten Hero'" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "नागौर दरबार (नवम्बर 1570 ई.)", "en": "Nagaur Court (Nov 1570 AD)" },
+      "value": { "hi": "अकबर द्वारा आयोजित (शुक्र तालाब बनवाया); चन्द्रसेन ने अधीनता न मानकर विरोध किया", "en": "Held by Akbar (built Shukra Talao); Chandrasen refused submission" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "चन्द्रसेन की समाधि / स्मारक", "en": "Chandrasen Cenotaph" },
+      "value": { "hi": "सारण की पहाड़ियाँ (सिचियाई गाँव, पाली — 1581 ई.)", "en": "Saran Hills (Sichiyai, Pali — 1581 AD)" },
+      "category": "monument_term"
+    },
+    {
+      "label": { "hi": "मुगल अधीनता स्वीकारने वाला प्रथम मारवाड़ शासक", "en": "First Marwar Ruler under Mughals" },
+      "value": { "hi": "मोटा राजा उदयसिंह (पुत्री मानी बाई/जगत गोसाईं का विवाह सलीम से)", "en": "Mota Raja Udai Singh (married Mani Bai to Salim)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "धरमत का युद्ध (1658 ई.)", "en": "Battle of Dharmat (1658 AD)" },
+      "value": { "hi": "जसवंत सिंह प्रथम (दारा की ओर से) vs औरंगज़ेब", "en": "Jaswant Singh I (for Dara) vs Aurangzeb" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "महाराजा जसवंत सिंह प्रथम के ग्रन्थ", "en": "Jaswant Singh I Literary Works" },
+      "value": { "hi": "भाषा-भूषण (अलंकार ग्रन्थ), प्रबोध चन्द्रोदय, अपरोक्ष सिद्धान्त सार, आनन्द विलास", "en": "Bhasha-Bhushan, Prabodh Chandrodaya, Anand Vilas" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "मुहणौत नैणसी (दरबारी दीवान)", "en": "Muhnot Nainsi (Court Scholar)" },
+      "value": { "hi": "नैणसी री ख्यात एवं मारवाड़ रा परगना री विगत ('राजस्थान का गजेटियर')", "en": "Nainsi ri Khyat & Marwar ra Pargana ri Vigat ('Gazetteer of Rajasthan')" },
+      "category": "literature_source"
+    },
+    {
+      "label": { "hi": "'आज कुफ्र का दरवाजा टूट गया'", "en": "'Gate of Kufr is Broken'" },
+      "value": { "hi": "औरंगज़ेब ने जसवंत सिंह प्रथम की मृत्यु (1678 जमरूद, अफगानिस्तान) पर कहा", "en": "Said by Aurangzeb on Jaswant Singh I's death (1678 Jamrud)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "वीर दुर्गादास राठौड़ के उपनाम", "en": "Veer Durga Das Rathore Epithets" },
+      "value": { "hi": "'मारवाड़ का अणबिंदिया मोती', 'राठौड़ों का यूलीसेस' (कर्नल टॉड)", "en": "'Uncut Pearl of Marwar', 'Ulysses of Rathores' (Col. Tod)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "30-वर्षीय राठौड़-मुगल संघर्ष (1678-1707)", "en": "30-Year Rathore-Mughal War" },
+      "value": { "hi": "दुर्गादास राठौड़ द्वारा शिशु अजीत सिंह को दिल्ली से निकालकर मारवाड़ की रक्षा", "en": "Durga Das rescued infant Ajit Singh from Delhi & fought for 30 years" },
+      "category": "battle_event"
+    },
+    {
+      "label": { "hi": "मारवाड़ की पन्नाधाय", "en": "Panna Dhai of Marwar" },
+      "value": { "hi": "गोरा धाय (अजीत सिंह के प्राणों की रक्षार्थ अपने पुत्र का बलिदान दिया)", "en": "Gora Dhai (sacrificed own son to save infant Ajit Singh)" },
+      "category": "ruler_person"
+    },
+    {
+      "label": { "hi": "दुर्गादास राठौड़ की छतरी", "en": "Durga Das Rathore Cenotaph" },
+      "value": { "hi": "शिप्रा नदी के तट पर, उज्जैन (मध्य प्रदेश)", "en": "On banks of Shipra River, Ujjain (Madhya Pradesh)" },
+      "category": "monument_term"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +141,8 @@
         "en": "1. Origin of Rathores, Founder Rao Siha & Early Rulers"
       },
       "content_markdown": {
-        "hi": "### राठौड़ों की उत्पत्ति एवं कुल परंपरा\n* **उत्पत्ति सिद्धांत:** कर्नल जेम्स टॉड व मुहणौत नैणसी के अनुसार राठौड़ कन्नौज के **गहड़वाल (जयचंद गहड़वाल)** के वंशज हैं। डॉ. जी.एच. ओझा इन्हें बदायूँ के राष्ट्रकूटों की शाखा मानते हैं।\n* **कुलदेवी व इष्टदेवी:** राठौड़ों की कुलदेवी **नागणेची माता** (मूल मंदिर नगाणा, बाड़मेर — काष्ठ प्रतिमा कर्नाटक से राव धूहड़ लाए) तथा आराध्य/इष्टदेवी **चामुण्डा माता** (मेहरानगढ़ दुर्ग) हैं।\n\n### प्रमुख आरंभिक शासक\n| शासक | शासनकाल / समय | ऐतिहासिक महत्व व मुख्य तथ्य |\n|---|---|---|\n| **राव सीहा** | 13वीं सदी (निधन 1273 ई.) | मारवाड़ में राठौड़ वंश के **मूल पुरुष/आदि पुरुष**। पाली के निकट बीठू गाँव में राव सीहा का स्मारक एवं शिलालेख (1273 ई.) स्थित है। |\n| **राव धूहड़** | 14वीं सदी | कर्नाटक से चक्रेश्वरी (नागणेची) माता की 18 भुजाओं वाली काष्ठ मूर्ति लाकर नगाणा गाँव में स्थापित की। |\n| **राव मल्लीनाथ** | 1374–1399 ई. | लोकदेवता व सिद्ध पुरुष; इन्होंने 1399 ई. में कुण्डा पंथ की स्थापना की। इनके नाम पर बाड़मेर क्षेत्र का नाम **मालानी** पड़ा। इनकी रानी रूपादे थीं। |\n| **राव चूँडा** | 1384–1423 ई. | इंदा प्रतिहारों ने अपनी पुत्री का विवाह चूँडा से कर **मण्डोर दहेज में सौंपा**। चूँडा ने मण्डोर को राठौड़ों की राजधानी बनाया और सामंत प्रथा (जागीरदारी) की शुरुआत की। |\n| **राव रणमल** | 1427–1438 ई. | हंसाबाई (रणमल की बहन) का विवाह मेवाड़ के महाराणा लाखा से हुआ। रणमल ने मेवाड़ की राजनीति में हस्तक्षेप किया। 1438 ई. में भारमली की सहायता से चित्तौड़गढ़ में इनकी हत्या हुई। |",
-        "en": "### Origin and Lineage of Rathores\n* **Theories of Origin:** According to Col. James Tod and Muhnot Nainsi, the Rathores descended from the Gaharwars of Kannauj (Jaichand Gaharwar). Dr. G.H. Ojha associates them with the Rashtrakutas of Badaun.\n* **Kuldevi & Ishtadevi:** The Kuldevi is **Nagnechi Mata** (original wooden idol brought from Karnataka by Rao Dhuhad to Nagana, Barmer) and the Ishtadevi is **Chamunda Mata** (Mehrangarh Fort).\n\n### Early Rulers of Marwar\n* **Rao Siha (d. 1273 AD):** The founding ancestor (Adi Purusha) of Rathores in Marwar. His memorial stone is situated at Bithu near Pali.\n* **Rao Dhuhad:** Established the wooden idol of Nagnechi Mata at Nagana.\n* **Rao Mallinath (1374–1399 AD):** Folk deity and ruler; founded the Kunda Sect in 1399. The Malani region is named after him.\n* **Rao Chunda (1384–1423 AD):** Received Mandore in dowry from Inda Pratiharas; established Mandore as capital and initiated the feudal jagirdari system.\n* **Rao Ranmal (1427–1438 AD):** Brother of Hansa Bai (who married Maharana Lakha of Mewar); intervened heavily in Mewar politics until assassinated in 1438 at Chittor."
+        "hi": "### राठौड़ों की उत्पत्ति एवं कुल परंपरा\n- **उत्पत्ति सिद्धांत:** कर्नल टॉड व मुहणौत नैणसी के अनुसार राठौड़ कन्नौज के ==**गहड़वाल (जयचंद गहड़वाल)**== के वंशज हैं। डॉ. जी.एच. ओझा इन्हें बदायूँ के राष्ट्रकूटों की शाखा मानते हैं।\n- **कुलदेवी व इष्टदेवी:** कुलदेवी ==**नागणेची माता**== (मूल काष्ठ मूर्ति नगाणा, बाड़मेर — कर्नाटक से राव धूहड़ लाए) तथा आराध्यदेवी ==**चामुण्डा माता**== (मेहरानगढ़ दुर्ग) हैं।\n\n### प्रमुख आरंभिक शासक:\n- ==**राव सीहा (निधन 1273 ई.)**==: मारवाड़ में राठौड़ वंश के **मूल पुरुष/आदि पुरुष**। पाली के निकट ==बीठू गाँव== में इनका स्मारक व 1273 ई. का देवली शिलालेख स्थित है।\n- ==**राव धूहड़**==: कर्नाटक से नागणेची माता (चक्रेश्वरी) की 18 भुजाओं वाली काष्ठ मूर्ति लाकर नगाणा गाँव में स्थापित की।\n- ==**राव मल्लीनाथ (1374–1399 ई.)**==: लोकदेवता व सिद्ध पुरुष; 1399 ई. में ==कुण्डा पंथ== की स्थापना की। इनके नाम पर बाड़मेर क्षेत्र का नाम ==**मालानी**== पड़ा।\n- ==**राव चूँडा (1384–1423 ई.)**==: इंदा प्रतिहारों ने अपनी पुत्री का विवाह चूँडा से कर ==**मण्डोर दहेज में सौंपा**==। चूँडा ने मण्डोर को राजधानी बनाया और सामंत प्रथा (जागीरदारी) की शुरुआत की।\n- ==**राव रणमल (1427–1438 ई.)**==: हंसाबाई (रणमल की बहन) का विवाह महाराणा लाखा से हुआ। 1438 ई. में भारमली की सहायता से चित्तौड़गढ़ में रणमल की हत्या हुई।",
+        "en": "### Origin and Lineage of Rathores\n- **Origin:** Descendants of ==Gaharwars of Kannauj== (Tod & Nainsi) / Rashtrakutas (Ojha).\n- **Kuldevi & Ishtadevi:** Kuldevi ==Nagnechi Mata== (Nagana, Barmer); Ishtadevi ==Chamunda Mata== (Mehrangarh).\n\n### Early Rulers:\n- ==**Rao Siha (d. 1273 AD)**==: Founding ancestor (Adi Purusha); memorial at ==Bithu, Pali==.\n- ==**Rao Dhuhad**==: Installed 18-armed wooden idol of Nagnechi Mata at Nagana.\n- ==**Rao Mallinath**==: Founded Kunda Sect; ==Malani region== named after him.\n- ==**Rao Chunda**==: Acquired ==Mandore in dowry== from Inda Pratiharas; initiated feudal jagirdari.\n- ==**Rao Ranmal**==: Brother of Hansa Bai; assassinated at Chittorgarh in 1438."
       }
     },
     {
@@ -34,8 +151,8 @@
         "en": "2. Rao Jodha (Founding of Jodhpur City & Mehrangarh Fort)"
       },
       "content_markdown": {
-        "hi": "### राव जोधा (शासनकाल: 1438–1489 ई.)\n* **आंवल-बांवल की संधि (1453 ई.):** हंसाबाई की मध्यस्थता से महाराणा कुंभा और राव जोधा के बीच हुई। इसके द्वारा मेवाड़ और मारवाड़ की सीमा तय हुई (सोजत को सीमा का केंद्र बनाया गया)।\n* **जोधपुर नगर की स्थापना:** राव जोधा ने **12 मई 1459 ई. (ज्येष्ठ शुक्ल एकादशी, वि.सं. 1515)** को जोधपुर नगर बसाया।\n* **मेहरानगढ़ (चिड़ियाटूँक दुर्ग):** \n  - जोधा ने चिड़ियाटूँक पहाड़ी पर दुर्ग की नींव रखी। नींव का पहला पत्थर **करणी माता (ऋद्धि बाई)** के कर-कमलों द्वारा रखा गया।\n  - दुर्ग में राजा राम कड़ेला (मेघवाल) की जीवित बलि दी गई थी।\n  - उपनाम: मयूरध्वजगढ़, गढ़ चिन्तामणि, कागमुखी दुर्ग।\n* **रानी जसमादे:** जोधा की हाड़ी रानी जसमादे ने जोधपुर में **रानीसर तालाब** का निर्माण करवाया।",
-        "en": "### Rao Jodha (1438–1489 AD)\n* **Treaty of Anwal-Banwal (1453 AD):** Mediated by Hansa Bai between Maharana Kumbha and Rao Jodha, demarcating the border between Mewar and Marwar with Sojat as the border junction.\n* **Founding of Jodhpur:** Established Jodhpur on **May 12, 1459 AD (VS 1515)**.\n* **Mehrangarh Fort (Chidiyatunk Hill):**\n  - Foundation stone laid by **Karni Mata (Riddhi Bai)** on Chidiyatunk hill.\n  - Raja Ram Meghwal was sacrificed at the foundation for the fort's prosperity.\n  - Also known as Mayurdhwajgarh, Garh Chintamani.\n* **Ranisar Lake:** Constructed by Rani Jasmade (Hadi queen of Rao Jodha)."
+        "hi": "### राव जोधा (शासनकाल: 1438–1489 ई.):\n- ==**आंवल-बांवल की संधि (1453 ई.)**==: हंसाबाई की मध्यस्थता से महाराणा कुंभा और राव जोधा के मध्य हुई। मेवाड़ व मारवाड़ की सीमा ==सोजत (पाली)== पर निर्धारित हुई।\n- ==**जोधपुर नगर की स्थापना**==: राव जोधा ने ==**12 मई 1459 ई. (वि.सं. 1515)**== को जोधपुर नगर बसाया।\n- ==**मेहरानगढ़ दुर्ग (चिड़ियाटूँक पहाड़ी)**==:\n  - नींव का पहला पत्थर ==**करणी माता (ऋद्धि बाई)**== के कर-कमलों द्वारा रखा गया।\n  - दुर्ग की नींव में ==राजा राम कड़ेला (मेघवाल)== की जीवित समाधि/बलि दी गई।\n  - उपनाम: मयूरध्वजगढ़, गढ़ चिन्तामणि, कागमुखी दुर्ग।\n- **रानीसर तालाब:** जोधा की हाड़ी रानी जसमादे ने निर्माण करवाया।",
+        "en": "### Rao Jodha (1438–1489 AD):\n- ==**Treaty of Anwal-Banwal (1453 AD)**==: Signed between Kumbha & Jodha via Hansa Bai, fixing boundary at ==Sojat==.\n- ==**Founding of Jodhpur**==: Established on ==**May 12, 1459 AD**==.\n- ==**Mehrangarh Fort (Chidiyatunk Hill)**==: Foundation laid by ==**Karni Mata**==; sacrifice of Raja Ram Meghwal; titled Mayurdhwajgarh."
       }
     },
     {
@@ -44,8 +161,8 @@
         "en": "3. Rao Maldeo (Hashmat Wala Raja & Battle of Giri-Sumel)"
       },
       "content_markdown": {
-        "hi": "### राव मालदेव (शासनकाल: 1531–1562 ई.)\n* **उपाधियाँ व सम्मान:** फारसी इतिहासकारों (निज़ामुद्दीन अहमद, फरिश्ता) ने मालदेव को **'हशमत वाला राजा'** (वैभवशाली व शक्तिशाली शासक) तथा बदायूँनी ने **'हिन्दुस्तान का सबसे शक्तिशाली शासक'** कहा।\n* **52 युद्धों का विजेता:** मालदेव ने 52 युद्ध लड़े और 58 परगनों पर अधिकार किया (भाद्राजूण, सिवाना, जालौर, डीडवाना, नागौर, बीकानेर आदि)।\n* **पाहेबा/साहेबा का युद्ध (1541–42 ई.):** मालदेव ने बीकानेर के राव जैतसी को पराजित कर मार डाला। बीकानेर पर अधिकार कर कूूँपा को वहाँ का प्रशासक नियुक्त किया।\n* **रूठी रानी (उमादे):** जैसलमेर के राव लूणकरण की पुत्री उमादे का विवाह मालदेव से हुआ। स्वाभिमानवश जीवन भर अजमेर के तारागढ़ दुर्ग में रहीं और मालदेव की मृत्यु (1562) पर उनकी पगड़ी (छत्र) के साथ सती हुईं।\n\n### ऐतिहासिक गिरि-सुमेल का युद्ध (5 जनवरी 1544 ई.)\n* **पक्ष:** राव मालदेव (सेनानायक: **जैता और कूंपा**) बनाम शेरशाह सूरी (सहायक: कल्याणमल बीकानेर व वीरमदेव मेड़ता)।\n* **घटनाक्रम:** शेरशाह द्वारा जाली पत्रों से मालदेव के मन में जैता-कूंपा के प्रति अविश्वास पैदा किया गया। मालदेव पीछे हट गया, किंतु स्वाभिमान की रक्षा हेतु जैता व कूंपा ने मुट्ठी भर सैनिकों के साथ अदम्य वीरता दिखाई।\n* **शेरशाह का प्रसिद्ध कथन:** > *\"खुदा का शुक्र है कि किसी तरह फतह हासिल हो गई, वरना मैंने एक मुट्ठी बाजरे के लिए सारे हिन्दुस्तान की बादशाहत खो दी होती।\"* (तारीख-ए-दाऊदी)",
-        "en": "### Rao Maldeo (1531–1562 AD)\n* **Titles & Epithets:** Persian historians titled him **'Hashmat Wala Raja'** (Glorious/Powerful Ruler), and Badauni described him as the most formidable Hindu ruler in India.\n* **Conqueror of 52 Battles:** Subdued 58 parganas across Marwar, Nagaur, Merta, Bikaner, and Jalore.\n* **Battle of Paheba/Saheba (1541–42 AD):** Defeated and killed Rao Jaitsi of Bikaner; assigned Bikaner administration to general Kumpa.\n* **Ruthi Rani (Umade):** Daughter of Rao Lunkaran of Jaisalmer; lived alienated at Taragarh Fort (Ajmer) due to self-respect, and performed Sati with Maldeo's turban in 1562.\n\n### Battle of Giri-Sumel (January 5, 1544 AD)\n* **Combatants:** Rao Maldeo's gallant generals **Jaita and Kumpa** vs Sher Shah Suri.\n* **Sher Shah's Famous Quote:** > *\"For a handful of pearl millet (bajra), I had almost lost the empire of all Hindustan.\"* (Tarikh-i-Daudi)"
+        "hi": "### राव मालदेव (शासनकाल: 1531–1562 ई.):\n- **उपाधियाँ:** फारसी इतिहासकारों ने ==**'हशमत वाला राजा'**== (वैभवशाली शासक) तथा बदायूँनी ने 'हिन्दुस्तान का सबसे शक्तिशाली शासक' कहा।\n- **52 युद्धों का विजेता:** 58 परगनों पर विजय प्राप्त की।\n- ==**पाहेबा/साहेबा का युद्ध (1541–42 ई.)**==: बीकानेर के राव जैतसी को पराजित कर मार डाला; बीकानेर का प्रबंध ==कूंपा== को सौंपा।\n- ==**रूठी रानी (उमादे)**==: जैसलमेर राव लूणकरण की पुत्री; स्वाभिमानवश जीवन भर अजमेर के तारागढ़ में रहीं; 1562 ई. में मालदेव की पगड़ी के साथ सती हुईं।\n\n### ऐतिहासिक गिरि-सुमेल का युद्ध (5 जनवरी 1544 ई.):\n- **स्थान:** जैतारण (ब्यावर / पूर्व पाली)।\n- **प्रतिद्वन्द्वी:** मालदेव के वीर सेनापति ==**जैता और कूंपा**== बनाम ==**शेरशाह सूरी**==।\n- **रणनीति:** शेरशाह ने कूटनीतिक षड्यंत्र से जाली पत्र डालकर मालदेव के मन में संदेह पैदा किया। मालदेव पीछे हट गया, किंतु जैता व कूंपा ने अदम्य वीरता से युद्ध किया।\n- **शेरशाह का कथन:** > ==*\"एक मुट्ठी बाजरे के लिए मैंने सारे हिन्दुस्तान की बादशाहत खो दी होती।\"*== (तारीख-ए-दाऊदी)",
+        "en": "### Rao Maldeo (1531–1562 AD):\n- **Titles:** ==**'Hashmat Wala Raja'**== (by Persian chroniclers) & conqueror of ==52 battles== (58 parganas).\n- ==**Battle of Paheba (1541–42 AD)**==: Defeated and killed Rao Jaitsi of Bikaner.\n- ==**Ruthi Rani (Umade)**==: Daughter of Lunkaran; resided at Taragarh Ajmer; Sati with Maldeo's turban in 1562.\n\n### Battle of Giri-Sumel (5 January 1544 AD):\n- Fought at Jaitaran between ==**Jaita & Kumpa**== and ==**Sher Shah Suri**==.\n- **Sher Shah's Famous Quote:** > ==*\"For a handful of pearl millet, I had almost lost the empire of all Hindustan.\"*=="
       }
     },
     {
@@ -54,8 +171,8 @@
         "en": "4. Rao Chandrasen ('The Pratap of Marwar') & Nagaur Court (1570)"
       },
       "content_markdown": {
-        "hi": "### राव चन्द्रसेन (शासनकाल: 1562–1581 ई.)\n* **उपनाम:** \n  1. **मारवाड़ का प्रताप** (महाराणा प्रताप का अग्रगामी/पथ-प्रदर्शक)\n  2. **मारवाड़ का भूला-बिसरा राजा** (The Forgotten Hero of Marwar)\n* **नागौर दरबार (नवंबर 1570 ई.):** अकबर ने अकाल राहत के बहाने नागौर में दरबार लगाया और **शुक्र तालाब** का निर्माण करवाया।\n  - बीकानेर के कल्याणमल, जैसलमेर के हरराज भाटी ने अधीनता स्वीकार की।\n  - राव चन्द्रसेन नागौर दरबार में उपस्थित तो हुए, लेकिन अकबर के पक्षपातपूर्ण व्यवहार को देखकर बिना अधीनता स्वीकार किए दरबार छोड़कर चले गए।\n* **छापामार युद्ध व संघर्ष:** अकबर ने हुसैन कुली खां व रायसिंह को सेना देकर भेजा। चन्द्रसेन ने जोधपुर छोड़कर **भाद्राजूण**, फिर **सिवाना दुर्ग** (छप्पन की पहाड़ियों) को अपना केंद्र बनाया।\n* **देहांत:** 11 जनवरी 1581 ई. को सारण की पहाड़ियों (सिचियाई गाँव, पाली) में चन्द्रसेन का देहांत हुआ, जहाँ उनकी अश्वारोही प्रतिमा व स्मारक स्थित है।\n\n### मोटा राजा उदयसिंह (1583–1595 ई.)\n* अकबर की अधीनता स्वीकार करने वाला मारवाड़ का प्रथम राठौड़ शासक।\n* अपनी पुत्री **मानी बाई (जोधा बाई/जगत गोसाईं)** का विवाह राजकुमार सलीम (जहाँगीर) से किया, जिससे खुर्रम (शाहजहाँ) का जन्म हुआ।",
-        "en": "### Rao Chandrasen (1562–1581 AD)\n* **Epithets:**\n  1. **Pratap of Marwar** (Forerunner/Pioneer of Maharana Pratap in guerrilla warfare).\n  2. **The Forgotten Hero of Marwar** (Bhula-Bisra Raja).\n* **Nagaur Court (November 1570 AD):** Organised by Akbar under the pretext of famine relief (constructed Shukra Talao). Kalyanmal of Bikaner and Harraj of Jaisalmer submitted. Chandrasen attended but left indignantly without submitting.\n* **Resistance & Strongholds:** Chandrasen defended Bhadrajun, then shifted to **Siwana Fort** in the Chhappan hills.\n* **Demise:** Died on Jan 11, 1581 at Saran hills (Sichiyai, Pali), where his equestrian cenotaph stands.\n\n### Mota Raja Udai Singh (1583–1595 AD)\n* First Marwar ruler to accept Mughal suzerainty.\n* Married his daughter **Mani Bai (Jagat Gosain/Jodha Bai)** to Prince Salim (Jahangir); she gave birth to Prince Khurram (Shah Jahan)."
+        "hi": "### राव चन्द्रसेन (शासनकाल: 1562–1581 ई.):\n- **उपनाम:**\n  1. ==**'मारवाड़ का प्रताप'**== (महाराणा प्रताप का अग्रगामी / पथ-प्रदर्शक)\n  2. ==**'मारवाड़ का भूला-बिसरा राजा' (The Forgotten Hero of Marwar)**==\n- ==**नागौर दरबार (नवंबर 1570 ई.)**==: अकबर ने अकाल राहत के बहाने नागौर में दरबार लगाया और ==शुक्र तालाब== का निर्माण करवाया।\n  - बीकानेर के कल्याणमल व जैसलमेर के हरराज भाटी ने अधीनता मानी।\n  - चन्द्रसेन दरबार में उपस्थित हुए, किंतु अकबर की कुटिल नीति देखकर बिना अधीनता स्वीकार किए चले गए।\n- **छापामार प्रतिरोध:** चन्द्रसेन ने जोधपुर छोड़कर ==भाद्राजूण==, फिर ==सिवाना दुर्ग== को अपना केंद्र बनाकर आजीवन मुगलों से छापामार युद्ध लड़ा।\n- **महाप्रयाण:** 11 जनवरी 1581 ई. को ==सारण की पहाड़ियों (सिचियाई गाँव, पाली)== में चन्द्रसेन का देहांत हुआ (अश्वारोही स्मारक स्थित)।\n\n### मोटा राजा उदयसिंह (1583–1595 ई.):\n- मुगलों की अधीनता स्वीकारने वाला मारवाड़ का प्रथम राठौड़ शासक।\n- अपनी पुत्री ==मानी बाई (जोधा बाई / जगत गोसाईं)== का विवाह शहजादे सलीम (जहांगीर) से किया (खुर्रम/शाहजहाँ की माता)।",
+        "en": "### Rao Chandrasen (1562–1581 AD):\n- **Epithets:** ==**'Pratap of Marwar'**==, ==**'Forerunner of Pratap'**==, ==**'The Forgotten Hero'**==.\n- ==**Nagaur Court (Nov 1570 AD)**==: Held by Akbar (excavated ==Shukra Talao==); Chandrasen attended but walked out refusing vassalage.\n- **Resistance:** Retreated to ==Bhadrajun== and ==Siwana Fort== to conduct guerrilla warfare.\n- **Demise:** Died on 11 Jan 1581 at ==Saran Hills (Sichiyai, Pali)==.\n\n### Mota Raja Udai Singh (1583–1595 AD):\n- First Marwar ruler to submit to Akbar; married daughter ==Mani Bai (Jagat Gosain)== to Jahangir."
       }
     },
     {
@@ -64,8 +181,8 @@
         "en": "5. Maharaja Jaswant Singh I & Veer Durga Das Rathore's 30-Year War"
       },
       "content_markdown": {
-        "hi": "### महाराजा जसवंत सिंह प्रथम (शासनकाल: 1638–1678 ई.)\n* **उपाधि:** शाहजहाँ ने इन्हें **'महाराजा'** की उपाधि दी।\n* **धरमत का युद्ध (1658 ई.):** उत्तराधिकार युद्ध में शाहजहाँ की ओर से औरंगज़ेब के विरुद्ध लड़े। पराजय के बाद जब जोधपुर लौटे, तो हाड़ी रानी जसवंतदे (कर्मेती) ने दुर्ग के द्वार खोलने से इनकार कर दिया था।\n* **साहित्यिक रचनाएँ:** *भाषा-भूषण* (अलंकार ग्रंथ), *प्रबोध चन्द्रोदय*, *अपरोक्ष सिद्धांत सार*, *आनंद विलास*।\n* **दरबारी विद्वान:** **मुहणौत नैणसी** (*नैणसी री ख्यात*, *मारवाड़ रा परगना री विगत* — राजस्थान का गजेटियर)।\n* **निधन:** 28 नवंबर 1678 ई. को जमरूद (अफगानिस्तान) में निधन। औरंगज़ेब ने कहा: > *\"आज कुफ्र (धर्म-विरोध) का दरवाजा टूट गया।\"*\n\n### वीर दुर्गादास राठौड़ एवं 30-वर्षीय राठौड़-मुगल संघर्ष (1678–1707 ई.)\n* **परिचय:** आसकरण के पुत्र, ग्राम सालवा (जोधपुर) में जन्म।\n* **उपनाम:** **'मारवाड़ का अणबिंदिया मोती'**, **'राठौड़ों का यूलीसेस'** (कर्नल टॉड द्वारा)।\n* **संघर्ष:** औरंगज़ेब द्वारा जोधपुर को खालसा घोषित करने व शिशु अजीत सिंह को बंदी बनाने के षड्यंत्र को विफल कर, गोरा धाय (मारवाड़ की पन्नाधाय) व मुकुंददास खींची की मदद से अजीत सिंह को दिल्ली से सुरक्षित निकाला।\n* **देवलिया/देबारी समझौता (1708 ई.):** मेवाड़ महाराणा अमरसिंह द्वितीय, मारवाड़ के अजीत सिंह और आमेर के सवाई जयसिंह के मध्य मुगलों के विरुद्ध समझौता हुआ।\n* **अंतिम समय:** अजीत सिंह ने कान के कच्चे होने के कारण दुर्गादास को देश निकाला दिया। दुर्गादास उज्जैन (मध्य प्रदेश) चले गए, जहाँ शिप्रा नदी के तट पर उनकी छतरी स्थित है।",
-        "en": "### Maharaja Jaswant Singh I (1638–1678 AD)\n* **Title:** Conferred the title **'Maharaja'** by Mughal Emperor Shah Jahan.\n* **Battle of Dharmat (1658 AD):** Fought on Shah Jahan's side against Aurangzeb in the war of succession. Upon defeat, his Hadi queen Jaswantde initially shut the gates of Mehrangarh Fort against him.\n* **Literary Works:** *Bhasha-Bhushan* (famous treatise on rhetoric), *Prabodh Chandrodaya*, *Aparoksha Siddhanta Sara*, *Anand Vilas*.\n* **Court Scholar:** **Muhnot Nainsi** (*Nainsi ri Khyat*, *Marwar ra Pargana ri Vigat* — 'Gazetteer of Rajasthan').\n* **Demise:** Died at Jamrud (Afghanistan) in Nov 1678. Aurangzeb remarked: > *\"Today the gate of Kufr (heresy) has been broken.\"*\n\n### Veer Durga Das Rathore & the 30-Year War (1678–1707 AD)\n* **Epithets:** **'Uncut Pearl of Marwar' (अणबिंदिया मोती)**, **'Ulysses of the Rathores'** (by Col. Tod).\n* **Heroic Rescue:** Rescued infant Ajit Singh from Aurangzeb's clutches in Delhi with the aid of Gora Dhai (the Panna Dhai of Marwar) and Mukund Das Khichi.\n* **Debari Pact (1708 AD):** Tripartite alliance between Mewar (Amar Singh II), Marwar (Ajit Singh), and Amber (Sawai Jai Singh) to restore Rathore & Kachhwaha rule.\n* **Exile & Cenotaph:** Later exiled by Ajit Singh due to court intrigues; spent his last years in Ujjain (MP) where his memorial stands on the banks of Shipra River."
+        "hi": "### महाराजा जसवंत सिंह प्रथम (शासनकाल: 1638–1678 ई.):\n- **उपाधि:** शाहजहाँ द्वारा =='महाराजा'== की पदवी।\n- ==**धरमत का युद्ध (1658 ई.)**==: उत्तराधिकार युद्ध में शाहजहाँ/दारा शिकोह की ओर से औरंगज़ेब के विरुद्ध लड़े। पराजय पर लौटने पर हाड़ी रानी जसवंतदे ने दुर्ग के कपाट बंद कर दिए थे।\n- **साहित्यिक कृतियाँ:** ==*भाषा-भूषण*== (अलंकार ग्रन्थ), ==*प्रबोध चन्द्रोदय*==, ==*अपरोक्ष सिद्धान्त सार*==, ==*आनन्द विलास*==।\n- **दरबारी दीवान:** ==**मुहणौत नैणसी**== (*नैणसी री ख्यात*, *मारवाड़ रा परगना री विगत* — ==**'राजस्थान का गजेटियर'**==)।\n- **निधन:** 28 नवंबर 1678 को जमरूद (अफगानिस्तान) में निधन। औरंगज़ेब का कथन: > ==*\"आज कुफ्र (धर्म-विरोध) का दरवाजा टूट गया।\"*==\n\n### वीर दुर्गादास राठौड़ एवं 30-वर्षीय संघर्ष (1678–1707 ई.):\n- **उपनाम:** ==**'मारवाड़ का अणबिंदिया मोती'**==, ==**'राठौड़ों का यूलीसेस'**== (कर्नल टॉड द्वारा)।\n- **शिशु अजीत सिंह की रक्षा:** औरंगज़ेब द्वारा जोधपुर को 'खालसा' घोषित करने पर ==गोरा धाय== (मारवाड़ की पन्नाधाय) व मुकुंददास खींची की मदद से अजीत सिंह को दिल्ली से सकुशल निकाला।\n- ==**देबारी समझौता (1708 ई.)**==: मेवाड़ (अमरसिंह द्वितीय), मारवाड़ (अजीत सिंह) व आमेर (सवाई जयसिंह) का मुगलों विरुद्ध संयुक्त मोर्चा।\n- **अंतिम समय:** अजीत सिंह द्वारा निष्कासित किए जाने पर उज्जैन चले गए, जहाँ ==**शिप्रा नदी के तट पर दुर्गादास की छतरी**== स्थित है।",
+        "en": "### Maharaja Jaswant Singh I (1638–1678 AD):\n- Titled ==**'Maharaja'**== by Shah Jahan; fought at ==Battle of Dharmat (1658 AD)==.\n- Author of ==*Bhasha-Bhushan*==, *Prabodh Chandrodaya*, *Anand Vilas*.\n- Courtier ==Muhnot Nainsi== composed ==*Marwar ra Pargana ri Vigat*== ('Gazetteer of Rajasthan').\n- Demise at Jamrud in 1678. Aurangzeb declared: > ==*\"Today the gate of Kufr is broken.\"*==\n\n### Veer Durga Das Rathore (1678–1707 AD):\n- Epithets: ==**'Uncut Pearl of Marwar'**==, ==**'Ulysses of Rathores'**== (by Col. Tod).\n- Rescued infant Ajit Singh with ==Gora Dhai==; waged 30-year liberation struggle.\n- Cenotaph stands on the banks of ==**Shipra River in Ujjain (MP)**==."
       }
     }
   ],
@@ -99,104 +216,16 @@
       "en": "Rao Chandrasen is known as the 'Pratap of Marwar', 'Forerunner of Pratap', and 'The Forgotten King'."
     },
     {
-      "hi": "अकबर के 1570 के नागौर दरबार में चन्द्रसेन बिना अधीनता स्वीकार किए उपस्थित होकर वापस लौट आए थे।",
-      "en": "In Akbar's Nagaur Court (1570 AD), Rao Chandrasen appeared but walked out without submitting to Mughal suzerainty."
+      "hi": "मुहणौत नैणसी के ग्रंथ 'मारवाड़ रा परगना री विगत' को 'राजस्थान का गजेटियर' कहा जाता है।",
+      "en": "Muhnot Nainsi's treatise 'Marwar ra Pargana ri Vigat' is hailed as the 'Gazetteer of Rajasthan'."
     },
     {
-      "hi": "जसवंत सिंह प्रथम के दरबारी इतिहासकार मुहणौत नैणसी ने 'मारवाड़ रा परगना री विगत' की रचना की।",
-      "en": "Jaswant Singh I's court chronicler Muhnot Nainsi authored 'Marwar ra Pargana ri Vigat' (Rajasthan's Gazetteer)."
+      "hi": "वीर दुर्गादास राठौड़ को 'मारवाड़ का अणबिंदिया मोती' तथा कर्नल टॉड ने 'राठौड़ों का यूलीसेस' कहा।",
+      "en": "Veer Durga Das Rathore is hailed as 'Uncut Pearl of Marwar' and 'Ulysses of Rathores'."
     },
     {
-      "hi": "कर्नल जेम्स टॉड ने वीर दुर्गादास राठौड़ को 'राठौड़ों का यूलीसेस' (Ulysses of Rathores) की संज्ञा दी।",
-      "en": "Col. James Tod designated Veer Durga Das Rathore as the 'Ulysses of the Rathores'."
-    }
-  ],
-  "timeline": [
-    {
-      "year": "1273 ई.",
-      "event": {
-        "hi": "राव सीहा का बीठू (पाली) के पास गायों की रक्षार्थ देहांत एवं स्मारक निर्माण।",
-        "en": "Demise of founder Rao Siha at Bithu (Pali) protecting cows; memorial pillar erected."
-      }
-    },
-    {
-      "year": "1453 ई.",
-      "event": {
-        "hi": "मेवाड़-मारवाड़ सीमा निर्धारण हेतु प्रसिद्ध 'आंवल-बांवल की संधि'।",
-        "en": "The landmark 'Treaty of Anwal-Banwal' demarcating boundaries between Mewar and Marwar."
-      }
-    },
-    {
-      "year": "1459 ई. (12 मई)",
-      "event": {
-        "hi": "राव जोधा द्वारा जोधपुर नगर की स्थापना एवं मेहरानगढ़ दुर्ग की नींव।",
-        "en": "Foundation of Jodhpur city and Mehrangarh Fort on Chidiyatunk hill by Rao Jodha."
-      }
-    },
-    {
-      "year": "1544 ई. (5 जनवरी)",
-      "event": {
-        "hi": "जैतारण के पास गिरि-सुमेल का युद्ध — जैता व कूंपा का अद्वितीय बलिदान।",
-        "en": "Battle of Giri-Sumel near Jaitaran — supreme sacrifice of Rathore heroes Jaita and Kumpa."
-      }
-    },
-    {
-      "year": "1570 ई. (नवंबर)",
-      "event": {
-        "hi": "अकबर का नागौर दरबार — राव चन्द्रसेन द्वारा मुग़ल अधीनता का स्पष्ट बहिष्कार।",
-        "en": "Akbar's Nagaur Court — Rao Chandrasen attends and defiantly rejects Mughal vassalage."
-      }
-    },
-    {
-      "year": "1678 ई.",
-      "event": {
-        "hi": "महाराजा जसवंत सिंह प्रथम का जमरूद में निधन — दुर्गादास द्वारा 30-वर्षीय संघर्ष का आरंभ।",
-        "en": "Maharaja Jaswant Singh I passes away at Jamrud; Durga Das Rathore begins the 30-year resistance."
-      }
-    }
-  ],
-  "exam_traps_and_tricks": [
-    {
-      "concept": {
-        "hi": "मारवाड़ का प्रताप vs मारवाड़ का उद्धारक",
-        "en": "Pratap of Marwar vs Savior of Marwar"
-      },
-      "trap": {
-        "hi": "परीक्षार्थी अक्सर 'मारवाड़ का प्रताप' (राव चन्द्रसेन) और 'राठौड़ों का यूलीसेस / मारवाड़ का अणबिंदिया मोती' (वीर दुर्गादास राठौड़) में भ्रमित हो जाते हैं।",
-        "en": "Candidates often confuse 'Pratap of Marwar' (Rao Chandrasen) with 'Ulysses of Rathores / Uncut Pearl' (Veer Durga Das Rathore)."
-      },
-      "trick": {
-        "hi": "याद रखें: चन्द्रसेन = शासक (प्रताप के अग्रगामी); दुर्गादास राठौड़ = सेनापति/संरक्षक (अजीत सिंह के रक्षक व यूलीसेस)।",
-        "en": "Remember: Chandrasen = King/Ruler (Pratap's forerunner); Durga Das Rathore = General/Guardian (Rescuer of Ajit Singh, Ulysses)."
-      }
-    },
-    {
-      "concept": {
-        "hi": "रूठी रानी: उमादे vs रानी भटियाणी",
-        "en": "Ruthi Rani: Umade vs Rani Bhatiyani"
-      },
-      "trap": {
-        "hi": "रूठी रानी के नाम से प्रसिद्ध उमादे जैसलमेर के राव लूणकरण की पुत्री व राव मालदेव की पत्नी थीं, जिन्होंने तारागढ़ (अजमेर) में निर्वासित जीवन बिताया।",
-        "en": "Ruthi Rani Umade was daughter of Rao Lunkaran of Jaisalmer and queen of Rao Maldeo, who lived alienated in Taragarh (Ajmer)."
-      },
-      "trick": {
-        "hi": "उमादे मालदेव की पगड़ी के साथ सती हुईं (1562 ई. गुंदोज, पाली)।",
-        "en": "Umade performed Sati with Maldeo's turban in 1562 AD at Gundoj, Pali."
-      }
-    },
-    {
-      "concept": {
-        "hi": "पाहेबा/साहेबा का युद्ध (1541-42) vs गिरि-सुमेल का युद्ध (1544)",
-        "en": "Battle of Paheba (1541-42) vs Battle of Giri-Sumel (1544)"
-      },
-      "trap": {
-        "hi": "पाहेबा का युद्ध मालदेव बनाम राव जैतसी (बीकानेर) के मध्य हुआ, जबकि गिरि-सुमेल मालदेव (जैता-कूंपा) बनाम शेरशाह सूरी के मध्य हुआ।",
-        "en": "Battle of Paheba was Maldeo vs Rao Jaitsi of Bikaner, whereas Giri-Sumel was Maldeo (Jaita-Kumpa) vs Sher Shah Suri."
-      },
-      "trick": {
-        "hi": "पाहेबा में जैतसी वीरगति को प्राप्त हुए और कल्याणमल शेरशाह के पास सहायता हेतु गया।",
-        "en": "Jaitsi fell in Paheba, prompting Kalyanmal to seek Sher Shah Suri's intervention."
-      }
+      "hi": "वीर दुर्गादास राठौड़ की प्रसिद्ध छतरी उज्जैन (मध्य प्रदेश) में शिप्रा नदी के तट पर स्थित है।",
+      "en": "Veer Durga Das Rathore's cenotaph is situated on the banks of Shipra River in Ujjain (MP)."
     }
   ],
   "mcqs": [
