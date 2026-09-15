@@ -87,22 +87,22 @@
     {
       "id": "MCQ-A.08.03-01",
       "question": {
-        "hi": "25 अप्रैल 1934 को सीकर के कटराथल में आयोजित ऐतिहासिक महिला सम्मेलन की अध्यक्षता किसने की थी, जिसमें 10,000 महिलाओं ने भाग लिया था?",
-        "en": "Who presided over the historic Katrathal Women's Conference in Sikar on 25 April 1934 attended by 10,000 women?"
+        "hi": "1931 ई. में बिजोलिया आंदोलन के दौरान गिरफ्तार होने के बाद पुलिस द्वारा चेतावनी दिए जाने पर 'जब तक किसानों पर अत्याचार बंद नहीं होंगे, मैं आती रहूँगी' कहने वाली साहसी महिला नेत्री कौन थीं?",
+        "en": "Which courageous woman leader declared to the police during the 1931 Bijolia movement that 'As long as atrocities on farmers do not stop, I will keep coming'?"
       },
       "options": [
-        { "id": "A", "text": { "hi": "किशोरी देवी (Kishori Devi)", "en": "Kishori Devi" } },
-        { "id": "B", "text": { "hi": "उत्तमा देवी (Uttama Devi)", "en": "Uttama Devi" } },
-        { "id": "C", "text": { "hi": "अंजना देवी चौधरी", "en": "Anjana Devi Chaudhary" } },
-        { "id": "D", "text": { "hi": "नारायणी देवी वर्मा", "en": "Narayani Devi Verma" } }
+        { "id": "A", "text": { "hi": "श्रीमती रमा देवी (लादूराम जोशी की पत्नी)", "en": "Smt. Rama Devi (wife of Laduram Joshi)" } },
+        { "id": "B", "text": { "hi": "श्रीमती अंजना देवी चौधरी", "en": "Smt. Anjana Devi Chaudhary" } },
+        { "id": "C", "text": { "hi": "श्रीमती जानकी देवी बजाज", "en": "Smt. Janaki Devi Bajaj" } },
+        { "id": "D", "text": { "hi": "श्रीमती नारायणी देवी वर्मा", "en": "Smt. Narayani Devi Verma" } }
       ],
       "correct_option": "A",
       "explanation": {
-        "hi": "सरदार हरलाल सिंह की धर्मपत्नी श्रीमती किशोरी देवी की अध्यक्षता में कटराथल में 10,000 महिलाओं का विशाल सम्मेलन हुआ था।",
-        "en": "Smt. Kishori Devi chaired the Katrathal conference of 10,000 women organized to protest feudal atrocities."
+        "hi": "श्रीमती रमा देवी (लादूराम जोशी की धर्मपत्नी) ने 1931 में बिजोलिया में किसान महिलाओं का नेतृत्व किया। पुलिस द्वारा मेवाड़ राज्य छोड़ने की चेतावनी पर उन्होंने अदम्य साहस से यह उत्तर दिया था।",
+        "en": "Smt. Rama Devi boldly defied Mewar police warnings during the 1931 Bijolia movement, refusing to abandon the peasant struggle."
       },
-      "difficulty": "easy",
-      "pyq_source": "RPSC RAS Prelims 2018 / RSSB CET 2023"
+      "difficulty": "medium",
+      "pyq_source": "RPSC 2nd Grade 2018 / RSSB Patwari 2021"
     },
     {
       "id": "MCQ-A.08.03-02",

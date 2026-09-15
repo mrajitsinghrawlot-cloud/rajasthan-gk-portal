@@ -205,6 +205,126 @@
       },
       "pyq_source": "RPSC College Lecturer 2021",
       "difficulty": "hard"
+    },
+    {
+      "id": "MCQ-A.04.01-05",
+      "question": {
+        "en": "In 734 AD, with the blessings of which sage did Bappa Rawal defeat Man Mori and capture Chittorgarh?",
+        "hi": "734 ई. में किस ऋषि के आशीर्वाद से बप्पा रावल ने मान मोरी को पराजित कर चित्तौड़ पर अधिकार किया था?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Harit Rishi", "hi": "महर्षि हरित ऋषि" } },
+        { "id": "B", "text": { "en": "Vashistha Rishi", "hi": "महर्षि वशिष्ठ" } },
+        { "id": "C", "text": { "en": "Vishwamitra", "hi": "महर्षि विश्वामित्र" } },
+        { "id": "D", "text": { "en": "Gautam Rishi", "hi": "गौतम ऋषि" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "en": "Bappa Rawal received the boon and sword from Harit Rishi, the sage of the Pashupata sect, to establish Mewar's rule.",
+        "hi": "पाशुपत संप्रदाय के महर्षि हरित ऋषि के आशीर्वाद से बप्पा रावल ने 734 ई. में मान मोरी को हराकर चित्तौड़ जीता तथा नागदा में एकलिंगजी मंदिर बनवाया।"
+      },
+      "pyq_source": "RPSC 2nd Grade 2018 / RSSB CET 2023",
+      "difficulty": "easy"
+    },
+    {
+      "id": "MCQ-A.04.01-06",
+      "question": {
+        "en": "Who among the following was the chief architect of the 9-storeyed Vijay Stambh (Kirti Stambh) built by Rana Kumbha?",
+        "hi": "राणा कुम्भा द्वारा निर्मित 9-मंजिला विजय स्तम्भ (कीर्ति स्तम्भ) का मुख्य वास्तुकार (शिल्पी) कौन था?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Jaita along with Napa, Poma, Punja", "hi": "जैता (साथ में नापा, पोमा, पूंजा)" } },
+        { "id": "B", "text": { "en": "Mandan", "hi": "मंडन" } },
+        { "id": "C", "text": { "en": "Deepak", "hi": "दीपक" } },
+        { "id": "D", "text": { "en": "Atrri and Mahesh", "hi": "अत्रि एवं महेश" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "en": "The main architects of Vijay Stambh were Jaita and his sons Napa, Poma, and Punja (Mandan was architect of Kumbhalgarh).",
+        "hi": "विजय स्तम्भ के मुख्य शिल्पी जैता व उसके पुत्र नापा, पोमा, पूंजा थे। जबकि कुम्भलगढ़ दुर्ग के मुख्य शिल्पी मंडन थे।"
+      },
+      "pyq_source": "RPSC 1st Grade 2020 / RSSB Patwari 2021",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MCQ-A.04.01-07",
+      "question": {
+        "en": "During the Battle of Haldighati, when Maharana Pratap was severely wounded, who donned the royal regalia and crown to save him?",
+        "hi": "हल्दीघाटी के युद्ध में महाराणा प्रताप के घायल होने पर किस वीर सेनानी ने राजमुकुट व राजचिह्न धारण कर युद्ध जारी रखा था?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Jhala Bida (Jhala Manna)", "hi": "झाला बीदा (झाला मन्ना)" } },
+        { "id": "B", "text": { "en": "Jhala Ajja", "hi": "झाला अज्जा" } },
+        { "id": "C", "text": { "en": "Rawat Krishna Das Chundawat", "hi": "रावत कृष्णदास चूंडावत" } },
+        { "id": "D", "text": { "en": "Ramdas Rathore", "hi": "रामदास राठौड़" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "en": "Jhala Bida of Sadri took the royal insignia during Haldighati (Jhala Ajja took the insignia for Rana Sanga in Khanwa).",
+        "hi": "हल्दीघाटी में झाला बीदा (सादड़ी) ने छत्र धारण किया, जबकि खानवा के युद्ध में राणा सांगा के घायल होने पर झाला अज्जा ने राजचिह्न धारण किए थे।"
+      },
+      "pyq_source": "RPSC RAS Pre 2016 / RSSB CET 2023",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MCQ-A.04.01-08",
+      "question": {
+        "en": "In which battle in 1227 AD did Rawal Jaitra Singh of Mewar decisively defeat Delhi Sultan Iltutmish?",
+        "hi": "1227 ई. में मेवाड़ के रावल जैत्रसिंह ने दिल्ली के किस सुल्तान को 'भूताला के युद्ध' में पराजित किया था?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Iltutmish", "hi": "इल्तुतमिश" } },
+        { "id": "B", "text": { "en": "Balban", "hi": "बलबन" } },
+        { "id": "C", "text": { "en": "Alauddin Khalji", "hi": "अलाउद्दीन खिलजी" } },
+        { "id": "D", "text": { "en": "Qutbuddin Aibak", "hi": "कुतुबुद्दीन ऐबक" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "en": "Rawal Jaitra Singh defeated Iltutmish in the Battle of Bhutala (1227 AD) as described in Jayasingh Suri's 'Hammir Mada Mardana'.",
+        "hi": "जयसिंह सूरि के ग्रन्थ 'हम्मीर मद मर्दन' के अनुसार रावल जैत्रसिंह ने 1227 ई. में भूताला के युद्ध में दिल्ली सुल्तान इल्तुतमिश की सेना को पराजित किया था।"
+      },
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB CET 2023",
+      "difficulty": "hard"
+    },
+    {
+      "id": "MCQ-A.04.01-09",
+      "question": {
+        "en": "In 1585 AD, Maharana Pratap established his emergency capital at Chavand, where he died in 1597. In which village is his 8-pillared cenotaph located?",
+        "hi": "1585 ई. में महाराणा प्रताप ने अपनी आपातकालीन राजधानी चावण्ड बनाई। चावण्ड के निकट किस गाँव में महाराणा प्रताप की 8 खंभों की छतरी स्थित है?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Bandoli (Udaipur)", "hi": "बांडोली (उदयपुर)" } },
+        { "id": "B", "text": { "en": "Balicha", "hi": "बलीचा" } },
+        { "id": "C", "text": { "en": "Gogunda", "hi": "गोगुन्दा" } },
+        { "id": "D", "text": { "en": "Kumbhalgarh", "hi": "कुम्भलगढ़" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "en": "Maharana Pratap passed away on 19 Jan 1597 at Chavand, and his 8-pillar cenotaph stands at Bandoli (Balicha has Chetak's memorial).",
+        "hi": "महाराणा प्रताप की 8 खंभों की प्रसिद्ध छतरी बांडोली गाँव (खेजड़ बाँध के किनारे) में स्थित है, जबकि चेतक का चबूतरा बलीचा गाँव में है।"
+      },
+      "pyq_source": "RSSB CET 2023 / Police Constable 2020",
+      "difficulty": "medium"
+    },
+    {
+      "id": "MCQ-A.04.01-10",
+      "question": {
+        "en": "Under the historic Mughal-Mewar Treaty of 1615 AD, which Prince of Mewar was sent to the Mughal Court with a mansab of 5000?",
+        "hi": "5 फरवरी 1615 ई. को संपन्न मुगल-मेवाड़ सन्धि के तहत मेवाड़ के किस राजकुमार को 5000 के मनसब के साथ मुगल दरबार में भेजा गया था?"
+      },
+      "options": [
+        { "id": "A", "text": { "en": "Kunwar Karan Singh", "hi": "कुंवर कर्ण सिंह" } },
+        { "id": "B", "text": { "en": "Kunwar Amar Singh", "hi": "कुंवर अमर सिंह" } },
+        { "id": "C", "text": { "en": "Kunwar Jagat Singh", "hi": "कुंवर जगत सिंह" } },
+        { "id": "D", "text": { "en": "Kunwar Raj Singh", "hi": "कुंवर राज सिंह" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "en": "Under the 1615 treaty between Amar Singh I and Jahangir, the Maharana was exempted from personal attendance, and Prince Karan Singh was given a 5000 Mansab.",
+        "hi": "1615 की संधि की शर्त के अनुसार महाराणा स्वयं मुगल दरबार में उपस्थित नहीं होंगे, उनके स्थान पर युवराज कर्ण सिंह को 5000 का मनसब देकर भेजा गया।"
+      },
+      "pyq_source": "RPSC 1st Grade GK 2022 / RSSB Junior Accountant 2024",
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,0 +1,280 @@
+{
+  "id": "A.07.05",
+  "subject_id": "history",
+  "unit_id": "A.07",
+  "slug": "other-peasant-movements",
+  "title": {
+    "hi": "अन्य प्रमुख किसान आंदोलन — बूंदी (बरड़), दूधवा खारा (बीकानेर) एवं मारवाड़ (डाबड़ा व चंडावल)",
+    "en": "Other Major Peasant Movements — Bundi (Barad), Dudhwa Khara (Bikaner) & Marwar (Dabra & Chandawal)"
+  },
+  "short_summary": {
+    "hi": "राजस्थान के अन्य रियासती किसान आंदोलन; बूंदी/बरड़ आंदोलन (1922 — पं. नयनूराम शर्मा, 2 अप्रैल 1923 को डाबी गोलीकांड में इकराम हुसैन की फायरिंग से झंडा गीत गाते हुए नानक जी भील व देवीराम गुर्जर की शहादत तथा माणिक्यलाल वर्मा का 'अर्जी' लोकगीत); बीकानेर का दूधवा खारा आंदोलन (1944 — मघाराम वैद्य, हनुमान सिंह आर्य व खेतु बाई); तथा मारवाड़ के किसान आंदोलन (28 मार्च 1942 चंडावल लाठीचार्ज एवं 13 मार्च 1947 डाबड़ा नरसंहार — चुन्नीलाल शर्मा, रुघाराम की शहादत)।",
+    "en": "Other significant peasant uprisings in Rajasthan; Bundi/Barad Movement (1922 — Pt. Nayanuram Sharma, Dabi firing on 2 April 1923 martyring Nanak Ji Bhil & Deviram Gurjar, and 'Arji' song); Bikaner's Dudhwa Khara agitation (Hanuman Singh Arya & Khetu Bai); and Marwar agitations including Chandawal (1942) and Dabra Massacre on 13 March 1947."
+  },
+  "metadata": {
+    "pyq_frequency": "medium",
+    "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
+    "last_updated": "2026-09-15",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. बूंदी (बरड़) किसान आंदोलन एवं डाबी गोलीकांड (1922–1927 ई.)",
+        "en": "1. Bundi (Barad) Peasant Movement & Dabi Martyrdom (1922–1927 AD)"
+      },
+      "content_markdown": {
+        "hi": "### क. बरड़ क्षेत्र में आंदोलन की शुरुआत\n* **क्षेत्र:** बूंदी रियासत का पथरीला व बीहड़ क्षेत्र **'बरड़' (Barad)** कहलाता है। यहाँ अधिकांश किसान **गुर्जर जाति** के थे।\n* **कारण:** 25 प्रकार की मनमानी लाग-बागें, पशु चराई कर (खूंटाबंदी कर) तथा अमानवीय बैठ-बेगार।\n* **नेतृत्व:** राजस्थान सेवा संघ के निष्ठावान नेता **पं. नयनूराम शर्मा** एवं रामनारायण चौधरी।\n\n### ख. डाबी का ऐतिहासिक गोलीकांड (2 अप्रैल 1923 ई.)\n* **स्थान व घटना:** 2 अप्रैल 1923 को बूंदी के **डाबी गाँव** में किसानों की शांतिपूर्ण सभा चल रही थी।\n* बूंदी राज्य के पुलिस अधीक्षक (SP) **इकराम हुसैन** ने बिना किसी पूर्व चेतावनी के सभा पर अंधाधुंध गोलियाँ चलवा दीं।\n* **अमर शहादत:** हाथ में तिरंगा थामकर **'झंडा गीत'** गाते हुए **नानक जी भील (Nanak Ji Bhil)** तथा **देवीराम गुर्जर** मौके पर ही शहीद हो गए।\n* **'अर्जी' लोकगीत:** अमर शहीद नानक जी भील के बलिदान की स्मृति में **माणिक्यलाल वर्मा ने 'अर्जी' (Arji) नामक प्रसिद्ध ओजस्वी लोकगीत** की रचना की।",
+        "en": "### A. Agrarian Agitation in Barad\n* Dominated by **Gurjar peasantry** revolting against 25 cesses, cattle grazing fees, and forced labor under **Pt. Nayanuram Sharma** of Rajasthan Seva Sangh.\n\n### B. Dabi Massacre (April 2, 1923)\n* Police SP **Ikram Hussain** fired upon a peaceful assembly at **Dabi village**.\n* **Martyrs:** **Nanak Ji Bhil** and **Deviram Gurjar** were martyred singing the national flag song.\n* **'Arji' Ballad:** Composed by **Manikya Lal Verma** to immortalize martyr Nanak Ji Bhil."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. बीकानेर का दूधवा खारा एवं कांगड़ किसान आंदोलन (1944–1946 ई.)",
+        "en": "2. Bikaner's Dudhwa Khara & Kangad Peasant Movements"
+      },
+      "content_markdown": {
+        "hi": "### क. दूधवा खारा किसान आंदोलन (1944 ई., चूरू/बीकानेर)\n* **स्थान:** दूधवा खारा (तत्कालीन बीकानेर रियासत, वर्तमान चूरू जिला)।\n* **कारण:** जागीरदार सूरजमल सिंह द्वारा किसानों को उनकी पुश्तैनी ज़मीनों से बेदखल करना और अत्यधिक कर वसूली।\n* **नेतृत्व:** किसान नेता **चौधरी हनुमान सिंह आर्य** एवं बीकानेर प्रजामण्डल के **मघाराम वैद्य**।\n* हनुमान सिंह ने अनशन किया और महाराजा सार्दुल सिंह से न्याय की गुहार लगाई, किंतु उन्हें 65 दिन जेल में रखकर प्रताड़ित किया गया।\n* **महिला नेत्री:** हनुमान सिंह की बहन **खेतू बाई (Khetu Bai)** ने महिलाओं का नेतृत्व किया।\n\n### ख. कांगड़ कांड (1946 ई., रतनगढ़)\n* 1946 में बीकानेर रियासत में भयंकर अकाल के समय कांगड़ गाँव के जागीरदार ने किसानों पर बलपूर्वक कर वसूला। किसानों के विरोध पर अमानवीय यातनाएं दी गईं।",
+        "en": "### A. Dudhwa Khara Movement (1944 AD)\n* Led by **Chaudhary Hanuman Singh Arya**, Magharam Vaidya, and woman leader **Khetu Bai** against eviction from hereditary lands by Thakur Surajmal.\n\n### B. Kangad Incident (1946 AD)\n* Feudal extortion and brutal assault on starving peasants of Kangad village during famine."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. मारवाड़ किसान आंदोलन: चंडावल कांड एवं डाबड़ा नरसंहार (1942 व 1947 ई.)",
+        "en": "3. Marwar Agitations: Chandawal Firing & Dabra Massacre"
+      },
+      "content_markdown": {
+        "hi": "### क. चंडावल कांड (28 मार्च 1942 ई.)\n* **स्थान:** सोजत (पाली) के निकट **चंडावल गाँव**।\n* मारवाड़ लोक परिषद के कार्यकर्ताओं द्वारा 'उत्तरदायी शासन दिवस' मनाने पर चंडावल के ठाकुर ने लठैतों व पुलिस से हिंसक हमला करवाया। मीठालाल त्रिवेदी, हरिराम आदि गंभीर घायल हुए।\n\n### ख. डाबड़ा नरसंहार (13 मार्च 1947 ई.)\n* **स्थान:** डीडवाना (नागौर) के निकट **डाबड़ा गाँव**।\n* **घटनाक्रम:** 13 मार्च 1947 को डाबड़ा में किसान नेता **मोतीराम चौधरी** के घर पर मारवाड़ लोक परिषद एवं किसान सभा का संयुक्त सम्मेलन हो रहा था।\n* मारवाड़ के जागीरदारों और उनकी बंदूकों से लैस निजी सेना ने सम्मेलन स्थल को घेरकर अंधाधुंध गोलियाँ चलाईं और मकान को आग लगा दी।\n* **शहादत:** इस बर्बर हमले में **पंडित चुन्नीलाल शर्मा**, **रुघाराम जाट**, **रामूराम**, **धनाराम** एवं **जग्गू जाट** शहीद हो गए।\n* मथुरादास माथुर, द्वारकादास पुरोहित व राधाकृष्ण तात बुरी तरह घायल हुए।",
+        "en": "### A. Chandawal Incident (March 28, 1942)\n* Brutal assault on Marwar Lok Parishad workers at **Chandawal** (Pali) during Responsible Governance Day.\n\n### B. Dabra Massacre (March 13, 1947)\n* Feudal gunmen attacked a joint conference at **Motiram Chaudhary's residence in Dabra** (Didwana/Nagaur).\n* **Martyrs:** **Pt. Chunnilal Sharma**, **Rugharam Jat**, Ramuram, and Dhanaram laid down their lives."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "बूंदी (बरड़) किसान आंदोलन का नेतृत्व पं. नयनूराम शर्मा ने किया था।",
+      "en": "Bundi (Barad) movement was spearheaded by Pt. Nayanuram Sharma."
+    },
+    {
+      "hi": "2 अप्रैल 1923 को डाबी गोलीकांड में नानक जी भील एवं देवीराम गुर्जर शहीद हुए थे।",
+      "en": "Nanak Ji Bhil and Deviram Gurjar were martyred in the Dabi firing on April 2, 1923."
+    },
+    {
+      "hi": "नानक जी भील की स्मृति में माणिक्यलाल वर्मा ने प्रसिद्ध 'अर्जी' लोकगीत लिखा था।",
+      "en": "Manikya Lal Verma composed the iconic ballad 'Arji' honoring martyr Nanak Ji Bhil."
+    },
+    {
+      "hi": "दूधवा खारा किसान आंदोलन (बीकानेर) का नेतृत्व चौधरी हनुमान सिंह आर्य एवं खेतू बाई ने किया था।",
+      "en": "Dudhwa Khara agitation (Bikaner) was led by Hanuman Singh Arya and Khetu Bai."
+    },
+    {
+      "hi": "28 मार्च 1942 को मारवाड़ के चंडावल (पाली) में लोक परिषद कार्यकर्ताओं पर लाठीचार्ज हुआ।",
+      "en": "The Chandawal lathicharge occurred on March 28, 1942 in Marwar (Pali)."
+    },
+    {
+      "hi": "13 मार्च 1947 को डाबड़ा (डीडवाना) में मोतीराम के घर किसान सम्मेलन पर हमले में पं. चुन्नीलाल शर्मा शहीद हुए।",
+      "en": "On March 13, 1947, Pt. Chunnilal Sharma was martyred during the Dabra massacre in Didwana."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.07.05-01",
+      "question": {
+        "hi": "2 अप्रैल 1923 को बूंदी के डाबी गोलीकांड में झंडा गीत गाते हुए कौन-से अमर स्वतंत्रता सेनानी शहीद हुए थे?",
+        "en": "Which immortal freedom fighter was martyred singing the national flag song during the Dabi firing in Bundi on 2 April 1923?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "नानक जी भील एवं देवीराम गुर्जर", "en": "Nanak Ji Bhil & Deviram Gurjar" } },
+        { "id": "B", "text": { "hi": "रूपाजी एवं कृपाजी धाकड़", "en": "Rupaji & Kripaji Dhakar" } },
+        { "id": "C", "text": { "hi": "चेतराम एवं टिकूराम", "en": "Chetram & Tikuram" } },
+        { "id": "D", "text": { "hi": "चुन्नीलाल शर्मा एवं रुघाराम", "en": "Chunnilal Sharma & Rugharam" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "2 अप्रैल 1923 को डाबी में इकराम हुसैन की पुलिस द्वारा गोलीबारी में नानक जी भील व देवीराम गुर्जर शहीद हुए थे।",
+        "en": "Nanak Ji Bhil and Deviram Gurjar attained martyrdom in the Dabi firing in Bundi on April 2, 1923."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC RAS Prelims 2018 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.05-02",
+      "question": {
+        "hi": "डाबी के अमर शहीद नानक जी भील की स्मृति में प्रसिद्ध लोकगीत 'अर्जी' (Arji) की रचना किसने की थी?",
+        "en": "Who composed the renowned patriotic song 'Arji' in memory of the martyr Nanak Ji Bhil of Dabi?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "माणिक्यलाल वर्मा", "en": "Manikya Lal Verma" } },
+        { "id": "B", "text": { "hi": "विजय सिंह पथिक", "en": "Vijay Singh Pathik" } },
+        { "id": "C", "text": { "hi": "पं. नयनूराम शर्मा", "en": "Pt. Nayanuram Sharma" } },
+        { "id": "D", "text": { "hi": "जय नारायण व्यास", "en": "Jai Narayan Vyas" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "माणिक्यलाल वर्मा ने शहीद नानक भील के बलिदान पर 'अर्जी' गीत लिखा था (बिजोलिया में उन्होंने 'पंछीड़ा' गीत लिखा था)।",
+        "en": "Manikya Lal Verma penned the ballad 'Arji' honoring Nanak Ji Bhil ('Panchhida' was written for Bijolia)."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 1st Grade 2020 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.07.05-03",
+      "question": {
+        "hi": "13 मार्च 1947 को मारवाड़ के किस स्थान पर मोतीराम चौधरी के घर किसान सम्मेलन पर जागीरदारों ने खूनी हमला (डाबड़ा कांड) किया था?",
+        "en": "At which place in Marwar on 13 March 1947 did feudal lords launch a bloody assault on a peasant gathering at Motiram's house (Dabra Incident)?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "डाबड़ा (डीडवाना / नागौर)", "en": "Dabra (Didwana / Nagaur)" } },
+        { "id": "B", "text": { "hi": "चंडावल (सोजत / पाली)", "en": "Chandawal (Sojat / Pali)" } },
+        { "id": "C", "text": { "hi": "पीलवा (परबतसर)", "en": "Pilwa (Parbatsar)" } },
+        { "id": "D", "text": { "hi": "दूधवा खारा (चूरू)", "en": "Dudhwa Khara (Churu)" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "13 मार्च 1947 को डीडवाना के डाबड़ा गाँव में किसान सम्मेलन पर जागीरदारों ने हमला किया जिसमें पं. चुन्नीलाल शर्मा, रुघाराम आदि शहीद हुए।",
+        "en": "On 13 March 1947 at Dabra village (Didwana), feudal gunmen martyred Pt. Chunnilal Sharma and others."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 2nd Grade 2022 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.05-04",
+      "question": {
+        "hi": "बीकानेर रियासत के प्रसिद्ध 'दूधवा खारा किसान आंदोलन' (1944) का नेतृत्व किस जुझारू किसान नेता ने किया था?",
+        "en": "Which resolute peasant leader spearheaded the famous 'Dudhwa Khara Peasant Movement' (1944) in Bikaner State?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "चौधरी हनुमान सिंह आर्य", "en": "Chaudhary Hanuman Singh Arya" } },
+        { "id": "B", "text": { "hi": "मघाराम वैद्य", "en": "Magharam Vaidya" } },
+        { "id": "C", "text": { "hi": "स्वामी गोपालदास", "en": "Swami Gopaldas" } },
+        { "id": "D", "text": { "hi": "कुंभाराम आर्य", "en": "Kumbharam Arya" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "दूधवा खारा (चूरू) के किसानों का नेतृत्व चौधरी हनुमान सिंह आर्य ने किया था, जिन्होंने जागीरदार सूरजमल के अत्याचारों के विरुद्ध 65 दिन भूख हड़ताल की थी।",
+        "en": "Chaudhary Hanuman Singh Arya led the Dudhwa Khara peasant agitation against estate evictions."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC Assistant Professor 2020 / RSSB Lab Assistant 2022"
+    },
+    {
+      "id": "MCQ-A.07.05-05",
+      "question": {
+        "hi": "दूधवा खारा किसान आंदोलन के दौरान किसान महिलाओं का नेतृत्व करने वाली प्रमुख महिला कौन थीं?",
+        "en": "Who was the prominent woman leader who organized peasant women during the Dudhwa Khara movement?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "श्रीमती खेतू बाई (Khetu Bai)", "en": "Smt. Khetu Bai" } },
+        { "id": "B", "text": { "hi": "श्रीमती किशोरी देवी", "en": "Smt. Kishori Devi" } },
+        { "id": "C", "text": { "hi": "श्रीमती सीता देवी", "en": "Smt. Sita Devi" } },
+        { "id": "D", "text": { "hi": "श्रीमती धापी दादी", "en": "Smt. Dhapi Dadi" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "चौधरी हनुमान सिंह की बहन श्रीमती खेतू बाई ने दूधवा खारा आंदोलन में किसान महिलाओं का नेतृत्व किया था।",
+        "en": "Smt. Khetu Bai led women agitators during the Dudhwa Khara struggle in Bikaner."
+      },
+      "difficulty": "hard",
+      "pyq_source": "RPSC College Lecturer 2021 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.05-06",
+      "question": {
+        "hi": "बूंदी राज्य के किस पुलिस अधीक्षक (SP) ने 2 अप्रैल 1923 को डाबी में एकत्र शांतिपूर्ण किसानों पर बिना चेतावनी गोलीबारी करवाई थी?",
+        "en": "Which Police Superintendent of Bundi State ordered unprovoked firing on peaceful peasants at Dabi on 2 April 1923?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "इकराम हुसैन (Ikram Hussain)", "en": "Ikram Hussain" } },
+        { "id": "B", "text": { "hi": "छाजू सिंह", "en": "Chhaju Singh" } },
+        { "id": "C", "text": { "hi": "मिस्टर ट्रेंच", "en": "Mr. Trench" } },
+        { "id": "D", "text": { "hi": "मेजर सटन", "en": "Major Sutton" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "बूंदी के पुलिस अधीक्षक इकराम हुसैन ने डाबी में गोलियाँ चलवाई थीं (छाजू सिंह ने नीमूचाणा में तथा ट्रेंच ने गोविंदपुरा में गोलियाँ चलवाई थीं)।",
+        "en": "Police SP Ikram Hussain commanded the firing at Dabi village in Bundi."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 2nd Grade GK 2018 / RSSB Forester 2022"
+    },
+    {
+      "id": "MCQ-A.07.05-07",
+      "question": {
+        "hi": "मारवाड़ लोक परिषद के कार्यकर्ताओं पर 'उत्तरदायी शासन दिवस' मनाते समय 28 मार्च 1942 को किस स्थान पर हिंसक हमला (लाठीचार्ज) हुआ था?",
+        "en": "At which location were Marwar Lok Parishad activists violently assaulted during Responsible Governance Day on 28 March 1942?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "चंडावल (सोजत, पाली)", "en": "Chandawal (Sojat, Pali)" } },
+        { "id": "B", "text": { "hi": "डाबड़ा (डीडवाना)", "en": "Dabra (Didwana)" } },
+        { "id": "C", "text": { "hi": "कांगड़ (रतनगढ़)", "en": "Kangad (Ratangarh)" } },
+        { "id": "D", "text": { "hi": "मंडोर (जोधपुर)", "en": "Mandore (Jodhpur)" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "28 मार्च 1942 को सोजत के चंडावल गाँव में मारवाड़ लोक परिषद के कार्यकर्ताओं पर जागीरदार के लठैतों ने जानलेवा हमला किया था।",
+        "en": "The Chandawal incident took place on 28 March 1942 near Sojat (Pali)."
+      },
+      "difficulty": "hard",
+      "pyq_source": "RPSC 1st Grade GK 2022 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.07.05-08",
+      "question": {
+        "hi": "1946 ई. में बीकानेर रियासत के किस गाँव में अकाल के दौरान जागीरदार द्वारा किसानों पर किए गए भीषण अत्याचारों को 'कांगड़ कांड' कहा जाता है?",
+        "en": "In 1946 AD, severe feudal atrocities against famine-hit peasants in which Bikaner village were known as the 'Kangad Incident'?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कांगड़ गाँव (रतनगढ़ / चूरू)", "en": "Kangad Village (Ratangarh / Churu)" } },
+        { "id": "B", "text": { "hi": "दूधवा खारा", "en": "Dudhwa Khara" } },
+        { "id": "C", "text": { "hi": "राजगढ़", "en": "Rajgarh" } },
+        { "id": "D", "text": { "hi": "तारानगर", "en": "Taranagar" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "1946 में बीकानेर रियासत के कांगड़ गाँव (रतनगढ़) में अकाल के बावजूद जागीरदार ने किसानों पर कर वसूली हेतु भयंकर अत्याचार किए थे।",
+        "en": "The Kangad incident occurred in 1946 when the jagirdar forcibly extorted cesses during famine."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC College Assistant Professor 2020 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.05-09",
+      "question": {
+        "hi": "13 मार्च 1947 के डाबड़ा कांड में घायल होने वाले मारवाड़ के प्रमुख वरिष्ठ स्वतंत्रता सेनानी कौन थे?",
+        "en": "Who was the senior freedom fighter of Marwar who was severely wounded in the Dabra Massacre of 13 March 1947?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मथुरादास माथुर एवं द्वारकादास पुरोहित", "en": "Mathuradas Mathur & Dwarkadas Purohit" } },
+        { "id": "B", "text": { "hi": "जय नारायण व्यास", "en": "Jai Narayan Vyas" } },
+        { "id": "C", "text": { "hi": "बालमुकुंद बिस्सा", "en": "Balmukund Bissa" } },
+        { "id": "D", "text": { "hi": "चांदमल सुराणा", "en": "Chandmal Surana" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "डाबड़ा कांड में मथुरादास माथुर, द्वारकादास पुरोहित, राधाकृष्ण तात और बंसीधर पुरोहित तलवारों के हमले में गंभीर रूप से घायल हुए थे।",
+        "en": "Mathuradas Mathur and Dwarkadas Purohit were critically injured in the brutal Dabra attack."
+      },
+      "difficulty": "hard",
+      "pyq_source": "RPSC RAS 2021 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.05-10",
+      "question": {
+        "hi": "बूंदी (बरड़) किसान आंदोलन के दौरान किस प्रमुख सामाजिक सुधारक ने हाड़ौती में बेगार एवं बाल-विवाह के विरुद्ध जनजागृति फैलाई थी?",
+        "en": "During the Bundi (Barad) movement, which reformer spread mass awareness against forced labor and child marriage in Hadoti?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "पं. नयनूराम शर्मा", "en": "Pt. Nayanuram Sharma" } },
+        { "id": "B", "text": { "hi": "गोकुलभाई भट्ट", "en": "Gokulbhai Bhatt" } },
+        { "id": "C", "text": { "hi": "भोगीलाल पंड्या", "en": "Bhogilal Pandya" } },
+        { "id": "D", "text": { "hi": "हरिभाऊ उपाध्याय", "en": "Haribhau Upadhyay" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "राजस्थान सेवा संघ के कर्मठ कार्यकर्ता पं. नयनूराम शर्मा ने हाड़ौती क्षेत्र (बूंदी व कोटा) में किसानों व आमजन को अधिकारों के प्रति जाग्रत किया।",
+        "en": "Pt. Nayanuram Sharma was the pioneering social and political leader of the Hadoti region."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RSSB Police Constable 2020 / REET 2022"
+    }
+  ]
+}

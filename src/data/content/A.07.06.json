@@ -1,0 +1,288 @@
+{
+  "id": "A.07.06",
+  "subject_id": "history",
+  "unit_id": "A.07",
+  "slug": "bhagat-movement-mangarh",
+  "title": {
+    "hi": "भगत आंदोलन एवं मानगढ़ धाम हत्याकांड (1913 ई.) — गोविंद गिरि व संप सभा",
+    "en": "Bhagat Movement & Mangarh Dham Massacre (1913 AD) — Govind Giri & Samp Sabha"
+  },
+  "short_summary": {
+    "hi": "दक्षिणी राजस्थान (डूंगरपुर, बांसवाड़ा, मेवाड़, सिरोही) एवं गुजरात के सीमावर्ती भीलों में सामाजिक, नैतिक एवं आध्यात्मिक जागृति का महान इतिहास; संत गोविंद गिरि (बांसिया गाँव के बंजारा परिवार में जन्म, गुरु राजगिरि, दयानंद सरस्वती की प्रेरणा), संप सभा की स्थापना (1883 सिरोही, 10 नियम), धुणी व निशान की स्थापना, 17 नवंबर 1913 को मानगढ़ पहाड़ी पर मेवाड़ भील कोर (MBC) व 104th वेलेजली राइफल्स द्वारा भीषण गोलीबारी में 1500 से अधिक भीलों की शहादत ('राजस्थान का जलियांवाला बाग') तथा गोविंद गिरि का अंतिम जीवन (कंबोई, गुजरात)।",
+    "en": "The spiritual and socio-political awakening of Bhil tribals in southern Rajasthan led by Guru Govind Giri; establishment of Samp Sabha (1883, Sirohi) with 10 ethical codes, sacred dhuni traditions, the horrific Mangarh Dham Massacre on November 17, 1913 martyring over 1,500 Bhils by Mewar Bhil Corps ('Jallianwala Bagh of Rajasthan'), and Govind Giri's final years at Kamboi."
+  },
+  "metadata": {
+    "pyq_frequency": "ultra-high",
+    "target_exams": ["RAS", "1st Grade", "2nd Grade", "CET", "Patwari", "Police Constable"],
+    "last_updated": "2026-09-15",
+    "author_verified": true
+  },
+  "notes_sections": [
+    {
+      "section_title": {
+        "hi": "1. गोविंद गिरि का परिचय, प्रेरणा एवं 'भगत संप्रदाय'",
+        "en": "1. Life of Govind Giri, Inspiration & Bhagat Sect"
+      },
+      "content_markdown": {
+        "hi": "### क. जीवन परिचय एवं गुरु परंपरा\n* **जन्म:** 20 दिसंबर 1858 ई. को डूंगरपुर रियासत के **बांसिया (बेड़सा) गाँव** में एक **बंजारा परिवार** में।\n* **दीक्षा गुरु:** कोटा-बूंदी अखाड़े के **साधु राजगिरि** से आध्यात्मिक दीक्षा प्राप्त की।\n* **स्वामी दयानंद सरस्वती की प्रेरणा:** 1880–81 ई. में उदयपुर प्रवास के दौरान गोविंद गिरि ने **महर्षि स्वामी दयानंद सरस्वती** से भेंट की और स्वदेशी, स्वधर्म तथा जनजातियों के सामाजिक व आध्यात्मिक उत्थान का संकल्प लिया।\n\n### ख. 'भगत' संप्रदाय की स्थापना\n* भीलों में मद्यपान (शराब पीना), मांस भक्षण, चोरी, अंधविश्वास त्यागने, सात्विक जीवन जीने तथा प्रतिदिन हवन-पूजा करने हेतु **'भगत संप्रदाय'** चलाया।\n* इनके अनुयायी **'भगत'** कहलाए। इन्होंने प्रत्येक गाँव में आध्यात्मिक केंद्र के रूप में **'धुणी' (Dhuni)** एवं **'निशान' (ध्वज)** स्थापित किए।\n* सहयोगी: **सुरजी भगत** (Surji Bhagat) तथा **पूंजा धीरजी** ने इनके विचारों को जन-जन तक पहुँचाया।",
+        "en": "### A. Early Life & Guru Tradition\n* Born on Dec 20, 1858 in a **Banjara family** in Bansiya (Bedsa) village, Dungarpur.\n* Initiated by **Sadhu Rajgiri**; profoundly inspired by **Swami Dayanand Saraswati** during his 1880–81 Udaipur visit.\n\n### B. Bhagat Movement\n* Founded the **Bhagat Sect** promoting vegetarianism, temperance, moral purity, and Vedic rituals through sacred hearths (**Dhunis**) and flags (**Nishans**)."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "2. संप सभा की स्थापना एवं नियम (1883 ई., सिरोही)",
+        "en": "2. Establishment of Samp Sabha & Code of Ethics (1883 AD, Sirohi)"
+      },
+      "content_markdown": {
+        "hi": "### क. संप सभा की स्थापना (1883 ई.)\n* **स्थान व वर्ष:** 1883 ई. में **सिरोही** में गोविंद गिरि द्वारा 'संप सभा' की स्थापना की गई।\n* **अर्थ:** राजस्थानी भाषा में 'संप' का अर्थ **'आपसी एकता, प्रेम, सद्भाव एवं बंधुत्व'** होता है।\n* **क्षेत्र:** डूंगरपुर, बांसवाड़ा, ईडर, सिरोही, सूंथ (गुजरात) एवं मेवाड़ के भोमट क्षेत्र।\n\n### ख. संप सभा के 10 प्रमुख नियम\n1. ईश्वर (सत्य) में विश्वास रखना व प्रतिदिन हवन/पूजा करना।\n2. शराब, मांस व नशीले पदार्थों का पूर्ण त्याग करना।\n3. चोरी, डकैती व अपराधों से दूर रहना।\n4. आपसी झगड़ों को अदालत के बजाय अपनी पंचायत में सुलझाना।\n5. बच्चों को शिक्षित करना व कन्या विक्रय/दापा प्रथा बंद करना।\n6. बेगार व गैर-कानूनी लाग-बाग देने से इनकार करना।\n7. स्वदेशी वस्तुओं का उपयोग करना और विदेशी का बहिष्कार करना।\n8. प्रतिदिन स्नान कर सात्विक वस्त्र धारण करना।\n9. जीव हत्या न करना व प्रकृति की रक्षा करना।\n10. अपने धर्म व स्वाभिमान की रक्षा हेतु एकजुट रहना।",
+        "en": "### A. Foundation in Sirohi (1883 AD)\n* Founded at **Sirohi in 1883** by Govind Giri to foster fraternal unity ('Samp') across tribal regions.\n\n### B. The 10 Moral Directives\n* Advocated total prohibition, non-violence, dispute resolution through village Panchayats, boycotted forced labor (Begar), and promoted education and Swadeshi."
+      }
+    },
+    {
+      "section_title": {
+        "hi": "3. मानगढ़ धाम हत्याकांड (17 नवंबर 1913) एवं अंतिम जीवन",
+        "en": "3. Mangarh Dham Massacre (November 17, 1913) & Aftermath"
+      },
+      "content_markdown": {
+        "hi": "### क. मानगढ़ पहाड़ी पर महासम्मेलन\n* **स्थान:** बांसवाड़ा रियासत व संतरामपुर (गुजरात) सीमा पर स्थित **मानगढ़ पहाड़ी (Mangarh Hills)**।\n* **तिथि:** आश्विन शुक्ल पूर्णिमा / मार्गशीर्ष पूर्णिमा (**17 नवंबर 1913 ई.**)।\n* संप सभा का वार्षिक अधिवेशन मानगढ़ पहाड़ी पर चल रहा था, जहाँ लाखों भील एकत्रित थे।\n\n### ख. क्रूर सैन्य नरसंहार (17 नवंबर 1913)\n* देशी रियासतों (बांसवाड़ा, डूंगरपुर, सूंथ) की झूठी रिपोर्ट पर ब्रिटिश सेना ने मानगढ़ पहाड़ी को चारों ओर से घेर लिया।\n* **सैन्य टुकड़ियाँ:** **मेवाड़ भील कोर (MBC - 1841)**, 104th वेलेजली राइफल्स एवं 7th जाट रेजिमेंट।\n* कर्नल हैमिल्टन एवं कमिश्नर आर.ई. बैरो के आदेश पर मशीनगनों व तोपों से अंधाधुंध गोलियाँ बरसाई गईं।\n* **शहादत:** **1500 से अधिक निर्दोष भील** स्त्री-पुरुष व बच्चे शहीद हो गए।\n* **उपनाम:** इसे **'राजस्थान का जलियांवाला बाग हत्याकांड'** कहा जाता है (जो 1919 के जलियांवाला बाग से भी 6 वर्ष पूर्व हुआ था)।\n\n### ग. गिरफ्तारी, सजा एवं अंतिम जीवन\n* गोविंद गिरि तथा उनके सहयोगी **पूंजा धीरजी** को गिरफ्तार कर अहमदाबाद ले जाया गया।\n* गोविंद गिरि को फांसी की सजा सुनाई गई, जिसे अपील पर आजीवन कारावास और बाद में 10 वर्ष के कारावास में बदला गया।\n* 1923 में जेल से रिहा होने पर उन पर मेवाड़, बांसवाड़ा व डूंगरपुर में प्रवेश पर पूर्ण प्रतिबंध लगा दिया गया।\n* उन्होंने अपना शेष जीवन गुजरात के पंचमहल जिले के **कंबोई (झाsingle/दाहोद)** गाँव में समाज सुधार करते हुए बिताया, जहाँ **30 अक्टूबर 1931** को उनका देहावसान हुआ। कंबोई में उनका समाधि स्थल है।",
+        "en": "### A. Mangarh Congregation (Nov 17, 1913)\n* Millions of tribals assembled atop **Mangarh Hills** (Banswara) on Margashirsha Purnima.\n\n### B. The Bloody Massacre\n* British combined forces (**Mewar Bhil Corps**, 104th Wellesley's Rifles, 7th Jat Regiment) commanded by Col. Hamilton encircled the hill and opened machine-gun fire.\n* **Casualties:** Over **1,500 innocent Bhil tribesmen** were martyred.\n* **Epithet:** Revered as the **'Jallianwala Bagh of Rajasthan'**.\n\n### C. Imprisonment & Kamboi Exile\n* Govind Giri and Punja Dhirji were captured; sentence commuted to 10 years. Exiled from Rajputana, Govind Giri lived in **Kamboi (Gujarat)** until his demise on Oct 30, 1931."
+      }
+    }
+  ],
+  "key_facts_rapid_revision": [
+    {
+      "hi": "गोविंद गिरि का जन्म 1858 में डूंगरपुर के बांसिया (बेड़सा) गाँव में बंजारा परिवार में हुआ था।",
+      "en": "Govind Giri was born in 1858 in a Banjara family at Bansiya village (Dungarpur)."
+    },
+    {
+      "hi": "गोविंद गिरि ने 1883 में सिरोही में संप सभा की स्थापना की जिसके 10 नैतिक नियम थे।",
+      "en": "Govind Giri founded Samp Sabha in Sirohi in 1883 with 10 ethical codes."
+    },
+    {
+      "hi": "गोविंद गिरि ने स्वामी दयानंद सरस्वती से प्रेरणा लेकर भीलों में 'भगत संप्रदाय' चलाया था।",
+      "en": "Inspired by Swami Dayanand Saraswati, Govind Giri started the Bhagat sect."
+    },
+    {
+      "hi": "17 नवंबर 1913 को बांसवाड़ा की मानगढ़ पहाड़ी पर 1500 से अधिक भील शहीद हुए ('राजस्थान का जलियांवाला बाग')।",
+      "en": "On Nov 17, 1913, over 1500 Bhils were martyred at Mangarh Hills ('Jallianwala Bagh of Rajasthan')."
+    },
+    {
+      "hi": "मानगढ़ पहाड़ी पर गोलीबारी मेवाड़ भील कोर (MBC) व 104th वेलेजली राइफल्स ने की थी।",
+      "en": "Firing was executed by Mewar Bhil Corps (MBC) and 104th Wellesley's Rifles."
+    },
+    {
+      "hi": "गोविंद गिरि के प्रमुख सहयोगी पूंजा धीरजी तथा सुरजी भगत थे।",
+      "en": "Key associates of Govind Giri were Punja Dhirji and Surji Bhagat."
+    },
+    {
+      "hi": "मेवाड़ भील कोर (MBC) की स्थापना 1841 में हुई थी, जिसका मुख्यालय खेरवाड़ा (उदयपुर) था।",
+      "en": "Mewar Bhil Corps was raised in 1841 AD with headquarters at Kherwara."
+    },
+    {
+      "hi": "गोविंद गिरि ने अपना अंतिम जीवन गुजरात के कंबोई गाँव में बिताया जहाँ 1931 में उनका निधन हुआ।",
+      "en": "Govind Giri spent his final years at Kamboi (Gujarat) until his passing in 1931."
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "MCQ-A.07.06-01",
+      "question": {
+        "hi": "गोविंद गिरि द्वारा भीलों में सामाजिक व नैतिक सुधार हेतु 'संप सभा' की स्थापना किस वर्ष एवं किस स्थान पर की गई थी?",
+        "en": "In which year and at which place was the 'Samp Sabha' established by Govind Giri for social and moral reforms among Bhils?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "1883 ई., सिरोही", "en": "1883 AD, Sirohi" } },
+        { "id": "B", "text": { "hi": "1880 ई., डूंगरपुर", "en": "1880 AD, Dungarpur" } },
+        { "id": "C", "text": { "hi": "1891 ई., बांसवाड़ा", "en": "1891 AD, Banswara" } },
+        { "id": "D", "text": { "hi": "1913 ई., मानगढ़", "en": "1913 AD, Mangarh" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "गोविंद गिरि ने 1883 ई. में सिरोही में 'संप सभा' की स्थापना की थी। 'संप' का अर्थ आपसी सद्भाव और प्रेम होता है।",
+        "en": "Govind Giri established the Samp Sabha in Sirohi in 1883 AD to unite tribals through moral codes."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 1st Grade 2020 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.06-02",
+      "question": {
+        "hi": "17 नवंबर 1913 को मानगढ़ पहाड़ी (बांसवाड़ा) पर संप सभा के सम्मेलन पर गोलियां चलाने वाली ब्रिटिश सैन्य टुकड़ी कौन-सी थी?",
+        "en": "Which British military unit opened fire on the Samp Sabha congregation at Mangarh Hills (Banswara) on 17 November 1913?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "मेवाड़ भील कोर (MBC) एवं 104th वेलेजली राइफल्स", "en": "Mewar Bhil Corps (MBC) & 104th Wellesley's Rifles" } },
+        { "id": "B", "text": { "hi": "जोधपुर लीजन", "en": "Jodhpur Legion" } },
+        { "id": "C", "text": { "hi": "मेरवाड़ा बटालियन", "en": "Merwara Battalion" } },
+        { "id": "D", "text": { "hi": "शेखावाटी ब्रिगेड", "en": "Shekhawati Brigade" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "मानगढ़ पहाड़ी पर मेवाड़ भील कोर (MBC), 104th वेलेजली राइफल्स तथा 7th जाट रेजिमेंट ने अंधाधुंध गोलियां चलाईं, जिसमें 1500 से अधिक भील शहीद हुए।",
+        "en": "Mewar Bhil Corps along with 104th Wellesley's Rifles and 7th Jat Regiment opened fire on Mangarh Hills."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC RAS Prelims 2018 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.06-03",
+      "question": {
+        "hi": "भगत आंदोलन के प्रणेता संत गोविंद गिरि का जन्म किस जिले के बांसिया (बेड़सा) गाँव में किस परिवार में हुआ था?",
+        "en": "In which district and community was Sant Govind Giri, the founder of the Bhagat Movement, born?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "डूंगरपुर, बंजारा परिवार", "en": "Dungarpur, Banjara Family" } },
+        { "id": "B", "text": { "hi": "बांसवाड़ा, भील परिवार", "en": "Banswara, Bhil Family" } },
+        { "id": "C", "text": { "hi": "उदयपुर, ओसवाल परिवार", "en": "Udaipur, Oswal Family" } },
+        { "id": "D", "text": { "hi": "सिरोही, गरासिया परिवार", "en": "Sirohi, Garasia Family" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "गोविंद गिरि का जन्म 20 दिसंबर 1858 को डूंगरपुर रियासत के बांसिया (बेड़सा) गाँव में एक बंजारा परिवार में हुआ था।",
+        "en": "Govind Giri was born on Dec 20, 1858 into a Banjara family in Bansiya village, Dungarpur."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC 2nd Grade 2022 / RSSB Lab Assistant 2022"
+    },
+    {
+      "id": "MCQ-A.07.06-04",
+      "question": {
+        "hi": "कारावास से रिहाई के बाद गोविंद गिरि ने अपने जीवन के अंतिम वर्ष किस स्थान पर व्यतीत किए थे?",
+        "en": "At which place did Govind Giri spend the final years of his life after release from imprisonment?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "कंबोई (पंचमहल / दाहोद, गुजरात)", "en": "Kamboi (Panchmahal / Dahod, Gujarat)" } },
+        { "id": "B", "text": { "hi": "बांसिया (डूंगरपुर)", "en": "Bansiya (Dungarpur)" } },
+        { "id": "C", "text": { "hi": "मानगढ़ (बांसवाड़ा)", "en": "Mangarh (Banswara)" } },
+        { "id": "D", "text": { "hi": "खेरवाड़ा (उदयपुर)", "en": "Kherwara (Udaipur)" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "मेवाड़ व बांसवाड़ा में प्रवेश प्रतिबंधित होने के कारण गोविंद गिरि ने अपना अंतिम जीवन गुजरात के कंबोई गाँव में बिताया, जहाँ 1931 में उनका देहावसान हुआ।",
+        "en": "Govind Giri lived in Kamboi (Gujarat) until his demise on 30 October 1931."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC RAS 2016 / RSSB Forester 2022"
+    },
+    {
+      "id": "MCQ-A.07.06-05",
+      "question": {
+        "hi": "मेवाड़ भील कोर (MBC) की स्थापना किस वर्ष की गई थी एवं इसका मुख्यालय कहाँ स्थापित किया गया था?",
+        "en": "In which year was the Mewar Bhil Corps (MBC) raised, and where was its headquarters established?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "1841 ई., खेरवाड़ा (उदयपुर)", "en": "1841 AD, Kherwara (Udaipur)" } },
+        { "id": "B", "text": { "hi": "1835 ई., शेखावाटी", "en": "1835 AD, Shekhawati" } },
+        { "id": "C", "text": { "hi": "1857 ई., एरिनपुरा", "en": "1857 AD, Erinpura" } },
+        { "id": "D", "text": { "hi": "1881 ई., कोटड़ा", "en": "1881 AD, Kotra" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "मेवाड़ भील कोर (MBC) का गठन 1841 ई. में हुआ और इसका मुख्यालय खेरवाड़ा (उदयपुर) में रखा गया ताकि भोमट क्षेत्र के भीलों पर नियंत्रण रखा जा सके।",
+        "en": "Mewar Bhil Corps was formed in 1841 AD with headquarters at Kherwara to maintain military control over tribal tracts."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RPSC Assistant Professor 2021 / REET Level-2 2022"
+    },
+    {
+      "id": "MCQ-A.07.06-06",
+      "question": {
+        "hi": "1880-81 ई. में उदयपुर में किस महान समाज सुधारक से भेंट के बाद गोविंद गिरि ने जनजातियों के उत्थान का मार्ग अपनाया था?",
+        "en": "Meeting which great social reformer in Udaipur in 1880–81 inspired Govind Giri to dedicate his life to tribal upliftment?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "महर्षि स्वामी दयानंद सरस्वती", "en": "Maharshi Swami Dayanand Saraswati" } },
+        { "id": "B", "text": { "hi": "स्वामी विवेकानंद", "en": "Swami Vivekananda" } },
+        { "id": "C", "text": { "hi": "राजा राममोहन राय", "en": "Raja Ram Mohan Roy" } },
+        { "id": "D", "text": { "hi": "साधु राजगिरि", "en": "Sadhu Rajgiri" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "1880–81 में उदयपुर प्रवास के दौरान स्वामी दयानंद सरस्वती से भेंट कर गोविंद गिरि ने स्वदेशी व समाज सुधार की प्रेरणा ली।",
+        "en": "Swami Dayanand Saraswati's teachings during his Udaipur visit profoundly influenced Govind Giri."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC 2nd Grade 2018 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.06-07",
+      "question": {
+        "hi": "गोविंद गिरि द्वारा स्थापित 'संप सभा' के आचार संहिता में कुल कितने नियम निर्धारित किए गए थे?",
+        "en": "How many total rules/codes of conduct were formulated in the Samp Sabha established by Govind Giri?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "10 नियम", "en": "10 Rules" } },
+        { "id": "B", "text": { "hi": "29 नियम", "en": "29 Rules" } },
+        { "id": "C", "text": { "hi": "36 नियम", "en": "36 Rules" } },
+        { "id": "D", "text": { "hi": "42 नियम", "en": "42 Rules" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "संप सभा के 10 नियम थे (29 नियम विश्नोई संप्रदाय, 36 नियम जसनाथी संप्रदाय, 42 नियम चरणदासी संप्रदाय के हैं)।",
+        "en": "Samp Sabha had 10 ethical codes (29 for Bishnois, 36 for Jasnathis, 42 for Charan Dasis)."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC College Lecturer 2021 / RSSB Patwari 2021"
+    },
+    {
+      "id": "MCQ-A.07.06-08",
+      "question": {
+        "hi": "17 नवंबर 1913 को मानगढ़ पहाड़ी पर हुए हत्याकांड के दौरान गोविंद गिरि के साथ किस प्रमुख सहयोगी नेता को भी गिरफ्तार किया गया था?",
+        "en": "During the Mangarh massacre on 17 Nov 1913, which key associate leader was arrested alongside Govind Giri?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "पूंजा धीरजी (Punja Dhirji)", "en": "Punja Dhirji" } },
+        { "id": "B", "text": { "hi": "मोतीलाल तेजावत", "en": "Motilal Tejawat" } },
+        { "id": "C", "text": { "hi": "नानाभाई खांट", "en": "Nanabhai Khant" } },
+        { "id": "D", "text": { "hi": "सेंगाभाई", "en": "Sengabhai" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "मानगढ़ नरसंहार के बाद ब्रिटिश अधिकारियों ने संत गोविंद गिरि एवं उनके प्रमुख सहयोगी पूंजा धीरजी को गिरफ्तार किया था।",
+        "en": "Punja Dhirji was apprehended along with Guru Govind Giri after the Mangarh massacre."
+      },
+      "difficulty": "hard",
+      "pyq_source": "RPSC 1st Grade GK 2022 / RSSB CET 2023"
+    },
+    {
+      "id": "MCQ-A.07.06-09",
+      "question": {
+        "hi": "मानगढ़ धाम हत्याकांड में लगभग कितने निर्दोष आदिवासी भील ब्रिटिश सेना की तोपों व बंदूकों की गोलीबारी में शहीद हुए थे?",
+        "en": "Approximately how many innocent tribal Bhils were martyred in the British firing at Mangarh Dham?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "1500 से अधिक", "en": "Over 1500" } },
+        { "id": "B", "text": { "hi": "156", "en": "156" } },
+        { "id": "C", "text": { "hi": "1200", "en": "1200" } },
+        { "id": "D", "text": { "hi": "500", "en": "500" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "मानगढ़ धाम नरसंहार में 1500 से अधिक भील शहीद हुए थे (नीमड़ा में 1200 तथा नीमूचाणा में 156 शहीद हुए थे)।",
+        "en": "Over 1,500 Bhil tribesmen laid down their lives at Mangarh Dham on 17 November 1913."
+      },
+      "difficulty": "easy",
+      "pyq_source": "RSSB CET 2023 / Police Constable 2020"
+    },
+    {
+      "id": "MCQ-A.07.06-10",
+      "question": {
+        "hi": "गोविंद गिरि द्वारा स्थापित भगत पंथ के अनुयायी भीलों के प्रत्येक गाँव में पूजा व सामाजिक संगठन के किस केंद्र की स्थापना करते थे?",
+        "en": "What religious and social center did followers of Govind Giri's Bhagat sect establish in every village?"
+      },
+      "options": [
+        { "id": "A", "text": { "hi": "धुणी एवं निशान (Dhuni & Nishan)", "en": "Dhuni & Nishan" } },
+        { "id": "B", "text": { "hi": "कबीर पाठशाला", "en": "Kabir Pathshala" } },
+        { "id": "C", "text": { "hi": "विद्या प्रचारिणी सभा", "en": "Vidya Pracharini Sabha" } },
+        { "id": "D", "text": { "hi": "जीवन कुटीर", "en": "Jeevan Kuteer" } }
+      ],
+      "correct_option": "A",
+      "explanation": {
+        "hi": "भगत पंथ के भील प्रत्येक गाँव में पवित्र हवन स्थल 'धुणी' तथा ध्वज 'निशान' स्थापित करते थे, जो उनके आध्यात्मिक उत्थान का प्रतीक था।",
+        "en": "The Bhagat sect established sacred 'Dhunis' (fire hearths) and 'Nishans' (flags) in villages as cultural centers."
+      },
+      "difficulty": "medium",
+      "pyq_source": "RPSC College Assistant Professor 2020 / RSSB Junior Accountant 2024"
+    }
+  ]
+}
