@@ -3,14 +3,17 @@ import { useLanguage } from '../../context/LanguageContext';
 import type { SubTopicDetail } from '../../types/content';
 import type { SubTopicSummary } from '../../types/taxonomy';
 import { StatusActionBar } from './StatusActionBar';
+import { QuickFacts } from './QuickFacts';
 import { RapidFacts } from './RapidFacts';
 import { TimelineView } from './TimelineView';
 import { ExamTraps } from './ExamTraps';
 import { MarkdownViewer } from './MarkdownViewer';
+import { HighlightToggle } from './HighlightToggle';
 import { TopicNavigation } from './TopicNavigation';
 import { QuizEngine } from '../quiz/QuizEngine';
 import {
   BookOpen,
+  TableProperties,
   Zap,
   Clock,
   ShieldAlert,
@@ -18,7 +21,7 @@ import {
   Flame,
 } from 'lucide-react';
 
-export type StudyTabType = 'notes' | 'rapid' | 'timeline' | 'traps' | 'quiz';
+export type StudyTabType = 'notes' | 'quick' | 'rapid' | 'timeline' | 'traps' | 'quiz';
 
 interface ContentViewerProps {
   content: SubTopicDetail;
@@ -61,6 +64,7 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
 
   const tabs: { id: StudyTabType; label: string; icon: React.FC<{ className?: string }>; count?: number }[] = [
     { id: 'notes', label: ui('notes_tab'), icon: BookOpen },
+    { id: 'quick', label: ui('quick_facts_tab'), icon: TableProperties, count: content.quick_facts?.length },
     { id: 'rapid', label: ui('rapid_facts_tab'), icon: Zap, count: content.key_facts_rapid_revision?.length },
     { id: 'timeline', label: ui('timeline_tab'), icon: Clock, count: content.timeline?.length },
     { id: 'traps', label: ui('traps_tab'), icon: ShieldAlert, count: content.exam_traps_and_tricks?.length },
@@ -167,6 +171,14 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
         {/* Full Study Notes Panel */}
         {currentTab === 'notes' && (
           <div className="space-y-4 sm:space-y-6">
+            {/* Notes Controls Bar */}
+            <div className="flex items-center justify-between px-1">
+              <div className="text-xs font-semibold text-stone-500 dark:text-stone-400 font-hi">
+                {language === 'hi' ? 'विस्तृत अध्ययन नोट्स' : 'Comprehensive Study Notes'}
+              </div>
+              <HighlightToggle />
+            </div>
+
             {content.notes_sections.map((section, idx) => (
               <section
                 key={`${content.id}-section-${idx}`}
@@ -181,6 +193,11 @@ export const ContentViewer: React.FC<ContentViewerProps> = ({
               </section>
             ))}
           </div>
+        )}
+
+        {/* Quick Facts Tab Panel (Key-Value Table) */}
+        {currentTab === 'quick' && (
+          <QuickFacts facts={content.quick_facts} />
         )}
 
         {/* Rapid Revision Panel */}

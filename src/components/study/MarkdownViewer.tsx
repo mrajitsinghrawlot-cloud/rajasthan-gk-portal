@@ -1,5 +1,6 @@
 import React, { useMemo } from 'react';
 import { marked } from 'marked';
+import { useHighlight } from '../../context/HighlightContext';
 
 interface MarkdownViewerProps {
   content: string;
@@ -7,6 +8,8 @@ interface MarkdownViewerProps {
 }
 
 export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content, className = '' }) => {
+  const { highlightEnabled } = useHighlight();
+
   const htmlContent = useMemo(() => {
     if (!content) return '';
     try {
@@ -14,12 +17,21 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content, classNa
         gfm: true,
         breaks: true,
       });
-      return marked.parse(content) as string;
+
+      // Pre-process ==highlight== syntax
+      const processed = content.replace(/==([^=\n]+)==/g, (_match, p1) => {
+        if (highlightEnabled) {
+          return `<mark class="rj-highlight">${p1}</mark>`;
+        }
+        return p1;
+      });
+
+      return marked.parse(processed) as string;
     } catch (e) {
       console.error('Failed to parse markdown', e);
       return content;
     }
-  }, [content]);
+  }, [content, highlightEnabled]);
 
   return (
     <div
@@ -28,3 +40,4 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content, classNa
     />
   );
 };
+

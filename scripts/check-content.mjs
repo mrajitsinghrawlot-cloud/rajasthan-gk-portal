@@ -25,6 +25,21 @@ for (const file of files) {
       errors++;
     }
 
+    // Check Quick Facts if present
+    if (data.quick_facts) {
+      if (!Array.isArray(data.quick_facts)) {
+        console.error(`❌ [${file}] quick_facts must be an array.`);
+        errors++;
+      } else {
+        for (const qf of data.quick_facts) {
+          if (!qf.label?.hi || !qf.label?.en || !qf.value?.hi || !qf.value?.en) {
+            console.error(`❌ [${file}] quick_fact missing bilingual label or value.`);
+            errors++;
+          }
+        }
+      }
+    }
+
     // Check MCQs
     if (Array.isArray(data.mcqs)) {
       for (const mcq of data.mcqs) {

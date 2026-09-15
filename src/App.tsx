@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { LanguageProvider } from './context/LanguageContext';
 import { ProgressProvider } from './context/ProgressContext';
+import { HighlightProvider } from './context/HighlightContext';
 import type { MasterTaxonomy, SubTopicSummary } from './types/taxonomy';
 import taxonomyDataRaw from './data/taxonomy.json';
 import { getSubTopicDetail } from './data/contentLoader';
@@ -179,7 +180,9 @@ export default function App() {
   return (
     <LanguageProvider>
       <ProgressProvider>
-        <MainContent />
+        <HighlightProvider>
+          <MainContent />
+        </HighlightProvider>
       </ProgressProvider>
     </LanguageProvider>
   );

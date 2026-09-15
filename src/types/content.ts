@@ -29,6 +29,12 @@ export interface MCQQuestion {
   tags?: string[];
 }
 
+export interface QuickFact {
+  label: BilingualText;
+  value: BilingualText;
+  category?: string;
+}
+
 export interface SubTopicDetail {
   id: string;
   subject_id: SubjectId;
@@ -42,6 +48,7 @@ export interface SubTopicDetail {
     last_updated: string;
     author_verified: boolean;
   };
+  quick_facts?: QuickFact[];
   notes_sections: BilingualContentBlock[];
   key_facts_rapid_revision: BilingualText[];
   timeline?: TimelineEvent[];

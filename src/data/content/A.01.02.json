@@ -14,9 +14,35 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    { "label": { "hi": "अध्ययन विधा", "en": "Field of Study" }, "value": { "hi": "मुद्राशास्त्र (Numismatics)", "en": "Numismatics" }, "category": "मूल_अवधारणा" },
+    { "label": { "hi": "प्राचीनतम सिक्के (भारत व राजस्थान)", "en": "Earliest Coins (India & Rajasthan)" }, "value": { "hi": "आहत / पंचमार्क सिक्के (5वीं-6ठी सदी ई.पू., चाँदी-तांबा)", "en": "Punch-marked coins (5th-6th c. BC, silver-copper)" }, "category": "प्राचीन_सिक्के" },
+    { "label": { "hi": "रैढ़ (निवाई, टोंक) सिक्का भंडार", "en": "Rairh (Tonk) Coin Hoard" }, "value": { "hi": "3,075 चाँदी के पंचमार्क सिक्के — 'प्राचीन भारत का टाटानगर' (उत्खनन: डॉ. के.एन. पुरी)", "en": "3,075 silver coins — 'Tatanagar of Ancient India' (Dr. K.N. Puri)" }, "category": "प्राचीन_सिक्के" },
+    { "label": { "hi": "बैराठ (जयपुर) सिक्का भंडार", "en": "Bairath Coin Hoard" }, "value": { "hi": "36 सिक्के (8 पंचमार्क + 28 इंडो-ग्रीक, जिनमें 16 मिनाण्डर के)", "en": "36 coins (8 punch-marked + 28 Indo-Greek, 16 of Menander)" }, "category": "प्राचीन_सिक्के" },
+    { "label": { "hi": "नगर (उनियारा, टोंक) सिक्के", "en": "Nagar (Tonk) Coins" }, "value": { "hi": "मालव गण के सिक्के ('मालवानां जयः' अंकित)", "en": "Malava Republic coins ('Malavanam Jayah')" }, "category": "प्राचीन_सिक्के" },
+    { "label": { "hi": "नगरी (चित्तौड़गढ़) सिक्के", "en": "Nagari (Chittorgarh) Coins" }, "value": { "hi": "शिवि जनपद के सिक्के ('मझमिकाया शिबि जनपदस' अंकित)", "en": "Sibi Janapada coins ('Majhamikaya Sibi Janapadas')" }, "category": "प्राचीन_सिक्के" },
+    { "label": { "hi": "गुप्तकालीन स्वर्ण सिक्कों का सबसे बड़ा भंडार", "en": "Largest Gupta Gold Hoard" }, "value": { "hi": "बयाना निधि (नगला छैल, भरतपुर — 1946 ई., 1,821 सिक्के)", "en": "Bayana Hoard (Bharatpur, 1946 — 1,821 gold Dināras)" }, "category": "गुप्त_सिक्के" },
+    { "label": { "hi": "बयाना निधि — सर्वाधिक सिक्के", "en": "Bayana Hoard — Max Coins" }, "value": { "hi": "कुमारगुप्त प्रथम (अध्ययन: डॉ. ए.एस. अल्तेकर)", "en": "Kumaragupta I (Studied by Dr. A.S. Altekar)" }, "category": "गुप्त_सिक्के" },
+    { "label": { "hi": "गधैया सिक्के — शैली व काल", "en": "Gadhaiya Coins — Style & Era" }, "value": { "hi": "इंडो-सासानी शैली (8वीं-12वीं सदी, प्रतिहार व गुहिल काल)", "en": "Indo-Sassanian style (8th-12th c., Pratihara/Guhila)" }, "category": "मध्यकालीन_सिक्के" },
+    { "label": { "hi": "आदिवराह प्रकार के सिक्के — शासक", "en": "Adivaraha Type Coins — Ruler" }, "value": { "hi": "प्रतिहार सम्राट मिहिरभोज (चाँदी व तांबे के द्रम्म)", "en": "Pratihara Emperor Mihira Bhoja (Drammas)" }, "category": "मध्यकालीन_सिक्के" },
+    { "label": { "hi": "मेवाड़ रियासत के सिक्के", "en": "Mewar Princely Coins" }, "value": { "hi": "ढींगला, भीलाड़ी, त्रिशूलिया, पद्मशाही, चित्तौड़ी, स्वरूपशाही, चांदोड़ी", "en": "Dhingla, Bhiladi, Trishuliya, Swaroopshahi, Chandodi" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "स्वरूपशाही सिक्का — मेवाड़", "en": "Swaroopshahi Coin — Mewar" }, "value": { "hi": "महाराणा स्वरूप सिंह — 'दोस्ती लंदन' व 'चित्रकूट उदयपुर' अंकित", "en": "Maharana Swaroop Singh — inscribed 'Dosti London'" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "मारवाड़ / जोधपुर के सिक्के", "en": "Marwar / Jodhpur Coins" }, "value": { "hi": "विजयशाही (महाराजा विजय सिंह, 1781), भीमशाही, गजशाही, लल्लूलिया, डब्बूशाही", "en": "Vijayshahi (1781), Bhimshahi, Gajshahi, Lalluliya, Dabbushahi" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "जयपुर / आमेर के सिक्के", "en": "Jaipur / Amer Coins" }, "value": { "hi": "झाड़शाही (6 टहनियों वाली झाड़ी का निशान), मुहम्मदशाही, हाली", "en": "Jhadshahi (6-sprig branch mark), Mohammadshahi, Hali" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "जैसलमेर रियासत के सिक्के", "en": "Jaisalmer Princely Coins" }, "value": { "hi": "अखैशाही, मुहम्मदशाही, डोडिया (तांबे का छोटा विशिष्ट सिक्का)", "en": "Akhaishahi, Mohammadshahi, Dodiya (small copper coin)" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "बीकानेर रियासत के सिक्के", "en": "Bikaner Princely Coins" }, "value": { "hi": "गजशाही, गंगाशाही (महारानी विक्टोरिया का चित्र), अनूपशाही", "en": "Gajshahi, Gangashahi (Queen Victoria portrait), Anoopshahi" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "कोटा रियासत के सिक्के", "en": "Kota Princely Coins" }, "value": { "hi": "मदनशाही, गुमानशाही, हाली, लक्ष्मणशाही", "en": "Madanshahi, Gumanshahi, Hali, Lakshmanshahi" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "बूंदी रियासत के सिक्के", "en": "Bundi Princely Coins" }, "value": { "hi": "कटारशाही (कटार का निशान), रामशाही, चेहरेशाही, ग्यारहसना", "en": "Katarshahi (dagger mark), Ramshahi, Chehreshahi" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "धौलपुर रियासत का सिक्का", "en": "Dholpur Princely Coin" }, "value": { "hi": "तमंचाशाही सिक्का (तमंचे / पिस्तौल का निशान)", "en": "Tamanchashahi coin (pistol mark)" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "प्रतापगढ़ व बांसवाड़ा के सिक्के", "en": "Pratapgarh & Banswara Coins" }, "value": { "hi": "सालिमशाही (प्रतापगढ़ 1784), लक्ष्मणशाही (बांसवाड़ा)", "en": "Salimshahi (Pratapgarh 1784), Lakshmanshahi (Banswara)" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "झालावाड़ रियासत के सिक्के", "en": "Jhalawar Princely Coins" }, "value": { "hi": "मदनशाही (1838), पृथ्वीशाही", "en": "Madanshahi (1838), Prithvishahi" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "करौली व सिरोही के सिक्के", "en": "Karauli & Sirohi Coins" }, "value": { "hi": "माणकशाही (करौली), डब्बूशाही व भीलाड़ी (सिरोही)", "en": "Manakshahi (Karauli), Dabbushahi (Sirohi)" }, "category": "रियासती_सिक्के" },
+    { "label": { "hi": "ब्रिटिश 'कलदार' सिक्का — वर्ष", "en": "British 'Kaldar' Coin — Year" }, "value": { "hi": "1835 ई. (ईस्ट इंडिया कंपनी का एक समान मानक सिक्का)", "en": "1835 AD (Uniform standard rupee of East India Company)" }, "category": "ब्रिटिश_सिक्के" },
+    { "label": { "hi": "रियासती टकसालों की समाप्ति", "en": "Princely Mints Closure" }, "value": { "hi": "1893-1900 ई. (छप्पनिया अकाल के समय पूर्ण मानकीकरण)", "en": "1893-1900 AD (Standardized during Chhappaniya famine)" }, "category": "ब्रिटिश_सिक्के" }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +50,8 @@
         "en": "1. Introduction to Numismatics & Ancient Punch-Marked Coins"
       },
       "content_markdown": {
-        "hi": "सिक्कों और पदकों के क्रमबद्ध अध्ययन को **मुद्राशास्त्र (Numismatics)** कहा जाता है। सिक्के किसी भी काल की आर्थिक स्थिति, धातु परिष्करण तकनीक, व्यापारिक विस्तार, साम्राज्य की सीमाओं तथा शासकों के धार्मिक विश्वास की जानकारी देते हैं।\n\n### 1. आहत / पंचमार्क सिक्के (Punch-Marked Coins):\n- **परिचय:** ये भारत एवं राजस्थान के **सबसे प्राचीन सिक्के (5वीं-6ठी शताब्दी ई.पू.)** हैं। ठप्पा मारकर (पंच करके) बनाए जाने के कारण इन्हें 'आहत' या 'पंचमार्क' कहा गया।\n- **धातु:** मुख्य रूप से चाँदी और तांबा (इन पर कोई लेख नहीं होता था, केवल सूर्य, चन्द्र, पेड़, मछली, बैल, स्तूप आदि के प्रतीक चिह्न होते थे)।\n\n### राजस्थान में प्रमुख प्राचीन सिक्का भंडार:\n1. **रैढ़ (निवाई, टोंक):**\n   - केदारनाथ पुरी (के.एन. पुरी) द्वारा उत्खनन में **3,075 चाँदी के पंचमार्क सिक्के** मिले।\n   - सिक्कों का विशाल भंडार मिलने के कारण रैढ़ को **'प्राचीन भारत का टाटानगर' (Tatanagar of Ancient India)** कहा जाता है।\n2. **बैराठ (कोटपूतली-बहरोड़ / जयपुर):**\n   - उत्खनन में एक मिट्टी के बर्तन (मृद्भाण्ड) में सूती कपड़े में लिपटे **36 सिक्के** मिले।\n   - इनमें **8 पंचमार्क सिक्के** तथा **28 इंडो-ग्रीक (यूनानी) शासकों के सिक्के** थे (जिनमें 16 सिक्के प्रसिद्ध यूनानी राजा **मिनाण्डर / मिलिंद** के थे)।\n3. **नगर (उनियारा, टोंक / मालवनगर):**\n   - यहाँ से **मालव गण (Malava Republic)** के हजारों सिक्के प्राप्त हुए, जिन पर *'मालवानां जयः'* अंकित है।\n4. **नगरी (मध्यमिका, चित्तौड़गढ़):**\n   - यहाँ से **शिवि जनपद (Sibi Janapada)** के सिक्के मिले, जिन पर *'मझमिकाया शिबि जनपदस'* अंकित है।\n5. **सांभर (जयपुर ग्रामीण) एवं नलियासर:**\n   - चौहान पूर्व, कुषाण तथा गुप्तकालीन सिक्कों के साक्ष्य प्राप्त हुए।",
-        "en": "The scientific study of coins and banknotes is known as **Numismatics**.\n\n### 1. Punch-Marked Coins (Aahat Coins):\n- The earliest coins in India and Rajasthan (dating to 5th-6th Century BC), made by punching symbols like the sun, tree, bull, or stupa without inscriptions.\n\n### Major Ancient Coin Hoards in Rajasthan:\n1. **Rairh (Tonk):** Excavations by K.N. Puri yielded **3,075 silver punch-marked coins**. Due to this massive hoard, Rairh is termed the **'Tatanagar of Ancient India'**.\n2. **Bairath (Jaipur):** Yielded **36 coins** in a cloth inside an earthen pot — 8 punch-marked and **28 Indo-Greek coins** (16 belonging to King Menander).\n3. **Nagar (Tonk / Malava Nagar):** Yielded thousands of **Malava Republic** coins with the legend *'Malavanam Jayah'*.\n4. **Nagari (Chittorgarh):** Yielded **Sibi Janapada** coins bearing *'Majhamikaya Sibi Janapadas'*."
+        "hi": "सिक्कों एवं पदकों के क्रमबद्ध अध्ययन को ==मुद्राशास्त्र (Numismatics)== कहते हैं।\n\n### 1. आहत / पंचमार्क सिक्के (Punch-Marked Coins):\n- **परिचय:** भारत एवं राजस्थान के ==सबसे प्राचीन सिक्के (5वीं-6ठी शताब्दी ई.पू.)==। ठप्पा मारकर (पंच करके) बनाए जाने के कारण 'आहत' कहलाए।\n- **धातु व लक्षण:** चाँदी एवं तांबा; कोई लेख नहीं, केवल ==सूर्य, चन्द्र, वृक्ष, मछली, बैल, स्तूप== के प्रतीक चिह्न।\n\n### राजस्थान के प्रमुख प्राचीन सिक्का भंडार:\n1. **रैढ़ (निवाई, टोंक):**\n   - ==डॉ. के.एन. पुरी== द्वारा उत्खनन में ==3,075 चाँदी के पंचमार्क सिक्के== मिले।\n   - सिक्कों के विशाल भंडार के कारण रैढ़ को ==प्राचीन भारत का टाटानगर (Tatanagar of Ancient India)== कहते हैं।\n2. **बैराठ (कोटपूतली-बहरोड़ / पूर्व जयपुर):**\n   - मृद्भाण्ड में सूती कपड़े में लिपटे ==36 सिक्के== प्राप्त।\n   - ==8 पंचमार्क सिक्के== तथा ==28 इंडो-ग्रीक (यूनानी) सिक्के== (जिनमें ==16 सिक्के राजा मिनाण्डर / मिलिंद== के)।\n3. **नगर (उनियारा, टोंक / मालवनगर):**\n   - ==मालव गण (Malava Republic)== के हजारों सिक्के; मुद्रालेख: *'मालवानां जयः'*।\n4. **नगरी (मध्यमिका, चित्तौड़गढ़):**\n   - ==शिवि जनपद (Sibi Janapada)== के सिक्के; मुद्रालेख: *'मझमिकाया शिबि जनपदस'*।\n5. **सांभर (जयपुर ग्रामीण) व नलियासर:** कुषाण व गुप्तकालीन सिक्के।",
+        "en": "The study of coins is known as ==Numismatics==.\n\n### 1. Punch-Marked Coins (Aahat Coins):\n- Earliest coins in India (5th-6th c. BC) made of silver/copper without text, bearing stamped symbols.\n\n### Major Ancient Coin Hoards in Rajasthan:\n1. **Rairh (Tonk):** Excavated by Dr. K.N. Puri; yielded ==3,075 silver punch-marked coins== — termed ==Tatanagar of Ancient India==.\n2. **Bairath (Jaipur):** Yielded ==36 coins== in a cloth (8 punch-marked + ==28 Indo-Greek coins==, including ==16 coins of King Menander==).\n3. **Nagar (Tonk):** Thousands of ==Malava Republic== coins (*'Malavanam Jayah'*).\n4. **Nagari (Chittorgarh):** ==Sibi Janapada== coins (*'Majhamikaya Sibi Janapadas'*)."
       }
     },
     {
@@ -34,8 +60,8 @@
         "en": "2. Gupta Coin Hoards, Bayana Cache & Gadhaiya Coins"
       },
       "content_markdown": {
-        "hi": "### 1. बयाना सिक्का निधि (Bayana Hoard, भरतपुर):\n- **खोज:** 1946 ई. में बयाना के नगला छैल गाँव में महाराजा सवाई बृजेंद्र सिंह के समय खोजा गया।\n- **महत्व:** यह पूरे भारत में **गुप्तकालीन स्वर्ण सिक्कों का सबसे बड़ा भंडार (Largest Gupta Gold Coin Hoard)** है।\n- **सिक्कों की संख्या:** कुल **1,821 स्वर्ण सिक्के** (दीनार) प्राप्त हुए।\n- **शासक:** इसमें गुप्त सम्राट चंद्रगुप्त प्रथम, समुद्रगुप्त, काच, चंद्रगुप्त द्वितीय विक्रमादित्य, कुमारगुप्त प्रथम तथा स्कंदगुप्त के सिक्के शामिल हैं। सर्वाधिक सिक्के **कुमारगुप्त प्रथम** के हैं।\n- **अध्ययन:** इसका विस्तृत अध्ययन प्रसिद्ध इतिहासकार **डॉ. ए.एस. अल्तेकर (A.S. Altekar)** द्वारा किया गया।\n\n### 2. गधैया सिक्के (Gadhaiya / Indo-Sassanian Coins):\n- **प्रचलन:** 8वीं से 12वीं शताब्दी तक उत्तर-पश्चिम भारत एवं राजस्थान (मारवाड़, मेवाड़ आदि) में।\n- **विशेषता:** इंडो-सासानी शैली के ये सिक्के रूपरेखा में गधे के खुर या मुख जैसे प्रतीत होते हैं। इन्हें 'गधिया' मुद्रा कहा जाता था। गुहिल, प्रतिहार एवं परमार काल में इनका व्यापक प्रचलन था।\n\n### 3. हूण व प्रतिहार सिक्के:\n- हूण शासक **मिहिरकुल** के तांबे के सिक्के तथा प्रतिहार सम्राट **मिहिरभोज** के 'आदिवराह' प्रकार के चाँदी व तांबे के सिक्के (द्रम्म) राजस्थान से प्रचुरता में मिले हैं।",
-        "en": "### 1. Bayana Gold Coin Hoard (Bharatpur):\n- Discovered in 1946 at Nagla Chhail near Bayana.\n- Represents the **largest hoard of Gupta gold coins (Dināras) in India**, consisting of **1,821 gold coins**.\n- Contains coins from Chandragupta I to Skandagupta, with the majority belonging to **Kumaragupta I**; documented extensively by **Dr. A.S. Altekar**.\n\n### 2. Gadhaiya (Indo-Sassanian) Coins:\n- Widely circulated across Rajasthan between the 8th and 12th centuries during Pratihara and Guhila reigns.\n\n### 3. Pratihara Coinage:\n- Pratihara Emperor **Mihira Bhoja** issued 'Adivaraha' type silver Drammas with boar emblems."
+        "hi": "### 1. बयाना सिक्का निधि (Bayana Hoard, भरतपुर):\n- **खोज:** 1946 ई. में नगला छैल (बयाना) में महाराजा सवाई बृजेंद्र सिंह के समय।\n- **महत्व:** भारत में ==गुप्तकालीन स्वर्ण सिक्कों का सबसे बड़ा भंडार (Largest Gupta Gold Coin Hoard)==।\n- **संख्या:** कुल ==1,821 स्वर्ण सिक्के (दीनार)==।\n- **शासक:** चंद्रगुप्त प्रथम, समुद्रगुप्त, काच, चंद्रगुप्त द्वितीय, कुमारगुप्त प्रथम, स्कंदगुप्त। ==सर्वाधिक सिक्के कुमारगुप्त प्रथम== के।\n- **अध्ययन:** प्रसिद्ध इतिहासकार ==डॉ. ए.एस. अल्तेकर (A.S. Altekar)== द्वारा।\n\n### 2. गधैया सिक्के (Gadhaiya / Indo-Sassanian Coins):\n- **शैली व काल:** 8वीं से 12वीं शताब्दी; ==इंडो-सासानी (पर्शियन/ईरानी) शैली==; गधे के खुर जैसा अंकन; प्रतिहार व गुहिल काल में व्यापक प्रचलन।\n\n### 3. हूण व प्रतिहार सिक्के:\n- हूण शासक ==मिहिरकुल== के तांबे के सिक्के तथा प्रतिहार सम्राट ==मिहिरभोज के 'आदिवराह' द्रम्म== (चाँदी व तांबा)।",
+        "en": "### 1. Bayana Gold Coin Hoard (Bharatpur):\n- Discovered in 1946; ==largest hoard of Gupta gold coins in India (1,821 Dināras)==.\n- Majority belonged to ==Kumaragupta I==; analyzed by ==Dr. A.S. Altekar==.\n\n### 2. Gadhaiya (Indo-Sassanian) Coins:\n- Widely circulated across Rajasthan between 8th-12th centuries under Pratiharas and Guhilas.\n\n### 3. Pratihara Coinage:\n- Emperor ==Mihira Bhoja== issued ==Adivaraha Drammas==."
       }
     },
     {
@@ -44,8 +70,8 @@
         "en": "3. Princely State Coinage Matrix across Rajasthan"
       },
       "content_markdown": {
-        "hi": "मध्यकाल एवं ब्रिटिश काल में राजस्थान की देशी रियासतों की अपनी स्वतंत्र टकसालें थीं, जहाँ विशिष्ट चिह्नों वाले सिक्के ढाले जाते थे:\n\n| रियासत (State) | प्रमुख सिक्के / मुद्राएँ (Notable Coins) | विशिष्ट पहचान / चिह्न (Distinctive Marks) |\n|---|---|---|\n| **मेवाड़ (Mewar)** | ढींगला, भीलाड़ी, त्रिशूलिया, गधैया, पद्मशाही, चित्तौड़ी, स्वरूपशाही, चांदोड़ी | स्वरूपशाही (महाराणा स्वरूप सिंह - *'दोस्ती लंदन'* अंकित) |\n| **मारवाड़ / जोधपुर (Marwar)** | विजयशाही, भीमशाही, गजशाही, लल्लूलिया, डब्बूशाही | विजयशाही (महाराजा विजय सिंह द्वारा 1781 में प्रारम्भ) |\n| **जयपुर / आमेर (Jaipur)** | झाड़शाही, मुहम्मदशाही, हाली, मानशाही | झाड़शाही सिक्के पर **6 टहनियों वाली झाड़ी (झाड़)** का निशान |\n| **जैसलमेर (Jaisalmer)** | अखैशाही, डोडिया, मुहम्मदशाही | **डोडिया सिक्का:** तांबे का छोटा सिक्का (जैसलमेर की विशिष्ट पहचान) |\n| **बीकानेर (Bikaner)** | गजशाही, गंगाशाही, अनूपशाही | गंगाशाही (महाराजा गंगा सिंह - महारानी विक्टोरिया का चित्र) |\n| **कोटा (Kota)** | मदनशाही, गुमानशाही, हाली, लक्ष्मणशाही | मदनशाही सिक्का (कोटा व झालावाड़ दोनों में प्रसिद्ध) |\n| **बूंदी (Bundi)** | रामशाही, कटारशाही, चेहरेशाही, ग्यारहसना | कटारशाही पर **कटार का चिह्न** अंकित होता था |\n| **धौलपुर (Dholpur)** | **तमंचाशाही सिक्का** | इस पर **तमंचे / पिस्तौल (Pistol)** का निशान अंकित था |\n| **प्रतापगढ़ (Pratapgarh)** | सालिमशाही (Salimshahi), मुबारकशाही | सालिमसिंह द्वारा 1784 में प्रचलित |\n| **बांसवाड़ा (Banswara)** | लक्ष्मणशाही, सालिमशाही | लक्ष्मण सिंह द्वारा प्रारम्भ |\n| **डूंगरपुर (Dungarpur)** | उदयशाही, चित्तौड़ी, त्रिशूलिया | उदयसिंह द्वारा प्रारम्भ |\n| **झालावाड़ (Jhalawar)** | मदनशाही, पृथ्वीशाही | मदनसिंह द्वारा 1838 में प्रारम्भ |\n| **अलवर (Alwar)** | रावशाही, अखैशाही | प्रतापसिंह/बख्तारसिंह के काल में |\n| **सिरोही (Sirohi)** | डब्बूशाही, भीलाड़ी | प्राचीन वजनदार तांबे के सिक्के |\n| **करौली (Karauli)** | माणकशाही | महाराजा माणकपाल द्वारा जारी |",
-        "en": "During medieval and British eras, various princely states minted their own unique currencies:\n\n- **Mewar:** Dhingla, Bhiladi, Trishuliya, Chandodi, Swaroopshahi (inscribed with *'Dosti London'*).\n- **Marwar (Jodhpur):** Vijayshahi, Bhimshahi, Gajshahi, Lalluliya, Dabbushahi.\n- **Jaipur:** Jhadshahi (bearing a 6-sprig branch mark), Hali, Mohammadshahi.\n- **Jaisalmer:** Akhaishahi, Mohammadshahi, **Dodiya** (distinctive small copper coin).\n- **Bikaner:** Gajshahi, Gangashahi (bearing portrait of Queen Victoria).\n- **Kota & Bundi:** Madanshahi, Gumanshahi, **Katarshahi** (dagger mark).\n- **Dholpur:** **Tamanchashahi** (bearing a pistol mark).\n- **Pratapgarh & Banswara:** Salimshahi, Lakshmanshahi.\n- **Jhalawar:** Madanshahi, Prithvishahi."
+        "hi": "रियासती टकसालों के प्रमुख सिक्के व विशिष्ट पहचान चिह्न:\n\n| रियासत | प्रमुख सिक्के | विशिष्ट पहचान / चिह्न |\n|---|---|---|\n| **मेवाड़** | ==ढींगला, भीलाड़ी, त्रिशूलिया, पद्मशाही, चित्तौड़ी, स्वरूपशाही, चांदोड़ी== | स्वरूपशाही: महाराणा स्वरूप सिंह (=='दोस्ती लंदन'== अंकित) |\n| **मारवाड़** | ==विजयशाही (1781), भीमशाही, गजशाही, लल्लूलिया, डब्बूशाही== | विजयशाही: महाराजा विजय सिंह द्वारा प्रारम्भ |\n| **जयपुर** | ==झाड़शाही, मुहम्मदशाही, हाली, मानशाही== | झाड़शाही: ==6 टहनियों वाली झाड़ी== का निशान |\n| **जैसलमेर** | ==अखैशाही, डोडिया, मुहम्मदशाही== | ==डोडिया: तांबे का छोटा विशिष्ट सिक्का== |\n| **बीकानेर** | ==गजशाही, गंगाशाही, अनूपशाही== | गंगाशाही: महाराजा गंगा सिंह (महारानी विक्टोरिया का चित्र) |\n| **कोटा** | ==मदनशाही, गुमानशाही, हाली, लक्ष्मणशाही== | मदनशाही सिक्का कोटा व झालावाड़ दोनों में प्रसिद्ध |\n| **बूंदी** | ==रामशाही, कटारशाही, चेहरेशाही, ग्यारहसना== | कटारशाही: ==कटार का चिह्न== अंकित |\n| **धौलपुर** | ==तमंचाशाही सिक्का== | ==तमंचे / पिस्तौल (Pistol)== का निशान |\n| **प्रतापगढ़** | ==सालिमशाही (1784), मुबारकशाही== | सालिमसिंह द्वारा प्रचलित |\n| **बांसवाड़ा** | ==लक्ष्मणशाही, सालिमशाही== | लक्ष्मण सिंह द्वारा प्रारम्भ |\n| **डूंगरपुर** | ==उदयशाही, चित्तौड़ी, त्रिशूलिया== | उदयसिंह द्वारा प्रारम्भ |\n| **झालावाड़** | ==मदनशाही, पृथ्वीशाही== | मदनसिंह द्वारा 1838 में प्रारम्भ |\n| **करौली** | ==माणकशाही== | महाराजा माणकपाल द्वारा जारी |\n| **सिरोही** | ==डब्बूशाही, भीलाड़ी== | तांबे के वजनदार सिक्के |",
+        "en": "Princely state currencies across Rajasthan:\n\n- **Mewar:** ==Dhingla, Bhiladi, Trishuliya, Swaroopshahi ('Dosti London')==\n- **Marwar:** ==Vijayshahi (1781), Bhimshahi, Gajshahi, Lalluliya==\n- **Jaipur:** ==Jhadshahi (6-sprig branch mark), Hali==\n- **Jaisalmer:** ==Akhaishahi, Dodiya (small copper coin)==\n- **Bikaner:** ==Gajshahi, Gangashahi (Queen Victoria portrait)==\n- **Bundi:** ==Katarshahi (dagger mark), Ramshahi==\n- **Dholpur:** ==Tamanchashahi (pistol mark)==\n- **Pratapgarh & Banswara:** ==Salimshahi, Lakshmanshahi==\n- **Karauli:** ==Manakshahi==."
       }
     },
     {
@@ -54,47 +80,47 @@
         "en": "4. British Currency Reforms & Late 19th Century Standardization"
       },
       "content_markdown": {
-        "hi": "### 1. ईस्ट इंडिया कंपनी एवं 'कलदार' सिक्का:\n- 1835 ई. में ब्रिटिश सरकार ने पूरे ब्रिटिश भारत में एक समान सिक्का (कंपनी का सिक्का) लागू किया, जिसे राजस्थान में सामान्य जनता **'कलदार' (Kaldar)** कहती थी।\n\n### 2. रियासती टकसालों की समाप्ति:\n- 1876 के *'इंडियन कॉइनेज एक्ट'* और 1893 के सुधारों के तहत ब्रिटिश सरकार ने देशी रियासतों को अपनी टकसालें बंद करने और शाही ब्रिटिश सिक्के अपनाने का प्रस्ताव दिया।\n- **1893 से 1900 ई. (छप्पनिया अकाल के समय)** के मध्य अधिकांश रियासतों ने स्थानीय सिक्के बंद कर ब्रिटिश कलदार को ही कानूनी मान्यता दी।\n\n### 3. विशिष्ट मुहावरे व स्थानीय शब्दावली:\n- **'ढींगला' देना:** व्यर्थ या कम मूल्य का धन देना (मेवाड़ के तांबे के छोटे सिक्के 'ढींगला' से)।\n- **'झाड़शाही' बोली/रुपया:** जयपुर क्षेत्र की टकसाल और पहचान।",
-        "en": "### 1. The British 'Kaldar' Coin:\nIn 1835, the British East India Company introduced uniform coinage across British India, colloquially termed **'Kaldar'** by locals in Rajasthan.\n\n### 2. Closure of Princely Mints:\nUnder the Indian Coinage Act of 1876 and late 19th-century reforms (especially during the 1899-1900 Chhappaniya famine), princely state mints were phased out in favor of the imperial Rupee."
+        "hi": "### 1. ईस्ट इंडिया कंपनी एवं 'कलदार' सिक्का:\n- 1835 ई. में ब्रिटिश सरकार ने समान सिक्का लागू किया, जिसे राजस्थान में ==कलदार (Kaldar)== कहा जाता था।\n\n### 2. रियासती टकसालों की समाप्ति:\n- 1876 के *'इंडियन कॉइनेज एक्ट'* तथा ==1893-1900 ई. (छप्पनिया अकाल)== के समय अधिकांश रियासतों ने स्थानीय सिक्के बंद कर ब्रिटिश कलदार को ही कानूनी मान्यता दी।\n\n### 3. विशिष्ट स्थानीय मुहावरे:\n- **'ढींगला' देना:** कम मूल्य या व्यर्थ धन देना (मेवाड़ के तांबे के छोटे सिक्के से)।\n- **'झाड़शाही' रुपया:** जयपुर क्षेत्र का प्रामाणिक सिक्का।",
+        "en": "### 1. The British 'Kaldar' Coin:\nIn 1835, the British East India Company introduced uniform coinage across India, termed ==Kaldar== by locals.\n\n### 2. Closure of Princely Mints:\nUnder the Indian Coinage Act of 1876 and the 1893-1900 reforms (Chhappaniya famine period), princely mints were phased out in favor of the imperial Rupee."
       }
     }
   ],
   "key_facts_rapid_revision": [
     {
-      "hi": "प्राचीन भारत का टाटानगर: रैढ़ (टोंक) — जहाँ 3,075 चाँदी के आहत/पंचमार्क सिक्के मिले।",
-      "en": "Tatanagar of Ancient India: Rairh (Tonk) — where 3,075 silver punch-marked coins were found."
+      "hi": "रैढ़ (टोंक) से 3,075 चाँदी के पंचमार्क सिक्के मिलने के कारण इसे 'प्राचीन भारत का टाटानगर' कहा जाता है।",
+      "en": "Rairh (Tonk) is called 'Tatanagar of Ancient India' due to 3,075 silver punch-marked coins found there."
     },
     {
-      "hi": "गुप्तकालीन स्वर्ण सिक्कों का भारत में सबसे बड़ा भंडार: बयाना (भरतपुर) — 1,821 स्वर्ण मुद्राएँ।",
-      "en": "Largest hoard of Gupta gold coins in India: Bayana (Bharatpur) — 1,821 gold Dināras."
+      "hi": "भारत में गुप्तकालीन स्वर्ण सिक्कों का सबसे बड़ा भंडार 'बयाना' (भरतपुर) से प्राप्त हुआ (कुल 1,821 दीनार)।",
+      "en": "The largest Gupta gold coin hoard in India was discovered at Bayana (Bharatpur), yielding 1,821 Dināras."
     },
     {
-      "hi": "बैराठ (जयपुर) से 36 सिक्के मिले, जिनमें 28 इंडो-ग्रीक सिक्के (16 मिनाण्डर के) शामिल थे।",
-      "en": "Bairath yielded 36 coins, including 28 Indo-Greek coins (16 of King Menander)."
+      "hi": "जयपुर रियासत का प्रसिद्ध सिक्का 'झाड़शाही' था, जिस पर 6 टहनियों वाली झाड़ी का निशान होता था।",
+      "en": "Jaipur's famous 'Jhadshahi' coin bore a distinctive 6-branch sprig emblem."
     },
     {
-      "hi": "'झाड़शाही' सिक्का जयपुर रियासत में प्रचलित था, जिस पर 6 टहनियों वाली झाड़ी का चिह्न था।",
-      "en": "'Jhadshahi' coin was minted by Jaipur state, bearing a 6-sprig bush mark."
+      "hi": "धौलपुर रियासत के सिक्के को 'तमंचाशाही' कहा जाता था क्योंकि उस पर पिस्तौल (तमंचे) का निशान था।",
+      "en": "Dholpur's coin was called 'Tamanchashahi' due to the pistol mark engraved on it."
     },
     {
-      "hi": "'तमंचाशाही' सिक्का धौलपुर रियासत में प्रचलित था, जिस पर पिस्तौल/तमंचे का निशान था।",
-      "en": "'Tamanchashahi' coin was minted in Dholpur state, bearing a pistol/tamancha mark."
+      "hi": "जैसलमेर रियासत में तांबे का छोटा विशिष्ट सिक्का 'डोडिया' कहलाता था।",
+      "en": "The small copper coin of Jaisalmer state was called 'Dodiya'."
     },
     {
-      "hi": "'डोडिया' तांबे का छोटा सिक्का जैसलमेर रियासत में चलता था।",
-      "en": "'Dodiya' was a small copper coin circulated exclusively in Jaisalmer state."
+      "hi": "मेवाड़ महाराणा स्वरूप सिंह द्वारा जारी 'स्वरूपशाही' सिक्के पर 'दोस्ती लंदन' उत्कीर्ण था।",
+      "en": "Mewar's 'Swaroopshahi' coin issued by Maharana Swaroop Singh was inscribed with 'Dosti London'."
     },
     {
-      "hi": "मेवाड़ में 'स्वरूपशाही' सिक्के पर 'दोस्ती लंदन' (Dosti London) अंकित था।",
-      "en": "Mewar's 'Swaroopshahi' coin bore the inscription 'Dosti London'."
+      "hi": "बैराठ से मिले 36 सिक्कों में से 28 इंडो-ग्रीक सिक्के थे, जिनमें 16 सिक्के राजा मिनाण्डर के थे।",
+      "en": "Of 36 coins at Bairath, 28 were Indo-Greek, including 16 belonging to King Menander."
     },
     {
-      "hi": "मालव गण के सिक्के 'नगर' (टोंक) से और शिवि जनपद के सिक्के 'नगरी' (चित्तौड़गढ़) से मिले हैं।",
-      "en": "Malava coins were found at Nagar (Tonk) and Sibi coins at Nagari (Chittorgarh)."
+      "hi": "जोधपुर में महाराजा विजय सिंह द्वारा 1781 ई. में 'विजयशाही' सिक्का प्रारम्भ किया गया था।",
+      "en": "In Jodhpur, Maharaja Vijay Singh initiated the 'Vijayshahi' currency in 1781 AD."
     },
     {
-      "hi": "जोधपुर में विजय सिंह द्वारा 1781 में 'विजयशाही' सिक्का ढाला गया था।",
-      "en": "The 'Vijayshahi' coin was minted in Jodhpur by Maharaja Vijay Singh in 1781."
+      "hi": "बूंदी रियासत के सिक्के पर कटार का निशान होने के कारण उसे 'कटारशाही' कहा जाता था।",
+      "en": "Bundi's coin was named 'Katarshahi' because it featured a dagger emblem."
     },
     {
       "hi": "इंडो-सासानी शैली के 'गधैया सिक्के' 8वीं से 12वीं सदी में राजस्थान में व्यापक रूप से प्रचलित थे।",
