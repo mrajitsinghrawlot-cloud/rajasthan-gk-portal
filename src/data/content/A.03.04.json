@@ -14,9 +14,111 @@
   "metadata": {
     "pyq_frequency": "high",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "नाडोल चौहान शाखा संस्थापक", "en": "Nadol Chauhan Founder" },
+      "value": { "hi": "लक्ष्मण चौहान / लाखन (960 ई.) — आशापुरा माता मन्दिर बनवाया", "en": "Lakshmana (Lakhana) Chauhan (960 AD) — Built Ashapura Temple" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "जालौर सोनगरा शाखा संस्थापक", "en": "Jalore Songara Founder" },
+      "value": { "hi": "कीर्तिपाल चौहान / कीतू (1181 ई.) — नैणसी: 'कीतू एक महान राजपूत'", "en": "Kirtipala / Kitu (1181 AD) — Nainsi: 'Kitu, A Great Rajput'" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "सोनगरा नामकरण आधार", "en": "Songara Etymology" },
+      "value": { "hi": "सुवर्णगिरि / कनकाचल पर्वत पर स्थित दुर्ग के कारण", "en": "Due to Suvarnagiri / Kanakachal Hill of Jalore" },
+      "category": "उपनाम (Nomenclature)"
+    },
+    {
+      "label": { "hi": "कान्हड़देव चौहान (1305–1311 ई.)", "en": "Kanhad Dev Chauhan" },
+      "value": { "hi": "जालौर के प्रतापी शासक — पुत्र: राजकुमार वीरमदेव (Viramdev)", "en": "Heroic King of Jalore — Son: Prince Viramdev" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "अलाउद्दीन से संघर्ष के कारण", "en": "Causes of Conflict (1311)" },
+      "value": { "hi": "1299 में मार्ग न देना, सोमनाथ शिवलिंग मुक्ति, शहजादी फिरोजा का विवाह प्रस्ताव ठुकराना", "en": "Denied transit in 1299, freed Somnath idol, rejected Princess Firoza's proposal" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "जालौर का विश्वासघाती सामंत", "en": "Jalore Traitor Vassal" },
+      "value": { "hi": "बीका दहिया (गुप्त मार्ग बताया) — देशभक्त पत्नी हीरा दे ने बीका का वध किया", "en": "Bika Dahiya (Slain by his patriotic wife Hira De)" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "जालौर का ऐतिहासिक साका (1311 ई.)", "en": "Jalore Saka (1311 AD)" },
+      "value": { "hi": "कान्हड़देव व वीरमदेव का केसरिया — महारानी जेतलदे का जौहर", "en": "Kesariya by Kanhad Dev & Viramdev — Jauhar by Queen Jetalde" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "जालौर का नया नाम व तोप मस्जिद", "en": "Jalallabad & Top Masjid" },
+      "value": { "hi": "अलाउद्दीन ने 'जलालाबाद' रखा — दुर्ग में 'तोप मस्जिद' (अलाउद्दीन की मस्जिद) बनवाई", "en": "Renamed to 'Jalalabad' — Built Top Masjid in the fort" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "कान्हड़दे प्रबंध (1455 ई.)", "en": "Kanhadade Prabandh" },
+      "value": { "hi": "महाकवि पद्मनाभ (वीरमदेव-फिरोजा प्रेम प्रसंग व 1311 युद्ध का वर्णन)", "en": "Composed by Padmanabh (Chronicled Viramdev-Firoza saga & 1311 war)" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "सिरोही देवड़ा शाखा संस्थापक", "en": "Sirohi Deora Founder" },
+      "value": { "hi": "राव लुम्भा (1311 ई. — परमारों से आबू व चन्द्रावती छीना)", "en": "Rao Lumbha (1311 AD — Captured Abu from Parmaras)" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "सिरोही नगर संस्थापक", "en": "Sirohi City Founder" },
+      "value": { "hi": "सहसमल (1425 ई. — सिरोही को स्थायी राजधानी बनाया)", "en": "Sahasmal (1425 AD — Made Sirohi the permanent capital)" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "दत्ताणी का युद्ध (1583 ई.)", "en": "Battle of Dattani (1583 AD)" },
+      "value": { "hi": "सुरताण देवड़ा ने अकबर की सेना को हराया (जगमाल सिसोदिया मारा गया)", "en": "Surthan Deora defeated Akbar's army (Jagmal was killed)" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "अंग्रेजों से सन्धि करने वाली अंतिम रियासत", "en": "Last State to Sign British Treaty" },
+      "value": { "hi": "सिरोही (11 सितम्बर 1823 ई. — महाराव शिवसिंह)", "en": "Sirohi (11 September 1823 AD — Maharao Shiv Singh)" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "बूंदी हाड़ा रियासत संस्थापक", "en": "Bundi Hada Founder" },
+      "value": { "hi": "राव देवा (1241 ई. — जैता मीणा को हराकर)", "en": "Rao Deva (1241 AD — Vanquished Jaita Meena)" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "तारागढ़ दुर्ग बूंदी (स्टार फोर्ट)", "en": "Bundi Taragarh Fort" },
+      "value": { "hi": "राव बरसिंह (1354 ई. — 'तिलिस्म का किला')", "en": "Rao Bar Singh (1354 AD — 'Star Fort / Goblin Fort')" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "चित्रशाला (रंगविलास / भित्ति चित्र स्वर्ग)", "en": "Chitrashala Bundi" },
+      "value": { "hi": "महाराव उम्मेदसिंह (तारागढ़, बूंदी)", "en": "Maharao Ummed Singh (Taragarh, Bundi)" },
+      "category": "कला व संस्कृति (Art & Culture)"
+    },
+    {
+      "label": { "hi": "राजकवि सूर्यमल्ल मीसण", "en": "Poet Suryamal Misran" },
+      "value": { "hi": "बूंदी महाराव रामसिंह के दरबारी — 'वंश भास्कर' एवं 'वीर सतसई'", "en": "Court poet of Ram Singh — 'Vansh Bhaskar' & 'Veer Satsai'" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "कोटा रियासत की स्थापना (1631 ई.)", "en": "Kota State Foundation (1631)" },
+      "value": { "hi": "मुगल बादशाह शाहजहाँ ने बूंदी से अलग कर माधोसिंह हाड़ा को दिया", "en": "Mughal Emperor Shah Jahan granted Kota to Madho Singh Hada" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "हाड़ौती का चाणक्य", "en": "Machiavelli of Hadoti" },
+      "value": { "hi": "झाला जालिम सिंह (कोटा के शक्तिशाली दीवान/प्रधानमंत्री)", "en": "Jhala Zalim Singh (Powerful Prime Minister of Kota)" },
+      "category": "प्रशासन (Administration)"
+    },
+    {
+      "label": { "hi": "कोटा का नाम 'नंदगाँव' व 'कृष्णदास'", "en": "Nandgaon & Krishnadas" },
+      "value": { "hi": "महाराव भीमसिंह प्रथम (वल्लभ सम्प्रदाय से अत्यधिक प्रभावित)", "en": "Maharao Bhim Singh I (Devotee of Vallabh sect)" },
+      "category": "धार्मिक आस्था (Religious Faith)"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +126,8 @@
         "en": "1. Chauhans of Nadol & Songara Chauhans of Jalore"
       },
       "content_markdown": {
-        "hi": "### 1. नाडोल शाखा (पाली - 960 ई.):\n- **संस्थापक:** शाकम्भरी के शासक वाक्पतिराज प्रथम के पुत्र **लक्ष्मण चौहान (लाखन)** ने 960 ई. में नाडोल में स्वतंत्र चौहान राज्य स्थापित किया।\n- कुलदेवी: नाडोल में **आशापुरा माता का मन्दिर** बनवाया।\n\n### 2. जालौर के सोनगरा चौहान (1181-1311 ई.):\n- **संस्थापक:** नाडोल के अल्हण के पुत्र **कीर्तिपाल चौहान (कीतू)** ने 1181 ई. में परमारों को हराकर सुवर्णगिरि (जालौर दुर्ग) में चौहान सत्ता की नींव रखी। मुहणोत नैणसी ने कीर्तिपाल को **'कीतू एक महान राजपूत'** कहा।\n- **सोनगरा नामकरण:** स्वर्णगिरि (कनकाचल पर्वत) पर स्थित होने के कारण यहाँ के चौहान **'सोनगरा चौहान'** कहलाए।\n\n### 3. कान्हड़देव चौहान (1305-1311 ई.) एवं अलाउद्दीन खिलजी का आक्रमण:\n- **शासक:** कान्हड़देव तथा उनके वीर व सुंदर पुत्र **वीरमदेव (Viramdev)**।\n- **युद्ध के मुख्य कारण:**\n  1. 1299 ई. में अलाउद्दीन की गुजरात जा रही सेना (उलूग खाँ) को जालौर से मार्ग देने से इनकार करना तथा लौटती सेना पर आक्रमण कर सोमनाथ की शिवलिंग प्रतिमा को मुक्त कराना।\n  2. अलाउद्दीन की पुत्री **शहजादी फिरोजा (Firoza)** का वीरमदेव के रूप व शौर्य पर मुग्ध होकर विवाह का प्रस्ताव रखना (*'वरणूं तो वीरम ने नहीं तो रहूं कुँआरी'*), जिसे वीरमदेव ने कुल मर्यादा के विरुद्ध बताकर ठुकरा दिया।\n\n### 4. जालौर का ऐतिहासिक साका (1311 ई.):\n- अलाउद्दीन ने **कमालुद्दीन गुर्ग** के नेतृत्व में विशाल सेना भेजी।\n- **विश्वासघात:** चौहान सामंत **बीका दहिया (Bika Dahiya)** ने लालच में आकर दुर्ग की दीवार का कच्चा भाग (राई व बालू का गुप्त मार्ग) तुर्कों को बता दिया (*'राई का भाव रात ही बीता'* )। बीका की देशभक्त पत्नी **हीरा दे** ने अपने देशद्रोही पति का वध कर दिया।\n- **साका (1311 ई.):** कान्हड़देव व वीरमदेव ने अद्वितीय वीरता से लड़ते हुए वीरगति पाई। वीरांगना महारानी **जेतलदे** के नेतृत्व में स्त्रियों ने जौहर किया।\n- फिरोजा वीरमदेव के कटे मस्तक को देखकर विलाप करते हुए यमुना नदी में कूदकर सती हो गई।\n- अलाउद्दीन ने जालौर का नाम बदलकर **'जलालाबाद' (Jalalabad)** रखा तथा दुर्ग में **'तोप मस्जिद' (अलाउद्दीन की मस्जिद)** बनवाई।\n- **साहित्यिक ग्रंथ:** पद्मनाभ रचित **'कान्हड़दे प्रबंध' (1455 ई.)** एवं **'वीरमदेव सोनगरा री वात'**।",
-        "en": "### 1. Nadol Branch (960 AD):\n- Founded in 960 AD by **Lakshmana (Lakhana) Chauhan**, son of Shakambhari ruler Vakpatiraja I. Erected the shrine of Ashapura Mata.\n\n### 2. Songara Chauhans of Jalore (1181-1311 AD):\n- Founded in 1181 AD by **Kirtipala (Kitu)**, hailed by Muhnot Nainsi as *'Kitu, A Great Rajput'*.\n\n### 3. Kanhad Dev Chauhan & Prince Viramdev:\n- **Causes of Conflict:** Kanhad Dev denied transit to Alauddin's army marching to Gujarat in 1299 AD and liberated the sacred Somnath deity.\n- Imperial Princess **Firoza** fell deeply in love with Prince Viramdev and proposed marriage, which Viramdev adamantly refused to preserve clan honor.\n\n### 4. The Siege & Saka of Jalore (1311 AD):\n- Traitor **Bika Dahiya** compromised the defensive perimeter, but was slain by his patriotic wife **Hira De**.\n- **Saka of 1311 AD:** Kanhad Dev and Viramdev fell heroically (*Kesariya*); Queen Jetalde committed Jauhar.\n- Jalore was renamed **'Jalalabad'**; chronicled in Padmanabh's epic **'Kanhadade Prabandh' (1455 AD)**."
+        "hi": "### 1. नाडोल शाखा (पाली - 960 ई.):\n- **संस्थापक:** शाकम्भरी के शासक वाक्पतिराज प्रथम के पुत्र **==लक्ष्मण चौहान (लाखन)==** ने 960 ई. में नाडोल में स्वतंत्र चौहान राज्य स्थापित किया।\n- कुलदेवी: नाडोल में **==आशापुरा माता का मन्दिर==** बनवाया।\n\n### 2. जालौर के सोनगरा चौहान (1181-1311 ई.):\n- **संस्थापक:** नाडोल के अल्हण के पुत्र **==कीर्तिपाल चौहान (कीतू)==** ने 1181 ई. में परमारों को हराकर सुवर्णगिरि (जालौर दुर्ग) में चौहान सत्ता स्थापित की। मुहणोत नैणसी ने कीर्तिपाल को **'==कीतू एक महान राजपूत=='** कहा।\n- **सोनगरा नामकरण:** स्वर्णगिरि (कनकाचल पर्वत) पर स्थित होने के कारण यहाँ के चौहान **'सोनगरा चौहान'** कहलाए।\n\n### 3. कान्हड़देव चौहान (1305-1311 ई.) एवं अलाउद्दीन खिलजी का आक्रमण:\n- **शासक:** कान्हड़देव तथा उनके वीर पुत्र **==राजकुमार वीरमदेव (Viramdev)==**।\n- **युद्ध के मुख्य कारण:**\n  1. 1299 ई. में अलाउद्दीन की गुजरात जा रही सेना (उलूग खाँ) को जालौर से मार्ग देने से इनकार करना तथा सोमनाथ की शिवलिंग प्रतिमा को मुक्त कराना।\n  2. अलाउद्दीन की पुत्री **==शहजादी फिरोजा (Firoza)==** का वीरमदेव से विवाह का प्रस्ताव रखना (*'वरणूं तो वीरम ने नहीं तो रहूं कुँआरी'*), जिसे वीरमदेव ने कुल मर्यादा के कारण ठुकरा दिया।\n\n### 4. जालौर का ऐतिहासिक साका (1311 ई.):\n- **विश्वासघात:** चौहान सामंत **==बीका दहिया (Bika Dahiya)==** ने लालच में आकर दुर्ग का गुप्त मार्ग तुर्कों को बता दिया (*'राई का भाव रात ही बीता'* )। बीका की देशभक्त पत्नी **==हीरा दे==** ने अपने देशद्रोही पति का वध कर दिया।\n- **साका (1311 ई.):** कान्हड़देव व वीरमदेव ने लड़ते हुए **==केसरिया==** किया। महारानी **==जेतलदे==** के नेतृत्व में स्त्रियों ने **==जौहर==** किया।\n- फिरोजा वीरमदेव के कटे मस्तक को देखकर विलाप करते हुए यमुना नदी में कूदकर सती हो गई।\n- अलाउद्दीन ने जालौर का नाम **'==जलालाबाद==' (Jalalabad)** रखा तथा दुर्ग में **'==तोप मस्जिद==' (अलाउद्दीन की मस्जिद)** बनवाई।\n- **साहित्यिक ग्रंथ:** पद्मनाभ रचित **'==कान्हड़दे प्रबंध==' (1455 ई.)** एवं **'वीरमदेव सोनगरा री वात'**।",
+        "en": "### 1. Nadol Branch (960 AD):\n- Founded in 960 AD by **==Lakshmana (Lakhana) Chauhan==**. Erected the shrine of Ashapura Mata.\n\n### 2. Songara Chauhans of Jalore (1181-1311 AD):\n- Founded in 1181 AD by **==Kirtipala (Kitu)==**, hailed by Muhnot Nainsi as *'==Kitu, A Great Rajput=='*.\n\n### 3. Kanhad Dev Chauhan & Prince Viramdev:\n- **Causes of Conflict:** Denied transit to Alauddin's army in 1299 AD and liberated the sacred Somnath deity.\n- Imperial Princess **==Firoza==** fell in love with Prince **==Viramdev==**, whose proposal was rejected for clan honor.\n\n### 4. The Siege & Saka of Jalore (1311 AD):\n- Traitor **==Bika Dahiya==** compromised the fort and was executed by his patriotic wife **==Hira De==**.\n- **Saka of 1311 AD:** Kanhad Dev and Viramdev achieved martyrdom; Queen **==Jetalde==** committed Jauhar.\n- Jalore was renamed **'==Jalalabad=='** and Top Masjid was erected; chronicled in **==Kanhadade Prabandh (1455 AD)==**."
       }
     },
     {
@@ -34,8 +136,8 @@
         "en": "2. Deora Chauhans of Sirohi"
       },
       "content_markdown": {
-        "hi": "सिरोhi क्षेत्र को प्राचीन काल में **'अर्बुद प्रदेश'** या **'चन्द्रावती'** कहा जाता था।\n\n### प्रमुख शासक एवं घटनाक्रम:\n1. **लुम्भा (Lumbha - 1311 ई.):**\n   - नाडोल शाखा के वंशज; 1311 ई. में परमारों से आबू व चन्द्रावती छीनकर **सिरोही के देवड़ा चौहान वंश** की स्थापना की। चन्द्रावती को राजधानी बनाया।\n2. **सहसमल (Sahasmal - 1425 ई.):**\n   - 1425 ई. में सिरोही नगर की स्थापना की तथा सिरोही को अपनी स्थायी राजधानी बनाया।\n3. **सुरताण देवड़ा (Surthan Deora - 1572-1610 ई.):**\n   - अकबर के विरुद्ध आजीवन स्वतंत्रता की रक्षा की।\n   - **दत्ताणी का युद्ध (Battle of Dattani - 1583 ई.):** सुरताण देवड़ा ने अकबर की शाही मुगल सेना (जगमाल सिसोदिया, रायसिंह कछवाहा व दांता के कल्ला) को बुरी तरह पराजित किया। इस युद्ध में महाराणा प्रताप का विद्रोही भाई **जगमाल** मारा गया।\n4. **महाराव शिवसिंह (1823 ई.):**\n   - 11 सितम्बर 1823 ई. को ईस्ट इंडिया कंपनी से सन्धि करने वाली **राजस्थान की अंतिम रियासत (Last Princely State)** सिरोही बनी।",
-        "en": "Sirohi (anciently Chandravati / Arbudanchal) was ruled by the **Deora branch** of Chauhans.\n\n### Key Rulers:\n1. **Lumbha (1311 AD):** Captured Abu and Chandravati from the Parmaras to establish the Deora dynasty.\n2. **Sahasmal (1425 AD):** Founded modern **Sirohi city** in 1425 AD.\n3. **Surthan Deora:** Defeated Akbar's imperial army at the **Battle of Dattani (1583 AD)**, in which Maharana Pratap's estranged brother Jagmal was killed.\n4. **Maharao Shiv Singh (1823 AD):** Signed the subsidiary alliance with the British, making Sirohi the **last princely state of Rajasthan** to enter into a British treaty (11 September 1823)."
+        "hi": "सिरोही क्षेत्र को प्राचीन काल में **'अर्बुद प्रदेश'** या **'चन्द्रावती'** कहा जाता था।\n\n### प्रमुख शासक एवं घटनाक्रम:\n1. **लुम्भा (Lumbha - 1311 ई.):**\n   - 1311 ई. में परमारों से आबू व चन्द्रावती छीनकर **==सिरोही के देवड़ा चौहान वंश==** की स्थापना की।\n2. **सहसमल (Sahasmal - 1425 ई.):**\n   - 1425 ई. में **==सिरोही नगर==** की स्थापना की तथा सिरोही को स्थायी राजधानी बनाया।\n3. **सुरताण देवड़ा (Surthan Deora - 1572-1610 ई.):**\n   - **==दत्ताणी का युद्ध (Battle of Dattani - 1583 ई.):==** सुरताण देवड़ा ने अकबर की शाही मुगल सेना को हराया। इस युद्ध में महाराणा प्रताप का विद्रोही भाई **==जगमाल==** मारा गया।\n4. **महाराव शिवसिंह (1823 ई.):**\n   - 11 सितम्बर 1823 ई. को ईस्ट इंडिया कंपनी से सन्धि करने वाली **==राजस्थान की अंतिम रियासत (Last Princely State)==** सिरोही बनी।",
+        "en": "Sirohi (anciently Chandravati / Arbudanchal) was ruled by the **==Deora branch==** of Chauhans.\n\n### Key Rulers:\n1. **==Lumbha (1311 AD)==:** Established Deora dynasty by capturing Abu.\n2. **==Sahasmal (1425 AD)==:** Founded **==Sirohi city==** in 1425 AD.\n3. **==Surthan Deora==:** Defeated Akbar's army at the **==Battle of Dattani (1583 AD)==**, in which Jagmal was killed.\n4. **==Maharao Shiv Singh (1823 AD)==:** Made Sirohi the **==last princely state of Rajasthan to sign British treaty==** (11 Sept 1823)."
       }
     },
     {
@@ -44,8 +146,8 @@
         "en": "3. Hada Chauhans of Bundi & Kota"
       },
       "content_markdown": {
-        "hi": "हाड़ौती क्षेत्र (कोटा, बूंदी, बारां, झालावाड़) पर शासन करने वाले चौहान **'हाड़ा चौहान'** कहलाए (नाडोल के माणिकराय/हरिराज के वंशज)।\n\n### 1. बूंदी रियासत (Bundi State):\n- **संस्थापक:** 1241 ई. में **राव देवा (Deva Hada)** ने मीणा शासक **जैता मीणा** को पराजित कर बूंदी में हाड़ा राज्य की स्थापना की।\n- **राव बरसिंह (1354 ई.):** पर्वत शिखर पर **तारागढ़ दुर्ग (Bundi Taragarh - 'स्टार फोर्ट / तिलिस्म का किला')** का निर्माण करवाया।\n- **राव सुरजन हाड़ा (1569 ई.):** 1569 ई. में अकबर के रणथम्भौर घेरे के समय भगवानदास व मानसिंह की मध्यस्थता से मुगलों की अधीनता स्वीकार की। चंद्रशेखर ने इन पर **'सुरजन चरित'** लिखा।\n- **राव राजा बुद्धसिंह:** प्रसिद्ध काव्य **'नेहतरंग'** के रचयिता।\n- **महाराव उम्मेदसिंह:** चित्रकला के प्रेमी; तारागढ़ में विश्वप्रसिद्ध **'चित्रशाला' (रंगविलास)** का निर्माण कराया (भित्ति चित्रों का स्वर्ग)।\n- **महाराव रामसिंह:** इनके राजकवि **सूर्यमल्ल मीसण** ने 'वंश भास्कर' और 'वीर सतसई' की रचना की।\n\n### 2. कोटा रियासत (Kota State - 1631 ई.):\n- **स्वतंत्र रियासत की स्थापना:** 1631 ई. में मुगल बादशाह **शाहजहाँ** ने बूंदी के शासक राव रतनसिंह के पराक्रमी पुत्र **माधोसिंह हाड़ा (Madho Singh Hada)** को कोटा का स्वतंत्र शासक घोषित कर बूंदी से पृथक स्वतंत्र राज्य बनाया।\n- **महाराव भीमसिंह प्रथम:** वल्लभ सम्प्रदाय से प्रभावित होकर अपना नाम **'कृष्णदास'** तथा कोटा का नाम **'नंदगाँव'** रख दिया।\n- **झाला जालिम सिंह:** कोटा के शक्तिशाली व चतुर प्रधानमंत्री/दीवान जिन्हें **'कोटा का वास्तविक शासक / हाड़ौती का चाणक्य'** कहा जाता है। 1817 ई. में अंग्रेजों से पूरक सन्धि की।",
-        "en": "The Chauhans who established their suzerainty over Hadoti (Bundi, Kota, Baran, Jhalawar) are known as **Hada Chauhans**.\n\n### 1. Bundi Princely State:\n- **Founder (1241 AD):** **Rao Deva Hada** vanquished the local chieftain Jaita Meena to found Bundi.\n- **Rao Bar Singh (1354 AD):** Constructed the impregnable **Taragarh Fort** ('Star Fort').\n- **Surjan Hada (1569 AD):** Negotiated treaty with Emperor Akbar.\n- **Maharao Ummed Singh:** Built the world-famous **Chitrashala (Rang Vilas)** in Taragarh, acclaimed as the gallery of Rajasthani murals.\n- **Maharao Ram Singh:** Patron of State Poet **Suryamal Misran**.\n\n### 2. Kota Princely State (1631 AD):\n- **Foundation:** In 1631 AD, Mughal Emperor **Shah Jahan** bifurcated Kota from Bundi and granted an independent sanad to **Madho Singh Hada**.\n- **Maharao Bhim Singh I:** Dedicated Kota to the Vallabh sect, renaming it **Nandgaon**.\n- **Jhala Zalim Singh:** The legendary Prime Minister known as the **'Machiavelli of Hadoti'** and de-facto ruler of Kota."
+        "hi": "हाड़ौती क्षेत्र (कोटा, बूंदी, बारां, झालावाड़) पर शासन करने वाले चौहान **'हाड़ा चौहान'** कहलाए।\n\n### 1. बूंदी रियासत (Bundi State):\n- **संस्थापक:** 1241 ई. में **==राव देवा (Deva Hada)==** ने जैता मीणा को हराकर बूंदी में हाड़ा राज्य स्थापित किया।\n- **राव बरसिंह (1354 ई.):** पर्वत शिखर पर **==तारागढ़ दुर्ग (Bundi Taragarh - 'स्टार फोर्ट / तिलिस्म का किला')==** बनवाया।\n- **महाराव उम्मेदसिंह:** तारागढ़ में विश्वप्रसिद्ध **'==चित्रशाला==' (रंगविलास / भित्ति चित्रों का स्वर्ग)** बनवाई।\n- **महाराव रामसिंह:** इनके राजकवि **==सूर्यमल्ल मीसण==** ने 'वंश भास्कर' और 'वीर सतसई' की रचना की।\n\n### 2. कोटा रियासत (Kota State - 1631 ई.):\n- **स्वतंत्र रियासत की स्थापना:** 1631 ई. में मुगल बादशाह **==शाहजहाँ==** ने राव रतनसिंह के पुत्र **==माधोसिंह हाड़ा (Madho Singh Hada)==** को कोटा का स्वतंत्र शासक बनाया।\n- **महाराव भीमसिंह प्रथम:** वल्लभ सम्प्रदाय से प्रभावित होकर अपना नाम **'कृष्णदास'** तथा कोटा का नाम **'नंदगाँव'** रख दिया।\n- **झाला जालिम सिंह:** कोटा के शक्तिशाली प्रधानमंत्री जिन्हें **'==हाड़ौती का चाणक्य=='** एवं कोटा का वास्तविक शासक कहा जाता है।",
+        "en": "The Chauhans of Hadoti are known as **==Hada Chauhans==**.\n\n### 1. Bundi State:\n- **==Rao Deva Hada (1241 AD)==:** Founded Bundi defeating Jaita Meena.\n- **==Rao Bar Singh (1354 AD)==:** Built the impregnable **==Taragarh Fort==** ('Star Fort').\n- **==Maharao Ummed Singh==:** Built the world-famous **==Chitrashala==** (Gallery of Murals).\n- **==Suryamal Misran==:** Court poet under Maharao Ram Singh.\n\n### 2. Kota State (1631 AD):\n- **==Madho Singh Hada (1631 AD)==:** Bifurcated Kota from Bundi with **==Shah Jahan's==** royal sanad.\n- **==Jhala Zalim Singh==:** Renowned Prime Minister acclaimed as **==Machiavelli of Hadoti==**."
       }
     }
   ],
@@ -102,51 +204,51 @@
     {
       "year_or_era": "1181 AD",
       "event": {
-        "hi": "कीर्तिपाल (कीतू) द्वारा जालौर में सोनगरा चौहान शाखा की स्थापना।",
-        "en": "Kirtipala (Kitu) establishes the Songara Chauhan line at Jalore."
-      }
-    },
-    {
-      "year_or_era": "1241 AD / 1354 AD",
-      "event": {
-        "hi": "राव देवा द्वारा बूंदी की स्थापना (1241) एवं बरसिंह द्वारा तारागढ़ दुर्ग निर्माण (1354)।",
-        "en": "Rao Deva founds Bundi (1241) & Bar Singh builds Taragarh Fort (1354)."
+        "hi": "कीर्तिपाल चौहान (कीतू) द्वारा जालौर में सोनगरा चौहान शाखा की स्थापना।",
+        "en": "Kirtipala Chauhan founds the Songara line at Jalore Fort."
       }
     },
     {
       "year_or_era": "1311 AD",
       "event": {
-        "hi": "जालौर का ऐतिहासिक साका — कान्हड़देव व वीरमदेव का बलिदान; जलालाबाद नामकरण।",
-        "en": "The Saka of Jalore: martyrdom of Kanhad Dev & Viramdev; renamed Jalalabad."
+        "hi": "जालौर का ऐतिहासिक साका (कान्हड़देव व वीरमदेव) एवं लुम्भा द्वारा सिरोही में देवड़ा वंश की स्थापना।",
+        "en": "Saka of Jalore under Kanhad Dev; Lumbha establishes Deora rule in Sirohi."
       }
     },
     {
       "year_or_era": "1583 AD",
       "event": {
-        "hi": "दत्ताणी का युद्ध — सिरोही के सुरताण देवड़ा द्वारा मुगल सेना की ऐतिहासिक पराजय।",
-        "en": "Battle of Dattani: Surthan Deora of Sirohi defeats Akbar's imperial army."
+        "hi": "दत्ताणी का ऐतिहासिक युद्ध — सुरताण देवड़ा द्वारा अकबर की शाही सेना की पराजय।",
+        "en": "Battle of Dattani: Surthan Deora defeats Mughal imperial forces."
       }
     },
     {
       "year_or_era": "1631 AD",
       "event": {
-        "hi": "मुगल बादशाह शाहजहाँ द्वारा माधोसिंह हाड़ा को कोटा का स्वतंत्र राज्य प्रदान करना।",
-        "en": "Shah Jahan grants independent sanad to Madho Singh Hada, carving out Kota State."
+        "hi": "शाहजहाँ द्वारा माधोसिंह हाड़ा को कोटा की स्वतंत्र सनद प्रदान करना।",
+        "en": "Shah Jahan grants independent charter of Kota to Madho Singh Hada."
+      }
+    },
+    {
+      "year_or_era": "1823 AD",
+      "event": {
+        "hi": "सिरोही रियासत द्वारा ईस्ट इंडिया कंपनी के साथ सन्धि (राजस्थान की अंतिम सन्धि)।",
+        "en": "Sirohi signs subsidiary alliance treaty with British (Last State in Rajasthan)."
       }
     }
   ],
   "exam_traps_and_tricks": [
     {
-      "hi": "परीक्षा जाल: 'तारागढ़ दुर्ग' दो हैं — एक अजमेर में (अजयपाल/अजयराज द्वारा निर्मित, गढ़ बीठली) तथा दूसरा बूंदी में (बरसिंह हाड़ा द्वारा निर्मित, स्टार फोर्ट/तिलिस्म किला)।",
-      "en": "TRAP: Two Taragarh forts exist: Taragarh Ajmer (Ajaymeru/Garh Beethli) and Taragarh Bundi (Star Fort by Bar Singh Hada)."
+      "hi": "परीक्षा जाल: 'जालौर दुर्ग' का साका 1311 ई. में हुआ (कान्हड़देव), जबकि 'सिवाना दुर्ग' का साका 1308 ई. में हुआ था (शीतलदेव चौहान)। दोनों साकों के वर्ष में भ्रमित न हों!",
+      "en": "TRAP: Siwana Fort Saka = 1308 AD (Sheetaldev); Jalore Fort Saka = 1311 AD (Kanhad Dev)."
     },
     {
-      "hi": "परीक्षा जाल: अंग्रेजों से 'सर्वप्रथम' सन्धि करने वाली रियासत करौली (1817) थी, जबकि 'सबसे अंत में' सन्धि करने वाली रियासत सिरोही (1823) थी।",
-      "en": "TRAP: First state to sign British treaty was Karauli (1817); last state was Sirohi (1823)."
+      "hi": "परीक्षा जाल: ईस्ट इंडिया कंपनी से सन्धि करने वाली 'प्रथम रियासत' करौली (1817 ई.) थी, जबकि 'अंतिम रियासत' सिरोही (1823 ई.) थी।",
+      "en": "TRAP: 1st State to sign British Treaty = Karauli (1817); Last State = Sirohi (1823)."
     },
     {
-      "hi": "परीक्षा जाल: जालौर का नाम बदलकर अलाउद्दीन ने 'जलालाबाद' रखा, सिवाना का नाम 'खैराबाद' रखा, और चित्तौड़ का नाम 'खिज्राबाद' रखा। तीनों नामों में कभी भ्रमित न हों!",
-      "en": "TRAP: Alauddin renamed Jalore to 'Jalalabad', Siwana to 'Khairabad', and Chittorgarh to 'Khizrabad'."
+      "hi": "परीक्षा जाल: 'तारागढ़ दुर्ग (अजमेर)' अजयराज ने बनवाया, जबकि 'तारागढ़ दुर्ग (बूंदी)' राव बरसिंह हाड़ा ने 1354 ई. में बनवाया था।",
+      "en": "TRAP: Taragarh Ajmer = Ajayraja; Taragarh Bundi = Rao Bar Singh (1354 AD)."
     }
   ],
   "mcqs": [

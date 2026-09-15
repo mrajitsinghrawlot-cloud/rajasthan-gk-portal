@@ -14,9 +14,141 @@
   "metadata": {
     "pyq_frequency": "high",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "प्रतिहारों की मूल व प्राचीन शाखा", "en": "Foundational Pratihara Branch" },
+      "value": { "hi": "मण्डोर (जोधपुर) — कुल 26 शाखाओं का उल्लेख (नैणसी)", "en": "Mandore (Jodhpur) — 26 branches documented by Nainsi" },
+      "category": "राजवंश व शाखाएँ (Dynasty & Branches)"
+    },
+    {
+      "label": { "hi": "मण्डोर प्रतिहार आदिपुरुष", "en": "Mandore Patriarch" },
+      "value": { "hi": "हरिश्चंद्र (रोहिल्लिद्धि) — क्षत्राणी पत्नी भद्रा", "en": "Harishchandra (Rohilliddhi) — Kshatriya Queen Bhadra" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "मण्डोर को राजधानी बनाया", "en": "Capital Mandore Builder" },
+      "value": { "hi": "रज्जिल (हरिश्चंद्र का तृतीय पुत्र) — राजसूय यज्ञ कराया", "en": "Rajjila (3rd son of Harishchandra) — Conducted Rajasuya" },
+      "category": "राजधानी (Capital)"
+    },
+    {
+      "label": { "hi": "पिल्लापाणी उपाधि", "en": "Pillapani Title" },
+      "value": { "hi": "नरभट्ट (शरणागतों का रक्षक)", "en": "Narabhatta (Protector of refugees)" },
+      "category": "उपाधियाँ (Honorific Titles)"
+    },
+    {
+      "label": { "hi": "मण्डोर से मेड़ता राजधानी स्थानांतरण", "en": "Capital Shift to Merta" },
+      "value": { "hi": "नागभट्ट प्रथम (मण्डोर शाखा)", "en": "Nagabhata I (Mandore branch)" },
+      "category": "राजधानी (Capital)"
+    },
+    {
+      "label": { "hi": "घटियाला शिलालेख (861 ई.)", "en": "Ghatiyala Edict (861 AD)" },
+      "value": { "hi": "कक्कुका द्वारा उत्कीर्ण (रोहिंसकूप में बाजार बसाया, सम्पल देवी सती उल्लेख)", "en": "Commissioned by Kakkuka (Market at Rohinsakup, Sati record)" },
+      "category": "अभिलेख (Inscriptions)"
+    },
+    {
+      "label": { "hi": "मण्डोर का राठौड़ों को हस्तांतरण", "en": "Mandore Dowry Transfer" },
+      "value": { "hi": "1395 ई. में इंदा प्रतिहारों ने राव चूड़ा को दहेज में दिया", "en": "1395 AD: Gifted as dowry to Rao Chunda by Inda Pratiharas" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "भीनमाल/जालौर शाखा संस्थापक", "en": "Bhinmal/Jalore Branch Founder" },
+      "value": { "hi": "नागभट्ट प्रथम (730–756 ई.)", "en": "Nagabhata I (730–756 AD)" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "नागभट्ट प्रथम उपाधियाँ", "en": "Nagabhata I Titles" },
+      "value": { "hi": "'नारायण' एवं 'म्लेच्छों का नाशक' (ग्वालियर प्रशस्ति) — अरब सेनापति जुनैद को हराया", "en": "'Narayana' & 'Destroyer of Mlechchhas' (Gwalior Edict) — Defeated Junaid" },
+      "category": "उपाधियाँ (Honorific Titles)"
+    },
+    {
+      "label": { "hi": "त्रिपक्षीय संघर्ष का प्रारम्भ", "en": "Tripartite Struggle Inception" },
+      "value": { "hi": "वत्सराज (775–805 ई.) — कन्नौज हेतु पालों व राष्ट्रकूटों से 200 वर्षीय युद्ध", "en": "Vatsaraja (775–805 AD) — 200-yr war for Kannauj vs Palas & Rashtrakutas" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "वत्सराज उपाधियाँ", "en": "Vatsaraja Titles" },
+      "value": { "hi": "'रणहस्तिन' (युद्ध का हाथी) एवं 'जयवराह'", "en": "'Ranahastin' (War Elephant) & 'Jayavaraha'" },
+      "category": "उपाधियाँ (Honorific Titles)"
+    },
+    {
+      "label": { "hi": "कुवलयमाला ग्रंथ (778 ई.)", "en": "Kuvalayamala (778 AD)" },
+      "value": { "hi": "उद्योतन सूरि (जालौर में, वत्सराज कालीन, 18 भाषाओं में 'मरुभाषा' उल्लेख)", "en": "Uddyotana Suri (Jalore under Vatsaraja, Marubhasha in 18 languages)" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "कन्नौज को स्थायी राजधानी बनाया", "en": "Kannauj Permanent Capital" },
+      "value": { "hi": "नागभट्ट द्वितीय (पाल शासक धर्मपाल को मुंगेर युद्ध में हराकर)", "en": "Nagabhata II (Defeated Dharmapala at Munger)" },
+      "category": "राजधानी (Capital)"
+    },
+    {
+      "label": { "hi": "नागभट्ट द्वितीय उपाधियाँ व जल-समाधि", "en": "Nagabhata II Titles & Death" },
+      "value": { "hi": "'परमभट्टारक महाराजाधिराज परमेश्वर' — 833 ई. में गंगा में जल-समाधि ली", "en": "Paramabhattaraka Maharajadhiraja — Jal-Samadhi in Ganga (833 AD)" },
+      "category": "उपाधियाँ (Honorific Titles)"
+    },
+    {
+      "label": { "hi": "प्रतिहारों का सबसे महान सम्राट", "en": "Greatest Pratihara Emperor" },
+      "value": { "hi": "मिहिरभोज प्रथम (836–885 ई.)", "en": "Mihira Bhoja I (836–885 AD)" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "मिहिरभोज उपाधियाँ", "en": "Mihira Bhoja Titles" },
+      "value": { "hi": "'आदिवराह' (ग्वालियर प्रशस्ति) एवं 'प्रभास' (दौलतपुरा ताम्रपत्र)", "en": "'Adivaraha' (Gwalior Edict) & 'Prabhas' (Daulatpura Plate)" },
+      "category": "उपाधियाँ (Honorific Titles)"
+    },
+    {
+      "label": { "hi": "अरब यात्री सुलेमान का विवरण (851 ई.)", "en": "Suleiman's Account (851 AD)" },
+      "value": { "hi": "मिहिरभोज को 'बरुआ' तथा 'अरबों का सबसे बड़ा शत्रु/इस्लाम की दीवार' कहा", "en": "Termed Mihira Bhoja 'Bora' & greatest enemy of Arabs" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    },
+    {
+      "label": { "hi": "महाकवि राजशेखर", "en": "Mahakavi Rajashekhara" },
+      "value": { "hi": "महेन्द्रपाल प्रथम के राजगुरु — 'कर्पूरमंजरी', 'काव्यमीमांसा', 'बालरामायण', 'विद्धशालभंजिका'", "en": "Royal Preceptor of Mahendrapala I — 'Karpuramanjari', 'Kavyamimamsa'" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "महेन्द्रपाल प्रथम उपाधियाँ", "en": "Mahendrapala I Titles" },
+      "value": { "hi": "'निर्भयराज' एवं 'रघुकुल तिलक' (राजशेखर द्वारा प्रदत्त)", "en": "'Nirbhayaraja' & 'Raghukula Tilaka' (Bestowed by Rajashekhara)" },
+      "category": "उपाधियाँ (Honorific Titles)"
+    },
+    {
+      "label": { "hi": "अरब यात्री अल-मसूदी (915 ई.)", "en": "Al-Masudi Visit (915 AD)" },
+      "value": { "hi": "महीपाल प्रथम के समय — प्रतिहारों को 'अल-गुजर' व राजा को 'बौरा' कहा", "en": "Under Mahipala I — Termed Pratiharas 'Al-Gujar' & King 'Baura'" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    },
+    {
+      "label": { "hi": "महा-मारू स्थापत्य शैली", "en": "Maha-Maru Style Architecture" },
+      "value": { "hi": "8वीं-11वीं सदी — प्रतिहार कालीन मन्दिर निर्माण शैली", "en": "8th-11th century — Gurjara-Pratihara temple architecture" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "ओसियां के मन्दिर (जोधपुर)", "en": "Osian Temples (Jodhpur)" },
+      "value": { "hi": "'राजस्थान का भुवनेश्वर' — महावीर स्वामी जैन मन्दिर, सच्चियाय माता मन्दिर", "en": "'Bhubaneswar of Rajasthan' — Mahavira Jain Temple, Sachiya Mata" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "हर्षत माता मन्दिर", "en": "Harshat Mata Temple" },
+      "value": { "hi": "आभानेरी (दौसा) — 8वीं सदी का प्रतिहार कालीन मन्दिर", "en": "Abhaneri (Dausa) — 8th-century Pratihara sanctuary" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "किराडू का सोमेश्वर मन्दिर", "en": "Kiradu Someshvara Temple" },
+      "value": { "hi": "बाड़मेर — 'राजस्थान का खजुराहो' (महा-मारू शैली का चरमोत्कर्ष)", "en": "Barmer — 'Khajuraho of Rajasthan' (Maha-Maru pinnacle)" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "महमूद गजनवी आक्रमण (1018 ई.)", "en": "Ghaznavid Raid (1018 AD)" },
+      "value": { "hi": "प्रतिहार राजा राज्यपाल कन्नौज छोड़कर भागा (चन्देल विद्याधर द्वारा वध)", "en": "King Rajyapala fled Kannauj (Executed by Chandella Vidyadhara)" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "प्रतिहार वंश का अंतिम शासक", "en": "Last Pratihara Ruler" },
+      "value": { "hi": "यशपाल (1036 ई.)", "en": "Yashapala (1036 AD)" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +156,8 @@
         "en": "1. Gurjara-Pratiharas of Mandore"
       },
       "content_markdown": {
-        "hi": "मण्डोर (जोधपुर) राजस्थान में गुर्जर-प्रतिहारों की **सबसे प्राचीन व मूल शाखा** मानी जाती है (मुहणोत नैणसी ने प्रतिहारों की 26 शाखाओं का उल्लेख किया है)।\n\n### प्रमुख शासक एवं वंशावली:\n1. **हरिश्चंद्र (रोहिल्लिद्धि - Rohilliddhi):**\n   - प्रतिहार वंश के **मूल पुरुष / आदिपुरुष** (6ठी शताब्दी)।\n   - इनकी दो पत्नियाँ थीं — ब्राह्मणी पत्नी तथा क्षत्राणी पत्नी **भद्रा (Bhadra)**। भद्रा से 4 पुत्र हुए — *भोगभट्ट, कक्क, रज्जिल एवं दह*।\n2. **रज्जिल (Rajjila):**\n   - हरिश्चंद्र के तीसरे पुत्र, जिन्होंने **मण्डोर को अपनी राजधानी बनाया** तथा राजसूय यज्ञ करवाया।\n3. **नरभट्ट (Pillapani):**\n   - रज्जिल के पुत्र; अपनी दानशीलता व शौर्य के कारण **'पिल्लापाणी' (शरणागतों का रक्षक)** कहलाए। ह्वेनसांग ने मण्डोर को 'कू-चे-लो' (गुर्जर) की राजधानी बताया।\n4. **नागभट्ट प्रथम (मण्डोर):**\n   - इन्होंने मण्डोर से राजधानी **मेड़ता (मेड़ान्तकपुर)** स्थानांतरित की।\n5. **बाउक (Bauka - 837 ई.):**\n   - मण्डोर दुर्ग में 'बाउक की प्रशस्ति' उत्कीर्ण करवाई जिसमें प्रतिहारों की वंशावली वर्णित है।\n6. **कक्कुका (Kakkuka - 861 ई.):**\n   - 861 ई. में **घटियाला शिलालेख** उत्कीर्ण कराया। रोहिंसकूप (घटियाला) में हाट-बाजार बसाया तथा जयस्तम्भ स्थापित किया।\n\n### मण्डोर शाखा का अंत:\n- 1395 ई. में इंदा प्रतिहारों ने तुर्कों के आक्रमण से रक्षा हेतु अपनी राजकुमारी का विवाह राठौड़ शासक **राव चूड़ा (Rao Chunda)** से कर मण्डोर दुर्ग उन्हें **दहेज (Dowry)** में सौंप दिया।",
-        "en": "Mandore (Jodhpur) is the foundational and most ancient seat of the Gurjara-Pratiharas (Muhnot Nainsi documented 26 branches).\n\n### Key Monarchs:\n1. **Harishchandra (Rohilliddhi):** Founding patriarch (6th Century AD) whose Kshatriya queen **Bhadra** bore four sons: Bhogbhatta, Kakka, Rajjila, and Dadda.\n2. **Rajjila:** Established Mandore as the formal dynastic capital and conducted Rajasuya Yajna.\n3. **Narabhatta:** Titled *Pillapani* (protector of refugees).\n4. **Nagabhata I (Mandore Line):** Extended frontiers and established a secondary capital at **Merta (Medantaka)**.\n5. **Kakkuka (861 AD):** Commissioned the famed **Ghatiyala Edicts** and market complexes.\n\n### Dynastic Transition:\n- In 1395 AD, the Inda Pratiharas gifted Mandore Fort as dowry to Rathore ruler **Rao Chunda** in exchange for military protection."
+        "hi": "मण्डोर (जोधपुर) राजस्थान में गुर्जर-प्रतिहारों की **==सबसे प्राचीन व मूल शाखा==** मानी जाती है (मुहणोत नैणसी ने प्रतिहारों की 26 शाखाओं का उल्लेख किया है)।\n\n### प्रमुख शासक एवं वंशावली:\n1. **हरिश्चंद्र (रोहिल्लिद्धि - Rohilliddhi):**\n   - प्रतिहार वंश के **==मूल पुरुष / आदिपुरुष==** (6ठी शताब्दी)।\n   - इनकी क्षत्राणी पत्नी **==भद्रा (Bhadra)==** से 4 पुत्र हुए — *भोगभट्ट, कक्क, रज्जिल एवं दह*।\n2. **रज्जिल (Rajjila):**\n   - हरिश्चंद्र के तीसरे पुत्र, जिन्होंने **==मण्डोर को अपनी राजधानी बनाया==** तथा राजसूय यज्ञ करवाया।\n3. **नरभट्ट (Pillapani):**\n   - रज्जिल के पुत्र; अपनी दानशीलता व शौर्य के कारण **'==पिल्लापाणी==' (शरणागतों का रक्षक)** कहलाए।\n4. **नागभट्ट प्रथम (मण्डोर):**\n   - इन्होंने मण्डोर से राजधानी **==मेड़ता (मेड़ान्तकपुर)==** स्थानांतरित की।\n5. **बाउक (837 ई.):** मण्डोर दुर्ग में 'बाउक की प्रशस्ति' उत्कीर्ण कराई।\n6. **कक्कुका (861 ई.):**\n   - 861 ई. में **==घटियाला शिलालेख==** उत्कीर्ण कराया। रोहिंसकूप में हाट-बाजार बसाया तथा जयस्तम्भ स्थापित किया।\n\n### मण्डोर शाखा का अंत:\n- **==1395 ई.==** में इंदा प्रतिहारों ने तुर्कों के आक्रमण से रक्षा हेतु मण्डोर दुर्ग राठौड़ शासक **==राव चूड़ा (Rao Chunda)==** को **दहेज में** सौंप दिया।",
+        "en": "Mandore (Jodhpur) is the most ancient seat of the Gurjara-Pratiharas.\n\n### Key Monarchs:\n1. **==Harishchandra (Rohilliddhi)==:** Founding patriarch (6th Century AD) whose Kshatriya queen **==Bhadra==** bore four sons.\n2. **==Rajjila==:** Established Mandore as the formal dynastic capital and conducted Rajasuya Yajna.\n3. **==Narabhatta==:** Titled **==Pillapani==** (protector of refugees).\n4. **==Nagabhata I (Mandore Line)==:** Shifted capital to **==Merta (Medantaka)==**.\n5. **==Kakkuka (861 AD)==:** Commissioned the famed **==Ghatiyala Edicts==**.\n\n### Transition:\n- In **==1395 AD==**, Inda Pratiharas gifted Mandore Fort as dowry to **==Rao Chunda==**."
       }
     },
     {
@@ -34,8 +166,8 @@
         "en": "2. Imperial Pratiharas of Bhinmal, Jalore & Kannauj"
       },
       "content_markdown": {
-        "hi": "यह प्रतिहारों की वह साम्राज्यवादी शाखा थी जिसने पूरे उत्तर भारत पर 8वीं से 10वीं सदी तक चक्रवर्ती शासन किया।\n\n### 1. नागभट्ट प्रथम (730-756 ई.):**\n- **संस्थापक:** भीनमाल/जालौर शाखा के संस्थापक।\n- **अरबों का संहारक:** सिंध से आगे बढ़ते हुए अरब आक्रांताओं (जुनैद की सेना) को पराजित कर पश्चिम भारत की रक्षा की।\n- **उपाधियाँ:** ग्वालियर प्रशस्ति में इन्हें **'नारायण'** तथा **'म्लेच्छों का नाशक' (Mlechchha-Nashaka)** कहा गया है। इन्हें 'नागावलोक' भी कहा गया।\n\n### 2. वत्सराज (775-805 ई.):**\n- **त्रिपक्षीय संघर्ष (Tripartite Struggle) का प्रारम्भ:** कन्नौज पर अधिकार हेतु बंगाल के **पालों (धर्मपाल)** एवं दक्षिण के **राष्ट्रकूटों (ध्रुव)** के मध्य 200 वर्षीय त्रिपक्षीय संघर्ष की शुरुआत की। धर्मपाल को पराजित किया।\n- **उपाधि:** **'रणहस्तिन' (Ranahastin - युद्ध का हाथी)** तथा 'जयवराह'।\n- **साहित्यिक चरमोत्कर्ष:**\n  - 778 ई. में उद्योतन सूरि ने जालौर में प्रसिद्ध प्राकृत ग्रंथ **'कुवलयमाला'** की रचना की (18 देशी भाषाओं में 'मरुभाषा' का प्रथम उल्लेख)।\n  - आचार्य जिनसेन ने **'हरिवंश पुराण'** की रचना की।\n- **मन्दिर निर्माण:** ओसियां (जोधपुर) में प्रसिद्ध **महावीर स्वामी जैन मन्दिर** का निर्माण वत्सराज के काल में हुआ।\n\n### 3. नागभट्ट द्वितीय (805-833 ई.):**\n- **कन्नौज को स्थायी राजधानी बनाया:** पाल शासक चक्रायुध व धर्मपाल को मुंगेर के युद्ध में पराजित कर **कन्नौज (महोदय नगर)** को प्रतिहार साम्राज्य की स्थायी राजधानी बनाया।\n- **उपाधियाँ:** **'परमभट्टारक महाराजाधिराज परमेश्वर'**।\n- गुजरात के सोमनाथ मन्दिर का पत्थरों से पुनर्निर्माण कराया। 833 ई. में पवित्र गंगा में **जल-समाधि** ली।\n\n### 4. मिहिरभोज प्रथम (836-885 ई.) — प्रतिहारों का सबसे महान सम्राट:**\n- **उपाधियाँ:** ग्वालियर प्रशस्ति में **'आदिवराह'** (Adivaraha) तथा दौलतपुरा ताम्रपत्र में **'प्रभास'** (Prabhas)।\n- **अरब यात्री सुलेमान का विवरण (851 ई.):** सुलेमान ने मिहिरभोज को **'बरुआ' (Bora)** लिखा तथा उसे *'अरबों का सबसे बड़ा शत्रु एवं इस्लाम की दीवार'* बताया।\n- चाँदी व तांबे के 'आदिवराह द्रम्म' सिक्के ढाले जिन पर वाराह का चित्र था।\n\n### 5. महेन्द्रपाल प्रथम (885-910 ई.):**\n- **दरबारी राजकवि एवं गुरु:** महाकवि **राजशेखर (Rajashekhara)**।\n- राजशेखर की अमर रचनाएँ: **'कर्पूरमंजरी'** (प्राकृत भाषा), **'विद्धशालभंजिका'**, **'बालरामायण'**, **'बालभारत' / 'प्रचण्ड पाण्डव'**, **'काव्यमीमांसा'**, **'हरविलास'**।\n- राजशेखर ने महेन्द्रपाल को **'निर्भयराज'** एवं **'रघुकुल तिलक'** कहा।\n\n### 6. महीपाल प्रथम (912-944 ई.):**\n- बगदाद के प्रसिद्ध अरब यात्री **अल-मसूदी (915 ई.)** ने इसके समय यात्रा की। उसने प्रतिहारों को **'अल-गुजर'** तथा राजा को **'बौरा'** कहा।\n- राजशेखर ने महीपाल को **'आर्यावर्त का महाराजाधिराज'** तथा **'रघुकुल मुकुटमणि'** कहा।",
-        "en": "The imperial line of Jalore-Bhinmal established hegemony across Northern India.\n\n### 1. Nagabhata I (730-756 AD):\n- Smashed Arab forces under Junaid. Eulogized as **'Narayana'** and **'Destroyer of Mlechchhas'** in the Gwalior Prashasti.\n\n### 2. Vatsaraja (775-805 AD):\n- Initiated the **Tripartite Struggle** for Kannauj against the Palas and Rashtrakutas. Titled **'Ranahastin'**.\n- Patronized Uddyotana Suri's **Kuvalayamala** (778 AD) and Jinasena's **Harivansha Purana**. Built the Mahavira Temple at Osian.\n\n### 3. Nagabhata II (805-833 AD):\n- Conquered Kannauj and made it the imperial capital. Titled *Paramabhattaraka Maharajadhiraja Parameshvara*.\n\n### 4. Mihira Bhoja (836-885 AD) — The Colossus:\n- Titled **'Adivaraha'** and **'Prabhas'**; minted silver Varaha Drammas.\n- Arab traveler **Suleiman (851 AD)** described him as the fiercest enemy of Arab expansion with invincible cavalry.\n\n### 5. Mahendrapala I (885-910 AD):\n- Patronized the polymath **Rajashekhara** (*Karpuramanjari, Kavyamimamsa, Balaramayana*). Titled *Nirbhayaraja*.\n\n### 6. Mahipala I (912-944 AD):\n- Visited by Arab traveler **Al-Masudi (915 AD)**; titled *Emperor of Aryavarta*."
+        "hi": "यह प्रतिहारों की साम्राज्यवादी शाखा थी जिसने उत्तर भारत पर 8वीं से 10वीं सदी तक शासन किया।\n\n### 1. नागभट्ट प्रथम (730-756 ई.):\n- **संस्थापक:** भीनमाल/जालौर शाखा के संस्थापक।\n- **अरबों का संहारक:** सिंध से आगे बढ़ते अरब आक्रांताओं (जुनैद की सेना) को पराजित किया।\n- **उपाधियाँ:** ग्वालियर प्रशस्ति में **'==नारायण=='** तथा **'==म्लेच्छों का नाशक==' (Mlechchha-Nashaka)**।\n\n### 2. वत्सराज (775-805 ई.):\n- **त्रिपक्षीय संघर्ष (Tripartite Struggle) का प्रारम्भ:** कन्नौज हेतु बंगाल के **पालों (धर्मपाल)** एवं दक्षिण के **राष्ट्रकूटों (ध्रुव)** के मध्य 200 वर्षीय संघर्ष की शुरुआत की। धर्मपाल को पराजित किया।\n- **उपाधि:** **'==रणहस्तिन==' (Ranahastin - युद्ध का हाथी)** तथा 'जयवराह'।\n- **साहित्यिक चरमोत्कर्ष:**\n  - 778 ई. में उद्योतन सूरि ने जालौर में प्राकृत ग्रंथ **'==कुवलयमाला=='** की रचना की (18 देशी भाषाओं में 'मरुभाषा' का प्रथम उल्लेख)।\n  - आचार्य जिनसेन ने **'हरिवंश पुराण'** की रचना की।\n- **मन्दिर निर्माण:** ओसियां में **महावीर स्वामी जैन मन्दिर** का निर्माण कराया।\n\n### 3. नागभट्ट द्वितीय (805-833 ई.):\n- **कन्नौज को स्थायी राजधानी बनाया:** पाल शासक धर्मपाल को मुंगेर युद्ध में हराकर **==कन्नौज (महोदय नगर)==** को स्थायी राजधानी बनाया।\n- **उपाधियाँ:** **'परमभट्टारक महाराजाधिराज परमेश्वर'**। 833 ई. में गंगा में **जल-समाधि** ली।\n\n### 4. मिहिरभोज प्रथम (836-885 ई.) — प्रतिहारों का सबसे महान सम्राट:\n- **उपाधियाँ:** ग्वालियर प्रशस्ति में **'==आदिवराह=='** (Adivaraha) तथा दौलतपुरा ताम्रपत्र में **'==प्रभास=='** (Prabhas)।\n- **अरब यात्री सुलेमान का विवरण (851 ई.):** सुलेमान ने मिहिरभोज को **'==बरुआ==' (Bora)** लिखा तथा *'==अरबों का सबसे बड़ा शत्रु एवं इस्लाम की दीवार=='* बताया।\n- 'आदिवराह द्रम्म' सिक्के ढाले।\n\n### 5. महेन्द्रपाल प्रथम (885-910 ई.):\n- **दरबारी राजकवि एवं गुरु:** महाकवि **==राजशेखर (Rajashekhara)==**।\n- राजशेखर की रचनाएँ: **'==कर्पूरमंजरी=='** (प्राकृत), **'==काव्यमीमांसा=='**, **'==बालरामायण=='**, **'विद्धशालभंजिका'**, **'हरविलास'**।\n- राजशेखर ने महेन्द्रपाल को **'==निर्भयराज=='** एवं **'==रघुकुल तिलक=='** कहा।\n\n### 6. महीपाल प्रथम (912-944 ई.):\n- अरब यात्री **==अल-मसूदी (915 ई.)==** ने यात्रा की; उसने प्रतिहारों को **'अल-गुजर'** तथा राजा को **'बौरा'** कहा।\n- राजशेखर ने महीपाल को **'आर्यावर्त का महाराजाधिराज'** कहा।",
+        "en": "The imperial line of Jalore-Bhinmal established hegemony across Northern India.\n\n### 1. Nagabhata I (730-756 AD):\n- Smashed Arab forces. Eulogized as **'==Narayana=='** and **'==Destroyer of Mlechchhas=='** in Gwalior Prashasti.\n\n### 2. Vatsaraja (775-805 AD):\n- Initiated the **==Tripartite Struggle==** for Kannauj against Palas and Rashtrakutas. Titled **'==Ranahastin=='**.\n- Patronized Uddyotana Suri's **==Kuvalayamala (778 AD)==** and built Mahavira Temple at Osian.\n\n### 3. Nagabhata II (805-833 AD):\n- Conquered **==Kannauj==** and made it imperial capital.\n\n### 4. Mihira Bhoja (836-885 AD):\n- Titled **'==Adivaraha=='** and **'==Prabhas=='**.\n- Arab traveler **==Suleiman (851 AD)==** termed him 'Bora' and fiercest enemy of Arab expansion.\n\n### 5. Mahendrapala I (885-910 AD):\n- Patronized **==Rajashekhara==** (*Karpuramanjari, Kavyamimamsa, Balaramayana*). Titled **==Nirbhayaraja==**.\n\n### 6. Mahipala I (912-944 AD):\n- Visited by Arab traveler **==Al-Masudi (915 AD)==**."
       }
     },
     {
@@ -44,8 +176,8 @@
         "en": "3. The Maha-Maru Temple Architectural Style"
       },
       "content_markdown": {
-        "hi": "8वीं से 11वीं शताब्दी के मध्य राजस्थान में गुर्जर-प्रतिहारों के संरक्षण में विकसित विशिष्ट हिन्दू व जैन मन्दिर निर्माण शैली को **'महा-मारू शैली' (Maha-Maru / Pratihara Style)** कहा जाता है।\n\n### प्रमुख स्थापत्य विशेषताएँ:\n- ऊँचे अधिष्ठान (जगती / Chabutara), अलंकृत प्रवेश द्वार, गर्भगृह के चारों ओर प्रदक्षिणा पथ तथा भव्य शिखर।\n\n### प्रमुख महा-मारू शैली मन्दिर:\n1. **ओसियां के मन्दिर (Osian, जोधपुर ग्रामीण):**\n   - **'राजस्थान का भुवनेश्वर' (Bhubaneswar of Rajasthan)** कहा जाता है।\n   - महावीर स्वामी जैन मन्दिर (वत्सराज कालीन), सूर्य मन्दिर, हरिहर मन्दिर एवं **सच्चियाय माता मन्दिर** (ओसवालों की कुलदेवी)।\n2. **हर्षत माता का मन्दिर (आभानेरी, बांदीकुई, दौसा):** 8वीं सदी का प्रतिहार कालीन मन्दिर (चांद बावड़ी के पास)।\n3. **किराडू के मन्दिर (बाड़मेर):** 'राजस्थान का खजुराहो' — सोमेश्वर शिव मन्दिर (महा-मारू व गुर्जर-प्रतिहार शैली का अंतिम चरमोत्कर्ष)।\n4. **कामेश्वर महादेव मन्दिर (आउवा, पाली):** 8वीं-9वीं सदी का प्रतिहार कालीन मन्दिर।\n5. **कुम्भलगढ़ का नीलकंठ महादेव मन्दिर** तथा **चित्तौड़ का कालिका माता (मूलतः सूर्य मन्दिर)**।",
-        "en": "The distinct temple architecture patronized by the Gurjara-Pratiharas from the 8th to 11th century is termed the **Maha-Maru (Pratihara) Style**.\n\n### Signature Masterpieces:\n1. **Osian Temples (Jodhpur):** Known as the **'Bhubaneswar of Rajasthan'**, housing the Mahavira Jain Temple, Sachiya Mata Temple, and Sun Temple.\n2. **Harshat Mata Temple (Abhaneri, Dausa):** 8th-century sanctuary adjacent to the Chand Baori stepwell.\n3. **Kiradu Temples (Barmer):** 'Khajuraho of Rajasthan' — Someshvara Temple.\n4. **Kameshwar Mahadeva Temple (Auwa, Pali).**"
+        "hi": "8वीं से 11वीं शताब्दी के मध्य राजस्थान में गुर्जर-प्रतिहारों के संरक्षण में विकसित मन्दिर निर्माण शैली को **'==महा-मारू शैली==' (Maha-Maru / Pratihara Style)** कहा जाता है।\n\n### प्रमुख महा-मारू शैली मन्दिर:\n1. **ओसियां के मन्दिर (Osian, जोधपुर ग्रामीण):**\n   - **'==राजस्थान का भुवनेश्वर==' (Bhubaneswar of Rajasthan)**।\n   - महावीर स्वामी जैन मन्दिर (वत्सराज कालीन), सूर्य मन्दिर, हरिहर मन्दिर एवं **==सच्चियाय माता मन्दिर==** (ओसवालों की कुलदेवी)।\n2. **हर्षत माता का मन्दिर (आभानेरी, दौसा):** 8वीं सदी का प्रतिहार कालीन मन्दिर (चांद बावड़ी के पास)।\n3. **किराडू के मन्दिर (बाड़मेर):** '==राजस्थान का खजुराहो==' — सोमेश्वर शिव मन्दिर (महा-मारू शैली का चरमोत्कर्ष)।\n4. **कामेश्वर महादेव मन्दिर (आउवा, पाली):** 8वीं-9वीं सदी का प्रतिहार मन्दिर।\n5. **कालिका माता मन्दिर (चित्तौड़गढ़):** मूलतः प्रतिहार कालीन सूर्य मन्दिर।",
+        "en": "The distinct temple architecture patronized by Gurjara-Pratiharas is termed **==Maha-Maru Style==**.\n\n### Signature Masterpieces:\n1. **==Osian Temples (Jodhpur)==:** Termed **'==Bhubaneswar of Rajasthan=='**, housing Mahavira Jain Temple and Sachiya Mata Temple.\n2. **==Harshat Mata Temple (Abhaneri, Dausa)==:** 8th-century sanctuary.\n3. **==Kiradu Temples (Barmer)==:** **'==Khajuraho of Rajasthan=='** — Someshvara Temple.\n4. **==Kameshwar Mahadeva Temple (Auwa, Pali)==**."
       }
     },
     {
@@ -54,14 +186,14 @@
         "en": "4. Decline of the Pratihara Empire"
       },
       "content_markdown": {
-        "hi": "10वीं सदी के उत्तरार्ध में राष्ट्रकूटों के आक्रमणों, सामंतों (चौहान, गुहिल, परमार, चन्देल) की स्वतंत्रता तथा आंतरिक कलह से साम्राज्य क्षीण हुआ।\n\n### मुख्य पतन बिंदु:\n- **1018 ई. में महमूद गजनवी का कन्नौज आक्रमण:** तत्कालीन प्रतिहार शासक **राज्यपाल (Rajyapala)** बिना लड़े कन्नौज छोड़कर भाग गया। इस कायरता से क्षुब्ध होकर चन्देल राजा विद्याधर ने राज्यपाल का वध कर दिया।\n- **त्रिलोचनपाल एवं यशपाल:** **यशपाल (Yashapala - 1036 ई.)** प्रतिहार वंश का **अंतिम शासक** था। 1090 ई. के आसपास चंद्रदेव गहड़वाल ने कन्नौज पर अधिकार कर गहड़वाल वंश की स्थापना की।",
-        "en": "Internal factionalism, Rashtrakuta raids, and the rise of ambitious feudatories (Chauhans, Parmaras, Chandellas) fractured the empire.\n\n- In 1018 AD, **Mahmud of Ghazni** sacked Kannauj while King Rajyapala fled in disgrace (later executed by Chandella ruler Vidyadhara).\n- **Yashapala (1036 AD)** was the **last ruler** before the Gahadavalas annexed Kannauj."
+        "hi": "10वीं सदी के उत्तरार्ध में सामंतों (चौहान, गुहिल, परमार) की स्वतंत्रता तथा विदेशी हमलों से साम्राज्य क्षीण हुआ।\n\n### मुख्य पतन बिंदु:\n- **==1018 ई. में महमूद गजनवी का कन्नौज आक्रमण==:** तत्कालीन प्रतिहार शासक **==राज्यपाल (Rajyapala)==** बिना लड़े कन्नौज छोड़कर भाग गया (चन्देल राजा विद्याधर ने राज्यपाल का वध कर दिया)।\n- **अंतिम शासक:** **==यशपाल (Yashapala - 1036 ई.)==** प्रतिहार वंश का अंतिम शासक था। 1090 ई. में चंद्रदेव गहड़वाल ने कन्नौज पर गहड़वाल वंश स्थापित किया।",
+        "en": "Decline of the Pratihara Empire:\n\n- In **==1018 AD==**, **==Mahmud of Ghazni==** invaded Kannauj; King **==Rajyapala==** fled in disgrace (later executed by Chandella Vidyadhara).\n- **==Yashapala (1036 AD)==** was the **==last ruler==** before Gahadavalas annexed Kannauj."
       }
     }
   ],
   "key_facts_rapid_revision": [
     {
-      "hi": "गुर्जर-प्रतिहारों की मूल व सबसे प्राचीन शाखा मण्डोल (जोधपुर) थी, जिसके संस्थापक हरिश्चंद्र (रोहिल्लिद्धि) थे।",
+      "hi": "गुर्जर-प्रतिहारों की मूल व सबसे प्राचीन शाखा मण्डोर (जोधपुर) थी, जिसके संस्थापक हरिश्चंद्र (रोहिल्लिद्धि) थे।",
       "en": "The foundational and most ancient seat of the Pratiharas was Mandore (Jodhpur), founded by Harishchandra."
     },
     {
@@ -98,50 +230,50 @@
     },
     {
       "hi": "कन्नौज के प्रतिहार वंश का अंतिम शासक 'यशपाल' (1036 ई.) था।",
-      "en": "The last ruler of the imperial Pratihara dynasty of Kannauj was Yashapala (1036 AD)."
+      "en": "Yashapala (1036 AD) was the last ruler of the imperial Pratihara dynasty of Kannauj."
     }
   ],
   "timeline": [
     {
       "year_or_era": "6th Century AD",
       "event": {
-        "hi": "हरिश्चंद्र (रोहिल्लिद्धि) द्वारा मण्डोर में प्रतिहार वंश की नींव रखी गई।",
-        "en": "Harishchandra lays the foundation of the Pratihara dynasty at Mandore."
+        "hi": "हरिश्चंद्र द्वारा मण्डोर (जोधपुर) में प्रतिहार वंश की स्थापना।",
+        "en": "Founding of the Mandore Pratihara dynasty by Harishchandra."
       }
     },
     {
-      "year_or_era": "730–756 AD",
+      "year_or_era": "730 AD",
       "event": {
-        "hi": "नागभट्ट प्रथम द्वारा भीनमाल/जालौर में सत्ता स्थापना एवं अरब आक्रमणकारियों का संहार।",
-        "en": "Nagabhata I founds the Bhinmal line and repels Arab invasions."
+        "hi": "नागभट्ट प्रथम द्वारा भीनमाल/जालौर शाखा की स्थापना एवं अरबों की पराजय।",
+        "en": "Nagabhata I establishes Bhinmal line and repulses Arab invasions."
       }
     },
     {
       "year_or_era": "778 AD",
       "event": {
-        "hi": "वत्सराज के काल में जालौर में उद्योतन सूरि द्वारा 'कुवलयमाला' की रचना।",
-        "en": "Uddyotana Suri authors 'Kuvalayamala' under Vatsaraja."
-      }
-    },
-    {
-      "year_or_era": "815 AD",
-      "event": {
-        "hi": "नागभट्ट द्वितीय द्वारा कन्नौज पर विजय एवं उसे साम्राज्य की स्थायी राजधानी बनाना।",
-        "en": "Nagabhata II annexes Kannauj as the imperial capital."
+        "hi": "वत्सराज के काल में उद्योतन सूरि द्वारा जालौर में 'कुवलयमाला' की रचना।",
+        "en": "Composition of Kuvalayamala by Uddyotana Suri under Vatsaraja."
       }
     },
     {
       "year_or_era": "836–885 AD",
       "event": {
-        "hi": "सम्राट मिहिरभोज (आदिवराह) का स्वर्ण युग एवं अरब यात्री सुलेमान का भारत आगमन (851 ई.)।",
-        "en": "Golden age of Emperor Mihira Bhoja (Adivaraha) & Suleiman's visit (851 AD)."
+        "hi": "सम्राट मिहिरभोज (आदिवराह) का चरमोत्कर्ष काल।",
+        "en": "Golden era of Emperor Mihira Bhoja (Adivaraha)."
+      }
+    },
+    {
+      "year_or_era": "861 AD",
+      "event": {
+        "hi": "कक्कुका द्वारा मण्डोर प्रतिहारों के घटियाला शिलालेख का उत्कीर्णन।",
+        "en": "Engraving of the Ghatiyala Inscriptions by Mandore ruler Kakkuka."
       }
     },
     {
       "year_or_era": "1018 AD / 1036 AD",
       "event": {
-        "hi": "महमूद गजनवी का कन्नौज पर आक्रमण (राज्यपाल का पलायन) एवं अंतिम शासक यशपाल का अंत।",
-        "en": "Ghaznavid sack of Kannauj (1018 AD) and demise of the last ruler Yashapala (1036 AD)."
+        "hi": "महमूद गजनवी का कन्नौज पर आक्रमण एवं अंतिम प्रतिहार राजा यशपाल का पतन।",
+        "en": "Mahmud of Ghazni sacks Kannauj; fall of last Pratihara ruler Yashapala."
       }
     }
   ],

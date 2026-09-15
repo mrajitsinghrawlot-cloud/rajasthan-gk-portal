@@ -14,9 +14,151 @@
   "metadata": {
     "pyq_frequency": "ultra-high",
     "target_exams": ["RAS", "CET", "Patwari", "Police", "REET", "1st-Grade", "All"],
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "author_verified": true
   },
+  "quick_facts": [
+    {
+      "label": { "hi": "शाकम्भरी चौहान संस्थापक", "en": "Shakambhari Chauhan Founder" },
+      "value": { "hi": "वासुदेव चौहान (551 ई.) — सांभर झील निर्माण (बिजोलिया अभिलेख)", "en": "Vasudeva Chauhan (551 AD) — Built Sambhar Lake" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "चौहान कुलदेवी", "en": "Chauhan Kuldevi" },
+      "value": { "hi": "शाकम्भरी माता (सांभर / सहारनपुर)", "en": "Shakambhari Mata (Sambhar)" },
+      "category": "धार्मिक आस्था (Religious Faith)"
+    },
+    {
+      "label": { "hi": "अजमेर नगर व तारागढ़ दुर्ग संस्थापक", "en": "Ajmer City & Fort Founder" },
+      "value": { "hi": "अजयराज चौहान (1113 ई.) — बीठली पहाड़ी पर अजयमेरु दुर्ग", "en": "Ajayraja Chauhan (1113 AD) — Ajaymeru (Taragarh) Fort" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "अजयराज के सिक्के", "en": "Ajayraja Coinage" },
+      "value": { "hi": "'अजयप्रिय द्रम्म' (रानी सोमलवती/सोमल्लदेवी के नाम के सिक्के)", "en": "'Ajaypriya Dramma' (Coins of Queen Somalladevi)" },
+      "category": "मुद्राएँ (Coinage)"
+    },
+    {
+      "label": { "hi": "आनासागर झील व वराह मन्दिर", "en": "Anasagar & Varaha Temple" },
+      "value": { "hi": "अर्णोराज / आना जी (1133–1155 ई.) — पुष्कर में वराह मन्दिर", "en": "Arnoraja / Ana ji (1133–1155 AD) — Varaha Temple at Pushkar" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "चौहानों का प्रथम पितृहंता", "en": "First Chauhan Patricide" },
+      "value": { "hi": "जगद्देव (अर्णोराज का हत्यारा पुत्र)", "en": "Jagaddeva (Killed his father Arnoraja)" },
+      "category": "राजवंश व शासक (Dynasties & Rulers)"
+    },
+    {
+      "label": { "hi": "विग्रहराज चतुर्थ उपाधियाँ", "en": "Vigraharaja IV Titles" },
+      "value": { "hi": "'कवि बान्धव' एवं 'कटी बान्धव' (जयानक द्वारा प्रदत्त)", "en": "'Kavi Bandhava' (Friend of Poets) titled by Jayanak" },
+      "category": "उपाधियाँ (Honorific Titles)"
+    },
+    {
+      "label": { "hi": "दिल्ली जीतने वाला प्रथम चौहान", "en": "First Chauhan to Conquer Delhi" },
+      "value": { "hi": "विग्रहराज चतुर्थ / बीसलदेव (दिल्ली-शिवालिक स्तम्भ अभिलेख)", "en": "Vigraharaja IV / Bisaldev (Delhi-Shivalik Pillar Edict)" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "हरकेलि संस्कृत नाटक", "en": "Harkeli Sanskrit Drama" },
+      "value": { "hi": "विग्रहराज चतुर्थ (ढाई दिन का झोंपड़ा व ब्रिस्टल में राजा राममोहन राय समाधि पर उत्कीर्ण)", "en": "Vigraharaja IV (Verses on Adhai Din Ka Jhonpra & Ram Mohan Roy tomb)" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "ललित विग्रहराज नाटक", "en": "Lalit Vigraharaja Drama" },
+      "value": { "hi": "दरबारी कवि सोमदेव", "en": "Court poet Somadeva" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "संस्कृत पाठशाला (सरस्वती कंठाभरण)", "en": "Sanskrit Pathshala Ajmer" },
+      "value": { "hi": "विग्रहराज चतुर्थ (1198 में कुतुबुद्दीन ऐबक ने 'ढाई दिन का झोंपड़ा' मस्जिद में बदला)", "en": "Vigraharaja IV (Converted to 'Adhai Din Ka Jhonpra' by Aibak)" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "बीसलसर झील व बीसलपुर कस्बा", "en": "Bisalpur & Bisalsar" },
+      "value": { "hi": "विग्रहराज चतुर्थ (टोंक — गोकर्णेश्वर महादेव मन्दिर)", "en": "Vigraharaja IV (Tonk — Gokarneshwar Temple)" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "पृथ्वीराज तृतीय जन्म व माता-पिता", "en": "Prithviraj III Birth & Parents" },
+      "value": { "hi": "1166 ई. (अन्हिलपाटन) — पिता: सोमेश्वर, माता: कर्पूरी देवी (संरक्षिका)", "en": "1166 AD (Anhilpatan) — Father: Someshvara, Mother: Karpuri Devi" },
+      "category": "राजवंश व शासक (Dynasties & Rulers)"
+    },
+    {
+      "label": { "hi": "पृथ्वीराज तृतीय प्रधानमंत्री व सेनापति", "en": "Prithviraj III Ministers" },
+      "value": { "hi": "प्रधानमंत्री: कदम्बवास (कैमास) | सेनापति: भुवनमल्ल", "en": "PM: Kadambavasa (Kaimasa) | General: Bhuvanamalla" },
+      "category": "प्रशासन (Administration)"
+    },
+    {
+      "label": { "hi": "पृथ्वीराज तृतीय उपाधियाँ", "en": "Prithviraj III Titles" },
+      "value": { "hi": "'राय पिथौरा' एवं 'दलपंगुल' (विश्व विजेता)", "en": "'Rai Pithora' & 'Dalpanggul' (World Conqueror)" },
+      "category": "उपाधियाँ (Honorific Titles)"
+    },
+    {
+      "label": { "hi": "महोबा / तुम्मुल का युद्ध (1182 ई.)", "en": "Battle of Mahoba (1182 AD)" },
+      "value": { "hi": "चन्देल परमार्दिदेव को हराया — वीर सेनापति आल्हा एवं ऊदल वीरगति को प्राप्त", "en": "Defeated Chandella Paramardi; heroes Alha & Udal martyred" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "तराइन का प्रथम युद्ध (1191 ई.)", "en": "First Battle of Tarain (1191 AD)" },
+      "value": { "hi": "पृथ्वीराज तृतीय की विजय — दिल्ली के गोविन्द राय ने गोरी को घायल किया", "en": "Prithviraj III routed Ghori; Govind Rai wounded Ghori" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "तराइन का द्वितीय युद्ध (1192 ई.)", "en": "Second Battle of Tarain (1192 AD)" },
+      "value": { "hi": "मुहम्मद गोरी विजयी — भारत में दिल्ली सल्तनत की स्थायी नींव पड़ी", "en": "Ghori victorious — Foundation of Delhi Sultanate in India" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "पृथ्वीराज तृतीय दरबारी विद्वान", "en": "Prithviraj III Court Scholars" },
+      "value": { "hi": "चंदबरदाई ('पृथ्वीराज रासो'), जयानक ('पृथ्वीराज विजय'), विद्यापति गौड़, पद्मनाभ", "en": "Chand Bardai, Jayanak, Vidyapati Gauda, Padmanabha" },
+      "category": "विद्वान व साहित्य (Scholars & Literature)"
+    },
+    {
+      "label": { "hi": "कला एवं साहित्य विभाग अध्यक्ष", "en": "Arts & Literature Dept Head" },
+      "value": { "hi": "पद्मनाभ (अजमेर में पृथ्वीराज तृतीय द्वारा स्थापित)", "en": "Padmanabha (Instituted in Ajmer by Prithviraj III)" },
+      "category": "प्रशासन (Administration)"
+    },
+    {
+      "label": { "hi": "रणथम्भौर चौहान शाखा संस्थापक", "en": "Ranthambore Chauhan Founder" },
+      "value": { "hi": "गोविन्दराज (1194 ई. — पृथ्वीराज तृतीय का पुत्र)", "en": "Govindaraja (1194 AD — Son of Prithviraj III)" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "हम्मीर देव चौहान (1282–1301 ई.)", "en": "Hammir Dev Chauhan" },
+      "value": { "hi": "'हठीला हम्मीर' — 17 में से 16 युद्ध जीते, कोटियज्ञ कराया (पुरोहित: विश्वरूप)", "en": "'Resolute Hammir' — Won 16 of 17 battles, performed Kotiyajna" },
+      "category": "संस्थापक व शासक (Founders & Rulers)"
+    },
+    {
+      "label": { "hi": "32 खंभों की छतरी (न्याय की छतरी)", "en": "32-Pillared Cenotaph" },
+      "value": { "hi": "रणथम्भौर — हम्मीर ने पिता जैत्रसिंह के 32 वर्षों के शासन की स्मृति में बनवाई", "en": "Ranthambore — Built by Hammir for father Jaitra Singh's 32-yr rule" },
+      "category": "स्थापत्य व निर्माण (Architecture)"
+    },
+    {
+      "label": { "hi": "जलालुद्दीन खिलजी के असफल आक्रमण", "en": "Jalaluddin Khalji Invasions" },
+      "value": { "hi": "1290 व 1292 ई. — '100 किलों को मुसलमान के एक बाल बराबर नहीं समझता'", "en": "1290 & 1292 AD — 'Do not value 100 forts at one Muslim hair'" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    },
+    {
+      "label": { "hi": "अलाउद्दीन से युद्ध का कारण", "en": "Cause of 1301 War" },
+      "value": { "hi": "मंगोल विद्रोही सेनापति मीर मुहम्मद शाह व केहब्रू को शरणागत शरण देना", "en": "Granting asylum to rebel Mongol generals Mir Muhammad Shah & Khabru" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "हम्मीर के विश्वासघाती सेनापति", "en": "Hammir's Traitor Generals" },
+      "value": { "hi": "रणमल एवं रतिपाल (रसद सामग्री में हड्डियाँ मिलवाईं)", "en": "Ranmal & Rati Pal (Bribed by Alauddin Khalji)" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "राजस्थान का प्रथम साका (1301 ई.)", "en": "Rajasthan's First Saka" },
+      "value": { "hi": "11 जुलाई 1301 — हम्मीर का केसरिया, रानी रंगादेवी व पुत्री पद्मला का जल जौहर", "en": "11 July 1301 — Hammir's Kesariya, Queen Ranga Devi's Jal Jauhar" },
+      "category": "प्रमुख घटनाएं (Key Events)"
+    },
+    {
+      "label": { "hi": "अमीर खुसरो का प्रसिद्ध कथन", "en": "Amir Khusrau's Quote" },
+      "value": { "hi": "'आज कुफ्र का गढ़ इस्लाम का घर बन गया।' (रणथम्भौर विजय 1301)", "en": "'Today the citadel of Kufr became the home of Islam.' (1301 AD)" },
+      "category": "ऐतिहासिक विवरण (Historical Records)"
+    }
+  ],
   "notes_sections": [
     {
       "section_title": {
@@ -24,8 +166,8 @@
         "en": "1. Chauhans of Shakambhari to Vigraharaja IV"
       },
       "content_markdown": {
-        "hi": "### 1. वासुदेव चौहान (551 ई.):\n- चौहान वंश के **आदिपुरुष / मूल संस्थापक**; 551 ई. में शाकम्भरी (सांभर) को केंद्र बनाकर राज्य की स्थापना की।\n- बिजोलिया शिलालेख के अनुसार **सांभर झील** का निर्माण वासुदेव चौहान ने करवाया था। कुलदेवी: शाकम्भरी माता।\n\n### 2. अजयराज चौहान (1113 ई.):\n- 1113 ई. में **अजयमेरु (अजमेर) नगर** की स्थापना की तथा बीठली पहाड़ी पर **तारागढ़ (अजयमेरु दुर्ग)** बनवाया।\n- चाँदी व तांबे के **'अजयप्रिय द्रम्म'** सिक्के चलाए। इनकी रानी **सोमलवती (सोमल्लदेवी)** के नाम के सिक्के भी मिले हैं।\n\n### 3. अर्णोराज / आना जी (1133-1155 ई.):\n- तुर्कों के संहार के बाद रक्त से अशुद्ध हुई भूमि को शुद्ध करने हेतु अजमेर में **आनासागर झील (Anasagar Lake)** का निर्माण करवाया।\n- पुष्कर में प्रसिद्ध **वराह मन्दिर (Varaha Temple)** का निर्माण कराया।\n- दरबारी विद्वान: देवबोध एवं धर्मघोष। अर्णोराज की हत्या उनके पुत्र **जगद्देव** (चौहानों का प्रथम पितृहंता) ने की।\n\n### 4. विग्रहराज चतुर्थ / बीसलदेव (1153-1163 ई.) — चौहानों का स्वर्ण काल:\n- **उपाधियाँ:** विद्वानों के आश्रयदाता होने के कारण **'कवि बान्धव'** एवं **'कटी बान्धव'** (जयानक द्वारा प्रदत्त)।\n- **दिल्ली पर अधिकार:** तोमर शासकों को हराकर **दिल्ली (ढिल्लिका) पर अधिकार करने वाला प्रथम चौहान शासक** (दिल्ली-शिवालिक स्तम्भ अभिलेख)।\n- **साहित्यिक योगदान:**\n  - स्वयं संस्कृत नाटक **'हरकेलि' (Harkeli)** की रचना की (भारवि के किरातार्जुनीयम् पर आधारित)।\n  - इनके दरबारी कवि **सोमदेव** ने प्रसिद्ध नाटक **'ललित विग्रहराज'** (विग्रहराज व इन्द्रपुरी की राजकुमारी देसलदेवी का प्रेम प्रसंग) लिखा।\n- **स्थापत्य निर्माण:**\n  - अजमेर में एक भव्य **संस्कृत पाठशाला (सरस्वती कण्ठाभरण)** बनवाई, जिसे 1198 ई. में कुतुबुद्दीन ऐबक ने तुड़वाकर **'ढाई दिन का झोंपड़ा'** (मस्जिद) में परिवर्तित कर दिया।\n  - टोंक में **बीसलसर झील** एवं **बीसलपुर कस्बा** (गोकर्णेश्वर महादेव मन्दिर) बसाया।",
-        "en": "### 1. Vasudeva Chauhan (551 AD):\n- Dynastic founder at Shakambhari (Sambhar). Credited with constructing Sambhar Lake in the Bijolia Inscription.\n\n### 2. Ajayraja II (1113 AD):\n- Founded **Ajmer (Ajaymeru)** and built the hilltop Taragarh Fort. Minted *Ajaypriya Dramma* coins alongside Queen Somalladevi.\n\n### 3. Arnoraja / Ana ji (1133-1155 AD):\n- Constructed the scenic **Anasagar Lake** and the sacred **Varaha Temple** at Pushkar.\n\n### 4. Vigraharaja IV / Visaldev (1153-1163 AD) — The Golden Era:\n- Titled **'Kavi Bandhava'** (Friend of Poets).\n- First Chauhan monarch to **conquer Delhi** from the Tomaras (recorded on the Delhi-Shivalik Pillar).\n- Composed the Sanskrit drama **'Harkeli'**; court poet Somadeva authored **'Lalit Vigraharaja'**.\n- Built a celebrated Sanskrit college in Ajmer, later converted by Qutbuddin Aibak into **'Adhai Din Ka Jhonpra'**."
+        "hi": "### 1. वासुदेव चौहान (551 ई.):\n- चौहान वंश के **==आदिपुरुष / मूल संस्थापक==**; 551 ई. में शाकम्भरी (सांभर) को केंद्र बनाकर राज्य स्थापित किया।\n- बिजोलिया शिलालेख के अनुसार **==सांभर झील का निर्माण==** वासुदेव चौहान ने करवाया था। कुलदेवी: शाकम्भरी माता।\n\n### 2. अजयराज चौहान (1113 ई.):\n- 1113 ई. में **==अजयमेरु (अजमेर) नगर==** बसाया तथा बीठली पहाड़ी पर **==तारागढ़ (अजयमेरु दुर्ग)==** बनवाया।\n- चाँदी व तांबे के **'==अजयप्रिय द्रम्म=='** सिक्के चलाए। इनकी रानी **==सोमलवती (सोमल्लदेवी)==** के नाम के सिक्के भी मिले।\n\n### 3. अर्णोराज / आना जी (1133-1155 ई.):\n- तुर्कों के संहार के बाद अजमेर में **==आनासागर झील (Anasagar Lake)==** का निर्माण करवाया।\n- पुष्कर में प्रसिद्ध **==वराह मन्दिर (Varaha Temple)==** बनवाया।\n- अर्णोराज की हत्या उनके पुत्र **==जगद्देव==** (चौहानों का प्रथम पितृहंता) ने की।\n\n### 4. विग्रहराज चतुर्थ / बीसलदेव (1153-1163 ई.) — चौहानों का स्वर्ण काल:\n- **उपाधियाँ:** **'==कवि बान्धव=='** एवं **'==कटी बान्धव=='** (जयानक द्वारा प्रदत्त)।\n- **दिल्ली पर अधिकार:** तोमरों को हराकर **==दिल्ली पर अधिकार करने वाला प्रथम चौहान शासक==** (दिल्ली-शिवालिक स्तम्भ अभिलेख)।\n- **साहित्यिक योगदान:**\n  - स्वयं संस्कृत नाटक **'==हरकेलि==' (Harkeli)** की रचना की (भारवि के किरातार्जुनीयम् पर आधारित)।\n  - दरबारी कवि **सोमदेव** ने नाटक **'==ललित विग्रहराज=='** लिखा।\n- **स्थापत्य निर्माण:**\n  - अजमेर में **==संस्कृत पाठशाला (सरस्वती कण्ठाभरण)==** बनवाई, जिसे 1198 ई. में कुतुबुद्दीन ऐबक ने तोड़कर **'==ढाई दिन का झोंपड़ा=='** (मस्जिद) बनाया।\n  - टोंक में **बीसलसर झील** एवं **बीसलपुर कस्बा** बसाया।",
+        "en": "### 1. Vasudeva Chauhan (551 AD):\n- Dynastic founder at Shakambhari; created **==Sambhar Lake==**.\n\n### 2. Ajayraja II (1113 AD):\n- Founded **==Ajmer (Ajaymeru)==** and Taragarh Fort. Minted **==Ajaypriya Dramma==** and Queen Somalladevi coins.\n\n### 3. Arnoraja / Ana ji (1133-1155 AD):\n- Constructed **==Anasagar Lake==** and **==Varaha Temple==** at Pushkar.\n\n### 4. Vigraharaja IV / Visaldev (1153-1163 AD) — The Golden Era:\n- Titled **'==Kavi Bandhava=='** (Friend of Poets).\n- **==First Chauhan to conquer Delhi==** (Delhi-Shivalik Pillar).\n- Authored drama **'==Harkeli=='**; Somadeva wrote **'==Lalit Vigraharaja=='**.\n- Built Sanskrit College in Ajmer, later converted into **'==Adhai Din Ka Jhonpra=='**."
       }
     },
     {
@@ -34,8 +176,8 @@
         "en": "2. Prithviraj Chauhan III & The Landmark Battles of Tarain"
       },
       "content_markdown": {
-        "hi": "पृथ्वीराज तृतीय चौहान वंश के सबसे पराक्रमी और अंतिम हिन्दू चक्रवर्ती सम्राट थे।\n\n### जीवन परिचय एवं उपाधियाँ:\n- **जन्म:** 1166 ई. में अन्हिलपाटन (गुजरात) में। पिता: सोमेश्वर, माता: **कर्पूरी देवी** (योग्य संरक्षिका)।\n- **11 वर्ष की अल्पायु में राज्यारोहण (1177 ई.):** प्रारम्भ में प्रधानमंत्री **कदम्बवास (कैमास)** तथा सेनापति **भुवनमल्ल** ने शासन संभाला।\n- **उपाधियाँ:** **'राय पिथौरा'** तथा **'दलपंगुल' (Dalpanggul - विश्व विजेता)**।\n\n### दिग्विजय अभियान:\n1. **नागार्जुन का दमन (1178 ई.):** चचेरे भाई नागार्जुन के विद्रोह को कुचला।\n2. **भण्डानकों का दमन (1182 ई.):** अलवर-भरतपुर क्षेत्र में उपद्रवी भण्डानक जाति का पूर्ण उन्मूलन।\n3. **महोबा / तुम्मुल का युद्ध (1182 ई.):** चन्देल राजा **परमार्दिदेव** को पराजित किया। इस युद्ध में परमार्दिदेव के प्रसिद्ध वीर सेनापति **आल्हा एवं ऊदल (Alha & Udal)** वीरगति को प्राप्त हुए। पंजुनराय को महोबा का प्रशासक बनाया।\n4. **चालुक्यों से संघर्ष (1184 ई.):** गुजरात के चालुक्य राजा भीमदेव द्वितीय को नागौर युद्ध में परास्त कर 1187 में जगद्देव प्रतिहार के माध्यम से सन्धि की।\n5. **कन्नौज से वैमनस्य:** गहड़वाल राजा **जयचंद** की पुत्री **संयोगिता** के स्वयंवर से उसका हरण कर गंधर्व विवाह किया।\n\n### तराइन के ऐतिहासिक युद्ध (Battles of Tarain, करनाल, हरियाणा):\n1. **तराइन का प्रथम युद्ध (1191 ई.):**\n   - पृथ्वीराज तृतीय की सेना ने **मुहम्मद गोरी** को बुरी तरह पराजित किया। दिल्ली के गोविन्द राय ने भाले के वार से गोरी को घायल कर दिया। गोरी जान बचाकर भागा।\n2. **तराइन का द्वितीय युद्ध (1192 ई.):**\n   - गोरी ने 1,20,000 की विशाल सेना के साथ पुनः आक्रमण किया। उसने कूटनीति व रात के धोखे से सुबह की नित्यक्रिया के समय चौहान सेना पर अचानक धावा बोला।\n   - पृथ्वीराज तृतीय पराजित हुए तथा सरस्वती (सिरसा, हरियाणा) के पास बन्दी बनाए गए।\n   - **परिणाम:** भारत में मुस्लिम शासन (दिल्ली सल्तनत) की स्थायी नींव पड़ी।\n\n### दरबारी विद्वान मण्डली:\n- **चंदबरदाई** ('पृथ्वीराज रासो'), **जयानक** ('पृथ्वीराज विजय'), **विद्यापति गौड़**, **वागीश्वर जनार्दन**, **विश्वस्वरूप** तथा **पद्मनाभ**। पृथ्वीराज ने अजमेर में एक 'कला व साहित्य विभाग' की स्थापना की थी जिसके अध्यक्ष पद्मनाभ थे।",
-        "en": "Prithviraj III was the legendary last independent Hindu monarch of Northern India.\n\n### Overview & Titles:\n- Born in 1166 AD to King Someshvara and Queen Regent **Karpuri Devi**.\n- Assumed power at age 11 guided by Chief Minister **Kadambavasa (Kaimasa)** and General **Bhuvanamalla**.\n- Titles: **'Rai Pithora'** and **'Dalpanggul'** (Conqueror of the World).\n\n### Military Campaigns:\n1. **Battle of Mahoba (1182 AD):** Defeated Chandella King Paramardideva; legendary warriors **Alha & Udal** fell heroically.\n2. **Defeat of Bhandanakas (1182 AD).**\n3. **Abduction of Princess Samyogita** from the court of Gahadavala King Jaichand of Kannauj.\n\n### The Battles of Tarain (1191 & 1192 AD):\n1. **First Battle of Tarain (1191 AD):** Decisive victory for Prithviraj; Muhammad Ghori was severely wounded by Govind Rai and routed.\n2. **Second Battle of Tarain (1192 AD):** Ghori launched a surprise dawn ambush; Prithviraj was defeated and captured near Sirsa. This marked the watershed establishment of the Delhi Sultanate in India.\n\n### Court Scholars:\n- Chand Bardai (*Prithviraj Raso*), Jayanak (*Prithviraj Vijay*), Vidyapati Gauda, Janardana, and Padmanabha (Head of the Department of Arts & Literature)."
+        "hi": "पृथ्वीराज तृतीय चौहान वंश के सबसे पराक्रमी और अंतिम हिन्दू चक्रवर्ती सम्राट थे।\n\n### जीवन परिचय एवं उपाधियाँ:\n- **जन्म:** 1166 ई. में अन्हिलपाटन में। पिता: सोमेश्वर, माता: **==कर्पूरी देवी==** (योग्य संरक्षिका)।\n- **11 वर्ष में राज्यारोहण (1177 ई.):** प्रधानमंत्री **==कदम्बवास (कैमास)==** तथा सेनापति **==भुवनमल्ल==** ने शासन संभाला।\n- **उपाधियाँ:** **'==राय पिथौरा=='** तथा **'==दलपंगुल==' (Dalpanggul - विश्व विजेता)**।\n\n### दिग्विजय अभियान:\n1. **भण्डानकों का दमन (1182 ई.):** अलवर-भरतपुर क्षेत्र में भण्डानक जाति का उन्मूलन।\n2. **महोबा / तुम्मुल का युद्ध (1182 ई.):** चन्देल राजा **परमार्दिदेव** को पराजित किया। चन्देलों के वीर सेनापति **==आल्हा एवं ऊदल (Alha & Udal)==** वीरगति को प्राप्त हुए।\n3. **कन्नौज से वैमनस्य:** गहड़वाल राजा जयचंद की पुत्री **संयोगिता** का स्वयंवर से हरण।\n\n### तराइन के ऐतिहासिक युद्ध (Battles of Tarain, करनाल, हरियाणा):\n1. **तराइन का प्रथम युद्ध (1191 ई.):**\n   - पृथ्वीराज तृतीय की सेना ने **==मुहम्मद गोरी को पराजित किया==**। दिल्ली के **==गोविन्द राय==** ने भाले के वार से गोरी को घायल कर दिया।\n2. **तराइन का द्वितीय युद्ध (1192 ई.):**\n   - गोरी ने अचानक सुबह की नित्यक्रिया के समय धावा बोला।\n   - पृथ्वीराज तृतीय पराजित हुए तथा सरस्वती (सिरसा) के पास बन्दी बनाए गए।\n   - **परिणाम:** भारत में **==दिल्ली सल्तनत==** की स्थायी नींव पड़ी।\n\n### दरबारी विद्वान मण्डली:\n- **==चंदबरदाई==** ('पृथ्वीराज रासो'), **==जयानक==** ('पृथ्वीराज विजय'), **विद्यापति गौड़**, **वागीश्वर जनार्दन** तथा **==पद्मनाभ==** (कला व साहित्य विभाग के अध्यक्ष)।",
+        "en": "Prithviraj III was the legendary last independent Hindu emperor of Northern India.\n\n### Overview & Titles:\n- Born in 1166 AD; Mother: **==Karpuri Devi==**; PM: **==Kadambavasa (Kaimasa)==**.\n- Titles: **'==Rai Pithora=='** and **'==Dalpanggul=='** (World Conqueror).\n\n### Military Campaigns:\n1. **Battle of Mahoba (1182 AD):** Defeated Chandella Paramardideva; **==Alha & Udal==** fell heroically.\n2. **Defeat of Bhandanakas (1182 AD).**\n3. **Princess Samyogita abduction.**\n\n### The Battles of Tarain (1191 & 1192 AD):\n1. **First Battle of Tarain (1191 AD):** **==Prithviraj routed Muhammad Ghori==**; Govind Rai wounded Ghori.\n2. **Second Battle of Tarain (1192 AD):** Ghori launched a surprise ambush; Prithviraj was captured near Sirsa. Established **==Delhi Sultanate==**.\n\n### Court Scholars:\n- **==Chand Bardai==** (*Prithviraj Raso*), **==Jayanak==** (*Prithviraj Vijay*), and **==Padmanabha==**."
       }
     },
     {
@@ -44,8 +186,8 @@
         "en": "3. Chauhans of Ranthambore & Hammir Dev Chauhan"
       },
       "content_markdown": {
-        "hi": "### रणथम्भौर शाखा की स्थापना:\n- 1194 ई. में पृथ्वीराज तृतीय के पुत्र **गोविन्दराज (Govindaraja)** ने कुतुबुद्दीन ऐबक की अधीनता में रणथम्भौर में चौहान वंश की नींव रखी।\n\n### हम्मीर देव चौहान (1282-1301 ई.) — 'हठीला हम्मीर':\n- **माता-पिता:** जैत्रसिंह (जयसिंह) एवं हीरा देवी। जैत्रसिंह के 32 वर्षों के शासन की स्मृति में रणथम्भौर दुर्ग में **32 खंभों की छतरी (न्याय की छतरी)** बनवाई।\n- **दिग्विजय नीति:** 17 में से **16 युद्धों में अपराजित** रहे (भीमरस के अर्जुन, माण्डलगढ़, धार के परमार भोज को हराया)। 'कोटियज्ञ' का सम्पादन किया (पुरोहित: विश्वरूप)।\n- **प्रसिद्ध लोकोक्ति:**\n  > *\"सिंह सुवन, सत्पुरुष वचन, कदली फलत इक बार।\"*  \n  > *\"तिरिया तेल हम्मीर हठ, चढ़े न दूजी बार॥\"*\n\n### दिल्ली सल्तनत से संघर्ष:\n1. **जलालुद्दीन खिलजी के असफल आक्रमण (1290 एवं 1292 ई.):**\n   - जलालुद्दीन ने रणथम्भौर की कुंजी **'झाईन दुर्ग'** पर अधिकार किया किन्तु रणथम्भौर को नहीं जीत सका। जाते समय उसने कहा: *\"मैं ऐसे 100 किलों को मुसलमान के एक बाल के बराबर भी नहीं समझता।\"*\n2. **अलाउद्दीन खिलजी से युद्ध का मुख्य कारण:**\n   - 1299 ई. में गुजरात लूट के माल के बँटवारे को लेकर अलाउद्दीन के मंगोल विद्रोही सेनापति **मीर मुहम्मद शाह (Muhammad Shah)** तथा **केहब्रू (Khabru)** को हम्मीर ने शरणागत मानकर शरण दी तथा अलाउद्दीन को सौंपने से इनकार कर दिया।\n\n### रणथम्भौर का ऐतिहासिक घेरा एवं राजस्थान का प्रथम साका (1301 ई.):\n- अलाउद्दीन ने उलूग खाँ एवं नुसरत खाँ को भेजा (नुसरत खाँ दुर्ग की प्राचीर से फेंके गए पत्थर/गरगज से मारा गया)।\n- **विश्वासघात:** हम्मीर के सेनापति **रणमल एवं रतिपाल** तथा रसद अधिकारी **सुर्जन शाह** को अलाउद्दीन ने दुर्ग का लालच देकर अपनी ओर मिला लिया। दुर्ग में रसद सामग्री समाप्त हो गई (*'सोने के दो दानों के बदले अनाज का एक दाना भी नसीब नहीं हो रहा था'* )।\n- **11 जुलाई 1301 ई. — राजस्थान का प्रथम साका:**\n  - हम्मीर देव चौहान ने केसरिया धारण कर अंतिम सांस तक युद्ध किया और वीरगति पाई।\n  - महारानी **रंगा देवी** तथा पुत्री **पद्मला (देवल दे)** ने पद्मला तालाब में कूदकर **जल जौहर (Jal Jauhar)** किया।\n  - दुर्ग विजय के बाद अमीर खुसरो ने लिखा: *\"आज कुफ्र (काफिरों) का गढ़ इस्लाम का घर बन गया।\"*",
-        "en": "### Foundation of Ranthambore Branch:\n- Founded in 1194 AD by **Govindaraja**, son of Prithviraj III.\n\n### Hammir Dev Chauhan (1282-1301 AD) — 'The Resolute':\n- Built the **32-pillared Cenotaph (Nyay ki Chhatri)** in memory of his father Jaitra Singh. Won 16 out of 17 military battles and performed the sacred *Kotiyajna*.\n- **Jalaluddin Khalji's Failed Sieges (1290-92):** Unable to breach Ranthambore, he remarked: *'I do not value a hundred such forts at the worth of a single hair of a Muslim.'*\n- **Casus Belli with Alauddin Khalji:** Hammir gave chivalric asylum to Alauddin's rebellious Mongol generals **Mir Muhammad Shah** and **Khabru**, refusing to surrender them.\n\n### Siege of Ranthambore & Rajasthan's First Saka (11 July 1301 AD):\n- Treachery by Hammir's commanders **Ranmal & Rati Pal** compromised food supplies.\n- **First Saka in Rajasthan History:** Hammir fell in battle (*Kesariya*); Queen **Ranga Devi** and Princess **Padmala** committed **Jal Jauhar** in Padmala Talab.\n- Court chronicler Amir Khusrau declared: *'Today the citadel of Kufr has become the abode of Islam.'*"
+        "hi": "### रणथम्भौर शाखा की स्थापना:\n- 1194 ई. में पृथ्वीराज तृतीय के पुत्र **==गोविन्दराज (Govindaraja)==** ने रणथम्भौर में चौहान वंश की नींव रखी।\n\n### हम्मीर देव चौहान (1282-1301 ई.) — 'हठीला हम्मीर':\n- **32 खंभों की छतरी:** पिता जैत्रसिंह के 32 वर्षों के शासन की स्मृति में रणथम्भौर में **==32 खंभों की छतरी (न्याय की छतरी)==** बनवाई।\n- **दिग्विजय:** 17 में से **==16 युद्धों में अपराजित==**। 'कोटियज्ञ' कराया (पुरोहित: विश्वरूप)।\n- **प्रसिद्ध लोकोक्ति:** *\"तिरिया तेल हम्मीर हठ, चढ़े न दूजी बार॥\"*\n\n### दिल्ली सल्तनत से संघर्ष:\n1. **जलालुद्दीन खिलजी के असफल आक्रमण (1290 एवं 1292 ई.):**\n   - जलालुद्दीन ने कहा: *\"मैं ऐसे 100 किलों को मुसलमान के एक बाल के बराबर भी नहीं समझता।\"*\n2. **अलाउद्दीन खिलजी से युद्ध का मुख्य कारण:**\n   - मंगोल विद्रोही सेनापति **==मीर मुहम्मद शाह (Muhammad Shah)==** तथा **केहब्रू** को हम्मीर ने शरणागत मानकर शरण दी।\n\n### रणथम्भौर का ऐतिहासिक घेरा एवं राजस्थान का प्रथम साका (1301 ई.):\n- **विश्वासघात:** हम्मीर के सेनापति **==रणमल एवं रतिपाल==** ने अलाउद्दीन से मिलकर रसद सामग्री में हड्डियाँ मिलवा दीं।\n- **11 जुलाई 1301 ई. — राजस्थान का प्रथम साका:**\n  - हम्मीर देव चौहान ने **==केसरिया==** कर वीरगति पाई।\n  - महारानी **==रंगा देवी==** तथा पुत्री **==पद्मला (देवल दे)==** ने पद्मला तालाब में **==जल जौहर (Jal Jauhar)==** किया।\n  - अमीर खुसरो का कथन: *\"==आज कुफ्र का गढ़ इस्लाम का घर बन गया।==\"*",
+        "en": "### Foundation of Ranthambore Branch:\n- Founded in 1194 AD by **==Govindaraja==**, son of Prithviraj III.\n\n### Hammir Dev Chauhan (1282-1301 AD) — 'The Resolute':\n- Built **==32-pillared Cenotaph (Nyay ki Chhatri)==** for father Jaitra Singh. Won 16 of 17 battles.\n- **Jalaluddin's Failed Sieges (1290-92):** Remarked 100 forts aren't worth a single Muslim hair.\n- **Casus Belli:** Granted refuge to rebel Mongol generals **==Mir Muhammad Shah==** and Khabru.\n\n### Rajasthan's First Saka (11 July 1301 AD):\n- Treachery by commanders **==Ranmal & Rati Pal==**.\n- Hammir fell in battle; Queen **==Ranga Devi==** performed **==Jal Jauhar==**.\n- Amir Khusrau declared: *'==Today the citadel of Kufr became the abode of Islam.=='*"
       }
     }
   ],
@@ -102,51 +244,51 @@
     {
       "year_or_era": "1113 AD",
       "event": {
-        "hi": "अजयराज द्वारा अजयमेरु (अजमेर) नगर की स्थापना एवं तारागढ़ दुर्ग का निर्माण।",
-        "en": "Ajayraja founds Ajmer city and constructs Taragarh Fort."
+        "hi": "अजयराज चौहान द्वारा अजयमेरु (अजमेर) नगर एवं तारागढ़ दुर्ग की स्थापना।",
+        "en": "Ajayraja founds Ajmer city and Taragarh Fort."
       }
     },
     {
       "year_or_era": "1153–1163 AD",
       "event": {
-        "hi": "विग्रहराज चतुर्थ (बीसलदेव) का स्वर्ण युग, दिल्ली विजय एवं हरकेलि नाटक की रचना।",
-        "en": "Golden Age of Vigraharaja IV: conquest of Delhi and composition of Harkeli."
+        "hi": "विग्रहराज चतुर्थ (बीसलदेव) का स्वर्ण काल — दिल्ली विजय एवं हरकेलि नाटक की रचना।",
+        "en": "Golden era of Vigraharaja IV — conquest of Delhi and composition of Harkeli."
       }
     },
     {
-      "year_or_era": "1191 / 1192 AD",
+      "year_or_era": "1191 AD / 1192 AD",
       "event": {
-        "hi": "तराइन का प्रथम युद्ध (पृथ्वीराज की विजय) एवं द्वितीय युद्ध (गोरी की विजय)।",
-        "en": "1st Battle of Tarain (Prithviraj wins) & 2nd Battle of Tarain (Ghori wins)."
+        "hi": "तराइन का प्रथम युद्ध (पृथ्वीराज तृतीय विजयी) एवं तराइन का द्वितीय युद्ध (गोरी विजयी)।",
+        "en": "1st and 2nd Battles of Tarain between Prithviraj III and Muhammad Ghori."
       }
     },
     {
       "year_or_era": "1194 AD",
       "event": {
-        "hi": "गोविन्दराज चौहान द्वारा रणथम्भौर में चौहान साम्राज्य की स्थापना।",
-        "en": "Govindaraja founds the Chauhan kingdom at Ranthambore."
+        "hi": "गोविन्दराज द्वारा रणथम्भौर में चौहान वंश की स्थापना।",
+        "en": "Govindaraja establishes Chauhan rule at Ranthambore."
       }
     },
     {
       "year_or_era": "11 July 1301 AD",
       "event": {
-        "hi": "रणथम्भौर का ऐतिहासिक साका — हम्मीर देव का बलिदान एवं राजस्थान का प्रथम जल जौहर।",
-        "en": "First Saka of Rajasthan at Ranthambore: martyrdom of Hammir Dev and Jal Jauhar."
+        "hi": "अलाउद्दीन खिलजी द्वारा रणथम्भौर विजय — राजस्थान का प्रथम ऐतिहासिक साका।",
+        "en": "Alauddin Khalji captures Ranthambore — Rajasthan's First Historic Saka."
       }
     }
   ],
   "exam_traps_and_tricks": [
     {
-      "hi": "परीक्षा जाल: 'हरकेलि' नाटक विग्रहराज चतुर्थ ने लिखा (संस्कृत), जबकि 'ललित विग्रहराज' उनके दरबारी सोमदेव ने लिखा।",
-      "en": "TRAP: 'Harkeli' drama was composed by King Vigraharaja IV; 'Lalit Vigraharaja' was written by his court poet Somadeva."
+      "hi": "परीक्षा जाल: 'रणथम्भौर शाखा' का संस्थापक 'गोविन्दराज' (1194 ई.) था, जबकि 'जालौर शाखा' का संस्थापक 'कीर्तिपाल चौहान' (1181 ई.) था।",
+      "en": "TRAP: Ranthambore Chauhan founder = Govindaraja; Jalore Chauhan founder = Kirtipala."
     },
     {
-      "hi": "परीक्षा जाल: 'पृथ्वीराज रासो' चंदबरदाई ने लिखा (डिंगल/पिंगल), जबकि 'पृथ्वीराज विजय' जयानक ने लिखा (संस्कृत)।",
-      "en": "TRAP: 'Prithviraj Raso' is by Chand Bardai; 'Prithviraj Vijay' is by Jayanak."
+      "hi": "परीक्षा जाल: राजस्थान का 'प्रथम साका' 1301 ई. में रणथम्भौर में हुआ (जल जौहर: रानी रंगा देवी), जबकि चित्तौड़गढ़ का प्रथम साका 1303 ई. में हुआ (अग्नि जौहर: रानी पद्मिनी)।",
+      "en": "TRAP: Rajasthan's 1st Saka = Ranthambore 1301 (Jal Jauhar); Chittorgarh 1st Saka = 1303 (Agni Jauhar)."
     },
     {
-      "hi": "परीक्षा जाल: राजस्थान का 'प्रथम साका' 1301 ई. में रणथम्भौर में हुआ (जल जौहर), जबकि चित्तौड़गढ़ का 'प्रथम साका' 1303 ई. में हुआ (अग्नि जौहर)।",
-      "en": "TRAP: Rajasthan's First Saka occurred in 1301 at Ranthambore (Jal Jauhar); Chittorgarh's first occurred in 1303 (Agni Jauhar)."
+      "hi": "परीक्षा जाल: 'कवि बान्धव' विग्रहराज चतुर्थ को कहते हैं, जबकि 'दलपंगुल' (विश्व विजेता) पृथ्वीराज तृतीय को कहते हैं।",
+      "en": "TRAP: 'Kavi Bandhava' = Vigraharaja IV; 'Dalpanggul' = Prithviraj III."
     }
   ],
   "mcqs": [
